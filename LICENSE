@@ -1,0 +1,15 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)
+
+Copyright (c) Ashwin Desikan / Citizen of Nowhere (https://rankings.citizenofnowhere.org).
+
+The datasets in this repository (everything under data/, and the descriptions in README.md and
+datapackage.json) are licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License. You may share and adapt them for non-commercial purposes, provided you give
+appropriate credit to Ashwin Desikan / Citizen of Nowhere, link to the licence and indicate if changes were made.
+
+Summary: https://creativecommons.org/licenses/by-nc/4.0/
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Upstream credits named in README.md (for example the per-row attribution column of the Women's
+Universal Index) must be carried with the data they describe. Third-party compiled lists are not
+included in this repository.

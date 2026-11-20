@@ -1,0 +1,1848 @@
+season,team,name,city,league,start_elo,end_elo,peak_elo,low_elo,regular_season_record,postseason_record,champion,season_status
+1947,Washington Capitols,Capitols,Washington,BAA,1300,1448.9,1470.4,1300,49-11,2-4,false,final
+1947,Philadelphia Warriors,Warriors,Philadelphia,BAA,1300,1401,1401,1289.4,35-25,8-2,true,final
+1947,Chicago Stags,Stags,Chicago,BAA,1300,1377.9,1398.7,1300,39-22,5-6,false,final
+1947,St. Louis Bombers,Bombers,St. Louis,BAA,1300,1347.4,1358.4,1300,38-23,1-2,false,final
+1947,New York Knicks,Knicks,New York,BAA,1300,1307.2,1342.1,1281.6,33-27,2-3,false,final
+1947,Cleveland Rebels,Rebels,Cleveland,BAA,1300,1288.6,1312.9,1280.7,30-30,1-2,false,final
+1947,Providence Steamrollers,Steamrollers,Providence,BAA,1300,1279.7,1311,1271.5,28-32,,false,final
+1947,Boston Celtics,Celtics,Boston,BAA,1300,1230.3,1300,1223.9,22-38,,false,final
+1947,Detroit Falcons,Falcons,Detroit,BAA,1300,1230.2,1315.4,1230.2,20-40,,false,final
+1947,Toronto Huskies,Huskies,Toronto,BAA,1300,1226.6,1300,1222.4,22-38,,false,final
+1947,Pittsburgh Ironmen,Ironmen,Pittsburgh,BAA,1300,1162.1,1300,1162.1,15-45,,false,final
+1948,Baltimore Bullets,Bullets,Baltimore,BAA,1419,1478.5,1478.5,1419,28-20,9-3,true,final
+1948,Washington Capitols,Capitols,Washington,BAA,1466.2,1456.1,1477.8,1436.9,28-20,0-1,false,final
+1948,Philadelphia Warriors,Warriors,Philadelphia,BAA,1433.2,1446.8,1457.1,1388.3,27-21,6-7,false,final
+1948,Chicago Stags,Stags,Chicago,BAA,1417.2,1431.3,1462.5,1416,28-20,3-4,false,final
+1948,St. Louis Bombers,Bombers,St. Louis,BAA,1396.2,1415.9,1445.4,1388.8,29-19,3-4,false,final
+1948,New York Knicks,Knicks,New York,BAA,1368.4,1415.1,1436.7,1368.4,26-22,1-2,false,final
+1948,Boston Celtics,Celtics,Boston,BAA,1315.3,1308.7,1326.1,1283.5,20-28,1-2,false,final
+1948,Providence Steamrollers,Steamrollers,Providence,BAA,1349.4,1212.6,1349.4,1212.6,6-42,,false,final
+1949,Minneapolis Lakers,Lakers,Minneapolis,BAA,1527,1601.6,1605,1524.9,44-16,8-2,true,final
+1949,Rochester Kings,Kings,Rochester,BAA,1535,1588.9,1621.8,1535,45-15,2-2,false,final
+1949,Chicago Stags,Stags,Chicago,BAA,1454.1,1524.4,1536.1,1454.1,38-22,0-2,false,final
+1949,Washington Capitols,Capitols,Washington,BAA,1471.2,1496.3,1530.3,1471.2,38-22,6-5,false,final
+1949,New York Knicks,Knicks,New York,BAA,1442.9,1465.6,1487,1436.8,32-28,3-3,false,final
+1949,Baltimore Bullets,Bullets,Baltimore,BAA,1486.7,1463.3,1490.3,1441.8,29-31,1-2,false,final
+1949,Philadelphia Warriors,Warriors,Philadelphia,BAA,1464.8,1439.1,1468.5,1427,28-32,0-2,false,final
+1949,St. Louis Bombers,Bombers,St. Louis,BAA,1443.4,1407.7,1449.7,1385.3,29-31,0-2,false,final
+1949,Fort Wayne Pistons,Pistons,Fort Wayne,BAA,1495,1407,1495,1407,22-38,,false,final
+1949,Boston Celtics,Celtics,Boston,BAA,1369.4,1377.2,1387.7,1320,25-35,,false,final
+1949,Indianapolis Jets,Jets,Indianapolis,BAA,1366,1331.3,1366,1328.9,18-42,,false,final
+1949,Providence Steamrollers,Steamrollers,Providence,BAA,1303,1256,1303,1240.5,12-48,,false,final
+1950,Minneapolis Lakers,Lakers,Minneapolis,NBA,1571.7,1676.7,1679.8,1552.7,51-17,11-2,true,final
+1950,Rochester Kings,Kings,Rochester,NBA,1563,1621.6,1637.1,1558.9,51-17,0-3,false,final
+1950,Syracuse 76ers,76ers,Syracuse,NBA,1458,1574.5,1581.2,1458,51-13,6-5,false,final
+1950,Anderson Packers,Packers,Anderson,NBA,1562,1518.6,1566.1,1488.9,37-27,4-4,false,final
+1950,New York Knicks,Knicks,New York,NBA,1477.8,1516.3,1539,1468,40-28,3-2,false,final
+1950,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1437.3,1506.4,1513,1437.3,40-28,3-2,false,final
+1950,Chicago Stags,Stags,Chicago,NBA,1518.4,1500.3,1548.2,1500.3,40-28,0-3,false,final
+1950,Indianapolis Olympians,Olympians,Indianapolis,NBA,1300,1463.1,1469.9,1300,39-25,3-3,false,final
+1950,Washington Capitols,Capitols,Washington,NBA,1499,1441.4,1513.7,1441.4,32-36,0-2,false,final
+1950,Philadelphia Warriors,Warriors,Philadelphia,NBA,1459.5,1424.2,1459.5,1399.9,26-42,0-2,false,final
+1950,Tri-Cities Hawks,Hawks,Tri-Cities,NBA,1430,1420.3,1437.1,1379.1,29-35,1-2,false,final
+1950,St. Louis Bombers,Bombers,St. Louis,NBA,1437.8,1407.8,1448.6,1388.8,26-42,,false,final
+1950,Baltimore Bullets,Bullets,Baltimore,NBA,1476.2,1380.4,1476.2,1380.4,25-43,,false,final
+1950,Boston Celtics,Celtics,Boston,NBA,1416.7,1380.1,1436.2,1380.1,22-46,,false,final
+1950,Waterloo Hawks (Wat),Hawks (Wat),Waterloo,NBA,1382,1332.9,1382.9,1301.9,19-43,,false,final
+1950,Sheboygan Redskins,Redskins,Sheboygan,NBA,1405,1322.9,1420.4,1319.5,22-40,1-2,false,final
+1950,Denver Nuggets (Def),Nuggets (Def),Denver,NBA,1295,1206.1,1295,1206.1,11-51,,false,final
+1951,Minneapolis Lakers,Lakers,Minneapolis,NBA,1623.6,1595,1643.5,1595,44-24,3-4,false,final
+1951,Rochester Kings,Kings,Rochester,NBA,1585.5,1594.6,1606.4,1555.1,41-27,9-5,true,final
+1951,Philadelphia Warriors,Warriors,Philadelphia,NBA,1446.3,1549.2,1557.9,1446.3,40-26,0-2,false,final
+1951,New York Knicks,Knicks,New York,NBA,1512.8,1529.9,1542,1490.3,36-30,8-6,false,final
+1951,Syracuse 76ers,76ers,Syracuse,NBA,1553,1515.8,1566.2,1507,32-34,4-3,false,final
+1951,Indianapolis Olympians,Olympians,Indianapolis,NBA,1476,1484.4,1493.9,1455.9,31-37,1-2,false,final
+1951,Boston Celtics,Celtics,Boston,NBA,1418.7,1478.6,1502.9,1405.6,39-30,0-2,false,final
+1951,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1505.9,1468.1,1506.3,1460.8,32-36,1-2,false,final
+1951,Baltimore Bullets,Bullets,Baltimore,NBA,1418.9,1421,1441.2,1389.5,24-42,,false,final
+1951,Tri-Cities Hawks,Hawks,Tri-Cities,NBA,1446.5,1410.5,1468.3,1410.5,25-43,,false,final
+1951,Washington Capitols,Capitols,Washington,NBA,1461.1,1401.4,1468.4,1401.4,10-25,,false,final
+1952,Minneapolis Lakers,Lakers,Minneapolis,NBA,1567.2,1619.5,1623.8,1567.2,40-26,9-4,true,final
+1952,Rochester Kings,Kings,Rochester,NBA,1566.9,1573,1591.8,1555.5,41-25,3-3,false,final
+1952,New York Knicks,Knicks,New York,NBA,1522.2,1569.1,1573.7,1504.8,37-29,8-6,false,final
+1952,Syracuse 76ers,76ers,Syracuse,NBA,1512.4,1567.9,1594.9,1512.4,40-26,3-4,false,final
+1952,Boston Celtics,Celtics,Boston,NBA,1486.8,1555,1558,1486.8,39-27,1-2,false,final
+1952,Philadelphia Warriors,Warriors,Philadelphia,NBA,1535.5,1514.2,1536.8,1491.9,33-33,1-2,false,final
+1952,Indianapolis Olympians,Olympians,Indianapolis,NBA,1490.8,1485.6,1514.9,1465.5,34-32,0-2,false,final
+1952,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1479.5,1457.2,1479.5,1432.7,29-37,0-2,false,final
+1952,Milwaukee Hawks,Hawks,Milwaukee,NBA,1439.7,1356.7,1439.7,1356.7,17-49,,false,final
+1952,Baltimore Bullets,Bullets,Baltimore,NBA,1447,1349.8,1451.5,1349.8,20-46,,false,final
+1953,Minneapolis Lakers,Lakers,Minneapolis,NBA,1584.1,1630.8,1650.3,1584.1,48-22,9-3,true,final
+1953,New York Knicks,Knicks,New York,NBA,1549.3,1603,1632.5,1549.3,47-23,6-5,false,final
+1953,Syracuse 76ers,76ers,Syracuse,NBA,1548.4,1602.4,1613.8,1548.2,47-24,0-2,false,final
+1953,Boston Celtics,Celtics,Boston,NBA,1539.5,1575.9,1580,1528.1,46-25,3-3,false,final
+1953,Rochester Kings,Kings,Rochester,NBA,1552,1564.8,1603.7,1552,44-26,1-2,false,final
+1953,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1472,1511,1512.8,1455.2,36-33,4-4,false,final
+1953,Indianapolis Olympians,Olympians,Indianapolis,NBA,1491.6,1442.3,1491.6,1424.2,28-43,0-2,false,final
+1953,Milwaukee Hawks,Hawks,Milwaukee,NBA,1402.6,1434.8,1440.1,1381.3,27-44,,false,final
+1953,Philadelphia Warriors,Warriors,Philadelphia,NBA,1511.4,1364.1,1511.4,1364.1,12-57,,false,final
+1953,Baltimore Bullets,Bullets,Baltimore,NBA,1397.8,1319.4,1397.8,1318.2,16-54,0-2,false,final
+1954,Syracuse 76ers,76ers,Syracuse,NBA,1572.3,1619.4,1629.9,1559.8,42-30,9-4,false,final
+1954,Minneapolis Lakers,Lakers,Minneapolis,NBA,1591.9,1604.6,1632,1576.5,46-26,9-4,true,final
+1954,Rochester Kings,Kings,Rochester,NBA,1546.3,1594.6,1600.4,1546.3,44-28,3-3,false,final
+1954,Boston Celtics,Celtics,Boston,NBA,1554,1577.5,1590.8,1526.6,42-30,2-4,false,final
+1954,New York Knicks,Knicks,New York,NBA,1572.7,1512.7,1608.4,1512.7,44-28,0-4,false,final
+1954,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1509.1,1510.9,1561.1,1501.5,40-32,0-4,false,final
+1954,Philadelphia Warriors,Warriors,Philadelphia,NBA,1407.7,1464,1476.4,1407.7,29-43,,false,final
+1954,Milwaukee Hawks,Hawks,Milwaukee,NBA,1456.5,1398.7,1460.3,1376.2,21-51,,false,final
+1954,Baltimore Bullets,Bullets,Baltimore,NBA,1376.8,1304.8,1376.8,1304.8,16-56,,false,final
+1955,Syracuse 76ers,76ers,Syracuse,NBA,1584,1595.9,1601.8,1541.1,43-29,7-4,true,final
+1955,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1509.1,1558.3,1565.4,1509.1,43-29,6-5,false,final
+1955,Minneapolis Lakers,Lakers,Minneapolis,NBA,1573.8,1552.6,1586.1,1552.6,40-32,3-4,false,final
+1955,New York Knicks,Knicks,New York,NBA,1510.3,1529,1542.6,1493.9,38-34,1-2,false,final
+1955,Philadelphia Warriors,Warriors,Philadelphia,NBA,1476.7,1516.5,1527.9,1476.7,33-39,,false,final
+1955,Rochester Kings,Kings,Rochester,NBA,1566.9,1508.5,1569.1,1501.3,29-43,1-2,false,final
+1955,Boston Celtics,Celtics,Boston,NBA,1555.1,1498.4,1571.8,1485.6,36-36,3-4,false,final
+1955,Milwaukee Hawks,Hawks,Milwaukee,NBA,1431.6,1448.2,1448.2,1394.9,26-46,,false,final
+1956,Philadelphia Warriors,Warriors,Philadelphia,NBA,1513,1616.3,1622.3,1508.1,45-27,7-3,true,final
+1956,Syracuse 76ers,76ers,Syracuse,NBA,1567.8,1521.6,1582,1521.6,35-37,5-4,false,final
+1956,Minneapolis Lakers,Lakers,Minneapolis,NBA,1537.9,1521,1537.9,1462.2,33-39,2-2,false,final
+1956,New York Knicks,Knicks,New York,NBA,1521.6,1519,1533.2,1495.9,35-37,0-1,false,final
+1956,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1541.8,1510.7,1557,1510.7,37-35,4-6,false,final
+1956,Boston Celtics,Celtics,Boston,NBA,1500.5,1507.4,1548,1498,39-33,1-2,false,final
+1956,St. Louis Hawks,Hawks,St. Louis,NBA,1465.7,1493,1509.6,1445.7,33-39,4-5,false,final
+1956,Rochester Kings,Kings,Rochester,NBA,1507.4,1466.7,1514.1,1456.8,31-41,,false,final
+1957,Boston Celtics,Celtics,Boston,NBA,1506.6,1608.6,1608.6,1505,44-28,7-3,true,final
+1957,Philadelphia Warriors,Warriors,Philadelphia,NBA,1581.9,1549,1582,1549,37-35,0-2,false,final
+1957,St. Louis Hawks,Hawks,St. Louis,NBA,1496.7,1530.9,1534.4,1476.8,34-38,8-4,false,final
+1957,Syracuse 76ers,76ers,Syracuse,NBA,1516.5,1524.2,1547.2,1473.7,38-34,2-3,false,final
+1957,New York Knicks,Knicks,New York,NBA,1514.7,1513.6,1540.7,1500.6,36-36,,false,final
+1957,Minneapolis Lakers,Lakers,Minneapolis,NBA,1516,1484.3,1521,1472.3,34-38,2-4,false,final
+1957,Rochester Kings,Kings,Rochester,NBA,1478.5,1463.7,1500,1455.4,31-41,,false,final
+1957,Fort Wayne Pistons,Pistons,Fort Wayne,NBA,1509,1445.8,1510.7,1440.7,34-38,0-3,false,final
+1958,Boston Celtics,Celtics,Boston,NBA,1576.6,1595.2,1643.7,1576.6,49-23,6-5,false,final
+1958,Syracuse 76ers,76ers,Syracuse,NBA,1518.2,1558.9,1580.4,1503.1,41-31,1-2,false,final
+1958,St. Louis Hawks,Hawks,St. Louis,NBA,1522.9,1553.8,1578.3,1511.6,41-31,8-3,true,final
+1958,New York Knicks,Knicks,New York,NBA,1510.9,1538.5,1546,1499.7,35-37,,false,final
+1958,Philadelphia Warriors,Warriors,Philadelphia,NBA,1535.4,1535.7,1556.2,1491.3,37-35,3-5,false,final
+1958,Detroit Pistons,Pistons,Detroit,NBA,1464.1,1470,1503.2,1427.7,33-39,3-4,false,final
+1958,Cincinnati Kings,Kings,Cincinnati,NBA,1476.4,1465.3,1486.8,1435.9,33-39,0-2,false,final
+1958,Minneapolis Lakers,Lakers,Minneapolis,NBA,1490.7,1377.8,1490.7,1377.8,19-53,,false,final
+1959,Boston Celtics,Celtics,Boston,NBA,1567.3,1639.8,1649.5,1561.2,52-20,8-3,true,final
+1959,Syracuse 76ers,76ers,Syracuse,NBA,1542.2,1593.2,1597.8,1526,35-37,5-4,false,final
+1959,St. Louis Hawks,Hawks,St. Louis,NBA,1538.7,1574.4,1626.7,1535.8,49-23,2-4,false,final
+1959,New York Knicks,Knicks,New York,NBA,1528.2,1522.9,1569.9,1512.7,40-32,0-2,false,final
+1959,Philadelphia Warriors,Warriors,Philadelphia,NBA,1526.2,1488.7,1526.2,1472.4,32-40,,false,final
+1959,Minneapolis Lakers,Lakers,Minneapolis,NBA,1417.1,1475.7,1490,1417.1,33-39,6-7,false,final
+1959,Detroit Pistons,Pistons,Detroit,NBA,1480.8,1447.9,1505.8,1436.3,28-44,1-2,false,final
+1959,Cincinnati Kings,Kings,Cincinnati,NBA,1477.6,1335.4,1477.6,1334.1,19-53,,false,final
+1960,Boston Celtics,Celtics,Boston,NBA,1598.1,1657.6,1684.3,1598.1,59-16,8-5,true,final
+1960,Philadelphia Warriors,Warriors,Philadelphia,NBA,1493.7,1603.7,1603.7,1493.7,49-26,4-5,false,final
+1960,Syracuse 76ers,76ers,Syracuse,NBA,1566,1592.7,1601.9,1550.5,45-30,1-2,false,final
+1960,St. Louis Hawks,Hawks,St. Louis,NBA,1552.9,1571,1583,1544.6,46-29,7-7,false,final
+1960,New York Knicks,Knicks,New York,NBA,1517.4,1452.6,1517.4,1452.6,27-48,,false,final
+1960,Minneapolis Lakers,Lakers,Minneapolis,NBA,1484.8,1444.6,1487.1,1390,25-50,5-4,false,final
+1960,Detroit Pistons,Pistons,Detroit,NBA,1465.6,1421.2,1477,1409.2,30-45,0-2,false,final
+1960,Cincinnati Kings,Kings,Cincinnati,NBA,1387.9,1322.8,1393.6,1318.6,19-56,,false,final
+1961,Boston Celtics,Celtics,Boston,NBA,1610.4,1656.4,1656.4,1584.7,57-22,8-2,true,final
+1961,Syracuse 76ers,76ers,Syracuse,NBA,1565.6,1567.4,1591.8,1519,38-41,4-4,false,final
+1961,St. Louis Hawks,Hawks,St. Louis,NBA,1550.6,1554.7,1586.6,1546.1,51-28,5-7,false,final
+1961,Philadelphia Warriors,Warriors,Philadelphia,NBA,1573.2,1526.3,1619.6,1526.3,46-33,0-3,false,final
+1961,Los Angeles Lakers,Lakers,Los Angeles,NBA,1463.3,1508.6,1515.2,1441.7,36-43,6-6,false,final
+1961,Detroit Pistons,Pistons,Detroit,NBA,1447.1,1446,1470.6,1417.4,34-45,2-3,false,final
+1961,Cincinnati Kings,Kings,Cincinnati,NBA,1379.2,1420.7,1420.7,1358.6,33-46,,false,final
+1961,New York Knicks,Knicks,New York,NBA,1468.8,1378.1,1468.8,1378.1,21-58,,false,final
+1962,Boston Celtics,Celtics,Boston,NBA,1609.6,1644.1,1676.5,1607.1,60-20,8-6,true,final
+1962,Philadelphia Warriors,Warriors,Philadelphia,NBA,1519.7,1562.9,1591.2,1519.7,49-31,6-6,false,final
+1962,Syracuse 76ers,76ers,Syracuse,NBA,1548.1,1552.3,1577.7,1509.5,41-39,2-3,false,final
+1962,Los Angeles Lakers,Lakers,Los Angeles,NBA,1507.5,1552,1561,1507.2,54-26,7-6,false,final
+1962,Cincinnati Kings,Kings,Cincinnati,NBA,1446.7,1492.5,1509.1,1446.7,43-37,1-3,false,final
+1962,Detroit Pistons,Pistons,Detroit,NBA,1464.2,1439.1,1476.1,1428.6,37-43,5-5,false,final
+1962,St. Louis Hawks,Hawks,St. Louis,NBA,1539.4,1433,1539.4,1423.7,29-51,,false,final
+1962,New York Knicks,Knicks,New York,NBA,1417.3,1412.4,1417.3,1355.3,29-51,,false,final
+1962,Chicago Wizards,Wizards,Chicago,NBA,1300,1264.2,1304.6,1250.9,18-62,,false,final
+1963,Boston Celtics,Celtics,Boston,NBA,1601.1,1633.2,1653.2,1601.1,58-22,8-5,true,final
+1963,Los Angeles Lakers,Lakers,Los Angeles,NBA,1537.5,1557.3,1626.8,1528.7,53-27,6-7,false,final
+1963,Syracuse 76ers,76ers,Syracuse,NBA,1537.7,1555.8,1581.8,1537.7,48-32,2-3,false,final
+1963,Cincinnati Kings,Kings,Cincinnati,NBA,1496.4,1540,1541.9,1488.6,42-38,6-6,false,final
+1963,St. Louis Hawks,Hawks,St. Louis,NBA,1455.3,1530.3,1531.2,1454.7,48-32,6-5,false,final
+1963,San Francisco Warriors,Warriors,San Francisco,NBA,1545,1462.3,1553.4,1445.4,31-49,,false,final
+1963,Detroit Pistons,Pistons,Detroit,NBA,1459.5,1429.7,1459.5,1395.8,34-46,1-3,false,final
+1963,Chicago Wizards,Wizards,Chicago,NBA,1338.7,1359,1375.1,1321.6,25-55,,false,final
+1963,New York Knicks,Knicks,New York,NBA,1441,1344.6,1444.5,1344.6,21-59,,false,final
+1964,Boston Celtics,Celtics,Boston,NBA,1593.5,1650.8,1665.1,1593.5,59-21,8-2,true,final
+1964,Cincinnati Kings,Kings,Cincinnati,NBA,1529.2,1593.1,1610.4,1529.2,55-25,4-6,false,final
+1964,San Francisco Warriors,Warriors,San Francisco,NBA,1475.5,1583.4,1588.4,1475.5,48-32,5-7,false,final
+1964,St. Louis Hawks,Hawks,St. Louis,NBA,1522.5,1542.2,1547.3,1514.6,46-34,6-6,false,final
+1964,Los Angeles Lakers,Lakers,Los Angeles,NBA,1541.1,1499.9,1572.1,1484.9,42-38,2-3,false,final
+1964,Philadelphia 76ers,76ers,Philadelphia,NBA,1540.1,1455.1,1540.1,1447.3,34-46,2-3,false,final
+1964,Baltimore Wizards,Wizards,Baltimore,NBA,1404.1,1413.7,1448.9,1386.5,31-49,,false,final
+1964,Detroit Pistons,Pistons,Detroit,NBA,1453,1357.8,1455.8,1334.5,23-57,,false,final
+1964,New York Knicks,Knicks,New York,NBA,1394.2,1357.2,1410.1,1354,22-58,,false,final
+1965,Boston Celtics,Celtics,Boston,NBA,1605.7,1658.3,1698.2,1605.7,62-18,8-4,true,final
+1965,Los Angeles Lakers,Lakers,Los Angeles,NBA,1501.5,1544.6,1574.2,1492.5,49-31,5-6,false,final
+1965,St. Louis Hawks,Hawks,St. Louis,NBA,1530.7,1538.5,1564.2,1509.4,45-35,1-3,false,final
+1965,Cincinnati Kings,Kings,Cincinnati,NBA,1565.9,1527.4,1603,1527.4,48-32,1-3,false,final
+1965,Philadelphia 76ers,76ers,Philadelphia,NBA,1470.5,1519.1,1536.8,1459.6,40-40,6-5,false,final
+1965,Baltimore Wizards,Wizards,Baltimore,NBA,1442,1476.2,1479.1,1420.3,37-43,5-5,false,final
+1965,New York Knicks,Knicks,New York,NBA,1402.9,1431.2,1431.2,1373.4,31-49,,false,final
+1965,Detroit Pistons,Pistons,Detroit,NBA,1403.3,1408.9,1422.5,1379.7,31-49,,false,final
+1965,San Francisco Warriors,Warriors,San Francisco,NBA,1559.1,1377.4,1559.1,1350.8,17-63,,false,final
+1966,Philadelphia 76ers,76ers,Philadelphia,NBA,1514.7,1610,1632.2,1514.7,55-25,1-4,false,final
+1966,Boston Celtics,Celtics,Boston,NBA,1610.9,1609.1,1635.5,1566.2,54-26,11-6,true,final
+1966,Los Angeles Lakers,Lakers,Los Angeles,NBA,1532.4,1558.1,1561.5,1526.1,45-35,7-7,false,final
+1966,Cincinnati Kings,Kings,Cincinnati,NBA,1520.5,1515.7,1552.8,1511.4,45-35,2-3,false,final
+1966,St. Louis Hawks,Hawks,St. Louis,NBA,1528.1,1511,1535.9,1481,36-44,6-4,false,final
+1966,San Francisco Warriors,Warriors,San Francisco,NBA,1416.9,1461.6,1471.3,1412.3,35-45,,false,final
+1966,Baltimore Wizards,Wizards,Baltimore,NBA,1485.1,1459.8,1485.1,1457.9,38-42,0-3,false,final
+1966,New York Knicks,Knicks,New York,NBA,1454,1431.9,1462.3,1409.9,30-50,,false,final
+1966,Detroit Pistons,Pistons,Detroit,NBA,1438.6,1344.1,1438.6,1344.1,22-58,,false,final
+1967,Philadelphia 76ers,76ers,Philadelphia,NBA,1577.5,1715,1724.1,1577.5,68-13,11-4,true,final
+1967,Boston Celtics,Celtics,Boston,NBA,1576.9,1614.7,1653.3,1576.9,60-21,4-5,false,final
+1967,San Francisco Warriors,Warriors,San Francisco,NBA,1475.1,1540.7,1564.1,1471.8,44-37,9-6,false,final
+1967,Cincinnati Kings,Kings,Cincinnati,NBA,1512.4,1497.8,1513.9,1445.5,39-42,1-3,false,final
+1967,St. Louis Hawks,Hawks,St. Louis,NBA,1509.2,1495.7,1514.9,1456.5,39-42,5-4,false,final
+1967,Los Angeles Lakers,Lakers,Los Angeles,NBA,1541.7,1464.6,1548.8,1464.6,36-45,0-3,false,final
+1967,New York Knicks,Knicks,New York,NBA,1454.5,1417.9,1480.3,1403.9,36-45,1-3,false,final
+1967,Chicago Bulls,Bulls,Chicago,NBA,1300,1367.5,1376.6,1300,33-48,0-3,false,final
+1967,Detroit Pistons,Pistons,Detroit,NBA,1393.8,1356.3,1412.4,1356.3,30-51,,false,final
+1967,Baltimore Wizards,Wizards,Baltimore,NBA,1473.8,1344.6,1473.8,1324.5,20-61,,false,final
+1968,Philadelphia 76ers,76ers,Philadelphia,NBA,1650.1,1630.3,1659.5,1619.7,62-20,7-6,false,final
+1968,Boston Celtics,Celtics,Boston,NBA,1580.8,1568.9,1610.3,1535,54-28,12-7,true,final
+1968,Los Angeles Lakers,Lakers,Los Angeles,NBA,1477.1,1567.7,1580.3,1477.1,52-30,10-5,false,final
+1968,St. Louis Hawks,Hawks,St. Louis,NBA,1498.6,1543.2,1574.3,1498.6,56-26,2-4,false,final
+1968,New York Knicks,Knicks,New York,NBA,1444.8,1512.5,1519,1413.8,43-39,2-4,false,final
+1968,Cincinnati Kings,Kings,Cincinnati,NBA,1500,1477.7,1500,1424.2,39-43,,false,final
+1968,Pittsburgh Condors,Condors,Pittsburgh,ABA,1300,1451,1451,1286.9,54-24,11-4,true,final
+1968,New Orleans Sounds,Sounds,New Orleans,ABA,1300,1441.4,1460.4,1300,48-30,10-7,false,final
+1968,Detroit Pistons,Pistons,Detroit,NBA,1402.3,1440.6,1444.7,1374.5,40-42,2-4,false,final
+1968,Baltimore Wizards,Wizards,Baltimore,NBA,1394.2,1439.4,1455.2,1365.7,36-46,,false,final
+1968,San Francisco Warriors,Warriors,San Francisco,NBA,1529.7,1407.3,1573.5,1407.3,43-39,4-6,false,final
+1968,Minnesota The Floridians,The Floridians,Minnesota,ABA,1300,1366,1411.7,1289.1,50-28,4-6,false,final
+1968,Denver Nuggets,Nuggets,Denver,ABA,1300,1362.8,1399.6,1273.8,45-33,2-3,false,final
+1968,Dallas Spurs,Spurs,Dallas,ABA,1300,1362,1387.8,1259.4,46-32,4-4,false,final
+1968,Chicago Bulls,Bulls,Chicago,NBA,1410,1350.2,1410,1349.4,29-53,1-4,false,final
+1968,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1300,1342.4,1342.5,1191.8,36-42,2-3,false,final
+1968,Seattle Thunder,Thunder,Seattle,NBA,1300,1328.3,1366.4,1268.1,23-59,,false,final
+1968,New Jersey Nets,Nets,New Jersey,ABA,1300,1288.8,1300,1240,36-42,,false,final
+1968,Indiana Pacers,Pacers,Indiana,ABA,1300,1249.3,1384.3,1249.3,38-40,0-3,false,final
+1968,San Diego Rockets,Rockets,San Diego,NBA,1300,1221.5,1334.3,1221.5,15-67,,false,final
+1968,Houston Spirits,Spirits,Houston,ABA,1300,1189.3,1316.1,1161.6,29-49,0-3,false,final
+1968,Anaheim Stars,Stars,Anaheim,ABA,1300,1160.7,1300,1160.7,25-53,,false,final
+1968,Oakland Squires,Squires,Oakland,ABA,1300,1086.2,1304.1,1086.2,22-56,,false,final
+1969,New York Knicks,Knicks,New York,NBA,1510.2,1613.2,1613.2,1466,54-28,6-4,false,final
+1969,Los Angeles Lakers,Lakers,Los Angeles,NBA,1548.3,1591.3,1595.2,1529.9,55-27,11-7,false,final
+1969,Oakland Squires,Squires,Oakland,ABA,1250.2,1590.8,1590.8,1250.2,60-18,12-4,true,final
+1969,Boston Celtics,Celtics,Boston,NBA,1549.1,1565.1,1596.4,1523.5,48-34,12-6,true,final
+1969,Philadelphia 76ers,76ers,Philadelphia,NBA,1591.5,1550.7,1605,1548.2,55-27,1-4,false,final
+1969,Baltimore Wizards,Wizards,Baltimore,NBA,1459.7,1524.3,1569.8,1459.7,57-25,0-4,false,final
+1969,Indiana Pacers,Pacers,Indiana,ABA,1349.5,1506.6,1546.2,1324.2,44-34,9-8,false,final
+1969,Atlanta Hawks,Hawks,Atlanta,NBA,1531.4,1499.8,1540.2,1489.8,48-34,5-6,false,final
+1969,New Orleans Sounds,Sounds,New Orleans,ABA,1466.3,1465.2,1556,1380.8,46-32,4-7,false,final
+1969,Dallas Spurs,Spurs,Dallas,ABA,1418,1454.6,1454.6,1312.9,41-37,3-4,false,final
+1969,Cincinnati Kings,Kings,Cincinnati,NBA,1486.1,1427.9,1527.3,1404.4,41-41,,false,final
+1969,San Francisco Warriors,Warriors,San Francisco,NBA,1437.5,1426.9,1465,1388.3,41-41,2-4,false,final
+1969,Miami The Floridians,The Floridians,Miami,ABA,1420.4,1398.5,1446.2,1338.8,43-35,5-7,false,final
+1969,San Diego Rockets,Rockets,San Diego,NBA,1309.2,1397.3,1399.9,1309.2,37-45,2-4,false,final
+1969,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1406.1,1389.1,1429.4,1350.2,42-36,3-4,false,final
+1969,Detroit Pistons,Pistons,Detroit,NBA,1460.5,1386,1460.5,1359.5,32-50,,false,final
+1969,Chicago Bulls,Bulls,Chicago,NBA,1398,1379.8,1406.2,1368.1,33-49,,false,final
+1969,Seattle Thunder,Thunder,Seattle,NBA,1383,1373.4,1384.4,1313.7,30-52,,false,final
+1969,Denver Nuggets,Nuggets,Denver,ABA,1418.5,1352,1447.5,1352,44-34,3-4,false,final
+1969,Minnesota Condors,Condors,Minnesota,ABA,1472.2,1338.9,1522.9,1327.4,36-42,3-4,false,final
+1969,Milwaukee Bucks,Bucks,Milwaukee,NBA,1300,1317.5,1326,1281,27-55,,false,final
+1969,Los Angeles Stars,Stars,Los Angeles,ABA,1295.6,1295.1,1340.7,1241.8,33-45,,false,final
+1969,Houston Spirits,Spirits,Houston,ABA,1313,1245.4,1326.8,1215.9,23-55,,false,final
+1969,Phoenix Suns,Suns,Phoenix,NBA,1300,1211.3,1312.6,1211.3,16-66,,false,final
+1969,New York Nets,Nets,New York,ABA,1373.5,1147,1384.9,1147,17-61,,false,final
+1970,New York Knicks,Knicks,New York,NBA,1579.8,1599,1660.5,1574.3,60-22,12-7,true,final
+1970,Milwaukee Bucks,Bucks,Milwaukee,NBA,1375.5,1570,1590.4,1375.5,56-26,5-5,false,final
+1970,Indiana Pacers,Pacers,Indiana,ABA,1506,1568.1,1589.1,1482.5,59-25,12-3,true,final
+1970,Baltimore Wizards,Wizards,Baltimore,NBA,1518.3,1542.6,1546.6,1494,50-32,3-4,false,final
+1970,Los Angeles Lakers,Lakers,Los Angeles,NBA,1564.6,1524.6,1580.1,1492.7,46-36,11-7,false,final
+1970,Denver Nuggets,Nuggets,Denver,ABA,1411.9,1507.5,1547.5,1357.1,51-33,5-7,false,final
+1970,Atlanta Hawks,Hawks,Atlanta,NBA,1501.4,1496.9,1519.6,1440.3,48-34,4-5,false,final
+1970,Philadelphia 76ers,76ers,Philadelphia,NBA,1536.6,1486.3,1549.1,1486.3,42-40,1-4,false,final
+1970,Los Angeles Stars,Stars,Los Angeles,ABA,1377.3,1476.6,1507.2,1357.8,43-41,10-7,false,final
+1970,Dallas Spurs,Spurs,Dallas,ABA,1474.3,1468.1,1510,1445.2,45-39,2-4,false,final
+1970,Washington Squires,Squires,Washington,ABA,1557.2,1459.2,1560,1412,44-40,3-4,false,final
+1970,New Orleans Sounds,Sounds,New Orleans,ABA,1480.8,1457.1,1521.1,1404.5,42-42,,false,final
+1970,Seattle Thunder,Thunder,Seattle,NBA,1414.1,1446.4,1446.4,1370,36-46,,false,final
+1970,Boston Celtics,Celtics,Boston,NBA,1546.5,1443.7,1546.5,1438.7,34-48,,false,final
+1970,Phoenix Suns,Suns,Phoenix,NBA,1302.1,1439.4,1452.4,1299.8,39-43,3-4,false,final
+1970,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1434.5,1430.6,1485.4,1403.9,45-39,5-7,false,final
+1970,Cincinnati Kings,Kings,Cincinnati,NBA,1451.8,1423.3,1474.7,1403.4,36-46,,false,final
+1970,Chicago Bulls,Bulls,Chicago,NBA,1418.5,1417,1457.5,1377.7,39-43,1-4,false,final
+1970,Carolina Spirits,Spirits,Carolina,ABA,1347.1,1397.9,1439.4,1347.1,42-42,0-4,false,final
+1970,New York Nets,Nets,New York,ABA,1287.2,1395.5,1434.2,1266.7,39-45,3-4,false,final
+1970,Detroit Pistons,Pistons,Detroit,NBA,1422.8,1389.4,1430.4,1364.2,31-51,,false,final
+1970,San Diego Rockets,Rockets,San Diego,NBA,1430.6,1371.3,1438.6,1369.4,27-55,,false,final
+1970,San Francisco Warriors,Warriors,San Francisco,NBA,1451,1363.6,1465.1,1363.6,30-52,,false,final
+1970,Pittsburgh Condors,Condors,Pittsburgh,ABA,1404,1317.1,1445,1266.9,29-55,,false,final
+1970,Miami The Floridians,The Floridians,Miami,ABA,1440.2,1242.9,1442.3,1242.9,23-61,,false,final
+1971,Milwaukee Bucks,Bucks,Milwaukee,NBA,1549.9,1712.9,1712.9,1549.9,66-16,12-2,true,final
+1971,Utah Stars,Stars,Utah,ABA,1487.7,1629.3,1637.6,1487.7,57-27,12-6,true,final
+1971,Indiana Pacers,Pacers,Indiana,ABA,1543.4,1626.4,1645,1543.4,58-26,7-4,false,final
+1971,Chicago Bulls,Bulls,Chicago,NBA,1444.2,1546.2,1550.2,1444.2,51-31,3-4,false,final
+1971,New York Knicks,Knicks,New York,NBA,1569.9,1529.4,1610.8,1529.4,52-30,7-5,false,final
+1971,Virginia Squires,Squires,Virginia,ABA,1477.1,1513.4,1597.6,1477.1,55-29,6-6,false,final
+1971,Phoenix Suns,Suns,Phoenix,NBA,1459.7,1505.9,1524.2,1445.8,48-34,,false,final
+1971,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1459.7,1491.5,1521.9,1434.5,44-40,11-8,false,final
+1971,Baltimore Wizards,Wizards,Baltimore,NBA,1531,1490.4,1539,1462,42-40,8-10,false,final
+1971,Boston Celtics,Celtics,Boston,NBA,1462.7,1488.8,1515.9,1456.5,44-38,,false,final
+1971,Los Angeles Lakers,Lakers,Los Angeles,NBA,1518.6,1484.9,1554.2,1484.9,48-34,5-7,false,final
+1971,Philadelphia 76ers,76ers,Philadelphia,NBA,1492.1,1484.8,1519.8,1468.1,47-35,3-4,false,final
+1971,San Diego Rockets,Rockets,San Diego,NBA,1412.7,1473.4,1473.4,1393.3,40-42,,false,final
+1971,Atlanta Hawks,Hawks,Atlanta,NBA,1499.4,1451.8,1499.4,1386.9,36-46,1-4,false,final
+1971,New York Nets,Nets,New York,ABA,1438.4,1447.9,1503.2,1398.6,40-44,2-4,false,final
+1971,Seattle Thunder,Thunder,Seattle,NBA,1464.5,1430.9,1464.6,1402.5,38-44,,false,final
+1971,Pittsburgh Condors,Condors,Pittsburgh,ABA,1390.7,1429.3,1429.3,1346.1,36-48,,false,final
+1971,Memphis Sounds,Sounds,Memphis,ABA,1475.9,1424.9,1513.7,1424.9,41-43,0-4,false,final
+1971,San Francisco Warriors,Warriors,San Francisco,NBA,1407.3,1419.6,1464.5,1401.8,41-41,1-4,false,final
+1971,Detroit Pistons,Pistons,Detroit,NBA,1425.2,1415.3,1491.7,1415.3,45-37,,false,final
+1971,(Florida) The Floridians,The Floridians,(Florida),ABA,1345.6,1413,1435.2,1344.6,37-47,2-4,false,final
+1971,Cincinnati Kings,Kings,Cincinnati,NBA,1448.6,1385.4,1448.6,1370.8,33-49,,false,final
+1971,Texas Spurs,Spurs,Texas,ABA,1482.6,1374.4,1482.6,1356.1,30-54,1-4,false,final
+1971,Denver Nuggets,Nuggets,Denver,ABA,1506.5,1351.2,1506.5,1324.4,30-54,0-1,false,final
+1971,Carolina Spirits,Spirits,Carolina,ABA,1439.8,1346.2,1439.8,1321.2,34-50,,false,final
+1971,Portland Trail Blazers,Trail Blazers,Portland,NBA,1300,1314.9,1328,1265,29-53,,false,final
+1971,Buffalo Clippers,Clippers,Buffalo,NBA,1300,1234.8,1300,1218.8,22-60,,false,final
+1971,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1300,1216.5,1300,1188.4,15-67,,false,final
+1972,Los Angeles Lakers,Lakers,Los Angeles,NBA,1491.1,1703.4,1703.4,1491.1,69-13,12-3,true,final
+1972,Milwaukee Bucks,Bucks,Milwaukee,NBA,1648.6,1694,1709.9,1648.6,63-19,6-5,false,final
+1972,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1496.8,1641.9,1711.2,1496.8,68-16,2-4,false,final
+1972,Utah Stars,Stars,Utah,ABA,1580.6,1625.3,1658,1557.6,60-24,7-4,false,final
+1972,Chicago Bulls,Bulls,Chicago,NBA,1533.4,1587.8,1607.7,1519.5,57-25,0-4,false,final
+1972,Indiana Pacers,Pacers,Indiana,ABA,1578.8,1577.2,1584.5,1525,47-37,12-8,true,final
+1972,Phoenix Suns,Suns,Phoenix,NBA,1505.6,1560.9,1577.8,1488.4,49-33,,false,final
+1972,New York Knicks,Knicks,New York,NBA,1521.9,1551.3,1567.4,1500.8,48-34,9-7,false,final
+1972,Virginia Squires,Squires,Virginia,ABA,1510.1,1536.4,1562.9,1480.5,45-39,7-4,false,final
+1972,Boston Celtics,Celtics,Boston,NBA,1493.8,1534,1572.8,1477.5,56-26,5-6,false,final
+1972,New York Nets,Nets,New York,ABA,1470.3,1530.2,1557.8,1435.3,44-40,10-9,false,final
+1972,Golden State Warriors,Warriors,Golden State,NBA,1446,1523.8,1536.5,1442.5,51-31,1-4,false,final
+1972,Dallas Spurs,Spurs,Dallas,ABA,1425.5,1506.6,1522.9,1408.1,42-42,0-4,false,final
+1972,Seattle Thunder,Thunder,Seattle,NBA,1453.8,1477.5,1526.7,1453.8,47-35,,false,final
+1972,Houston Rockets,Rockets,Houston,NBA,1483.2,1458,1483.2,1400.8,34-48,,false,final
+1972,Carolina Spirits,Spirits,Carolina,ABA,1408.4,1449.6,1449.6,1352.1,35-49,,false,final
+1972,Atlanta Hawks,Hawks,Atlanta,NBA,1468.3,1447.8,1468.3,1395.7,36-46,2-4,false,final
+1972,Baltimore Wizards,Wizards,Baltimore,NBA,1494.9,1432,1496,1415.6,38-44,2-4,false,final
+1972,Denver Nuggets,Nuggets,Denver,ABA,1411.4,1425.9,1427.7,1382.9,34-50,3-4,false,final
+1972,Cincinnati Kings,Kings,Cincinnati,NBA,1422.4,1397.7,1436.9,1341,30-52,,false,final
+1972,(Florida) The Floridians,The Floridians,(Florida),ABA,1449,1397.2,1477.4,1397.2,36-48,0-4,false,final
+1972,Philadelphia 76ers,76ers,Philadelphia,NBA,1491,1387.8,1519.6,1387.8,30-52,,false,final
+1972,Detroit Pistons,Pistons,Detroit,NBA,1443,1321.8,1450,1321.2,26-56,,false,final
+1972,Memphis Sounds,Sounds,Memphis,ABA,1456.3,1298.6,1458,1298.6,26-58,,false,final
+1972,Portland Trail Blazers,Trail Blazers,Portland,NBA,1373.7,1291,1373.7,1258.3,18-64,,false,final
+1972,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1305.7,1266.6,1315.5,1251.5,23-59,,false,final
+1972,Buffalo Clippers,Clippers,Buffalo,NBA,1318.4,1259.3,1329.8,1251.7,22-60,,false,final
+1972,Pittsburgh Condors,Condors,Pittsburgh,ABA,1459,1257.3,1459,1257.3,25-59,,false,final
+1973,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1588.3,1679.6,1686.8,1541.7,56-28,11-8,false,final
+1973,Milwaukee Bucks,Bucks,Milwaukee,NBA,1635.6,1658.1,1675.9,1630.1,60-22,2-4,false,final
+1973,Boston Celtics,Celtics,Boston,NBA,1525,1653.4,1678.5,1525,68-14,7-6,false,final
+1973,Los Angeles Lakers,Lakers,Los Angeles,NBA,1642,1633.6,1673.3,1626.5,60-22,9-8,false,final
+1973,New York Knicks,Knicks,New York,NBA,1537,1631.9,1631.9,1537,57-25,12-5,true,final
+1973,Indiana Pacers,Pacers,Indiana,ABA,1548.9,1624.1,1630.3,1501.7,51-33,12-6,true,final
+1973,Carolina Spirits,Spirits,Carolina,ABA,1471.3,1598.7,1627.6,1471.3,57-27,7-5,false,final
+1973,Utah Stars,Stars,Utah,ABA,1578.2,1573.5,1619.2,1529.9,55-29,6-4,false,final
+1973,Chicago Bulls,Bulls,Chicago,NBA,1562.2,1568.9,1583.8,1531.1,51-31,3-4,false,final
+1973,Golden State Warriors,Warriors,Golden State,NBA,1518,1533.3,1577.7,1514.6,47-35,5-6,false,final
+1973,Baltimore Wizards,Wizards,Baltimore,NBA,1454.6,1522.7,1550.6,1454.6,52-30,1-4,false,final
+1973,Denver Nuggets,Nuggets,Denver,ABA,1456.9,1507.3,1549.8,1452.7,47-37,1-4,false,final
+1973,Atlanta Hawks,Hawks,Atlanta,NBA,1465.5,1503.5,1512.9,1457.3,46-36,2-4,false,final
+1973,Virginia Squires,Squires,Virginia,ABA,1524.1,1492.5,1524.1,1478.6,42-42,1-4,false,final
+1973,Detroit Pistons,Pistons,Detroit,NBA,1378.4,1475.8,1475.8,1374.8,40-42,,false,final
+1973,Phoenix Suns,Suns,Phoenix,NBA,1543.6,1468.3,1545.9,1455.1,38-44,,false,final
+1973,Houston Rockets,Rockets,Houston,NBA,1472.6,1435.4,1479.1,1409.8,33-49,,false,final
+1973,KC/Omaha Kings,Kings,KC/Omaha,NBA,1430.9,1426.8,1451,1405.5,36-46,,false,final
+1973,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1340.4,1401.3,1412.1,1321,32-50,,false,final
+1973,Seattle Thunder,Thunder,Seattle,NBA,1486,1376,1489.3,1371.2,26-56,,false,final
+1973,Dallas Spurs,Spurs,Dallas,ABA,1506,1361.9,1506,1352.7,28-56,,false,final
+1973,New York Nets,Nets,New York,ABA,1520.3,1337.5,1520.3,1337.5,30-54,1-4,false,final
+1973,Memphis Sounds,Sounds,Memphis,ABA,1379.5,1336.8,1397.8,1321.7,24-60,,false,final
+1973,San Diego Sails,Sails,San Diego,ABA,1274.6,1336.1,1372.3,1274.6,30-54,0-4,false,final
+1973,Portland Trail Blazers,Trail Blazers,Portland,NBA,1357.2,1327.5,1357.2,1314.9,21-61,,false,final
+1973,Buffalo Clippers,Clippers,Buffalo,NBA,1335.3,1252.5,1335.3,1252.5,21-61,,false,final
+1973,Philadelphia 76ers,76ers,Philadelphia,NBA,1424.1,1239.1,1424.1,1239.1,9-73,,false,final
+1974,New York Nets,Nets,New York,ABA,1403.1,1699.9,1700.9,1403.1,55-29,12-2,true,final
+1974,Milwaukee Bucks,Bucks,Milwaukee,NBA,1610.8,1650.8,1680.7,1610.8,59-23,11-5,false,final
+1974,Boston Celtics,Celtics,Boston,NBA,1607.5,1626.6,1651.9,1566.4,56-26,12-6,true,final
+1974,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1611.2,1599.7,1648.9,1569.3,53-31,4-4,false,final
+1974,Detroit Pistons,Pistons,Detroit,NBA,1484.8,1574.6,1607.2,1484.8,52-30,3-4,false,final
+1974,Indiana Pacers,Pacers,Indiana,ABA,1577.5,1558,1584.6,1483.6,46-38,7-7,false,final
+1974,San Antonio Spurs,Spurs,San Antonio,ABA,1418,1555.5,1559.5,1387.9,45-39,3-4,false,final
+1974,Chicago Bulls,Bulls,Chicago,NBA,1549.1,1555.1,1592.9,1544.6,54-28,4-7,false,final
+1974,Capital Wizards,Wizards,Capital,NBA,1517.2,1536.7,1536.7,1485.5,47-35,3-4,false,final
+1974,Utah Stars,Stars,Utah,ABA,1546.6,1530.8,1571.8,1444.1,51-33,9-9,false,final
+1974,Los Angeles Lakers,Lakers,Los Angeles,NBA,1593.8,1528.9,1594.6,1513.4,47-35,1-4,false,final
+1974,New York Knicks,Knicks,New York,NBA,1592.7,1522.8,1598.8,1522.8,49-33,5-7,false,final
+1974,Golden State Warriors,Warriors,Golden State,NBA,1524.6,1522.1,1563.5,1490,44-38,,false,final
+1974,Carolina Spirits,Spirits,Carolina,ABA,1562,1493,1664.7,1493,47-37,0-4,false,final
+1974,Buffalo Clippers,Clippers,Buffalo,NBA,1330.6,1489.2,1496.5,1330.6,42-40,2-4,false,final
+1974,Houston Rockets,Rockets,Houston,NBA,1457,1452.6,1471.6,1417.4,32-50,,false,final
+1974,San Diego Sails,Sails,San Diego,ABA,1402.2,1442.3,1464.3,1385.7,37-47,3-4,false,final
+1974,Seattle Thunder,Thunder,Seattle,NBA,1415.9,1438.1,1457.9,1385.8,36-46,,false,final
+1974,KC/Omaha Kings,Kings,KC/Omaha,NBA,1451,1435.6,1460,1363.4,33-49,,false,final
+1974,Atlanta Hawks,Hawks,Atlanta,NBA,1504,1428.2,1526.6,1402.3,35-47,,false,final
+1974,Phoenix Suns,Suns,Phoenix,NBA,1479.6,1417.5,1479.6,1404.3,30-52,,false,final
+1974,Denver Nuggets,Nuggets,Denver,ABA,1506.4,1390.9,1548.8,1390.9,37-47,0-1,false,final
+1974,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1433.4,1389.7,1433.4,1360.4,29-53,,false,final
+1974,Portland Trail Blazers,Trail Blazers,Portland,NBA,1382.4,1357.5,1424.7,1347.5,27-55,,false,final
+1974,Virginia Squires,Squires,Virginia,ABA,1497.4,1347.3,1497.4,1347.3,28-56,1-4,false,final
+1974,Philadelphia 76ers,76ers,Philadelphia,NBA,1321.3,1329.6,1345.9,1312.2,25-57,,false,final
+1974,Memphis Sounds,Sounds,Memphis,ABA,1402.7,1309.7,1419.1,1290.6,21-63,,false,final
+1975,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1562.6,1703.5,1710.3,1562.6,58-26,13-3,true,final
+1975,Boston Celtics,Celtics,Boston,NBA,1589,1628.5,1656.4,1571.4,60-22,6-5,false,final
+1975,Washington Wizards,Wizards,Washington,NBA,1526.9,1620.9,1639.5,1526.9,60-22,8-9,false,final
+1975,New York Nets,Nets,New York,ABA,1623.6,1605.6,1703.6,1605.6,58-26,1-5,false,final
+1975,Indiana Pacers,Pacers,Indiana,ABA,1537.2,1592.1,1608,1501.3,45-39,9-9,false,final
+1975,Denver Nuggets,Nuggets,Denver,ABA,1435.6,1590.4,1658.1,1435.6,65-19,7-6,false,final
+1975,San Antonio Spurs,Spurs,San Antonio,ABA,1535.7,1573.2,1663.5,1535.7,51-33,2-4,false,final
+1975,Golden State Warriors,Warriors,Golden State,NBA,1516.8,1571.9,1571.9,1501.8,48-34,12-5,true,final
+1975,Chicago Bulls,Bulls,Chicago,NBA,1539.6,1548,1575.4,1517.1,47-35,7-6,false,final
+1975,Buffalo Clippers,Clippers,Buffalo,NBA,1494.1,1538.6,1557.9,1493.3,49-33,3-4,false,final
+1975,Milwaukee Bucks,Bucks,Milwaukee,NBA,1605.7,1510.9,1605.7,1504.6,38-44,,false,final
+1975,St. Louis Spirits,Spirits,St. Louis,ABA,1497.7,1491.7,1509.5,1380.3,32-52,5-5,false,final
+1975,Houston Rockets,Rockets,Houston,NBA,1468.8,1491.5,1513,1466.6,41-41,3-5,false,final
+1975,Utah Stars,Stars,Utah,ABA,1520.7,1484.9,1520.7,1420.2,38-46,2-4,false,final
+1975,KC/Omaha Kings,Kings,KC/Omaha,NBA,1457,1481.1,1520.1,1454.4,44-38,2-4,false,final
+1975,Portland Trail Blazers,Trail Blazers,Portland,NBA,1403.1,1477.8,1477.8,1396.8,38-44,,false,final
+1975,Seattle Thunder,Thunder,Seattle,NBA,1458.8,1476.7,1488.6,1426.7,43-39,4-5,false,final
+1975,New York Knicks,Knicks,New York,NBA,1517.3,1470.5,1534.6,1454,40-42,1-2,false,final
+1975,Detroit Pistons,Pistons,Detroit,NBA,1553.1,1461.1,1565.7,1457.9,40-42,1-2,false,final
+1975,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1425.4,1448.1,1474.9,1418.5,40-42,,false,final
+1975,Phoenix Suns,Suns,Phoenix,NBA,1444.6,1406.5,1459.5,1406.5,32-50,,false,final
+1975,Atlanta Hawks,Hawks,Atlanta,NBA,1451.9,1401,1458.6,1401,31-51,,false,final
+1975,Philadelphia 76ers,76ers,Philadelphia,NBA,1383.9,1401,1449.3,1383.9,34-48,,false,final
+1975,Los Angeles Lakers,Lakers,Los Angeles,NBA,1521.5,1399.6,1521.5,1399.6,30-52,,false,final
+1975,Memphis Sounds,Sounds,Memphis,ABA,1386.2,1374.1,1391.7,1304.3,27-57,1-4,false,final
+1975,San Diego Sails,Sails,San Diego,ABA,1466.9,1331.3,1473.1,1331.3,31-53,,false,final
+1975,New Orleans Jazz,Jazz,New Orleans,NBA,1300,1324,1330.5,1235.5,23-59,,false,final
+1975,Virginia Squires,Squires,Virginia,ABA,1409,1228.5,1411.9,1228.5,15-69,,false,final
+1976,San Antonio Spurs,Spurs,San Antonio,ABA,1546.5,1653.3,1665.4,1546.5,50-34,3-4,false,final
+1976,New York Nets,Nets,New York,ABA,1566.2,1617.5,1634.6,1547.1,55-29,8-5,true,final
+1976,Denver Nuggets,Nuggets,Denver,ABA,1557,1612.7,1684.4,1557,60-24,6-7,false,final
+1976,Golden State Warriors,Warriors,Golden State,NBA,1551.2,1594.4,1640.6,1550.5,59-23,7-6,false,final
+1976,Kentucky Colonels (ABA),Colonels (ABA),Kentucky,ABA,1625.7,1576.4,1647.7,1519.3,46-38,5-5,false,final
+1976,Boston Celtics,Celtics,Boston,NBA,1590.3,1557.7,1626.1,1546.5,54-28,12-6,true,final
+1976,Washington Wizards,Wizards,Washington,NBA,1585.1,1557,1588.8,1527.6,48-34,3-4,false,final
+1976,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1465.7,1554,1559.5,1448.5,49-33,6-7,false,final
+1976,Indiana Pacers,Pacers,Indiana,ABA,1558,1527.9,1613,1522.5,39-45,1-2,false,final
+1976,Phoenix Suns,Suns,Phoenix,NBA,1436.9,1518.8,1524.5,1433.7,42-40,10-9,false,final
+1976,Buffalo Clippers,Clippers,Buffalo,NBA,1528.2,1505.5,1548.8,1502.1,46-36,4-5,false,final
+1976,Seattle Thunder,Thunder,Seattle,NBA,1485.4,1499.6,1513.2,1441.9,43-39,2-4,false,final
+1976,Houston Rockets,Rockets,Houston,NBA,1495.7,1493.7,1502.6,1467.3,40-42,,false,final
+1976,Philadelphia 76ers,76ers,Philadelphia,NBA,1433.1,1493.1,1507.5,1433.1,46-36,1-2,false,final
+1976,New York Knicks,Knicks,New York,NBA,1481.1,1474.1,1506.3,1440,38-44,,false,final
+1976,Detroit Pistons,Pistons,Detroit,NBA,1474.7,1469.2,1500.7,1416,36-46,4-5,false,final
+1976,Los Angeles Lakers,Lakers,Los Angeles,NBA,1432.2,1467.8,1494.1,1432.2,40-42,,false,final
+1976,St. Louis Spirits,Spirits,St. Louis,ABA,1496.9,1466.6,1516.1,1428.8,35-49,,false,final
+1976,Portland Trail Blazers,Trail Blazers,Portland,NBA,1486.2,1464,1503.6,1444.9,37-45,,false,final
+1976,Milwaukee Bucks,Bucks,Milwaukee,NBA,1509.1,1462.1,1509.1,1454.7,38-44,1-2,false,final
+1976,New Orleans Jazz,Jazz,New Orleans,NBA,1380,1458.9,1459.9,1373.3,38-44,,false,final
+1976,Utah Stars,Stars,Utah,ABA,1492.8,1448.6,1492.8,1432,4-12,,false,final
+1976,Kansas City Kings,Kings,Kansas City,NBA,1488.5,1437.8,1488.5,1394.5,31-51,,false,final
+1976,Chicago Bulls,Bulls,Chicago,NBA,1534.7,1413.3,1534.7,1396,24-58,,false,final
+1976,San Diego Sails,Sails,San Diego,ABA,1399.3,1393.6,1399.3,1385.7,3-8,,false,final
+1976,Atlanta Hawks,Hawks,Atlanta,NBA,1433.1,1369.9,1474.7,1369.9,29-53,,false,final
+1976,Virginia Squires,Squires,Virginia,ABA,1336.8,1282.6,1336.8,1241.7,15-68,,false,final
+1977,Portland Trail Blazers,Trail Blazers,Portland,NBA,1476.7,1623.3,1623.3,1476.7,49-33,14-5,true,final
+1977,Philadelphia 76ers,76ers,Philadelphia,NBA,1496.8,1593.9,1613.7,1491.2,50-32,10-9,false,final
+1977,Denver Nuggets,Nuggets,Denver,NBA,1598.7,1584.8,1634.9,1584.8,50-32,2-4,false,final
+1977,Golden State Warriors,Warriors,Golden State,NBA,1566.8,1572.7,1580.8,1538.4,46-36,5-5,false,final
+1977,Houston Rockets,Rockets,Houston,NBA,1497.2,1563.2,1572.3,1495.8,49-33,6-6,false,final
+1977,Chicago Bulls,Bulls,Chicago,NBA,1441.7,1557.6,1565.5,1392.8,44-38,1-2,false,final
+1977,Washington Wizards,Wizards,Washington,NBA,1540.9,1552,1568.8,1503.8,48-34,4-5,false,final
+1977,Los Angeles Lakers,Lakers,Los Angeles,NBA,1479.3,1548.6,1573.8,1479.3,53-29,4-7,false,final
+1977,San Antonio Spurs,Spurs,San Antonio,NBA,1576.4,1525.2,1576.4,1525.2,44-38,0-2,false,final
+1977,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1538.8,1524.2,1583.5,1522.9,43-39,1-2,false,final
+1977,New York Knicks,Knicks,New York,NBA,1483.7,1519.1,1519.1,1470.6,40-42,,false,final
+1977,Kansas City Kings,Kings,Kansas City,NBA,1458.6,1506,1531.4,1451,40-42,,false,final
+1977,Phoenix Suns,Suns,Phoenix,NBA,1514.6,1494.4,1531.7,1474.7,34-48,,false,final
+1977,Boston Celtics,Celtics,Boston,NBA,1541.4,1488.7,1562.3,1481,44-38,5-4,false,final
+1977,Detroit Pistons,Pistons,Detroit,NBA,1480.3,1478.5,1528.1,1468.8,44-38,1-2,false,final
+1977,Seattle Thunder,Thunder,Seattle,NBA,1501.3,1478.3,1515.6,1466,40-42,,false,final
+1977,Indiana Pacers,Pacers,Indiana,NBA,1511.6,1471.1,1511.6,1451.8,36-46,,false,final
+1977,Milwaukee Bucks,Bucks,Milwaukee,NBA,1475.4,1448.9,1475.4,1392.1,30-52,,false,final
+1977,New Orleans Jazz,Jazz,New Orleans,NBA,1473.2,1437.1,1501.6,1414,35-47,,false,final
+1977,Atlanta Hawks,Hawks,Atlanta,NBA,1411.7,1411.9,1425.8,1364.5,31-51,,false,final
+1977,Buffalo Clippers,Clippers,Buffalo,NBA,1505.3,1409.3,1533.4,1409.3,30-52,,false,final
+1977,New York Nets,Nets,New York,NBA,1567.8,1349.3,1567.8,1349.3,22-60,,false,final
+1978,Philadelphia 76ers,76ers,Philadelphia,NBA,1566.4,1630.3,1648.5,1564.3,55-27,6-4,false,final
+1978,San Antonio Spurs,Spurs,San Antonio,NBA,1519,1583.7,1603.3,1516.2,52-30,2-4,false,final
+1978,Seattle Thunder,Thunder,Seattle,NBA,1486.5,1578.9,1596.5,1439.1,47-35,13-9,false,final
+1978,Los Angeles Lakers,Lakers,Los Angeles,NBA,1535.1,1575.9,1591.8,1487.5,45-37,1-2,false,final
+1978,Washington Wizards,Wizards,Washington,NBA,1537.5,1574.5,1574.5,1516.1,44-38,14-7,true,final
+1978,Portland Trail Blazers,Trail Blazers,Portland,NBA,1586.7,1574.2,1697.6,1573.8,58-24,2-4,false,final
+1978,Golden State Warriors,Warriors,Golden State,NBA,1551.8,1546.7,1560.9,1479.2,43-39,,false,final
+1978,Phoenix Suns,Suns,Phoenix,NBA,1497.7,1540.2,1595.8,1497.7,49-33,0-2,false,final
+1978,Denver Nuggets,Nuggets,Denver,NBA,1560.1,1535.7,1577.8,1533.9,48-34,6-7,false,final
+1978,Milwaukee Bucks,Bucks,Milwaukee,NBA,1466.3,1516.9,1520.6,1466.3,44-38,5-4,false,final
+1978,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1518.2,1506.3,1549.7,1487.6,43-39,0-2,false,final
+1978,Atlanta Hawks,Hawks,Atlanta,NBA,1440.7,1505,1512.4,1440.7,41-41,0-2,false,final
+1978,New York Knicks,Knicks,New York,NBA,1514.7,1493.7,1527.5,1490.3,43-39,2-4,false,final
+1978,Chicago Bulls,Bulls,Chicago,NBA,1541.3,1471.5,1566.3,1471.5,40-42,,false,final
+1978,Detroit Pistons,Pistons,Detroit,NBA,1486.7,1470.9,1502.7,1449.3,38-44,,false,final
+1978,New Orleans Jazz,Jazz,New Orleans,NBA,1458.1,1470.6,1487,1430.2,39-43,,false,final
+1978,Boston Celtics,Celtics,Boston,NBA,1493.7,1462.4,1493.7,1424.1,32-50,,false,final
+1978,Kansas City Kings,Kings,Kansas City,NBA,1505.7,1460.8,1512.4,1432.9,31-51,,false,final
+1978,Indiana Pacers,Pacers,Indiana,NBA,1481.6,1440,1493.5,1427.2,31-51,,false,final
+1978,Houston Rockets,Rockets,Houston,NBA,1545.2,1411.4,1555.4,1398.9,28-54,,false,final
+1978,New Jersey Nets,Nets,New Jersey,NBA,1397.5,1391.3,1397.5,1332.5,24-58,,false,final
+1978,Buffalo Clippers,Clippers,Buffalo,NBA,1438.9,1388.6,1448.6,1388.6,27-55,,false,final
+1979,Seattle Thunder,Thunder,Seattle,NBA,1556,1619.5,1619.5,1542.4,52-30,12-5,true,final
+1979,Phoenix Suns,Suns,Phoenix,NBA,1529.3,1597.8,1600.6,1529.3,50-32,9-6,false,final
+1979,San Antonio Spurs,Spurs,San Antonio,NBA,1559.3,1572.6,1607.9,1547.3,48-34,7-7,false,final
+1979,Atlanta Hawks,Hawks,Atlanta,NBA,1505,1571.2,1571.2,1490.3,46-36,5-4,false,final
+1979,Philadelphia 76ers,76ers,Philadelphia,NBA,1591.6,1567.9,1609.7,1535.6,47-35,5-4,false,final
+1979,Portland Trail Blazers,Trail Blazers,Portland,NBA,1552.8,1563.2,1576.5,1503.4,45-37,1-2,false,final
+1979,Washington Wizards,Wizards,Washington,NBA,1553,1554.8,1624.2,1547.6,54-28,9-10,false,final
+1979,Denver Nuggets,Nuggets,Denver,NBA,1526.2,1552.8,1557.6,1510.7,47-35,1-2,false,final
+1979,Milwaukee Bucks,Bucks,Milwaukee,NBA,1513.2,1545.9,1549.9,1461.6,38-44,,false,final
+1979,Los Angeles Lakers,Lakers,Los Angeles,NBA,1554,1544.5,1604.4,1544.5,47-35,3-5,false,final
+1979,Kansas City Kings,Kings,Kansas City,NBA,1474.5,1534.7,1573.7,1468.1,48-34,1-4,false,final
+1979,Houston Rockets,Rockets,Houston,NBA,1440.4,1523,1531.9,1440.4,47-35,0-2,false,final
+1979,Golden State Warriors,Warriors,Golden State,NBA,1533.8,1505.3,1554.3,1488.6,38-44,,false,final
+1979,San Diego Clippers,Clippers,San Diego,NBA,1424.6,1493.6,1511.4,1407.5,43-39,,false,final
+1979,Indiana Pacers,Pacers,Indiana,NBA,1460.1,1484.5,1484.5,1416.2,38-44,,false,final
+1979,Detroit Pistons,Pistons,Detroit,NBA,1481.4,1444.7,1481.4,1419.4,30-52,,false,final
+1979,Chicago Bulls,Bulls,Chicago,NBA,1481.9,1430.1,1488.3,1402.7,31-51,,false,final
+1979,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1505.9,1419.8,1521,1419.8,30-52,,false,final
+1979,New York Knicks,Knicks,New York,NBA,1497.2,1419,1502.7,1419,31-51,,false,final
+1979,New Jersey Nets,Nets,New Jersey,NBA,1426.4,1410,1460.6,1410,37-45,0-2,false,final
+1979,Boston Celtics,Celtics,Boston,NBA,1475.5,1390.7,1475.5,1390.7,29-53,,false,final
+1979,New Orleans Jazz,Jazz,New Orleans,NBA,1481.3,1377.9,1481.3,1377.9,26-56,,false,final
+1980,Los Angeles Lakers,Lakers,Los Angeles,NBA,1532.3,1695.1,1695.1,1530.5,60-22,12-4,true,final
+1980,Boston Celtics,Celtics,Boston,NBA,1426,1641.7,1657.8,1426,61-21,5-4,false,final
+1980,Philadelphia 76ers,76ers,Philadelphia,NBA,1548.4,1624.1,1644.2,1548.4,59-23,12-6,false,final
+1980,Seattle Thunder,Thunder,Seattle,NBA,1584.1,1609.5,1651.5,1569.6,56-26,7-8,false,final
+1980,Phoenix Suns,Suns,Phoenix,NBA,1569.1,1601.8,1609,1558.2,55-27,3-5,false,final
+1980,Milwaukee Bucks,Bucks,Milwaukee,NBA,1533.2,1601.4,1601.4,1492.9,49-33,3-4,false,final
+1980,Atlanta Hawks,Hawks,Atlanta,NBA,1550.7,1564.9,1593.3,1542.7,50-32,1-4,false,final
+1980,Kansas City Kings,Kings,Kansas City,NBA,1525.5,1555.7,1595,1511.3,47-35,1-2,false,final
+1980,San Antonio Spurs,Spurs,San Antonio,NBA,1551.7,1499.6,1560.2,1478.1,41-41,1-2,false,final
+1980,Portland Trail Blazers,Trail Blazers,Portland,NBA,1545.2,1496.4,1588.1,1487.8,38-44,1-2,false,final
+1980,Houston Rockets,Rockets,Houston,NBA,1517.4,1491.9,1524.4,1484.4,41-41,2-5,false,final
+1980,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1446.2,1490.1,1493.5,1422.5,37-45,,false,final
+1980,Washington Wizards,Wizards,Washington,NBA,1539.4,1475,1539.4,1445,39-43,0-2,false,final
+1980,Indiana Pacers,Pacers,Indiana,NBA,1490.8,1474.6,1493.4,1464.6,37-45,,false,final
+1980,New York Knicks,Knicks,New York,NBA,1445.6,1465.5,1489.9,1440.7,39-43,,false,final
+1980,New Jersey Nets,Nets,New Jersey,NBA,1439.4,1464.2,1479.1,1410.4,34-48,,false,final
+1980,Chicago Bulls,Bulls,Chicago,NBA,1453.2,1432.7,1459.5,1407.3,30-52,,false,final
+1980,Denver Nuggets,Nuggets,Denver,NBA,1538,1426.7,1538,1426.7,30-52,,false,final
+1980,San Diego Clippers,Clippers,San Diego,NBA,1497.1,1424.1,1498.4,1424.1,35-47,,false,final
+1980,Golden State Warriors,Warriors,Golden State,NBA,1505.2,1412.3,1518.1,1407,24-58,,false,final
+1980,Utah Jazz,Jazz,Utah,NBA,1417.2,1374.2,1417.2,1352.9,24-58,,false,final
+1980,Detroit Pistons,Pistons,Detroit,NBA,1463.4,1297.7,1472.9,1297.7,16-66,,false,final
+1981,Boston Celtics,Celtics,Boston,NBA,1599.4,1667.8,1680.8,1599.4,62-20,12-5,true,final
+1981,Milwaukee Bucks,Bucks,Milwaukee,NBA,1571.6,1658,1658,1571.6,60-22,3-4,false,final
+1981,Philadelphia 76ers,76ers,Philadelphia,NBA,1587.2,1655.1,1694.2,1585.5,62-20,9-7,false,final
+1981,Los Angeles Lakers,Lakers,Los Angeles,NBA,1636.3,1599.5,1656.9,1599.5,54-28,1-2,false,final
+1981,Phoenix Suns,Suns,Phoenix,NBA,1571.9,1587.5,1640.5,1571.9,57-25,3-4,false,final
+1981,Chicago Bulls,Bulls,Chicago,NBA,1455,1553,1564.3,1447.6,45-37,2-4,false,final
+1981,New York Knicks,Knicks,New York,NBA,1477.7,1543.1,1562.5,1477.7,50-32,0-2,false,final
+1981,Houston Rockets,Rockets,Houston,NBA,1495.9,1534.3,1546.9,1465.4,40-42,12-9,false,final
+1981,Portland Trail Blazers,Trail Blazers,Portland,NBA,1499.1,1530.9,1539.2,1457,45-37,1-2,false,final
+1981,San Antonio Spurs,Spurs,San Antonio,NBA,1501.3,1529.8,1573.8,1494.5,52-30,3-4,false,final
+1981,Indiana Pacers,Pacers,Indiana,NBA,1484,1513.9,1537.2,1484,44-38,0-2,false,final
+1981,Kansas City Kings,Kings,Kansas City,NBA,1540,1510.7,1540,1482.5,40-42,7-8,false,final
+1981,Washington Wizards,Wizards,Washington,NBA,1484.3,1509.1,1517.2,1453.9,39-43,,false,final
+1981,Denver Nuggets,Nuggets,Denver,NBA,1450.9,1475,1475,1411.9,37-45,,false,final
+1981,San Diego Clippers,Clippers,San Diego,NBA,1449.2,1461.9,1476.1,1421.2,36-46,,false,final
+1981,Golden State Warriors,Warriors,Golden State,NBA,1441,1458.4,1494.9,1441,39-43,,false,final
+1981,Seattle Thunder,Thunder,Seattle,NBA,1577.2,1455.9,1577.2,1455.9,34-48,,false,final
+1981,Atlanta Hawks,Hawks,Atlanta,NBA,1546.4,1448.2,1558.4,1448.2,31-51,,false,final
+1981,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1494.7,1396.1,1494.7,1396.1,28-54,,false,final
+1981,New Jersey Nets,Nets,New Jersey,NBA,1476.8,1357.5,1480,1335,24-58,,false,final
+1981,Detroit Pistons,Pistons,Detroit,NBA,1361.8,1350.3,1361.8,1302.7,21-61,,false,final
+1981,Utah Jazz,Jazz,Utah,NBA,1414.6,1348.3,1448.9,1348.3,28-54,,false,final
+1981,Dallas Mavericks,Mavericks,Dallas,NBA,1300,1271.9,1309.6,1230.1,15-67,,false,final
+1982,Boston Celtics,Celtics,Boston,NBA,1617.5,1673.2,1686.3,1615.8,63-19,7-5,false,final
+1982,Philadelphia 76ers,76ers,Philadelphia,NBA,1608.7,1664.1,1676,1608.7,58-24,12-9,false,final
+1982,Los Angeles Lakers,Lakers,Los Angeles,NBA,1570.3,1655.6,1655.6,1564.9,57-25,12-2,true,final
+1982,Milwaukee Bucks,Bucks,Milwaukee,NBA,1610.7,1627.2,1656.3,1594.2,55-27,2-4,false,final
+1982,Phoenix Suns,Suns,Phoenix,NBA,1562,1554,1578.6,1547,46-36,2-5,false,final
+1982,Washington Wizards,Wizards,Washington,NBA,1507.9,1553.3,1558.1,1481.2,43-39,3-4,false,final
+1982,Seattle Thunder,Thunder,Seattle,NBA,1471.1,1552.1,1595.2,1465.6,52-30,3-5,false,final
+1982,Atlanta Hawks,Hawks,Atlanta,NBA,1465.8,1524.6,1531.6,1447.9,42-40,0-2,false,final
+1982,Denver Nuggets,Nuggets,Denver,NBA,1484.3,1524.4,1541.4,1457.2,46-36,1-2,false,final
+1982,New Jersey Nets,Nets,New Jersey,NBA,1403.1,1523.7,1535.4,1379.4,44-38,0-2,false,final
+1982,Houston Rockets,Rockets,Houston,NBA,1525.3,1521.4,1544.6,1478.6,46-36,1-2,false,final
+1982,Golden State Warriors,Warriors,Golden State,NBA,1472.8,1518.6,1525.8,1472.1,45-37,,false,final
+1982,San Antonio Spurs,Spurs,San Antonio,NBA,1522.1,1515.4,1569.2,1513.8,48-34,4-5,false,final
+1982,Portland Trail Blazers,Trail Blazers,Portland,NBA,1522.9,1496.8,1540.1,1490.5,42-40,,false,final
+1982,Chicago Bulls,Bulls,Chicago,NBA,1538.2,1463.6,1538.2,1444.7,34-48,,false,final
+1982,Detroit Pistons,Pistons,Detroit,NBA,1398.1,1463.2,1480.4,1398.1,39-43,,false,final
+1982,Indiana Pacers,Pacers,Indiana,NBA,1511.2,1441.7,1526.1,1441.7,35-47,,false,final
+1982,New York Knicks,Knicks,New York,NBA,1531.3,1435,1531.3,1435,33-49,,false,final
+1982,Kansas City Kings,Kings,Kansas City,NBA,1509,1428,1509,1396.3,30-52,,false,final
+1982,Dallas Mavericks,Mavericks,Dallas,NBA,1344,1374.8,1388,1307,28-54,,false,final
+1982,Utah Jazz,Jazz,Utah,NBA,1396.7,1363.1,1419.5,1333.4,25-57,,false,final
+1982,San Diego Clippers,Clippers,San Diego,NBA,1475.3,1320.1,1482.3,1319.6,17-65,,false,final
+1982,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1429.8,1283.9,1436.1,1283.9,15-67,,false,final
+1983,Philadelphia 76ers,76ers,Philadelphia,NBA,1614.9,1709.7,1729.7,1614.9,65-17,12-1,true,final
+1983,San Antonio Spurs,Spurs,San Antonio,NBA,1512.2,1602.6,1602.6,1512.2,53-29,6-5,false,final
+1983,Milwaukee Bucks,Bucks,Milwaukee,NBA,1589.4,1600.7,1616.8,1579.2,51-31,5-4,false,final
+1983,Los Angeles Lakers,Lakers,Los Angeles,NBA,1609,1599.8,1671.2,1594.9,58-24,8-7,false,final
+1983,Phoenix Suns,Suns,Phoenix,NBA,1538.9,1599.2,1610.6,1532.3,53-29,1-2,false,final
+1983,Boston Celtics,Celtics,Boston,NBA,1621.2,1580.1,1665.1,1580.1,56-26,2-5,false,final
+1983,New York Knicks,Knicks,New York,NBA,1456.7,1579.1,1585.7,1435.6,44-38,2-4,false,final
+1983,New Jersey Nets,Nets,New Jersey,NBA,1517.9,1554.8,1581.4,1511.2,49-33,0-2,false,final
+1983,Seattle Thunder,Thunder,Seattle,NBA,1537.5,1552.3,1591.8,1526.5,48-34,0-2,false,final
+1983,Portland Trail Blazers,Trail Blazers,Portland,NBA,1499.3,1539.7,1554.4,1488.7,46-36,3-4,false,final
+1983,Denver Nuggets,Nuggets,Denver,NBA,1518.4,1538.3,1555.1,1482.4,45-37,3-5,false,final
+1983,Washington Wizards,Wizards,Washington,NBA,1538.4,1536.4,1557.3,1472.1,42-40,,false,final
+1983,Kansas City Kings,Kings,Kansas City,NBA,1451.8,1519.7,1519.7,1451.3,45-37,,false,final
+1983,Atlanta Hawks,Hawks,Atlanta,NBA,1518.5,1505.5,1518.5,1487.4,43-39,1-2,false,final
+1983,Detroit Pistons,Pistons,Detroit,NBA,1476.1,1476.4,1517.9,1458.6,37-45,,false,final
+1983,Dallas Mavericks,Mavericks,Dallas,NBA,1415.1,1458,1485.1,1415.1,38-44,,false,final
+1983,Golden State Warriors,Warriors,Golden State,NBA,1514.4,1427.8,1531.7,1405.2,30-52,,false,final
+1983,Utah Jazz,Jazz,Utah,NBA,1407,1405.2,1413.2,1379.6,30-52,,false,final
+1983,Chicago Bulls,Bulls,Chicago,NBA,1476.4,1399.6,1476.4,1398,28-54,,false,final
+1983,San Diego Clippers,Clippers,San Diego,NBA,1377.3,1363.2,1418.8,1343,25-57,,false,final
+1983,Indiana Pacers,Pacers,Indiana,NBA,1461.3,1352.5,1467,1344.5,20-62,,false,final
+1983,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1352.3,1341.5,1352.3,1303.4,23-59,,false,final
+1983,Houston Rockets,Rockets,Houston,NBA,1516.3,1278.3,1516.3,1278.3,14-68,,false,final
+1984,Boston Celtics,Celtics,Boston,NBA,1556.8,1669.4,1678.8,1556.8,62-20,15-8,true,final
+1984,Los Angeles Lakers,Lakers,Los Angeles,NBA,1570.4,1606.6,1617.1,1542.2,54-28,14-7,false,final
+1984,Milwaukee Bucks,Bucks,Milwaukee,NBA,1571.1,1589.4,1606.9,1541.5,50-32,8-8,false,final
+1984,New Jersey Nets,Nets,New Jersey,NBA,1539.4,1585.9,1594.6,1512.3,45-37,5-6,false,final
+1984,Detroit Pistons,Pistons,Detroit,NBA,1485.2,1579.3,1579.3,1480,49-33,2-3,false,final
+1984,New York Knicks,Knicks,New York,NBA,1556.2,1572.2,1613.1,1550.9,47-35,6-6,false,final
+1984,Philadelphia 76ers,76ers,Philadelphia,NBA,1646.4,1568.1,1665.2,1568.1,52-30,2-3,false,final
+1984,Phoenix Suns,Suns,Phoenix,NBA,1570.1,1539.9,1570.1,1502.1,41-41,9-8,false,final
+1984,Portland Trail Blazers,Trail Blazers,Portland,NBA,1529,1528.6,1587.5,1528.6,48-34,2-3,false,final
+1984,Dallas Mavericks,Mavericks,Dallas,NBA,1472.5,1509.9,1513.9,1472.5,43-39,4-6,false,final
+1984,Atlanta Hawks,Hawks,Atlanta,NBA,1505.4,1504,1509.6,1468.8,40-42,2-3,false,final
+1984,Seattle Thunder,Thunder,Seattle,NBA,1537.7,1502.3,1541.1,1489.6,42-40,2-3,false,final
+1984,Utah Jazz,Jazz,Utah,NBA,1436,1502.3,1520.6,1429.1,45-37,5-6,false,final
+1984,Denver Nuggets,Nuggets,Denver,NBA,1528,1492.8,1528,1458.7,38-44,2-3,false,final
+1984,San Antonio Spurs,Spurs,San Antonio,NBA,1572.4,1488.8,1572.4,1473,37-45,,false,final
+1984,Kansas City Kings,Kings,Kansas City,NBA,1515.2,1470.2,1515.2,1464.4,38-44,0-3,false,final
+1984,Washington Wizards,Wizards,Washington,NBA,1526.7,1454.2,1526.7,1453.5,35-47,1-3,false,final
+1984,Golden State Warriors,Warriors,Golden State,NBA,1451.7,1438.7,1458.5,1420.8,37-45,,false,final
+1984,San Diego Clippers,Clippers,San Diego,NBA,1407,1414.6,1430.7,1390.2,30-52,,false,final
+1984,Indiana Pacers,Pacers,Indiana,NBA,1399.6,1390.4,1402.6,1368.3,26-56,,false,final
+1984,Houston Rockets,Rockets,Houston,NBA,1348.4,1388.4,1429.3,1345.4,29-53,,false,final
+1984,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1392,1385.4,1417.7,1376.8,28-54,,false,final
+1984,Chicago Bulls,Bulls,Chicago,NBA,1432.2,1368.2,1459.4,1368.2,27-55,,false,final
+1985,Los Angeles Lakers,Lakers,Los Angeles,NBA,1575.2,1706.5,1706.5,1563.5,62-20,15-4,true,final
+1985,Boston Celtics,Celtics,Boston,NBA,1618.5,1662.3,1681.8,1618.5,63-19,13-8,false,final
+1985,Milwaukee Bucks,Bucks,Milwaukee,NBA,1563.3,1636.9,1670.2,1562.4,59-23,3-5,false,final
+1985,Philadelphia 76ers,76ers,Philadelphia,NBA,1548.6,1605.3,1647.5,1548.6,58-24,8-5,false,final
+1985,Denver Nuggets,Nuggets,Denver,NBA,1496.5,1588.5,1594.3,1491.9,52-30,8-7,false,final
+1985,Detroit Pistons,Pistons,Detroit,NBA,1556.3,1574.5,1604.3,1533.9,46-36,5-4,false,final
+1985,Portland Trail Blazers,Trail Blazers,Portland,NBA,1521.3,1559.7,1562.2,1502,42-40,4-5,false,final
+1985,Dallas Mavericks,Mavericks,Dallas,NBA,1508.4,1526.4,1550,1483.6,44-38,1-3,false,final
+1985,Utah Jazz,Jazz,Utah,NBA,1503.1,1521.9,1532.1,1467.8,41-41,4-6,false,final
+1985,New Jersey Nets,Nets,New Jersey,NBA,1560.9,1519.7,1560.9,1508.7,42-40,0-3,false,final
+1985,Houston Rockets,Rockets,Houston,NBA,1424.5,1510.7,1520.6,1424.5,48-34,2-3,false,final
+1985,San Antonio Spurs,Spurs,San Antonio,NBA,1493.8,1498.4,1519.2,1473.6,41-41,2-3,false,final
+1985,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1422.4,1498,1498,1366.8,36-46,1-3,false,final
+1985,Washington Wizards,Wizards,Washington,NBA,1469.9,1490.6,1521.9,1457,40-42,1-3,false,final
+1985,Atlanta Hawks,Hawks,Atlanta,NBA,1504.3,1470.4,1513,1440.2,34-48,,false,final
+1985,Chicago Bulls,Bulls,Chicago,NBA,1410.5,1451.8,1474.3,1410.5,38-44,1-3,false,final
+1985,Phoenix Suns,Suns,Phoenix,NBA,1529.1,1442.5,1558.4,1441.1,36-46,0-3,false,final
+1985,Kansas City Kings,Kings,Kansas City,NBA,1481,1442.2,1481,1406.7,31-51,,false,final
+1985,Los Angeles Clippers,Clippers,Los Angeles,NBA,1442.6,1405.6,1462.1,1373.1,31-51,,false,final
+1985,New York Knicks,Knicks,New York,NBA,1551.4,1380.3,1558,1380.3,24-58,,false,final
+1985,Seattle Thunder,Thunder,Seattle,NBA,1503.2,1373.4,1503.2,1373.4,31-51,,false,final
+1985,Golden State Warriors,Warriors,Golden State,NBA,1459.2,1359,1459.2,1338.4,22-60,,false,final
+1985,Indiana Pacers,Pacers,Indiana,NBA,1425.8,1345.4,1425.8,1340.8,22-60,,false,final
+1986,Boston Celtics,Celtics,Boston,NBA,1613.6,1748.3,1753.9,1613.6,67-15,15-3,true,final
+1986,Milwaukee Bucks,Bucks,Milwaukee,NBA,1596.1,1651.5,1679.9,1596.1,57-25,7-7,false,final
+1986,Los Angeles Lakers,Lakers,Los Angeles,NBA,1644.2,1632.6,1705.5,1632.6,62-20,8-6,false,final
+1986,Houston Rockets,Rockets,Houston,NBA,1508.9,1624.3,1624.3,1508.9,51-31,13-7,false,final
+1986,Philadelphia 76ers,76ers,Philadelphia,NBA,1574.3,1595.9,1602.5,1553.3,54-28,6-6,false,final
+1986,Atlanta Hawks,Hawks,Atlanta,NBA,1481.1,1572.5,1576.2,1464.5,50-32,4-5,false,final
+1986,Dallas Mavericks,Mavericks,Dallas,NBA,1519.8,1554.8,1560.6,1496.5,44-38,5-5,false,final
+1986,Detroit Pistons,Pistons,Detroit,NBA,1553,1539.3,1563.6,1488.4,46-36,1-3,false,final
+1986,Denver Nuggets,Nuggets,Denver,NBA,1562.7,1525.3,1584.8,1525.3,47-35,5-5,false,final
+1986,Utah Jazz,Jazz,Utah,NBA,1516.7,1503.7,1524.3,1474.5,42-40,1-3,false,final
+1986,Portland Trail Blazers,Trail Blazers,Portland,NBA,1542.8,1492.7,1560.6,1491,40-42,1-3,false,final
+1986,Washington Wizards,Wizards,Washington,NBA,1495.1,1479.4,1515.2,1466.3,39-43,2-3,false,final
+1986,New Jersey Nets,Nets,New Jersey,NBA,1515.1,1473.2,1545.1,1467,39-43,0-3,false,final
+1986,Sacramento Kings,Kings,Sacramento,NBA,1461.6,1450.4,1469,1416.9,37-45,0-3,false,final
+1986,Seattle Thunder,Thunder,Seattle,NBA,1414.1,1439.4,1470.1,1410.5,31-51,,false,final
+1986,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1500.1,1436.4,1514.9,1435.9,29-53,,false,final
+1986,Phoenix Suns,Suns,Phoenix,NBA,1461.8,1434.3,1466.6,1414.9,32-50,,false,final
+1986,San Antonio Spurs,Spurs,San Antonio,NBA,1500.4,1425.9,1536.8,1421.3,35-47,0-3,false,final
+1986,Chicago Bulls,Bulls,Chicago,NBA,1468.2,1421,1473.5,1394.9,30-52,0-3,false,final
+1986,Golden State Warriors,Warriors,Golden State,NBA,1404.1,1420.6,1423.7,1373.9,30-52,,false,final
+1986,Indiana Pacers,Pacers,Indiana,NBA,1394.7,1412.5,1436.4,1377.9,26-56,,false,final
+1986,Los Angeles Clippers,Clippers,Los Angeles,NBA,1436.3,1398.1,1456.4,1358.5,32-50,,false,final
+1986,New York Knicks,Knicks,New York,NBA,1418.8,1351.6,1425.8,1351.6,23-59,,false,final
+1987,Los Angeles Lakers,Lakers,Los Angeles,NBA,1593.1,1698.8,1700.5,1588.7,65-17,15-3,true,final
+1987,Boston Celtics,Celtics,Boston,NBA,1673,1644.6,1703.9,1642.9,59-23,13-10,false,final
+1987,Atlanta Hawks,Hawks,Atlanta,NBA,1551.7,1635.3,1655.1,1551.7,57-25,4-5,false,final
+1987,Detroit Pistons,Pistons,Detroit,NBA,1528.7,1633.9,1633.9,1516.2,52-30,10-5,false,final
+1987,Milwaukee Bucks,Bucks,Milwaukee,NBA,1606.2,1613.1,1641.3,1574.9,50-32,6-6,false,final
+1987,Dallas Mavericks,Mavericks,Dallas,NBA,1539.4,1590.3,1619,1539.4,55-27,1-3,false,final
+1987,Portland Trail Blazers,Trail Blazers,Portland,NBA,1496.5,1539.5,1579.9,1471.6,49-33,1-3,false,final
+1987,Houston Rockets,Rockets,Houston,NBA,1587.4,1529.8,1591.9,1491.9,42-40,5-5,false,final
+1987,Philadelphia 76ers,76ers,Philadelphia,NBA,1567.8,1529.6,1569.3,1526.7,45-37,2-3,false,final
+1987,Chicago Bulls,Bulls,Chicago,NBA,1447,1513.4,1518.2,1447,40-42,0-3,false,final
+1987,Seattle Thunder,Thunder,Seattle,NBA,1459.7,1511.8,1522.5,1458.5,39-43,7-7,false,final
+1987,Indiana Pacers,Pacers,Indiana,NBA,1441.1,1501,1506.7,1441.1,41-41,1-3,false,final
+1987,Utah Jazz,Jazz,Utah,NBA,1504.1,1490.9,1528.8,1490.9,44-38,2-3,false,final
+1987,Denver Nuggets,Nuggets,Denver,NBA,1519,1487.3,1522.5,1455.9,37-45,0-3,false,final
+1987,Washington Wizards,Wizards,Washington,NBA,1487.3,1477.9,1533.4,1469.9,42-40,0-3,false,final
+1987,Golden State Warriors,Warriors,Golden State,NBA,1446.7,1476.1,1492.7,1443.4,42-40,4-6,false,final
+1987,Phoenix Suns,Suns,Phoenix,NBA,1456.2,1455.6,1470.1,1393.4,36-46,,false,final
+1987,Sacramento Kings,Kings,Sacramento,NBA,1467.3,1429.2,1467.3,1396.2,29-53,,false,final
+1987,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1457.6,1428.5,1460.8,1400.5,31-51,,false,final
+1987,New Jersey Nets,Nets,New Jersey,NBA,1483,1397.6,1483,1395.1,24-58,,false,final
+1987,San Antonio Spurs,Spurs,San Antonio,NBA,1450.4,1397.5,1450.4,1379.9,28-54,,false,final
+1987,New York Knicks,Knicks,New York,NBA,1399,1351.4,1417.6,1351.4,24-58,,false,final
+1987,Los Angeles Clippers,Clippers,Los Angeles,NBA,1431.2,1260.6,1433.4,1260.6,12-70,,false,final
+1988,Detroit Pistons,Pistons,Detroit,NBA,1594,1653.7,1656.2,1586.3,54-28,14-9,false,final
+1988,Los Angeles Lakers,Lakers,Los Angeles,NBA,1638.9,1623.3,1710.6,1620.8,62-20,15-9,true,final
+1988,Dallas Mavericks,Mavericks,Dallas,NBA,1563.9,1614.7,1619.9,1546.2,53-29,10-7,false,final
+1988,Boston Celtics,Celtics,Boston,NBA,1601.4,1607.3,1655.5,1576.1,57-25,9-8,false,final
+1988,Utah Jazz,Jazz,Utah,NBA,1495.2,1603.9,1603.9,1495.2,47-35,6-5,false,final
+1988,Atlanta Hawks,Hawks,Atlanta,NBA,1595,1596.6,1636.8,1579.2,50-32,6-6,false,final
+1988,Portland Trail Blazers,Trail Blazers,Portland,NBA,1528.8,1576,1593.9,1522.7,53-29,1-3,false,final
+1988,Denver Nuggets,Nuggets,Denver,NBA,1492.8,1573.2,1590.9,1492.8,54-28,5-6,false,final
+1988,Chicago Bulls,Bulls,Chicago,NBA,1510.8,1572.5,1592,1510.8,50-32,4-6,false,final
+1988,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1452.1,1538.5,1538.5,1442.5,42-40,2-3,false,final
+1988,Seattle Thunder,Thunder,Seattle,NBA,1509.7,1531.5,1548,1499,44-38,2-3,false,final
+1988,Houston Rockets,Rockets,Houston,NBA,1522.2,1513.7,1567.7,1504.6,46-36,1-3,false,final
+1988,Milwaukee Bucks,Bucks,Milwaukee,NBA,1579.7,1507.5,1601.1,1503.9,42-40,2-3,false,final
+1988,Washington Wizards,Wizards,Washington,NBA,1486.2,1503.9,1509.3,1439.9,38-44,2-3,false,final
+1988,New York Knicks,Knicks,New York,NBA,1398.9,1500.7,1502.5,1390,38-44,1-3,false,final
+1988,Indiana Pacers,Pacers,Indiana,NBA,1502.3,1488.1,1522.8,1466.7,38-44,,false,final
+1988,Philadelphia 76ers,76ers,Philadelphia,NBA,1522,1471,1531.7,1466.7,36-46,,false,final
+1988,Phoenix Suns,Suns,Phoenix,NBA,1470.9,1408,1470.9,1381.1,28-54,,false,final
+1988,San Antonio Spurs,Spurs,San Antonio,NBA,1430.7,1388.8,1450.2,1388.8,31-51,0-3,false,final
+1988,Sacramento Kings,Kings,Sacramento,NBA,1452.6,1378.3,1456.4,1370.9,24-58,,false,final
+1988,New Jersey Nets,Nets,New Jersey,NBA,1430.8,1350.1,1430.8,1344.7,19-63,,false,final
+1988,Golden State Warriors,Warriors,Golden State,NBA,1485,1330,1485,1330,20-62,,false,final
+1988,Los Angeles Clippers,Clippers,Los Angeles,NBA,1336.2,1268.7,1359.5,1268.7,17-65,,false,final
+1989,Detroit Pistons,Pistons,Detroit,NBA,1607.7,1726.7,1726.7,1588,63-19,15-2,true,final
+1989,Los Angeles Lakers,Lakers,Los Angeles,NBA,1586.7,1638,1655.8,1580.7,57-25,11-4,false,final
+1989,Phoenix Suns,Suns,Phoenix,NBA,1438,1632.5,1642.3,1428.4,55-27,7-5,false,final
+1989,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1528.2,1616.6,1642.7,1528.2,57-25,2-3,false,final
+1989,Atlanta Hawks,Hawks,Atlanta,NBA,1568.3,1603.7,1612.2,1568.3,52-30,2-3,false,final
+1989,Chicago Bulls,Bulls,Chicago,NBA,1551.7,1567.4,1576.4,1539.1,47-35,9-8,false,final
+1989,New York Knicks,Knicks,New York,NBA,1502,1552.1,1586.7,1492.9,52-30,5-4,false,final
+1989,Milwaukee Bucks,Bucks,Milwaukee,NBA,1506.8,1548.7,1607.3,1499.3,49-33,3-6,false,final
+1989,Utah Jazz,Jazz,Utah,NBA,1573.3,1548.2,1585,1548.2,51-31,0-3,false,final
+1989,Seattle Thunder,Thunder,Seattle,NBA,1523.3,1534.2,1557.3,1511.6,47-35,3-5,false,final
+1989,Philadelphia 76ers,76ers,Philadelphia,NBA,1481.5,1518.3,1528.5,1481.5,46-36,0-3,false,final
+1989,Boston Celtics,Celtics,Boston,NBA,1575.6,1513.5,1575.6,1513.5,42-40,0-3,false,final
+1989,Houston Rockets,Rockets,Houston,NBA,1511,1512.6,1533.8,1505.1,45-37,1-3,false,final
+1989,Denver Nuggets,Nuggets,Denver,NBA,1552.1,1489.9,1576.9,1489.9,44-38,0-3,false,final
+1989,Portland Trail Blazers,Trail Blazers,Portland,NBA,1554.1,1489.9,1560.6,1489.9,39-43,0-3,false,final
+1989,Washington Wizards,Wizards,Washington,NBA,1504.3,1487.7,1504.3,1437.6,40-42,,false,final
+1989,Golden State Warriors,Warriors,Golden State,NBA,1384.1,1470.4,1505.8,1384.1,43-39,4-4,false,final
+1989,Dallas Mavericks,Mavericks,Dallas,NBA,1580.8,1446.7,1596.1,1425.7,38-44,,false,final
+1989,Indiana Pacers,Pacers,Indiana,NBA,1493.3,1441.3,1493.3,1400.5,28-54,,false,final
+1989,Sacramento Kings,Kings,Sacramento,NBA,1417.5,1391.7,1417.5,1359.7,27-55,,false,final
+1989,New Jersey Nets,Nets,New Jersey,NBA,1398,1333.9,1414.6,1333.9,26-56,,false,final
+1989,San Antonio Spurs,Spurs,San Antonio,NBA,1424.7,1327.2,1435.2,1327.2,21-61,,false,final
+1989,Los Angeles Clippers,Clippers,Los Angeles,NBA,1341.8,1291,1362,1255,21-61,,false,final
+1989,Charlotte Hornets,Hornets,Charlotte,NBA,1300,1279.9,1303.8,1254.2,20-62,,false,final
+1989,Miami Heat,Heat,Miami,NBA,1300,1242.5,1300,1232.8,15-67,,false,final
+1990,Detroit Pistons,Pistons,Detroit,NBA,1658.1,1665.6,1695.6,1627.3,59-23,15-5,true,final
+1990,Los Angeles Lakers,Lakers,Los Angeles,NBA,1596.9,1637.6,1666,1593.3,63-19,4-5,false,final
+1990,Phoenix Suns,Suns,Phoenix,NBA,1593.1,1633.3,1662.7,1563.4,54-28,9-7,false,final
+1990,Chicago Bulls,Bulls,Chicago,NBA,1548.1,1632.2,1632.2,1538,55-27,10-6,false,final
+1990,Portland Trail Blazers,Trail Blazers,Portland,NBA,1494.6,1625.2,1649.7,1494.6,59-23,12-9,false,final
+1990,San Antonio Spurs,Spurs,San Antonio,NBA,1382.2,1588.4,1588.4,1382.2,56-26,6-4,false,final
+1990,Utah Jazz,Jazz,Utah,NBA,1534.8,1577.9,1605.3,1521,55-27,2-3,false,final
+1990,Philadelphia 76ers,76ers,Philadelphia,NBA,1514.2,1558.5,1596,1503.2,53-29,4-6,false,final
+1990,Boston Celtics,Celtics,Boston,NBA,1510.9,1557.5,1586.2,1510.9,52-30,2-3,false,final
+1990,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1582.1,1536.1,1582.1,1471,42-40,2-3,false,final
+1990,Atlanta Hawks,Hawks,Atlanta,NBA,1573.2,1527.8,1573.2,1484.9,41-41,,false,final
+1990,Houston Rockets,Rockets,Houston,NBA,1510.2,1512.7,1523.6,1466.9,41-41,1-3,false,final
+1990,New York Knicks,Knicks,New York,NBA,1537.6,1506.8,1590.6,1477.8,45-37,4-6,false,final
+1990,Dallas Mavericks,Mavericks,Dallas,NBA,1464.8,1499.1,1511.9,1446.5,47-35,0-3,false,final
+1990,Seattle Thunder,Thunder,Seattle,NBA,1525.2,1494.1,1555.4,1480.6,41-41,,false,final
+1990,Milwaukee Bucks,Bucks,Milwaukee,NBA,1535.2,1481.9,1548.3,1481.9,44-38,1-3,false,final
+1990,Denver Nuggets,Nuggets,Denver,NBA,1494.6,1474.8,1530.4,1472.2,43-39,0-3,false,final
+1990,Indiana Pacers,Pacers,Indiana,NBA,1461,1471.9,1511.1,1450.1,42-40,0-3,false,final
+1990,Golden State Warriors,Warriors,Golden State,NBA,1481.1,1431.5,1481.1,1418.3,37-45,,false,final
+1990,Washington Wizards,Wizards,Washington,NBA,1493,1411.1,1521.4,1409.6,31-51,,false,final
+1990,Los Angeles Clippers,Clippers,Los Angeles,NBA,1357.2,1356.1,1439.9,1349.1,30-52,,false,final
+1990,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1300,1336,1353,1283.1,22-60,,false,final
+1990,Sacramento Kings,Kings,Sacramento,NBA,1426.7,1332.6,1427.4,1332.6,23-59,,false,final
+1990,Charlotte Hornets,Hornets,Charlotte,NBA,1349.5,1305.2,1349.5,1255.7,19-63,,false,final
+1990,Miami Heat,Heat,Miami,NBA,1323.7,1269.4,1323.7,1269.4,18-64,,false,final
+1990,New Jersey Nets,Nets,New Jersey,NBA,1386.8,1265.3,1401.7,1265.3,17-65,,false,final
+1990,Orlando Magic,Magic,Orlando,NBA,1300,1246.2,1343.3,1244.9,18-64,,false,final
+1991,Chicago Bulls,Bulls,Chicago,NBA,1592.8,1740.2,1740.2,1581.3,61-21,15-2,true,final
+1991,Portland Trail Blazers,Trail Blazers,Portland,NBA,1588,1676.2,1676.2,1588,63-19,9-7,false,final
+1991,Los Angeles Lakers,Lakers,Los Angeles,NBA,1596.6,1631.2,1659.7,1580.8,58-24,12-7,false,final
+1991,Utah Jazz,Jazz,Utah,NBA,1555.3,1595.6,1607.2,1533.7,54-28,4-5,false,final
+1991,Phoenix Suns,Suns,Phoenix,NBA,1593.6,1592.1,1645.3,1592.1,55-27,1-3,false,final
+1991,San Antonio Spurs,Spurs,San Antonio,NBA,1562.6,1580.8,1609.6,1562.6,55-27,1-3,false,final
+1991,Boston Celtics,Celtics,Boston,NBA,1541.3,1576,1630.4,1541.3,56-26,5-6,false,final
+1991,Houston Rockets,Rockets,Houston,NBA,1510.3,1565.3,1598.5,1504,52-30,0-3,false,final
+1991,Detroit Pistons,Pistons,Detroit,NBA,1616,1530.8,1635.1,1530.8,50-32,7-8,false,final
+1991,Golden State Warriors,Warriors,Golden State,NBA,1454.2,1526.4,1530.5,1454.2,44-38,4-5,false,final
+1991,Seattle Thunder,Thunder,Seattle,NBA,1497.5,1515.2,1515.2,1449.2,41-41,2-3,false,final
+1991,Milwaukee Bucks,Bucks,Milwaukee,NBA,1489,1513.2,1570.2,1489,48-34,0-3,false,final
+1991,Indiana Pacers,Pacers,Indiana,NBA,1482.1,1511.1,1515.2,1456.8,41-41,2-3,false,final
+1991,Atlanta Hawks,Hawks,Atlanta,NBA,1520.7,1509.8,1548.9,1471.7,43-39,2-3,false,final
+1991,Philadelphia 76ers,76ers,Philadelphia,NBA,1541.9,1507.3,1551.1,1494.3,44-38,4-4,false,final
+1991,New York Knicks,Knicks,New York,NBA,1506.2,1482.1,1525.9,1457.9,39-43,0-3,false,final
+1991,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1526.5,1445.5,1532.7,1423.1,33-49,,false,final
+1991,Orlando Magic,Magic,Orlando,NBA,1326.3,1411.6,1411.6,1302.7,31-51,,false,final
+1991,Los Angeles Clippers,Clippers,Los Angeles,NBA,1402.2,1408.6,1431.7,1373.9,31-51,,false,final
+1991,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1388.2,1397.7,1401.9,1353.7,29-53,,false,final
+1991,Washington Wizards,Wizards,Washington,NBA,1440.1,1378.8,1457.6,1375.2,30-52,,false,final
+1991,Dallas Mavericks,Mavericks,Dallas,NBA,1501,1371.4,1514.3,1366.3,28-54,,false,final
+1991,Charlotte Hornets,Hornets,Charlotte,NBA,1367,1364.9,1389.7,1338.5,26-56,,false,final
+1991,Sacramento Kings,Kings,Sacramento,NBA,1385.9,1352.1,1385.9,1329.4,25-57,,false,final
+1991,New Jersey Nets,Nets,New Jersey,NBA,1339.4,1342.5,1373.6,1332.3,26-56,,false,final
+1991,Miami Heat,Heat,Miami,NBA,1342.2,1333.2,1353.7,1318.7,24-58,,false,final
+1991,Denver Nuggets,Nuggets,Denver,NBA,1484.2,1291.8,1484.2,1291.8,20-62,,false,final
+1992,Chicago Bulls,Bulls,Chicago,NBA,1667.4,1716.8,1741.9,1667,67-15,15-7,true,final
+1992,Portland Trail Blazers,Trail Blazers,Portland,NBA,1623.3,1672.1,1683.7,1600.3,57-25,13-8,false,final
+1992,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1463.9,1635.7,1636.5,1459.9,57-25,9-8,false,final
+1992,Utah Jazz,Jazz,Utah,NBA,1567.6,1619.2,1631.8,1551.2,55-27,9-7,false,final
+1992,Phoenix Suns,Suns,Phoenix,NBA,1565.2,1613.9,1622.2,1554,53-29,4-4,false,final
+1992,New York Knicks,Knicks,New York,NBA,1489.2,1605.3,1605.3,1475.9,51-31,6-6,false,final
+1992,Boston Celtics,Celtics,Boston,NBA,1554,1593.7,1600.4,1530.2,51-31,6-4,false,final
+1992,Golden State Warriors,Warriors,Golden State,NBA,1519.8,1578,1583.7,1519.8,55-27,1-3,false,final
+1992,Seattle Thunder,Thunder,Seattle,NBA,1512,1559,1569.5,1484.5,47-35,4-5,false,final
+1992,Los Angeles Clippers,Clippers,Los Angeles,NBA,1438.4,1534.8,1537.7,1429.8,45-37,2-3,false,final
+1992,San Antonio Spurs,Spurs,San Antonio,NBA,1557.3,1530.5,1598,1530.5,47-35,0-3,false,final
+1992,Detroit Pistons,Pistons,Detroit,NBA,1522.8,1529.3,1579.8,1496.6,48-34,2-3,false,final
+1992,Indiana Pacers,Pacers,Indiana,NBA,1509.2,1523.6,1532,1476.3,40-42,0-3,false,final
+1992,Los Angeles Lakers,Lakers,Los Angeles,NBA,1592.2,1486.5,1596.7,1486.5,43-39,1-3,false,final
+1992,Houston Rockets,Rockets,Houston,NBA,1546.6,1475.4,1557,1475.4,42-40,,false,final
+1992,New Jersey Nets,Nets,New Jersey,NBA,1392.7,1475,1478.5,1363.4,40-42,1-3,false,final
+1992,Atlanta Hawks,Hawks,Atlanta,NBA,1508.3,1469.2,1513.1,1464.1,38-44,,false,final
+1992,Philadelphia 76ers,76ers,Philadelphia,NBA,1506.6,1441.4,1516.5,1437.6,35-47,,false,final
+1992,Miami Heat,Heat,Miami,NBA,1386.3,1428.5,1434.7,1386.3,38-44,0-3,false,final
+1992,Milwaukee Bucks,Bucks,Milwaukee,NBA,1510.7,1418.2,1523,1418.2,31-51,,false,final
+1992,Charlotte Hornets,Hornets,Charlotte,NBA,1408.2,1395.9,1453.7,1358.8,31-51,,false,final
+1992,Sacramento Kings,Kings,Sacramento,NBA,1399.4,1391.4,1399.4,1346.4,29-53,,false,final
+1992,Washington Wizards,Wizards,Washington,NBA,1417.8,1362.5,1432.1,1361.1,25-57,,false,final
+1992,Orlando Magic,Magic,Orlando,NBA,1440.5,1335.1,1453.8,1324.7,21-61,,false,final
+1992,Dallas Mavericks,Mavericks,Dallas,NBA,1412.7,1311.3,1417.2,1291.7,22-60,,false,final
+1992,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1430.9,1301.3,1430.9,1289.1,15-67,,false,final
+1992,Denver Nuggets,Nuggets,Denver,NBA,1357.7,1297.5,1385.6,1297.5,24-58,,false,final
+1993,Chicago Bulls,Bulls,Chicago,NBA,1651.3,1674.5,1686.9,1623.7,57-25,15-4,true,final
+1993,New York Knicks,Knicks,New York,NBA,1574.3,1659.3,1671.4,1570.9,60-22,9-6,false,final
+1993,Phoenix Suns,Suns,Phoenix,NBA,1580.2,1647.9,1676.6,1580.2,62-20,13-11,false,final
+1993,Seattle Thunder,Thunder,Seattle,NBA,1542.3,1623.7,1637,1542.3,55-27,10-9,false,final
+1993,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1595.3,1621.7,1645.9,1574.1,54-28,3-6,false,final
+1993,Houston Rockets,Rockets,Houston,NBA,1484.6,1609.4,1621,1472,55-27,6-6,false,final
+1993,Portland Trail Blazers,Trail Blazers,Portland,NBA,1620.4,1566.5,1648.2,1565.1,51-31,1-3,false,final
+1993,San Antonio Spurs,Spurs,San Antonio,NBA,1522.6,1558.7,1617.4,1500.4,49-33,5-5,false,final
+1993,Boston Celtics,Celtics,Boston,NBA,1566.3,1534.5,1566.9,1509.1,48-34,1-3,false,final
+1993,Indiana Pacers,Pacers,Indiana,NBA,1517.9,1532.8,1539.4,1493.6,41-41,1-3,false,final
+1993,Utah Jazz,Jazz,Utah,NBA,1583.9,1529.8,1594.1,1529.4,47-35,2-3,false,final
+1993,New Jersey Nets,Nets,New Jersey,NBA,1484.3,1518.5,1562.7,1463.6,43-39,2-3,false,final
+1993,Los Angeles Clippers,Clippers,Los Angeles,NBA,1525.6,1514.4,1560.7,1488.8,41-41,2-3,false,final
+1993,Atlanta Hawks,Hawks,Atlanta,NBA,1480.3,1509.6,1522.1,1425.6,43-39,0-3,false,final
+1993,Charlotte Hornets,Hornets,Charlotte,NBA,1429.7,1506,1506.9,1420.2,44-38,4-5,false,final
+1993,Detroit Pistons,Pistons,Detroit,NBA,1521.8,1503.3,1530.4,1461.5,40-42,,false,final
+1993,Orlando Magic,Magic,Orlando,NBA,1387.6,1488.3,1488.3,1387.6,41-41,,false,final
+1993,Miami Heat,Heat,Miami,NBA,1452.1,1472.6,1502.8,1419.8,36-46,,false,final
+1993,Golden State Warriors,Warriors,Golden State,NBA,1555.4,1461.8,1569.1,1454.2,34-48,,false,final
+1993,Los Angeles Lakers,Lakers,Los Angeles,NBA,1492.2,1449,1515.5,1443.5,39-43,2-3,false,final
+1993,Denver Nuggets,Nuggets,Denver,NBA,1361.6,1444.9,1447.2,1349.6,36-46,,false,final
+1993,Milwaukee Bucks,Bucks,Milwaukee,NBA,1445,1384.6,1494.8,1384.6,28-54,,false,final
+1993,Philadelphia 76ers,76ers,Philadelphia,NBA,1461,1372.7,1464.7,1360,26-56,,false,final
+1993,Sacramento Kings,Kings,Sacramento,NBA,1426.5,1372.3,1446.7,1370.1,25-57,,false,final
+1993,Washington Wizards,Wizards,Washington,NBA,1406.6,1328.9,1410.5,1328.9,22-60,,false,final
+1993,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1364.3,1298.4,1369.3,1298.4,19-63,,false,final
+1993,Dallas Mavericks,Mavericks,Dallas,NBA,1371.2,1220.1,1371.2,1190.1,11-71,,false,final
+1994,Seattle Thunder,Thunder,Seattle,NBA,1587,1656.5,1685.1,1587,63-19,2-3,false,final
+1994,New York Knicks,Knicks,New York,NBA,1611.6,1647.5,1670.5,1611.6,57-25,14-11,false,final
+1994,Houston Rockets,Rockets,Houston,NBA,1577.1,1636.1,1645.9,1577.1,58-24,15-8,true,final
+1994,Phoenix Suns,Suns,Phoenix,NBA,1603.7,1621.5,1648.1,1593.8,56-26,6-4,false,final
+1994,Indiana Pacers,Pacers,Indiana,NBA,1524.2,1614.2,1614.2,1495.5,47-35,10-6,false,final
+1994,San Antonio Spurs,Spurs,San Antonio,NBA,1542.1,1598.9,1642.2,1521.3,55-27,1-3,false,final
+1994,Utah Jazz,Jazz,Utah,NBA,1522.1,1596.5,1616.5,1522.1,53-29,8-8,false,final
+1994,Chicago Bulls,Bulls,Chicago,NBA,1622.1,1591.5,1650.4,1578.9,55-27,6-4,false,final
+1994,Atlanta Hawks,Hawks,Atlanta,NBA,1508.2,1591,1608.5,1498.1,57-25,5-6,false,final
+1994,Orlando Magic,Magic,Orlando,NBA,1493.5,1582.5,1593.2,1493.5,50-32,0-3,false,final
+1994,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1585.6,1576.8,1609.1,1547.3,47-35,0-3,false,final
+1994,Denver Nuggets,Nuggets,Denver,NBA,1463.5,1573.4,1573.4,1461,42-40,6-6,false,final
+1994,Portland Trail Blazers,Trail Blazers,Portland,NBA,1547.5,1555.9,1590.3,1535.9,47-35,1-3,false,final
+1994,New Jersey Nets,Nets,New Jersey,NBA,1514.3,1541.2,1548.5,1491.3,45-37,1-3,false,final
+1994,Golden State Warriors,Warriors,Golden State,NBA,1475.2,1538.7,1546.7,1467.4,50-32,0-3,false,final
+1994,Miami Heat,Heat,Miami,NBA,1482.6,1524.1,1576.7,1482.6,42-40,2-3,false,final
+1994,Charlotte Hornets,Hornets,Charlotte,NBA,1505.7,1504.6,1535.7,1431.4,41-41,,false,final
+1994,Boston Celtics,Celtics,Boston,NBA,1525.4,1423.8,1534.3,1413.7,32-50,,false,final
+1994,Los Angeles Lakers,Lakers,Los Angeles,NBA,1466.3,1418.7,1467.7,1407.9,33-49,,false,final
+1994,Sacramento Kings,Kings,Sacramento,NBA,1413.3,1391.2,1418.1,1360.2,28-54,,false,final
+1994,Los Angeles Clippers,Clippers,Los Angeles,NBA,1511.5,1377.7,1511.5,1377.7,27-55,,false,final
+1994,Washington Wizards,Wizards,Washington,NBA,1383.4,1352.8,1402,1317.8,24-58,,false,final
+1994,Philadelphia 76ers,76ers,Philadelphia,NBA,1413.6,1341.4,1443,1335,25-57,,false,final
+1994,Detroit Pistons,Pistons,Detroit,NBA,1503.8,1327.9,1511.9,1327.9,20-62,,false,final
+1994,Milwaukee Bucks,Bucks,Milwaukee,NBA,1421.8,1325.4,1421.8,1325.4,20-62,,false,final
+1994,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1362.3,1296.2,1377.5,1296.2,20-62,,false,final
+1994,Dallas Mavericks,Mavericks,Dallas,NBA,1308.2,1269.4,1312.5,1235.5,13-69,,false,final
+1995,San Antonio Spurs,Spurs,San Antonio,NBA,1569.9,1670,1689.8,1557.7,62-20,9-6,false,final
+1995,Seattle Thunder,Thunder,Seattle,NBA,1609.6,1660.5,1683.7,1590.3,57-25,1-3,false,final
+1995,Utah Jazz,Jazz,Utah,NBA,1568.2,1641,1657.5,1558.8,60-22,2-3,false,final
+1995,Orlando Magic,Magic,Orlando,NBA,1558.6,1629.4,1658.8,1557.3,57-25,11-10,false,final
+1995,New York Knicks,Knicks,New York,NBA,1603.5,1621.2,1621.2,1562.7,55-27,6-5,false,final
+1995,Phoenix Suns,Suns,Phoenix,NBA,1585.5,1613,1634.3,1577.6,59-23,6-4,false,final
+1995,Indiana Pacers,Pacers,Indiana,NBA,1580.4,1611.2,1624.3,1568,52-30,10-7,false,final
+1995,Houston Rockets,Rockets,Houston,NBA,1595.6,1604.4,1640.8,1549.4,47-35,15-7,true,final
+1995,Chicago Bulls,Bulls,Chicago,NBA,1564.7,1583.3,1608.6,1541.8,47-35,5-5,false,final
+1995,Charlotte Hornets,Hornets,Charlotte,NBA,1504.7,1559.8,1578.9,1495,50-32,1-3,false,final
+1995,Portland Trail Blazers,Trail Blazers,Portland,NBA,1540.1,1548.6,1588.8,1540.1,44-38,0-3,false,final
+1995,Denver Nuggets,Nuggets,Denver,NBA,1552.3,1535.3,1562.3,1486.5,41-41,0-3,false,final
+1995,Atlanta Hawks,Hawks,Atlanta,NBA,1564.4,1527.1,1564.4,1500.3,42-40,0-3,false,final
+1995,Los Angeles Lakers,Lakers,Los Angeles,NBA,1445.4,1509,1528.1,1445.4,48-34,5-5,false,final
+1995,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1554.6,1501.3,1586.1,1501.3,43-39,1-3,false,final
+1995,Sacramento Kings,Kings,Sacramento,NBA,1426.4,1470,1495.4,1426.4,39-43,,false,final
+1995,Miami Heat,Heat,Miami,NBA,1518.2,1459.7,1518.2,1459.7,32-50,,false,final
+1995,Boston Celtics,Celtics,Boston,NBA,1448.9,1454,1473,1421.5,35-47,1-3,false,final
+1995,Dallas Mavericks,Mavericks,Dallas,NBA,1342.3,1435,1447.8,1342.3,36-46,,false,final
+1995,New Jersey Nets,Nets,New Jersey,NBA,1530,1411.9,1530,1411.9,30-52,,false,final
+1995,Milwaukee Bucks,Bucks,Milwaukee,NBA,1381,1404.9,1407.5,1368.1,34-48,,false,final
+1995,Golden State Warriors,Warriors,Golden State,NBA,1528.3,1388.2,1557.1,1386.6,26-56,,false,final
+1995,Philadelphia 76ers,76ers,Philadelphia,NBA,1392,1359.2,1412,1332.1,24-58,,false,final
+1995,Detroit Pistons,Pistons,Detroit,NBA,1382.7,1344.6,1399.2,1341.9,28-54,,false,final
+1995,Los Angeles Clippers,Clippers,Los Angeles,NBA,1417.1,1332.2,1417.1,1324.2,17-65,,false,final
+1995,Washington Wizards,Wizards,Washington,NBA,1399.9,1332.2,1425.4,1317.4,21-61,,false,final
+1995,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1360.8,1317.9,1360.8,1302.5,21-61,,false,final
+1996,Chicago Bulls,Bulls,Chicago,NBA,1559.1,1763,1782.1,1559.1,72-10,15-3,true,final
+1996,Seattle Thunder,Thunder,Seattle,NBA,1612.4,1694.8,1704.7,1606,64-18,13-8,false,final
+1996,Utah Jazz,Jazz,Utah,NBA,1598.9,1658.3,1658.3,1598.9,55-27,10-8,false,final
+1996,Orlando Magic,Magic,Orlando,NBA,1590.9,1636.5,1655.2,1580.5,60-22,7-5,false,final
+1996,San Antonio Spurs,Spurs,San Antonio,NBA,1619,1623.3,1675.9,1606.3,59-23,5-5,false,final
+1996,Los Angeles Lakers,Lakers,Los Angeles,NBA,1507.8,1611.8,1619.6,1495.6,53-29,1-3,false,final
+1996,Indiana Pacers,Pacers,Indiana,NBA,1578.4,1580.1,1613.2,1547.4,52-30,2-3,false,final
+1996,New York Knicks,Knicks,New York,NBA,1585.3,1553.8,1616.9,1529.3,47-35,4-4,false,final
+1996,Portland Trail Blazers,Trail Blazers,Portland,NBA,1535.1,1549.9,1556.9,1494,44-38,2-3,false,final
+1996,Atlanta Hawks,Hawks,Atlanta,NBA,1520.3,1545.2,1557.5,1479.7,46-36,4-6,false,final
+1996,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1502.4,1529.3,1549.3,1468,47-35,0-3,false,final
+1996,Phoenix Suns,Suns,Phoenix,NBA,1579.6,1520.5,1579.6,1487.9,41-41,1-3,false,final
+1996,Miami Heat,Heat,Miami,NBA,1473.7,1511.5,1526.9,1450.8,42-40,0-3,false,final
+1996,Detroit Pistons,Pistons,Detroit,NBA,1394.2,1510.4,1521.6,1386.4,46-36,0-3,false,final
+1996,Houston Rockets,Rockets,Houston,NBA,1573.6,1504.4,1619.1,1504.4,48-34,3-5,false,final
+1996,Charlotte Hornets,Hornets,Charlotte,NBA,1542.9,1487.1,1542.9,1487.1,41-41,,false,final
+1996,Washington Wizards,Wizards,Washington,NBA,1385.6,1483,1509.5,1385.6,39-43,,false,final
+1996,Golden State Warriors,Warriors,Golden State,NBA,1424.3,1445.3,1464.2,1409.6,36-46,,false,final
+1996,Sacramento Kings,Kings,Sacramento,NBA,1480.8,1441.7,1520.7,1398,39-43,1-3,false,final
+1996,Denver Nuggets,Nuggets,Denver,NBA,1525.9,1433.9,1525.9,1433.9,35-47,,false,final
+1996,Boston Celtics,Celtics,Boston,NBA,1469.8,1426.7,1469.8,1404.6,33-49,,false,final
+1996,Los Angeles Clippers,Clippers,Los Angeles,NBA,1385.7,1382.5,1414.4,1358.6,29-53,,false,final
+1996,Dallas Mavericks,Mavericks,Dallas,NBA,1456.7,1368,1470.7,1348.9,26-56,,false,final
+1996,New Jersey Nets,Nets,New Jersey,NBA,1440.7,1366.3,1443.7,1366.3,30-52,,false,final
+1996,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1375.8,1362.3,1384.9,1349.6,26-56,,false,final
+1996,Milwaukee Bucks,Bucks,Milwaukee,NBA,1435.9,1360,1435.9,1334.4,25-57,,false,final
+1996,Philadelphia 76ers,76ers,Philadelphia,NBA,1404.3,1285.6,1409.2,1277.2,18-64,,false,final
+1996,Toronto Raptors,Raptors,Toronto,NBA,1300,1282,1318,1282,21-61,,false,final
+1996,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1300,1241.9,1318.9,1215.8,15-67,,false,final
+1997,Chicago Bulls,Bulls,Chicago,NBA,1683.2,1749.9,1766,1683.2,69-13,15-4,true,final
+1997,Utah Jazz,Jazz,Utah,NBA,1610.9,1710.3,1715.8,1605.5,64-18,13-7,false,final
+1997,Miami Heat,Heat,Miami,NBA,1509.5,1647.4,1649.8,1509.5,61-21,8-9,false,final
+1997,Seattle Thunder,Thunder,Seattle,NBA,1636.1,1646.8,1667.6,1627.8,57-25,6-6,false,final
+1997,Atlanta Hawks,Hawks,Atlanta,NBA,1532.8,1614.7,1629,1517.3,56-26,4-6,false,final
+1997,Houston Rockets,Rockets,Houston,NBA,1504.6,1612.8,1620,1504.6,57-25,9-7,false,final
+1997,Los Angeles Lakers,Lakers,Los Angeles,NBA,1578.8,1611.3,1620,1575.8,56-26,4-5,false,final
+1997,New York Knicks,Knicks,New York,NBA,1538.7,1582.4,1614.8,1534.3,57-25,6-4,false,final
+1997,Detroit Pistons,Pistons,Detroit,NBA,1508.7,1581.5,1611.1,1508.7,54-28,2-3,false,final
+1997,Portland Trail Blazers,Trail Blazers,Portland,NBA,1536,1560.9,1574.9,1518.8,49-33,1-3,false,final
+1997,Charlotte Hornets,Hornets,Charlotte,NBA,1492.6,1555.2,1585.4,1488.1,54-28,0-3,false,final
+1997,Washington Wizards,Wizards,Washington,NBA,1489.8,1539.8,1542,1470.2,44-38,0-3,false,final
+1997,Orlando Magic,Magic,Orlando,NBA,1595.9,1526.5,1597,1507.9,45-37,2-3,false,final
+1997,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1521.8,1525.9,1567.5,1510.8,42-40,,false,final
+1997,Indiana Pacers,Pacers,Indiana,NBA,1556.9,1521.8,1559,1521,39-43,,false,final
+1997,Phoenix Suns,Suns,Phoenix,NBA,1515.7,1515.6,1537.6,1451.1,40-42,2-3,false,final
+1997,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1406.4,1442.9,1460.9,1399.2,40-42,0-3,false,final
+1997,Los Angeles Clippers,Clippers,Los Angeles,NBA,1420.4,1433.3,1457.4,1400.5,36-46,0-3,false,final
+1997,Sacramento Kings,Kings,Sacramento,NBA,1461.3,1424.9,1466.1,1413.3,34-48,,false,final
+1997,Toronto Raptors,Raptors,Toronto,NBA,1351,1414.4,1414.4,1337.3,30-52,,false,final
+1997,Milwaukee Bucks,Bucks,Milwaukee,NBA,1404.8,1412.4,1471.4,1400.8,33-49,,false,final
+1997,New Jersey Nets,Nets,New Jersey,NBA,1409.2,1400.8,1409.2,1363.4,26-56,,false,final
+1997,Golden State Warriors,Warriors,Golden State,NBA,1463.7,1395.4,1463.7,1389.6,30-52,,false,final
+1997,San Antonio Spurs,Spurs,San Antonio,NBA,1586.7,1340.6,1586.7,1340.6,20-62,,false,final
+1997,Dallas Mavericks,Mavericks,Dallas,NBA,1410.4,1331.1,1410.4,1326.7,24-58,,false,final
+1997,Denver Nuggets,Nuggets,Denver,NBA,1455.9,1330.8,1463.2,1330.8,21-61,,false,final
+1997,Philadelphia 76ers,76ers,Philadelphia,NBA,1353.5,1328,1378.8,1317.4,22-60,,false,final
+1997,Boston Celtics,Celtics,Boston,NBA,1450.9,1293.1,1450.9,1293.1,15-67,,false,final
+1997,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1323.3,1258.7,1323.3,1234.4,14-68,,false,final
+1998,Chicago Bulls,Bulls,Chicago,NBA,1674.2,1723.9,1724.2,1649.9,62-20,15-6,true,final
+1998,Utah Jazz,Jazz,Utah,NBA,1646.8,1702.7,1715.8,1612.4,62-20,13-7,false,final
+1998,Los Angeles Lakers,Lakers,Los Angeles,NBA,1578.4,1678.5,1694.3,1578.4,61-21,7-6,false,final
+1998,Indiana Pacers,Pacers,Indiana,NBA,1516.6,1654.5,1654.5,1516.6,58-24,10-6,false,final
+1998,Miami Heat,Heat,Miami,NBA,1603.4,1607.1,1658.4,1589.9,55-27,2-3,false,final
+1998,San Antonio Spurs,Spurs,San Antonio,NBA,1391.4,1605.5,1607.9,1391.4,56-26,4-5,false,final
+1998,Seattle Thunder,Thunder,Seattle,NBA,1602.9,1600.1,1671,1596.6,61-21,4-6,false,final
+1998,Phoenix Suns,Suns,Phoenix,NBA,1512.3,1599,1615.6,1512.3,56-26,1-3,false,final
+1998,Atlanta Hawks,Hawks,Atlanta,NBA,1580.8,1583.4,1607.6,1564.2,50-32,1-3,false,final
+1998,Charlotte Hornets,Hornets,Charlotte,NBA,1539.7,1577.4,1590.9,1523.1,51-31,4-5,false,final
+1998,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1519.4,1552.6,1572.6,1512.8,47-35,1-3,false,final
+1998,New York Knicks,Knicks,New York,NBA,1558.5,1531.3,1607,1531.1,43-39,4-6,false,final
+1998,Detroit Pistons,Pistons,Detroit,NBA,1557.8,1530.9,1569.8,1505.4,37-45,,false,final
+1998,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1462.1,1517.1,1517.1,1462.1,45-37,2-3,false,final
+1998,Portland Trail Blazers,Trail Blazers,Portland,NBA,1543.6,1513.8,1567,1513.8,46-36,1-3,false,final
+1998,Washington Wizards,Wizards,Washington,NBA,1529,1505.7,1543.7,1480.8,42-40,,false,final
+1998,New Jersey Nets,Nets,New Jersey,NBA,1433,1503.9,1530,1433,43-39,0-3,false,final
+1998,Orlando Magic,Magic,Orlando,NBA,1519.8,1501.8,1522.5,1456.9,41-41,,false,final
+1998,Houston Rockets,Rockets,Houston,NBA,1579.4,1492.6,1589.4,1487,41-41,2-3,false,final
+1998,Milwaukee Bucks,Bucks,Milwaukee,NBA,1441,1438.3,1490.4,1436.8,36-46,,false,final
+1998,Philadelphia 76ers,76ers,Philadelphia,NBA,1382.8,1431.6,1431.6,1364.8,31-51,,false,final
+1998,Boston Celtics,Celtics,Boston,NBA,1358.7,1424.7,1441.4,1349.6,36-46,,false,final
+1998,Sacramento Kings,Kings,Sacramento,NBA,1449.7,1353.1,1456,1353.1,27-55,,false,final
+1998,Dallas Mavericks,Mavericks,Dallas,NBA,1384.9,1342.1,1400.6,1312,20-62,,false,final
+1998,Golden State Warriors,Warriors,Golden State,NBA,1429.3,1318,1429.3,1298.2,19-63,,false,final
+1998,Los Angeles Clippers,Clippers,Los Angeles,NBA,1455.5,1296.6,1455.5,1296.6,17-65,,false,final
+1998,Toronto Raptors,Raptors,Toronto,NBA,1442.4,1289.7,1442.4,1289.7,16-66,,false,final
+1998,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1334.9,1285,1351.8,1268.1,19-63,,false,final
+1998,Denver Nuggets,Nuggets,Denver,NBA,1384.7,1252.4,1384.7,1233.3,11-71,,false,final
+1999,San Antonio Spurs,Spurs,San Antonio,NBA,1574.4,1700.2,1700.2,1569.5,37-13,15-2,true,final
+1999,Indiana Pacers,Pacers,Indiana,NBA,1608.2,1624.7,1634.2,1599.8,33-17,9-4,false,final
+1999,Utah Jazz,Jazz,Utah,NBA,1641.6,1616,1677.2,1616,37-13,5-6,false,final
+1999,Miami Heat,Heat,Miami,NBA,1575.5,1601.5,1620.4,1558.1,33-17,2-3,false,final
+1999,Portland Trail Blazers,Trail Blazers,Portland,NBA,1511,1586.8,1609,1509.3,35-15,7-6,false,final
+1999,Los Angeles Lakers,Lakers,Los Angeles,NBA,1624.8,1581.5,1631.1,1581.5,31-19,3-5,false,final
+1999,Detroit Pistons,Pistons,Detroit,NBA,1522.9,1575.7,1575.7,1516.5,29-21,2-3,false,final
+1999,New York Knicks,Knicks,New York,NBA,1523.1,1569.9,1579.2,1514.6,27-23,12-8,false,final
+1999,Atlanta Hawks,Hawks,Atlanta,NBA,1559.2,1564.5,1591.1,1549.5,31-19,3-6,false,final
+1999,Phoenix Suns,Suns,Phoenix,NBA,1569.9,1548.4,1574.5,1523.1,27-23,0-3,false,final
+1999,Charlotte Hornets,Hornets,Charlotte,NBA,1555,1547.8,1555,1497.9,26-24,,false,final
+1999,Philadelphia 76ers,76ers,Philadelphia,NBA,1454.3,1540.8,1550.5,1454.3,28-22,3-5,false,final
+1999,Orlando Magic,Magic,Orlando,NBA,1502.8,1539.9,1587.9,1498.8,33-17,1-3,false,final
+1999,Houston Rockets,Rockets,Houston,NBA,1496.4,1512,1538.8,1496,31-19,1-3,false,final
+1999,Milwaukee Bucks,Bucks,Milwaukee,NBA,1458.9,1506.5,1515.1,1458.9,28-22,0-3,false,final
+1999,Seattle Thunder,Thunder,Seattle,NBA,1570.7,1503.4,1580.6,1498.3,25-25,,false,final
+1999,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1513.3,1483.3,1540.3,1478,25-25,1-3,false,final
+1999,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1537.9,1481.1,1551.7,1481.1,22-28,,false,final
+1999,Sacramento Kings,Kings,Sacramento,NBA,1400.1,1477.8,1477.8,1400.1,27-23,2-3,false,final
+1999,Boston Celtics,Celtics,Boston,NBA,1449.5,1452.6,1468.8,1416.7,19-31,,false,final
+1999,New Jersey Nets,Nets,New Jersey,NBA,1504.2,1451.7,1507.7,1419.6,16-34,,false,final
+1999,Washington Wizards,Wizards,Washington,NBA,1505.5,1449,1505.5,1446.4,18-32,,false,final
+1999,Toronto Raptors,Raptors,Toronto,NBA,1356.3,1432,1452.8,1356.3,23-27,,false,final
+1999,Dallas Mavericks,Mavericks,Dallas,NBA,1392.5,1416.4,1421.7,1376.4,19-31,,false,final
+1999,Chicago Bulls,Bulls,Chicago,NBA,1656.2,1409.8,1656.2,1409.8,13-37,,false,final
+1999,Golden State Warriors,Warriors,Golden State,NBA,1375.8,1409.3,1414.5,1365.5,21-29,,false,final
+1999,Los Angeles Clippers,Clippers,Los Angeles,NBA,1361.1,1320.1,1361.1,1303.9,9-41,,false,final
+1999,Denver Nuggets,Nuggets,Denver,NBA,1330.5,1310.4,1337.9,1310.4,14-36,,false,final
+1999,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1353,1271.5,1353,1271.5,8-42,,false,final
+2000,Los Angeles Lakers,Lakers,Los Angeles,NBA,1557.9,1681.6,1719.3,1553.6,67-15,15-8,true,final
+2000,Portland Trail Blazers,Trail Blazers,Portland,NBA,1561.5,1661.1,1676.7,1561.5,59-23,10-6,false,final
+2000,San Antonio Spurs,Spurs,San Antonio,NBA,1639.9,1616.9,1665.6,1612.6,53-29,1-3,false,final
+2000,Indiana Pacers,Pacers,Indiana,NBA,1587.7,1614.4,1634.3,1575.1,56-26,13-10,false,final
+2000,Phoenix Suns,Suns,Phoenix,NBA,1535,1611.7,1627.7,1535,53-29,4-5,false,final
+2000,Miami Heat,Heat,Miami,NBA,1571.7,1596.8,1607.1,1568.4,52-30,6-4,false,final
+2000,Utah Jazz,Jazz,Utah,NBA,1581.7,1580.7,1629.4,1565,55-27,4-6,false,final
+2000,Philadelphia 76ers,76ers,Philadelphia,NBA,1529.7,1575.9,1575.9,1505,49-33,5-5,false,final
+2000,Charlotte Hornets,Hornets,Charlotte,NBA,1534.6,1562.3,1590.8,1523.2,49-33,1-3,false,final
+2000,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1490,1559.1,1574.1,1445.8,50-32,1-3,false,final
+2000,New York Knicks,Knicks,New York,NBA,1549.8,1553.5,1583.3,1544.2,50-32,9-7,false,final
+2000,Sacramento Kings,Kings,Sacramento,NBA,1486.2,1540.4,1546.7,1483,44-38,2-3,false,final
+2000,Detroit Pistons,Pistons,Detroit,NBA,1553.8,1526.7,1571.6,1512.8,42-40,0-3,false,final
+2000,Milwaukee Bucks,Bucks,Milwaukee,NBA,1506,1526.6,1543.4,1466.6,42-40,2-3,false,final
+2000,Orlando Magic,Magic,Orlando,NBA,1529.1,1519.4,1540.4,1485.6,41-41,,false,final
+2000,Dallas Mavericks,Mavericks,Dallas,NBA,1443.8,1517.7,1517.7,1420.3,40-42,,false,final
+2000,Seattle Thunder,Thunder,Seattle,NBA,1503.9,1515.5,1534.6,1497.6,45-37,2-3,false,final
+2000,Toronto Raptors,Raptors,Toronto,NBA,1454.6,1490.6,1524.8,1454.6,45-37,0-3,false,final
+2000,Houston Rockets,Rockets,Houston,NBA,1509.8,1483.9,1509.8,1444.7,34-48,,false,final
+2000,Boston Celtics,Celtics,Boston,NBA,1468.8,1481.6,1486,1440.2,35-47,,false,final
+2000,New Jersey Nets,Nets,New Jersey,NBA,1468.2,1447.4,1503.7,1410.4,31-51,,false,final
+2000,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1488.5,1428.2,1500.7,1422.6,32-50,,false,final
+2000,Washington Wizards,Wizards,Washington,NBA,1466.3,1426.3,1466.3,1401.9,29-53,,false,final
+2000,Denver Nuggets,Nuggets,Denver,NBA,1370.6,1417.8,1428.8,1367.6,35-47,,false,final
+2000,Atlanta Hawks,Hawks,Atlanta,NBA,1546.1,1375.1,1546.1,1374.3,28-54,,false,final
+2000,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1343.7,1341,1381.6,1306.3,22-60,,false,final
+2000,Golden State Warriors,Warriors,Golden State,NBA,1438.9,1327.6,1438.9,1327.6,19-63,,false,final
+2000,Chicago Bulls,Bulls,Chicago,NBA,1439.3,1307.3,1439.3,1307.3,17-65,,false,final
+2000,Los Angeles Clippers,Clippers,Los Angeles,NBA,1377.3,1247.2,1377.3,1235.2,15-67,,false,final
+2001,Los Angeles Lakers,Lakers,Los Angeles,NBA,1627,1708.2,1708.2,1593.9,56-26,15-1,true,final
+2001,San Antonio Spurs,Spurs,San Antonio,NBA,1582.3,1648.6,1691,1582.3,58-24,7-6,false,final
+2001,Sacramento Kings,Kings,Sacramento,NBA,1529.4,1625.7,1644.5,1529.4,55-27,3-5,false,final
+2001,Dallas Mavericks,Mavericks,Dallas,NBA,1513.8,1619.1,1624.4,1496.5,53-29,4-6,false,final
+2001,Milwaukee Bucks,Bucks,Milwaukee,NBA,1519.9,1611.9,1624.4,1476.6,52-30,10-8,false,final
+2001,Philadelphia 76ers,76ers,Philadelphia,NBA,1553.9,1583.8,1630.5,1553.9,56-26,12-11,false,final
+2001,Utah Jazz,Jazz,Utah,NBA,1557.3,1582.4,1627.8,1557.3,53-29,2-3,false,final
+2001,Charlotte Hornets,Hornets,Charlotte,NBA,1544.6,1579.4,1596.4,1524.3,46-36,6-4,false,final
+2001,Toronto Raptors,Raptors,Toronto,NBA,1495,1578.4,1582,1486.8,47-35,6-6,false,final
+2001,Portland Trail Blazers,Trail Blazers,Portland,NBA,1612.9,1566.2,1650.9,1566.2,50-32,0-3,false,final
+2001,Phoenix Suns,Suns,Phoenix,NBA,1578.7,1566,1599.9,1540.4,51-31,1-3,false,final
+2001,Houston Rockets,Rockets,Houston,NBA,1490.4,1565.8,1568.6,1486.3,45-37,,false,final
+2001,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1542.4,1553.6,1573.1,1511.9,47-35,1-3,false,final
+2001,Seattle Thunder,Thunder,Seattle,NBA,1512.2,1538.2,1539.9,1491.2,44-38,,false,final
+2001,Miami Heat,Heat,Miami,NBA,1568.4,1532.6,1596.2,1532.6,50-32,0-3,false,final
+2001,New York Knicks,Knicks,New York,NBA,1538.5,1515.7,1564.2,1515.7,48-34,2-3,false,final
+2001,Orlando Magic,Magic,Orlando,NBA,1514.9,1512.9,1544.2,1484.5,43-39,1-3,false,final
+2001,Indiana Pacers,Pacers,Indiana,NBA,1580.6,1497,1585.7,1484.4,41-41,1-3,false,final
+2001,Boston Celtics,Celtics,Boston,NBA,1488.8,1461.4,1496.4,1406.6,36-46,,false,final
+2001,Denver Nuggets,Nuggets,Denver,NBA,1444.8,1459.6,1507.3,1436.9,40-42,,false,final
+2001,Detroit Pistons,Pistons,Detroit,NBA,1520,1449.9,1520,1427.6,32-50,,false,final
+2001,Los Angeles Clippers,Clippers,Los Angeles,NBA,1326.9,1431.6,1431.6,1320.6,31-51,,false,final
+2001,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1452,1393.7,1487.7,1370.3,30-52,,false,final
+2001,New Jersey Nets,Nets,New Jersey,NBA,1465.2,1371,1475.2,1371,26-56,,false,final
+2001,Vancouver Grizzlies,Grizzlies,Vancouver,NBA,1391.7,1367.6,1421.3,1360.6,23-59,,false,final
+2001,Atlanta Hawks,Hawks,Atlanta,NBA,1415.2,1359.7,1415.3,1359.7,25-57,,false,final
+2001,Washington Wizards,Wizards,Washington,NBA,1450.7,1328.9,1456.3,1328.9,19-63,,false,final
+2001,Chicago Bulls,Bulls,Chicago,NBA,1368.4,1285.9,1368.4,1264.8,15-67,,false,final
+2001,Golden State Warriors,Warriors,Golden State,NBA,1382.4,1273.5,1389.9,1273.5,17-65,,false,final
+2002,Sacramento Kings,Kings,Sacramento,NBA,1588.4,1690.2,1695.3,1588.4,61-21,10-6,false,final
+2002,Los Angeles Lakers,Lakers,Los Angeles,NBA,1645.4,1679.4,1687.9,1645.4,58-24,15-4,true,final
+2002,San Antonio Spurs,Spurs,San Antonio,NBA,1604.2,1663.3,1676.9,1604.2,58-24,4-6,false,final
+2002,Dallas Mavericks,Mavericks,Dallas,NBA,1583.8,1647.2,1657.5,1568.5,57-25,4-4,false,final
+2002,Portland Trail Blazers,Trail Blazers,Portland,NBA,1547.3,1581.7,1616.8,1509.5,49-33,0-3,false,final
+2002,New Jersey Nets,Nets,New Jersey,NBA,1412.4,1581.5,1590.3,1412.4,52-30,11-9,false,final
+2002,Boston Celtics,Celtics,Boston,NBA,1474.9,1571.4,1589.4,1471.7,49-33,9-7,false,final
+2002,Seattle Thunder,Thunder,Seattle,NBA,1527.9,1571.1,1601.2,1499.2,45-37,2-3,false,final
+2002,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1538.6,1547.7,1620.6,1538.6,50-32,0-3,false,final
+2002,Utah Jazz,Jazz,Utah,NBA,1558.4,1544.4,1574.7,1514.5,44-38,1-3,false,final
+2002,Charlotte Hornets,Hornets,Charlotte,NBA,1556.4,1538.1,1559.5,1491.6,44-38,4-5,false,final
+2002,Detroit Pistons,Pistons,Detroit,NBA,1467,1535.6,1558.7,1467,50-32,4-6,false,final
+2002,Philadelphia 76ers,76ers,Philadelphia,NBA,1559.4,1524.8,1566.3,1511,43-39,2-3,false,final
+2002,Toronto Raptors,Raptors,Toronto,NBA,1555.7,1507.6,1574.4,1474.2,42-40,2-3,false,final
+2002,Orlando Magic,Magic,Orlando,NBA,1510.4,1497.4,1541.6,1497.4,44-38,1-3,false,final
+2002,Indiana Pacers,Pacers,Indiana,NBA,1499.5,1497.2,1529,1477.2,42-40,2-3,false,final
+2002,Los Angeles Clippers,Clippers,Los Angeles,NBA,1454.3,1487.1,1517.9,1444.8,39-43,,false,final
+2002,Phoenix Suns,Suns,Phoenix,NBA,1547.1,1486,1575.6,1479.3,36-46,,false,final
+2002,Milwaukee Bucks,Bucks,Milwaukee,NBA,1578.9,1481.5,1596.5,1481.5,41-41,,false,final
+2002,Miami Heat,Heat,Miami,NBA,1524.1,1468.8,1524.1,1416.5,36-46,,false,final
+2002,Washington Wizards,Wizards,Washington,NBA,1383.4,1441.3,1471.3,1367.5,37-45,,false,final
+2002,New York Knicks,Knicks,New York,NBA,1512.4,1426.7,1512.4,1412.9,30-52,,false,final
+2002,Atlanta Hawks,Hawks,Atlanta,NBA,1404.6,1417,1424.1,1367.5,33-49,,false,final
+2002,Houston Rockets,Rockets,Houston,NBA,1547,1409.7,1552.4,1409.7,28-54,,false,final
+2002,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1428.1,1409.3,1428.1,1366.4,29-53,,false,final
+2002,Denver Nuggets,Nuggets,Denver,NBA,1473.6,1394.4,1484.2,1376.8,27-55,,false,final
+2002,Memphis Grizzlies,Grizzlies,Memphis,NBA,1410.1,1349.9,1410.1,1328.1,23-59,,false,final
+2002,Golden State Warriors,Warriors,Golden State,NBA,1345.1,1337.8,1383.4,1320.2,21-61,,false,final
+2002,Chicago Bulls,Bulls,Chicago,NBA,1353.6,1303.8,1353.6,1283.3,21-61,,false,final
+2003,San Antonio Spurs,Spurs,San Antonio,NBA,1614.4,1706.8,1706.8,1586.5,60-22,16-8,true,final
+2003,Dallas Mavericks,Mavericks,Dallas,NBA,1603.2,1677,1683.8,1603.2,60-22,10-10,false,final
+2003,Sacramento Kings,Kings,Sacramento,NBA,1633,1665.5,1681.8,1627.3,59-23,7-5,false,final
+2003,New Jersey Nets,Nets,New Jersey,NBA,1557.9,1604.5,1628.5,1557.9,49-33,14-6,false,final
+2003,Los Angeles Lakers,Lakers,Los Angeles,NBA,1625.4,1599.3,1631.3,1543.9,50-32,6-6,false,final
+2003,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1534.5,1582.8,1597.7,1516.9,51-31,2-4,false,final
+2003,Portland Trail Blazers,Trail Blazers,Portland,NBA,1558,1578.4,1604.1,1539.4,50-32,3-4,false,final
+2003,Philadelphia 76ers,76ers,Philadelphia,NBA,1518.7,1572.1,1579.6,1502,48-34,6-6,false,final
+2003,Detroit Pistons,Pistons,Detroit,NBA,1526.1,1568.3,1608.6,1526.1,50-32,8-9,false,final
+2003,New Orleans Pelicans,Pelicans,New Orleans,NBA,1527.9,1545.6,1561.7,1510.9,47-35,2-4,false,final
+2003,Phoenix Suns,Suns,Phoenix,NBA,1491.9,1537,1552.4,1481.9,44-38,2-4,false,final
+2003,Utah Jazz,Jazz,Utah,NBA,1532.2,1529.4,1581.9,1516.9,47-35,1-4,false,final
+2003,Houston Rockets,Rockets,Houston,NBA,1439.1,1526.7,1531.6,1439.1,43-39,,false,final
+2003,Seattle Thunder,Thunder,Seattle,NBA,1550.7,1521,1581.8,1470.1,40-42,,false,final
+2003,Indiana Pacers,Pacers,Indiana,NBA,1499.6,1515.5,1570,1499.6,48-34,2-4,false,final
+2003,Milwaukee Bucks,Bucks,Milwaukee,NBA,1488.8,1497.1,1509,1472,42-40,2-4,false,final
+2003,Orlando Magic,Magic,Orlando,NBA,1499.8,1494.1,1521.4,1473.2,42-40,3-4,false,final
+2003,Boston Celtics,Celtics,Boston,NBA,1550.8,1493.8,1567.5,1491.9,44-38,4-6,false,final
+2003,New York Knicks,Knicks,New York,NBA,1450.9,1464,1473.5,1410.4,37-45,,false,final
+2003,Golden State Warriors,Warriors,Golden State,NBA,1389.5,1456,1478.2,1382.6,38-44,,false,final
+2003,Washington Wizards,Wizards,Washington,NBA,1461,1445.2,1498.1,1445.2,37-45,,false,final
+2003,Atlanta Hawks,Hawks,Atlanta,NBA,1444.2,1431.6,1470.2,1403.2,35-47,,false,final
+2003,Memphis Grizzlies,Grizzlies,Memphis,NBA,1397.9,1416.4,1439.5,1361,28-54,,false,final
+2003,Los Angeles Clippers,Clippers,Los Angeles,NBA,1492.7,1413.6,1492.7,1388.8,27-55,,false,final
+2003,Chicago Bulls,Bulls,Chicago,NBA,1366,1386.9,1395.6,1347.8,30-52,,false,final
+2003,Miami Heat,Heat,Miami,NBA,1480,1386.2,1480,1381,25-57,,false,final
+2003,Toronto Raptors,Raptors,Toronto,NBA,1506.8,1373.6,1506.8,1373.6,24-58,,false,final
+2003,Denver Nuggets,Nuggets,Denver,NBA,1428.6,1310.8,1435.9,1310.8,17-65,,false,final
+2003,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1438.9,1309.3,1438.9,1286.3,17-65,,false,final
+2004,Detroit Pistons,Pistons,Detroit,NBA,1548.7,1691,1691,1548.7,54-28,16-7,true,final
+2004,San Antonio Spurs,Spurs,San Antonio,NBA,1644.4,1685.5,1708.4,1621.9,57-25,6-4,false,final
+2004,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1558.8,1659,1664.5,1553.7,58-24,10-8,false,final
+2004,Indiana Pacers,Pacers,Indiana,NBA,1512.2,1636.6,1657.5,1509.8,61-21,10-6,false,final
+2004,Dallas Mavericks,Mavericks,Dallas,NBA,1623.8,1624.4,1630.1,1582.1,52-30,1-4,false,final
+2004,Sacramento Kings,Kings,Sacramento,NBA,1615.8,1615.8,1668.6,1598.5,55-27,7-5,false,final
+2004,Los Angeles Lakers,Lakers,Los Angeles,NBA,1570.2,1613.2,1641.2,1561.9,56-26,13-9,false,final
+2004,New Jersey Nets,Nets,New Jersey,NBA,1573.7,1560.1,1614.1,1548.3,47-35,7-4,false,final
+2004,Memphis Grizzlies,Grizzlies,Memphis,NBA,1443.8,1551.4,1582.1,1443.8,50-32,0-4,false,final
+2004,Houston Rockets,Rockets,Houston,NBA,1520,1541,1588.1,1513.9,45-37,1-4,false,final
+2004,Miami Heat,Heat,Miami,NBA,1422.9,1533.1,1536.3,1400.6,42-40,6-7,false,final
+2004,Denver Nuggets,Nuggets,Denver,NBA,1370.8,1521.9,1526.5,1370.8,43-39,1-4,false,final
+2004,Portland Trail Blazers,Trail Blazers,Portland,NBA,1555.7,1518.9,1555.7,1477,41-41,,false,final
+2004,Seattle Thunder,Thunder,Seattle,NBA,1516.1,1505.7,1530.3,1465.9,37-45,,false,final
+2004,Utah Jazz,Jazz,Utah,NBA,1521.9,1495.6,1538.8,1466.7,42-40,,false,final
+2004,Milwaukee Bucks,Bucks,Milwaukee,NBA,1499.5,1491.9,1529.4,1491.9,41-41,1-4,false,final
+2004,Golden State Warriors,Warriors,Golden State,NBA,1471.1,1491.6,1494.4,1448.3,37-45,,false,final
+2004,New Orleans Pelicans,Pelicans,New Orleans,NBA,1533.1,1483.5,1571.2,1479,41-41,3-4,false,final
+2004,New York Knicks,Knicks,New York,NBA,1476.7,1455.6,1490,1444.1,39-43,0-4,false,final
+2004,Phoenix Suns,Suns,Phoenix,NBA,1527.1,1441.8,1527.1,1426.4,29-53,,false,final
+2004,Boston Celtics,Celtics,Boston,NBA,1497.2,1434.6,1502.7,1434.5,36-46,0-4,false,final
+2004,Philadelphia 76ers,76ers,Philadelphia,NBA,1551.4,1430.9,1551.4,1430.9,33-49,,false,final
+2004,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1369.8,1424.1,1445.6,1359.2,35-47,,false,final
+2004,Atlanta Hawks,Hawks,Atlanta,NBA,1454.3,1410.4,1454.3,1382.3,28-54,,false,final
+2004,Toronto Raptors,Raptors,Toronto,NBA,1414.2,1394.3,1445.8,1378.9,33-49,,false,final
+2004,Los Angeles Clippers,Clippers,Los Angeles,NBA,1441.9,1373.7,1460.7,1373.7,28-54,,false,final
+2004,Washington Wizards,Wizards,Washington,NBA,1463.7,1357.3,1473.6,1357.3,25-57,,false,final
+2004,Chicago Bulls,Bulls,Chicago,NBA,1423.4,1340.4,1423.4,1340.4,23-59,,false,final
+2004,Orlando Magic,Magic,Orlando,NBA,1497.5,1336.4,1497.5,1323,21-61,,false,final
+2005,Phoenix Suns,Suns,Phoenix,NBA,1461.3,1660.5,1664.4,1461.3,62-20,9-6,false,final
+2005,San Antonio Spurs,Spurs,San Antonio,NBA,1629.7,1658.5,1721.5,1629.4,59-23,16-7,true,final
+2005,Miami Heat,Heat,Miami,NBA,1524.4,1653,1667,1524.4,59-23,11-4,false,final
+2005,Detroit Pistons,Pistons,Detroit,NBA,1633.5,1644.5,1644.5,1574.5,54-28,15-10,false,final
+2005,Dallas Mavericks,Mavericks,Dallas,NBA,1587.5,1642.7,1663.4,1587.5,58-24,6-7,false,final
+2005,Houston Rockets,Rockets,Houston,NBA,1529.9,1626.6,1639.9,1502.3,51-31,3-4,false,final
+2005,Denver Nuggets,Nuggets,Denver,NBA,1516.7,1582,1595.8,1463.5,49-33,1-4,false,final
+2005,Seattle Thunder,Thunder,Seattle,NBA,1505.5,1561.5,1584.7,1505.5,52-30,6-5,false,final
+2005,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1611.4,1556.9,1631,1512.5,44-38,,false,final
+2005,Sacramento Kings,Kings,Sacramento,NBA,1581.5,1552.9,1607.4,1552.9,50-32,1-4,false,final
+2005,Memphis Grizzlies,Grizzlies,Memphis,NBA,1537,1542.8,1583.7,1511,45-37,0-4,false,final
+2005,Indiana Pacers,Pacers,Indiana,NBA,1595.9,1540.8,1604.5,1515.7,44-38,6-7,false,final
+2005,Boston Celtics,Celtics,Boston,NBA,1456.4,1514.3,1532.4,1456.4,45-37,3-4,false,final
+2005,Chicago Bulls,Bulls,Chicago,NBA,1391.3,1504.6,1522.5,1360.9,47-35,2-4,false,final
+2005,New Jersey Nets,Nets,New Jersey,NBA,1543,1501.9,1543,1431,42-40,0-4,false,final
+2005,Golden State Warriors,Warriors,Golden State,NBA,1495.8,1498.2,1498.2,1393.1,34-48,,false,final
+2005,Philadelphia 76ers,76ers,Philadelphia,NBA,1453.8,1487.2,1489.2,1436,43-39,1-4,false,final
+2005,Washington Wizards,Wizards,Washington,NBA,1402.9,1477.5,1490.2,1402.9,45-37,4-6,false,final
+2005,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1449.1,1470.9,1516.7,1439.4,42-40,,false,final
+2005,Los Angeles Clippers,Clippers,Los Angeles,NBA,1414.3,1466.4,1475.4,1414.3,37-45,,false,final
+2005,Los Angeles Lakers,Lakers,Los Angeles,NBA,1579.8,1446.4,1579.8,1446.4,34-48,,false,final
+2005,Toronto Raptors,Raptors,Toronto,NBA,1428.5,1423.4,1453.2,1415.6,33-49,,false,final
+2005,New York Knicks,Knicks,New York,NBA,1470.9,1423.2,1474.7,1415.5,33-49,,false,final
+2005,Milwaukee Bucks,Bucks,Milwaukee,NBA,1496,1404.5,1498.8,1404.5,30-52,,false,final
+2005,Portland Trail Blazers,Trail Blazers,Portland,NBA,1514.6,1397.7,1518.6,1395.8,27-55,,false,final
+2005,Utah Jazz,Jazz,Utah,NBA,1498.5,1391.5,1540,1386.9,26-56,,false,final
+2005,Orlando Magic,Magic,Orlando,NBA,1388.5,1388.4,1457.4,1385.6,36-46,,false,final
+2005,New Orleans Pelicans,Pelicans,New Orleans,NBA,1490.2,1353.2,1490.2,1353.2,18-64,,false,final
+2005,Charlotte Hornets,Hornets,Charlotte,NBA,1300,1295.9,1302.8,1268.9,18-64,,false,final
+2005,Atlanta Hawks,Hawks,Atlanta,NBA,1439.6,1259.7,1439.6,1259.7,13-69,,false,final
+2006,Dallas Mavericks,Mavericks,Dallas,NBA,1600.1,1672.1,1692.7,1600.1,60-22,13-10,false,final
+2006,San Antonio Spurs,Spurs,San Antonio,NBA,1611,1651.5,1687.7,1611,63-19,7-6,false,final
+2006,Miami Heat,Heat,Miami,NBA,1607.3,1631.6,1632.1,1571,52-30,16-7,true,final
+2006,Detroit Pistons,Pistons,Detroit,NBA,1601.4,1615.9,1691.2,1601.4,64-18,10-8,false,final
+2006,Phoenix Suns,Suns,Phoenix,NBA,1612.4,1606,1669.2,1596.9,54-28,11-9,false,final
+2006,Los Angeles Clippers,Clippers,Los Angeles,NBA,1478.3,1583.4,1588.6,1478.3,47-35,7-5,false,final
+2006,Memphis Grizzlies,Grizzlies,Memphis,NBA,1531.1,1571.1,1586.8,1529.6,49-33,0-4,false,final
+2006,Sacramento Kings,Kings,Sacramento,NBA,1538.1,1562.3,1574.8,1481.9,44-38,2-4,false,final
+2006,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1481.4,1559.4,1559.4,1479.5,50-32,7-6,false,final
+2006,Los Angeles Lakers,Lakers,Los Angeles,NBA,1464.5,1548.6,1570.7,1460.4,45-37,3-4,false,final
+2006,New Jersey Nets,Nets,New Jersey,NBA,1502.9,1542,1578.5,1487.6,49-33,5-6,false,final
+2006,Washington Wizards,Wizards,Washington,NBA,1486,1533.9,1539,1462,42-40,2-4,false,final
+2006,Chicago Bulls,Bulls,Chicago,NBA,1504.7,1525.1,1538.7,1467.8,41-41,2-4,false,final
+2006,Indiana Pacers,Pacers,Indiana,NBA,1529.7,1500.7,1559.9,1489.7,41-41,2-4,false,final
+2006,Denver Nuggets,Nuggets,Denver,NBA,1558.2,1492,1561.6,1492,44-38,1-4,false,final
+2006,Orlando Magic,Magic,Orlando,NBA,1424.5,1480,1487.5,1395.4,36-46,,false,final
+2006,Milwaukee Bucks,Bucks,Milwaukee,NBA,1435.6,1479.5,1486.3,1435.6,40-42,1-4,false,final
+2006,Houston Rockets,Rockets,Houston,NBA,1589,1478.5,1589,1475.3,34-48,,false,final
+2006,Seattle Thunder,Thunder,Seattle,NBA,1544,1477.4,1544,1435.1,35-47,,false,final
+2006,Utah Jazz,Jazz,Utah,NBA,1426.6,1471,1472.6,1413.7,41-41,,false,final
+2006,Golden State Warriors,Warriors,Golden State,NBA,1500.3,1457.5,1516.5,1437.9,34-48,,false,final
+2006,Philadelphia 76ers,76ers,Philadelphia,NBA,1492.7,1456.3,1496.4,1441.2,38-44,,false,final
+2006,Boston Celtics,Celtics,Boston,NBA,1511.4,1455.6,1511.4,1453.8,33-49,,false,final
+2006,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1540.8,1439.8,1563.1,1439.8,33-49,,false,final
+2006,NO/Oklahoma City Pelicans,Pelicans,NO/Oklahoma City,NBA,1400.2,1436.8,1491.6,1400.2,38-44,,false,final
+2006,Toronto Raptors,Raptors,Toronto,NBA,1448.6,1397.8,1448.6,1379.1,27-55,,false,final
+2006,Charlotte Hornets,Hornets,Charlotte,NBA,1360.6,1375.2,1394.1,1335.3,26-56,,false,final
+2006,Atlanta Hawks,Hawks,Atlanta,NBA,1335.6,1346.4,1353,1312.9,26-56,,false,final
+2006,New York Knicks,Knicks,New York,NBA,1448.5,1344.8,1448.5,1330.9,23-59,,false,final
+2006,Portland Trail Blazers,Trail Blazers,Portland,NBA,1430.9,1304.3,1430.9,1304.3,21-61,,false,final
+2007,San Antonio Spurs,Spurs,San Antonio,NBA,1606.2,1678.9,1699.2,1606.2,58-24,16-4,true,final
+2007,Phoenix Suns,Suns,Phoenix,NBA,1574.8,1668.7,1685.8,1559.1,61-21,6-5,false,final
+2007,Dallas Mavericks,Mavericks,Dallas,NBA,1620.4,1649.6,1722.4,1594.1,67-15,2-4,false,final
+2007,Chicago Bulls,Bulls,Chicago,NBA,1518.9,1626.5,1626.5,1518.9,49-33,6-4,false,final
+2007,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1542.6,1609.9,1620.3,1528.2,50-32,12-8,false,final
+2007,Detroit Pistons,Pistons,Detroit,NBA,1581.6,1607.9,1633.7,1567.9,53-29,10-6,false,final
+2007,Utah Jazz,Jazz,Utah,NBA,1481.5,1584.1,1596.2,1481.5,51-31,9-8,false,final
+2007,Golden State Warriors,Warriors,Golden State,NBA,1472.2,1572.5,1586.9,1429.5,42-40,5-6,false,final
+2007,Houston Rockets,Rockets,Houston,NBA,1486.7,1568.1,1595.5,1486.7,52-30,3-4,false,final
+2007,Denver Nuggets,Nuggets,Denver,NBA,1496.1,1565.6,1576.2,1489.8,45-37,1-4,false,final
+2007,Toronto Raptors,Raptors,Toronto,NBA,1430.9,1526.1,1545.6,1414.8,47-35,2-4,false,final
+2007,Los Angeles Clippers,Clippers,Los Angeles,NBA,1559.1,1522.4,1573.2,1482.1,40-42,,false,final
+2007,New Jersey Nets,Nets,New Jersey,NBA,1530.6,1510,1536.9,1469.2,41-41,6-6,false,final
+2007,Orlando Magic,Magic,Orlando,NBA,1487.7,1495.7,1523.9,1461,40-42,0-4,false,final
+2007,Miami Heat,Heat,Miami,NBA,1592.4,1488.5,1592.4,1483.6,44-38,0-4,false,final
+2007,Los Angeles Lakers,Lakers,Los Angeles,NBA,1535.1,1486.7,1568.5,1486.7,42-40,1-4,false,final
+2007,NO/Oklahoma City Pelicans,Pelicans,NO/Oklahoma City,NBA,1457.9,1484.1,1484.1,1414,39-43,,false,final
+2007,Washington Wizards,Wizards,Washington,NBA,1525,1457.1,1559.9,1457.1,41-41,0-4,false,final
+2007,Philadelphia 76ers,76ers,Philadelphia,NBA,1471.4,1453.8,1484.9,1406.7,35-47,,false,final
+2007,Sacramento Kings,Kings,Sacramento,NBA,1544.6,1449.9,1548.6,1449.9,33-49,,false,final
+2007,Charlotte Hornets,Hornets,Charlotte,NBA,1415.4,1440.8,1444.5,1377.1,33-49,,false,final
+2007,Seattle Thunder,Thunder,Seattle,NBA,1485.9,1435.1,1492.1,1435.1,31-51,,false,final
+2007,Indiana Pacers,Pacers,Indiana,NBA,1502,1428.6,1511.7,1428.6,35-47,,false,final
+2007,New York Knicks,Knicks,New York,NBA,1394.3,1406,1443.5,1385,33-49,,false,final
+2007,Memphis Grizzlies,Grizzlies,Memphis,NBA,1550.6,1403.8,1550.6,1372.6,22-60,,false,final
+2007,Portland Trail Blazers,Trail Blazers,Portland,NBA,1366.3,1397.4,1424.2,1362.6,32-50,,false,final
+2007,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1460,1391,1493.8,1391,32-50,,false,final
+2007,Boston Celtics,Celtics,Boston,NBA,1470.9,1383.8,1470.9,1370.8,24-58,,false,final
+2007,Atlanta Hawks,Hawks,Atlanta,NBA,1395.4,1380.1,1420.9,1375.7,30-52,,false,final
+2007,Milwaukee Bucks,Bucks,Milwaukee,NBA,1487.4,1371.1,1512.9,1369.6,28-54,,false,final
+2008,Boston Celtics,Celtics,Boston,NBA,1421.3,1705.6,1705.6,1421.3,66-16,16-10,true,final
+2008,Los Angeles Lakers,Lakers,Los Angeles,NBA,1492.3,1656.9,1684.7,1492.3,57-25,14-7,false,final
+2008,Utah Jazz,Jazz,Utah,NBA,1559.7,1645.1,1656.3,1557,54-28,6-6,false,final
+2008,New Orleans Pelicans,Pelicans,New Orleans,NBA,1490.6,1644.2,1651.2,1490.6,56-26,7-5,false,final
+2008,Phoenix Suns,Suns,Phoenix,NBA,1618.1,1631.1,1644.6,1599.6,55-27,1-4,false,final
+2008,San Antonio Spurs,Spurs,San Antonio,NBA,1625.1,1629.5,1653.9,1601.9,56-26,9-8,false,final
+2008,Houston Rockets,Rockets,Houston,NBA,1548.6,1621.5,1646.9,1545.2,55-27,2-4,false,final
+2008,Detroit Pistons,Pistons,Detroit,NBA,1576.1,1618.6,1650.7,1576.1,59-23,10-7,false,final
+2008,Orlando Magic,Magic,Orlando,NBA,1498.6,1611.3,1613.1,1498.6,52-30,5-5,false,final
+2008,Dallas Mavericks,Mavericks,Dallas,NBA,1604.9,1582.3,1629,1582.3,51-31,1-4,false,final
+2008,Denver Nuggets,Nuggets,Denver,NBA,1546.8,1581.5,1600.1,1546.8,50-32,0-4,false,final
+2008,Golden State Warriors,Warriors,Golden State,NBA,1551.6,1565.3,1595.2,1519.3,48-34,,false,final
+2008,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1577.5,1531.1,1577.5,1502.3,45-37,7-6,false,final
+2008,Philadelphia 76ers,76ers,Philadelphia,NBA,1469.6,1505.4,1523.4,1444.4,40-42,2-4,false,final
+2008,Washington Wizards,Wizards,Washington,NBA,1471.9,1500,1507.8,1445.5,43-39,2-4,false,final
+2008,Toronto Raptors,Raptors,Toronto,NBA,1519.6,1498.8,1560.8,1498.8,41-41,1-4,false,final
+2008,Portland Trail Blazers,Trail Blazers,Portland,NBA,1430.7,1467.8,1519.1,1411.7,41-41,,false,final
+2008,Sacramento Kings,Kings,Sacramento,NBA,1467,1465.9,1481.1,1449.4,38-44,,false,final
+2008,Indiana Pacers,Pacers,Indiana,NBA,1452.2,1459.1,1482.4,1426.2,36-46,,false,final
+2008,Atlanta Hawks,Hawks,Atlanta,NBA,1418.8,1458.9,1470.6,1411.9,37-45,3-4,false,final
+2008,Chicago Bulls,Bulls,Chicago,NBA,1588.9,1455.1,1588.9,1441.5,33-49,,false,final
+2008,Charlotte Hornets,Hornets,Charlotte,NBA,1460.6,1438.8,1466.7,1397.9,32-50,,false,final
+2008,New Jersey Nets,Nets,New Jersey,NBA,1508.5,1424.6,1508.5,1416.1,34-48,,false,final
+2008,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1426.3,1365.3,1426.3,1331.3,22-60,,false,final
+2008,Los Angeles Clippers,Clippers,Los Angeles,NBA,1517,1356.8,1527.6,1356.8,23-59,,false,final
+2008,Memphis Grizzlies,Grizzlies,Memphis,NBA,1435.1,1350.5,1439.1,1345.3,22-60,,false,final
+2008,New York Knicks,Knicks,New York,NBA,1436.6,1340.4,1437.7,1335.9,23-59,,false,final
+2008,Seattle Thunder,Thunder,Seattle,NBA,1456.7,1333.3,1456.7,1320.4,20-62,,false,final
+2008,Milwaukee Bucks,Bucks,Milwaukee,NBA,1412.5,1326,1443.2,1326,26-56,,false,final
+2008,Miami Heat,Heat,Miami,NBA,1493.6,1306.1,1493.6,1297.9,15-67,,false,final
+2009,Los Angeles Lakers,Lakers,Los Angeles,NBA,1610,1734.4,1734.4,1610,65-17,16-7,true,final
+2009,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1523,1704.2,1718,1522.8,66-16,10-4,false,final
+2009,Orlando Magic,Magic,Orlando,NBA,1578.4,1662.5,1680.1,1564.8,59-23,13-11,false,final
+2009,Boston Celtics,Celtics,Boston,NBA,1643.6,1658.7,1707.2,1636.5,62-20,7-7,false,final
+2009,Denver Nuggets,Nuggets,Denver,NBA,1557.9,1647.2,1656.6,1554.7,54-28,10-6,false,final
+2009,Houston Rockets,Rockets,Houston,NBA,1585.5,1632.9,1636.7,1573.3,53-29,7-6,false,final
+2009,Portland Trail Blazers,Trail Blazers,Portland,NBA,1479.3,1608.6,1610.6,1475.5,54-28,2-4,false,final
+2009,Dallas Mavericks,Mavericks,Dallas,NBA,1558.4,1597,1607.5,1536.5,50-32,5-5,false,final
+2009,San Antonio Spurs,Spurs,San Antonio,NBA,1591,1587.8,1623.3,1554.2,54-28,1-4,false,final
+2009,Utah Jazz,Jazz,Utah,NBA,1601.8,1557.3,1606.4,1553.3,48-34,1-4,false,final
+2009,Phoenix Suns,Suns,Phoenix,NBA,1592.1,1547,1600.4,1542.7,46-36,,false,final
+2009,Atlanta Hawks,Hawks,Atlanta,NBA,1473.1,1518.7,1534.9,1473.1,47-35,4-7,false,final
+2009,Chicago Bulls,Bulls,Chicago,NBA,1470.6,1510.8,1517,1425.6,41-41,3-4,false,final
+2009,New Orleans Pelicans,Pelicans,New Orleans,NBA,1601.1,1504.3,1618.8,1504.3,49-33,1-4,false,final
+2009,Philadelphia 76ers,76ers,Philadelphia,NBA,1505.3,1486,1533.7,1475.5,41-41,2-4,false,final
+2009,Detroit Pistons,Pistons,Detroit,NBA,1583.5,1480.5,1599.7,1480.5,39-43,0-4,false,final
+2009,Indiana Pacers,Pacers,Indiana,NBA,1473.3,1480.3,1482.6,1450.9,36-46,,false,final
+2009,Miami Heat,Heat,Miami,NBA,1367.6,1477.5,1492.4,1367.6,43-39,3-4,false,final
+2009,Charlotte Hornets,Hornets,Charlotte,NBA,1459.3,1462.9,1477.7,1419.5,35-47,,false,final
+2009,Toronto Raptors,Raptors,Toronto,NBA,1500.7,1444.6,1516.1,1426.8,33-49,,false,final
+2009,New Jersey Nets,Nets,New Jersey,NBA,1449.5,1442.7,1478,1430.2,34-48,,false,final
+2009,Golden State Warriors,Warriors,Golden State,NBA,1546.6,1440.7,1546.6,1440.7,29-53,,false,final
+2009,Milwaukee Bucks,Bucks,Milwaukee,NBA,1381.4,1437,1458,1381.4,34-48,,false,final
+2009,New York Knicks,Knicks,New York,NBA,1391.3,1408.3,1440.2,1381,32-50,,false,final
+2009,Memphis Grizzlies,Grizzlies,Memphis,NBA,1398.3,1375.9,1408.7,1325.4,24-58,,false,final
+2009,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1386.4,1367.5,1386.4,1310.2,23-59,,false,final
+2009,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1408.5,1353.9,1418,1350.4,24-58,,false,final
+2009,Washington Wizards,Wizards,Washington,NBA,1501.6,1344.7,1501.6,1342.1,19-63,,false,final
+2009,Sacramento Kings,Kings,Sacramento,NBA,1478,1324,1478,1317.8,17-65,,false,final
+2009,Los Angeles Clippers,Clippers,Los Angeles,NBA,1402.6,1301.5,1405,1301.5,19-63,,false,final
+2010,Orlando Magic,Magic,Orlando,NBA,1613.8,1701.4,1711.9,1606.2,59-23,10-4,false,final
+2010,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1642.6,1655.5,1716.9,1634.6,61-21,6-5,false,final
+2010,Los Angeles Lakers,Lakers,Los Angeles,NBA,1663.4,1648.2,1683.2,1611.9,57-25,16-7,true,final
+2010,Phoenix Suns,Suns,Phoenix,NBA,1534,1645.5,1656.5,1526.5,54-28,10-6,false,final
+2010,Boston Celtics,Celtics,Boston,NBA,1611.1,1629.8,1661.5,1567.2,50-32,15-9,false,final
+2010,San Antonio Spurs,Spurs,San Antonio,NBA,1562.2,1607,1636.7,1548.8,50-32,4-6,false,final
+2010,Utah Jazz,Jazz,Utah,NBA,1541.1,1604,1627.6,1524.2,53-29,4-6,false,final
+2010,Denver Nuggets,Nuggets,Denver,NBA,1603.2,1598.2,1634.5,1595.5,53-29,2-4,false,final
+2010,Dallas Mavericks,Mavericks,Dallas,NBA,1568.5,1588.9,1609.8,1564.8,55-27,2-4,false,final
+2010,Atlanta Hawks,Hawks,Atlanta,NBA,1514.4,1585,1607.2,1514.4,53-29,4-7,false,final
+2010,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1410,1580.8,1587.7,1410,50-32,2-4,false,final
+2010,Portland Trail Blazers,Trail Blazers,Portland,NBA,1576.6,1572.1,1600,1539.8,50-32,2-4,false,final
+2010,Miami Heat,Heat,Miami,NBA,1486,1550.5,1564,1465.1,47-35,1-4,false,final
+2010,Milwaukee Bucks,Bucks,Milwaukee,NBA,1458,1531,1544.8,1448.5,46-36,3-4,false,final
+2010,Charlotte Hornets,Hornets,Charlotte,NBA,1475.9,1526.7,1541.9,1463.8,44-38,0-4,false,final
+2010,Houston Rockets,Rockets,Houston,NBA,1593.3,1516.1,1602.6,1502.5,42-40,,false,final
+2010,Chicago Bulls,Bulls,Chicago,NBA,1509,1486.6,1519.3,1456.9,41-41,1-4,false,final
+2010,Indiana Pacers,Pacers,Indiana,NBA,1487.9,1468.3,1490.8,1403.8,32-50,,false,final
+2010,Memphis Grizzlies,Grizzlies,Memphis,NBA,1415.8,1461.5,1496,1391.2,40-42,,false,final
+2010,Toronto Raptors,Raptors,Toronto,NBA,1463.3,1452.3,1519.7,1438.2,40-42,,false,final
+2010,New Orleans Pelicans,Pelicans,New Orleans,NBA,1504.5,1450.2,1510.4,1440.9,37-45,,false,final
+2010,Golden State Warriors,Warriors,Golden State,NBA,1460.6,1412.6,1460.6,1388.7,26-56,,false,final
+2010,Philadelphia 76ers,76ers,Philadelphia,NBA,1491.9,1404.7,1501.9,1404.7,27-55,,false,final
+2010,New York Knicks,Knicks,New York,NBA,1438.2,1402.9,1460.9,1372.9,29-53,,false,final
+2010,Detroit Pistons,Pistons,Detroit,NBA,1488.1,1378.6,1492.6,1352.8,27-55,,false,final
+2010,Washington Wizards,Wizards,Washington,NBA,1394.3,1366,1413.4,1344.5,26-56,,false,final
+2010,Los Angeles Clippers,Clippers,Los Angeles,NBA,1364.4,1348,1428.9,1337.6,29-53,,false,final
+2010,Sacramento Kings,Kings,Sacramento,NBA,1380,1338.9,1404.9,1338.9,25-57,,false,final
+2010,New Jersey Nets,Nets,New Jersey,NBA,1461.9,1320.1,1461.9,1294.1,12-70,,false,final
+2010,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1400.6,1283.7,1400.6,1283.7,15-67,,false,final
+2011,Miami Heat,Heat,Miami,NBA,1536.4,1681.1,1695.2,1536.4,58-24,14-7,false,final
+2011,Dallas Mavericks,Mavericks,Dallas,NBA,1563,1679,1679,1563,57-25,16-5,true,final
+2011,Chicago Bulls,Bulls,Chicago,NBA,1492.3,1657.3,1677.7,1488,62-20,9-7,false,final
+2011,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1557.3,1630.6,1642.8,1530.9,55-27,9-8,false,final
+2011,Boston Celtics,Celtics,Boston,NBA,1591.2,1610.1,1667.4,1591.2,56-26,5-4,false,final
+2011,Orlando Magic,Magic,Orlando,NBA,1640.6,1609.7,1645.6,1607.9,52-30,2-4,false,final
+2011,Los Angeles Lakers,Lakers,Los Angeles,NBA,1603.9,1607.8,1666.2,1598.5,57-25,4-6,false,final
+2011,San Antonio Spurs,Spurs,San Antonio,NBA,1575.5,1607.6,1666.8,1568.3,61-21,2-4,false,final
+2011,Denver Nuggets,Nuggets,Denver,NBA,1569.4,1599.2,1617.2,1547,50-32,1-4,false,final
+2011,Memphis Grizzlies,Grizzlies,Memphis,NBA,1475,1589.8,1600.5,1459,46-36,7-6,false,final
+2011,Houston Rockets,Rockets,Houston,NBA,1512.7,1554.2,1562,1482.1,43-39,,false,final
+2011,Portland Trail Blazers,Trail Blazers,Portland,NBA,1551.3,1548.6,1567.3,1521.4,48-34,2-4,false,final
+2011,New Orleans Pelicans,Pelicans,New Orleans,NBA,1467.1,1518,1565.1,1467.1,46-36,2-4,false,final
+2011,Philadelphia 76ers,76ers,Philadelphia,NBA,1435.7,1515.5,1544.6,1422.8,41-41,1-4,false,final
+2011,Phoenix Suns,Suns,Phoenix,NBA,1602.1,1509.8,1602.1,1504.5,40-42,,false,final
+2011,Atlanta Hawks,Hawks,Atlanta,NBA,1560.3,1496.7,1586.4,1483.3,44-38,6-6,false,final
+2011,New York Knicks,Knicks,New York,NBA,1434.5,1488.3,1506.8,1418.3,42-40,0-4,false,final
+2011,Milwaukee Bucks,Bucks,Milwaukee,NBA,1523,1484.6,1526.3,1455.1,35-47,,false,final
+2011,Golden State Warriors,Warriors,Golden State,NBA,1441.2,1470.2,1470.2,1414.6,36-46,,false,final
+2011,Indiana Pacers,Pacers,Indiana,NBA,1479.7,1464.4,1510.5,1455.3,37-45,1-4,false,final
+2011,Utah Jazz,Jazz,Utah,NBA,1573.4,1463.4,1596.3,1446.7,39-43,,false,final
+2011,Los Angeles Clippers,Clippers,Los Angeles,NBA,1396.5,1427.2,1433,1350.8,32-50,,false,final
+2011,Charlotte Hornets,Hornets,Charlotte,NBA,1520,1424.2,1520,1415.3,34-48,,false,final
+2011,Detroit Pistons,Pistons,Detroit,NBA,1417.7,1407.2,1423.6,1388.1,30-52,,false,final
+2011,Sacramento Kings,Kings,Sacramento,NBA,1390.3,1402,1408,1328.9,24-58,,false,final
+2011,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1608.9,1360.1,1608.9,1332.8,19-63,,false,final
+2011,Washington Wizards,Wizards,Washington,NBA,1409,1344.3,1409,1309.2,23-59,,false,final
+2011,Toronto Raptors,Raptors,Toronto,NBA,1468.6,1341.1,1474.4,1341.1,22-60,,false,final
+2011,New Jersey Nets,Nets,New Jersey,NBA,1377.3,1330.3,1387,1330.3,24-58,,false,final
+2011,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1352.2,1303.4,1358.3,1303.4,17-65,,false,final
+2012,San Antonio Spurs,Spurs,San Antonio,NBA,1575.9,1687.6,1705.3,1575.9,50-16,10-4,false,final
+2012,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1591.7,1685.1,1699.8,1591.7,47-19,13-7,false,final
+2012,Miami Heat,Heat,Miami,NBA,1626.6,1669.5,1680.5,1626.6,46-20,16-7,true,final
+2012,Chicago Bulls,Bulls,Chicago,NBA,1610.2,1636.4,1676.1,1610.2,50-16,2-4,false,final
+2012,Denver Nuggets,Nuggets,Denver,NBA,1570.1,1589.6,1598.1,1533.2,38-28,3-4,false,final
+2012,Boston Celtics,Celtics,Boston,NBA,1577.6,1583.9,1598.2,1528.1,39-27,11-9,false,final
+2012,Memphis Grizzlies,Grizzlies,Memphis,NBA,1563.6,1582.3,1588.5,1549.4,41-25,3-4,false,final
+2012,Indiana Pacers,Pacers,Indiana,NBA,1477,1578.5,1593.3,1477,42-24,6-5,false,final
+2012,Los Angeles Lakers,Lakers,Los Angeles,NBA,1576,1558.7,1597.6,1558.7,41-25,5-7,false,final
+2012,Los Angeles Clippers,Clippers,Los Angeles,NBA,1451.2,1555.8,1566.6,1451.2,40-26,4-7,false,final
+2012,Atlanta Hawks,Hawks,Atlanta,NBA,1499.3,1555.1,1564.7,1499.3,40-26,2-4,false,final
+2012,Philadelphia 76ers,76ers,Philadelphia,NBA,1512.3,1549.1,1569.9,1512.3,35-31,7-6,false,final
+2012,New York Knicks,Knicks,New York,NBA,1493.5,1540.5,1546.9,1471.1,36-30,1-4,false,final
+2012,Dallas Mavericks,Mavericks,Dallas,NBA,1625.2,1535.8,1625.2,1535.8,36-30,0-4,false,final
+2012,Phoenix Suns,Suns,Phoenix,NBA,1508.3,1527,1542.8,1482.7,33-33,,false,final
+2012,Utah Jazz,Jazz,Utah,NBA,1476.3,1523.1,1537.6,1467,36-30,0-4,false,final
+2012,Houston Rockets,Rockets,Houston,NBA,1539,1508.9,1546.3,1503.5,34-32,,false,final
+2012,Milwaukee Bucks,Bucks,Milwaukee,NBA,1490.9,1501.8,1527.7,1467.7,31-35,,false,final
+2012,Orlando Magic,Magic,Orlando,NBA,1577.3,1493.6,1594.9,1493.6,37-29,1-4,false,final
+2012,Portland Trail Blazers,Trail Blazers,Portland,NBA,1535.1,1462.6,1562.3,1462.6,28-38,,false,final
+2012,New Orleans Pelicans,Pelicans,New Orleans,NBA,1514,1441.2,1514,1411.3,21-45,,false,final
+2012,Golden State Warriors,Warriors,Golden State,NBA,1481,1419.6,1482.1,1419.6,23-43,,false,final
+2012,Detroit Pistons,Pistons,Detroit,NBA,1437.5,1413.4,1437.5,1377.4,25-41,,false,final
+2012,Toronto Raptors,Raptors,Toronto,NBA,1391.8,1413.2,1422.2,1363.7,23-43,,false,final
+2012,Washington Wizards,Wizards,Washington,NBA,1394,1412.1,1412.1,1336.6,20-46,,false,final
+2012,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1365.7,1399.7,1462,1365.7,26-40,,false,final
+2012,Sacramento Kings,Kings,Sacramento,NBA,1433.8,1395.1,1433.8,1380.7,22-44,,false,final
+2012,New Jersey Nets,Nets,New Jersey,NBA,1384.3,1350.4,1384.3,1348.2,22-44,,false,final
+2012,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1404.9,1333.3,1424.2,1333.3,21-45,,false,final
+2012,Charlotte Hornets,Hornets,Charlotte,NBA,1449.2,1230.4,1449.2,1230.4,7-59,,false,final
+2013,Miami Heat,Heat,Miami,NBA,1618.6,1714,1723.5,1614.4,66-16,16-7,true,final
+2013,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1629.4,1669.8,1703.6,1619.8,60-22,5-6,false,final
+2013,San Antonio Spurs,Spurs,San Antonio,NBA,1631.1,1668.2,1703.1,1626.5,58-24,15-6,false,final
+2013,Memphis Grizzlies,Grizzlies,Memphis,NBA,1558.4,1638.9,1653.1,1558.4,56-26,8-7,false,final
+2013,Denver Nuggets,Nuggets,Denver,NBA,1563.4,1629.1,1657.8,1550.5,57-25,2-4,false,final
+2013,New York Knicks,Knicks,New York,NBA,1529.5,1613.9,1618.4,1529.5,54-28,6-6,false,final
+2013,Los Angeles Clippers,Clippers,Los Angeles,NBA,1540.1,1609.1,1642.9,1540.1,56-26,2-4,false,final
+2013,Indiana Pacers,Pacers,Indiana,NBA,1555.8,1595.9,1619.3,1538.2,49-32,11-8,false,final
+2013,Houston Rockets,Rockets,Houston,NBA,1507.7,1565.3,1577.4,1500,45-37,2-4,false,final
+2013,Golden State Warriors,Warriors,Golden State,NBA,1446,1564.8,1575.2,1442.9,47-35,6-6,false,final
+2013,Brooklyn Nets,Nets,Brooklyn,NBA,1398.2,1549.4,1555.2,1398.2,49-33,3-4,false,final
+2013,Chicago Bulls,Bulls,Chicago,NBA,1595.8,1524.7,1595.8,1520.5,45-37,5-7,false,final
+2013,Los Angeles Lakers,Lakers,Los Angeles,NBA,1542.1,1522.5,1553,1516.2,45-37,0-4,false,final
+2013,Dallas Mavericks,Mavericks,Dallas,NBA,1526.2,1519.9,1529.9,1460.7,41-41,,false,final
+2013,Utah Jazz,Jazz,Utah,NBA,1517.5,1518,1536.3,1486.4,43-39,,false,final
+2013,Atlanta Hawks,Hawks,Atlanta,NBA,1539.6,1497.6,1565.9,1496.2,44-38,2-4,false,final
+2013,Boston Celtics,Celtics,Boston,NBA,1559.5,1479.5,1559.5,1479.5,41-40,2-4,false,final
+2013,Toronto Raptors,Raptors,Toronto,NBA,1441.6,1465.9,1467.3,1406.8,34-48,,false,final
+2013,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1432.3,1453.1,1473.9,1401,31-51,,false,final
+2013,Philadelphia 76ers,76ers,Philadelphia,NBA,1535.5,1450.7,1542.4,1414.6,34-48,,false,final
+2013,Milwaukee Bucks,Bucks,Milwaukee,NBA,1502.8,1449.1,1522.6,1446.2,38-44,0-4,false,final
+2013,Washington Wizards,Wizards,Washington,NBA,1440.8,1442.9,1461.7,1356.4,29-53,,false,final
+2013,Portland Trail Blazers,Trail Blazers,Portland,NBA,1475.7,1429.2,1500.1,1429.2,33-49,,false,final
+2013,New Orleans Pelicans,Pelicans,New Orleans,NBA,1460.9,1414.5,1470.7,1400.6,27-55,,false,final
+2013,Sacramento Kings,Kings,Sacramento,NBA,1429.1,1412.5,1429.1,1377.4,28-54,,false,final
+2013,Detroit Pistons,Pistons,Detroit,NBA,1441.7,1392.1,1456,1361,29-53,,false,final
+2013,Phoenix Suns,Suns,Phoenix,NBA,1520.2,1380.7,1520.2,1366.3,25-57,,false,final
+2013,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1386.4,1350.6,1399.8,1350.6,24-58,,false,final
+2013,Orlando Magic,Magic,Orlando,NBA,1497.1,1308.7,1511.2,1308.7,20-62,,false,final
+2013,Charlotte Hornets,Hornets,Charlotte,NBA,1315.3,1307.9,1337.7,1262.9,21-61,,false,final
+2014,San Antonio Spurs,Spurs,San Antonio,NBA,1617.8,1709.9,1710,1617.4,62-20,16-7,true,final
+2014,Los Angeles Clippers,Clippers,Los Angeles,NBA,1576.9,1669.4,1676.6,1576.9,57-25,6-7,false,final
+2014,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1618.8,1643.5,1698.3,1611.7,59-23,10-9,false,final
+2014,Houston Rockets,Rockets,Houston,NBA,1546.6,1609,1636.2,1546.6,54-28,2-4,false,final
+2014,Golden State Warriors,Warriors,Golden State,NBA,1546.3,1597.4,1609.5,1546.3,51-31,3-4,false,final
+2014,Dallas Mavericks,Mavericks,Dallas,NBA,1515.3,1595.7,1605.6,1515.3,49-33,3-4,false,final
+2014,Memphis Grizzlies,Grizzlies,Memphis,NBA,1597.5,1591.1,1602.2,1514.5,50-32,3-4,false,final
+2014,Miami Heat,Heat,Miami,NBA,1649.3,1589.6,1677.4,1589.6,54-28,13-7,false,final
+2014,Portland Trail Blazers,Trail Blazers,Portland,NBA,1452.6,1586,1593.1,1452.6,54-28,5-6,false,final
+2014,Toronto Raptors,Raptors,Toronto,NBA,1478,1558.8,1572.9,1473.8,48-34,3-4,false,final
+2014,Phoenix Suns,Suns,Phoenix,NBA,1419.1,1553.1,1555.1,1419.1,48-34,,false,final
+2014,Washington Wizards,Wizards,Washington,NBA,1462.1,1551.5,1552.7,1448.6,44-38,6-5,false,final
+2014,Indiana Pacers,Pacers,Indiana,NBA,1567.8,1547.8,1650.7,1547.8,56-26,10-9,false,final
+2014,Chicago Bulls,Bulls,Chicago,NBA,1518.6,1544.8,1571.3,1485.6,48-34,1-4,false,final
+2014,Brooklyn Nets,Nets,Brooklyn,NBA,1535.7,1524.9,1544.5,1450.8,44-38,5-7,false,final
+2014,New York Knicks,Knicks,New York,NBA,1580.2,1522.4,1580.2,1449.9,37-45,,false,final
+2014,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1469.2,1518.7,1555,1469.2,40-42,,false,final
+2014,Charlotte Hornets,Hornets,Charlotte,NBA,1368.8,1500.1,1507.9,1365,43-39,0-4,false,final
+2014,Atlanta Hawks,Hawks,Atlanta,NBA,1499.9,1492,1522.3,1452.2,38-44,3-4,false,final
+2014,Denver Nuggets,Nuggets,Denver,NBA,1590.7,1477.2,1596.2,1461.8,36-46,,false,final
+2014,New Orleans Pelicans,Pelicans,New Orleans,NBA,1442.5,1443.9,1475.9,1427.2,34-48,,false,final
+2014,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1398.4,1438.6,1438.6,1373.5,33-49,,false,final
+2014,Sacramento Kings,Kings,Sacramento,NBA,1441.1,1416.9,1441.7,1404.5,28-54,,false,final
+2014,Los Angeles Lakers,Lakers,Los Angeles,NBA,1517.1,1403.9,1517.1,1373.1,27-55,,false,final
+2014,Detroit Pistons,Pistons,Detroit,NBA,1427,1380.1,1461.2,1380.1,29-53,,false,final
+2014,Boston Celtics,Celtics,Boston,NBA,1487.4,1376,1494.4,1375.2,25-57,,false,final
+2014,Utah Jazz,Jazz,Utah,NBA,1514,1371.2,1514,1371.2,25-57,,false,final
+2014,Orlando Magic,Magic,Orlando,NBA,1369.4,1336,1391.5,1336,23-59,,false,final
+2014,Milwaukee Bucks,Bucks,Milwaukee,NBA,1466.4,1301.7,1466.4,1301.7,15-67,,false,final
+2014,Philadelphia 76ers,76ers,Philadelphia,NBA,1467.5,1290.6,1482,1255.6,19-63,,false,final
+2015,Golden State Warriors,Warriors,Golden State,NBA,1568.8,1772.7,1772.7,1568.8,67-15,16-5,true,final
+2015,Los Angeles Clippers,Clippers,Los Angeles,NBA,1618.6,1687.5,1716,1606.9,56-26,7-7,false,final
+2015,San Antonio Spurs,Spurs,San Antonio,NBA,1646.6,1671.6,1698.3,1623.1,55-27,3-4,false,final
+2015,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1459.2,1646.5,1662.1,1454.4,53-29,14-6,false,final
+2015,Houston Rockets,Rockets,Houston,NBA,1576.8,1624,1637.5,1576.8,56-26,9-8,false,final
+2015,Memphis Grizzlies,Grizzlies,Memphis,NBA,1564.5,1590.6,1628.8,1564.5,55-27,6-5,false,final
+2015,Atlanta Hawks,Hawks,Atlanta,NBA,1496.1,1585.1,1641,1495.6,60-22,8-8,false,final
+2015,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1600.7,1582.3,1606.5,1534.5,45-37,,false,final
+2015,Portland Trail Blazers,Trail Blazers,Portland,NBA,1560.9,1573.3,1632.1,1556,51-31,1-4,false,final
+2015,Chicago Bulls,Bulls,Chicago,NBA,1532.5,1569.3,1593.8,1532.5,50-32,6-6,false,final
+2015,Dallas Mavericks,Mavericks,Dallas,NBA,1567.6,1556.6,1616.3,1556.6,50-32,1-4,false,final
+2015,Washington Wizards,Wizards,Washington,NBA,1537.1,1535.1,1562.9,1489,46-36,6-4,false,final
+2015,Utah Jazz,Jazz,Utah,NBA,1412.6,1523.9,1523.9,1385.9,38-44,,false,final
+2015,Toronto Raptors,Raptors,Toronto,NBA,1542.1,1522.5,1604.8,1522.5,49-33,0-4,false,final
+2015,New Orleans Pelicans,Pelicans,New Orleans,NBA,1462.8,1515.7,1523.7,1462.8,45-37,0-4,false,final
+2015,Indiana Pacers,Pacers,Indiana,NBA,1534.5,1504.2,1534.5,1463.4,38-44,,false,final
+2015,Phoenix Suns,Suns,Phoenix,NBA,1538.3,1489.4,1564.1,1489.4,39-43,,false,final
+2015,Boston Celtics,Celtics,Boston,NBA,1415.9,1489.2,1504.7,1407.2,40-42,0-4,false,final
+2015,Miami Heat,Heat,Miami,NBA,1563.5,1470.6,1575.8,1465.8,37-45,,false,final
+2015,Brooklyn Nets,Nets,Brooklyn,NBA,1518.7,1463.7,1528.4,1447.8,38-44,2-4,false,final
+2015,Detroit Pistons,Pistons,Detroit,NBA,1418.7,1455.2,1459.5,1354.5,32-50,,false,final
+2015,Milwaukee Bucks,Bucks,Milwaukee,NBA,1364.6,1452.1,1508.6,1364.6,41-41,2-4,false,final
+2015,Denver Nuggets,Nuggets,Denver,NBA,1485.8,1431.3,1499.4,1398.6,30-52,,false,final
+2015,Charlotte Hornets,Hornets,Charlotte,NBA,1501.6,1427.9,1501.6,1427.9,33-49,,false,final
+2015,Sacramento Kings,Kings,Sacramento,NBA,1444.2,1422.5,1482.3,1400.8,29-53,,false,final
+2015,Orlando Magic,Magic,Orlando,NBA,1388.3,1335.5,1401.6,1323.4,25-57,,false,final
+2015,Los Angeles Lakers,Lakers,Los Angeles,NBA,1435.1,1326.1,1435.1,1326.1,21-61,,false,final
+2015,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1514.4,1317.2,1514.4,1317.2,16-66,,false,final
+2015,New York Knicks,Knicks,New York,NBA,1517,1302.4,1517,1301.1,17-65,,false,final
+2015,Philadelphia 76ers,76ers,Philadelphia,NBA,1356.9,1300.4,1356.9,1297.8,18-64,,false,final
+2016,Golden State Warriors,Warriors,Golden State,NBA,1689.9,1742.3,1782.5,1689.9,73-9,15-9,false,final
+2016,San Antonio Spurs,Spurs,San Antonio,NBA,1620.1,1728.6,1752.1,1620.1,67-15,6-4,false,final
+2016,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1602.7,1700.2,1700.2,1599.2,57-25,16-5,true,final
+2016,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1558.4,1698.5,1705.1,1557,55-27,11-7,false,final
+2016,Toronto Raptors,Raptors,Toronto,NBA,1517.1,1614.4,1626.8,1517.1,56-26,10-10,false,final
+2016,Los Angeles Clippers,Clippers,Los Angeles,NBA,1631,1608.1,1639.6,1593.4,53-29,2-4,false,final
+2016,Portland Trail Blazers,Trail Blazers,Portland,NBA,1552.2,1589.2,1593.5,1499.3,44-38,5-6,false,final
+2016,Atlanta Hawks,Hawks,Atlanta,NBA,1560.3,1582.7,1601.5,1531.7,48-34,4-6,false,final
+2016,Charlotte Hornets,Hornets,Charlotte,NBA,1451.7,1558.5,1560.5,1443.8,48-34,3-4,false,final
+2016,Boston Celtics,Celtics,Boston,NBA,1494.1,1545.9,1571.9,1484.8,48-34,2-4,false,final
+2016,Miami Heat,Heat,Miami,NBA,1481.2,1542,1561.3,1481.2,48-34,7-7,false,final
+2016,Houston Rockets,Rockets,Houston,NBA,1587.2,1532.9,1587.2,1515.2,41-41,1-4,false,final
+2016,Utah Jazz,Jazz,Utah,NBA,1518,1532.4,1547.8,1500.8,40-42,,false,final
+2016,Indiana Pacers,Pacers,Indiana,NBA,1504.4,1522.1,1549,1481.8,45-37,3-4,false,final
+2016,Washington Wizards,Wizards,Washington,NBA,1525.8,1516.9,1525.8,1474.6,41-41,,false,final
+2016,Dallas Mavericks,Mavericks,Dallas,NBA,1540.6,1504.3,1552,1494.5,42-40,1-4,false,final
+2016,Detroit Pistons,Pistons,Detroit,NBA,1470.6,1497.2,1521.2,1470.6,44-38,0-4,false,final
+2016,Chicago Bulls,Bulls,Chicago,NBA,1549.4,1474.1,1558.1,1463.6,42-40,,false,final
+2016,Memphis Grizzlies,Grizzlies,Memphis,NBA,1564.1,1471.1,1564.1,1471.1,42-40,0-4,false,final
+2016,Orlando Magic,Magic,Orlando,NBA,1387.9,1435.9,1461.1,1382.3,35-47,,false,final
+2016,Denver Nuggets,Nuggets,Denver,NBA,1454.1,1435.6,1458.7,1425.6,33-49,,false,final
+2016,Sacramento Kings,Kings,Sacramento,NBA,1448,1434.7,1481.8,1428.8,33-49,,false,final
+2016,Milwaukee Bucks,Bucks,Milwaukee,NBA,1468.5,1413.4,1468.5,1413.4,33-49,,false,final
+2016,New Orleans Pelicans,Pelicans,New Orleans,NBA,1512.4,1412.1,1512.4,1412.1,30-52,,false,final
+2016,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1375.3,1405,1412.2,1363.7,29-53,,false,final
+2016,New York Knicks,Knicks,New York,NBA,1365.1,1397.1,1433.4,1365.1,32-50,,false,final
+2016,Phoenix Suns,Suns,Phoenix,NBA,1494.2,1374.5,1509.2,1339.3,23-59,,false,final
+2016,Brooklyn Nets,Nets,Brooklyn,NBA,1476.5,1329.2,1476.5,1329.2,21-61,,false,final
+2016,Los Angeles Lakers,Lakers,Los Angeles,NBA,1381.4,1302.3,1381.4,1296.9,17-65,,false,final
+2016,Philadelphia 76ers,76ers,Philadelphia,NBA,1363.7,1245,1363.7,1241.8,10-72,,false,final
+2017,Golden State Warriors,Warriors,Golden State,NBA,1668.9,1797.9,1804.6,1656.7,67-15,16-1,true,final
+2017,San Antonio Spurs,Spurs,San Antonio,NBA,1659.5,1645.8,1699.8,1645.8,61-21,8-8,false,final
+2017,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1639.9,1622.8,1659.7,1568.2,51-31,13-5,false,final
+2017,Houston Rockets,Rockets,Houston,NBA,1524.2,1611.7,1633.9,1524.2,55-27,6-5,false,final
+2017,Los Angeles Clippers,Clippers,Los Angeles,NBA,1576.2,1602.4,1634.2,1571.7,51-31,3-4,false,final
+2017,Utah Jazz,Jazz,Utah,NBA,1523.9,1594,1608.9,1518.3,51-31,4-7,false,final
+2017,Washington Wizards,Wizards,Washington,NBA,1513.3,1572.6,1584.1,1482.4,49-33,7-6,false,final
+2017,Toronto Raptors,Raptors,Toronto,NBA,1580.6,1569.6,1633.9,1559.4,51-31,4-6,false,final
+2017,Boston Celtics,Celtics,Boston,NBA,1533.3,1569,1600.7,1524,53-29,9-9,false,final
+2017,Miami Heat,Heat,Miami,NBA,1530.5,1547.6,1547.6,1438.9,41-41,,false,final
+2017,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1638.7,1536.2,1642.6,1536.2,47-35,1-4,false,final
+2017,Portland Trail Blazers,Trail Blazers,Portland,NBA,1563.1,1531.2,1563.1,1491,41-41,0-4,false,final
+2017,Denver Nuggets,Nuggets,Denver,NBA,1457.1,1526.9,1526.9,1438.6,40-42,,false,final
+2017,Memphis Grizzlies,Grizzlies,Memphis,NBA,1481.6,1507.5,1557.6,1459.8,43-39,2-4,false,final
+2017,Indiana Pacers,Pacers,Indiana,NBA,1516.8,1505.6,1522,1482.2,42-40,0-4,false,final
+2017,Milwaukee Bucks,Bucks,Milwaukee,NBA,1441.8,1502.2,1511.9,1432.9,42-40,2-4,false,final
+2017,Chicago Bulls,Bulls,Chicago,NBA,1483.7,1489.5,1531.7,1469.1,41-41,2-4,false,final
+2017,Atlanta Hawks,Hawks,Atlanta,NBA,1558.7,1484.9,1575.1,1463.9,43-39,2-4,false,final
+2017,Charlotte Hornets,Hornets,Charlotte,NBA,1541.9,1482.7,1557.8,1482.7,36-46,,false,final
+2017,New Orleans Pelicans,Pelicans,New Orleans,NBA,1440.8,1466.7,1480.2,1404.2,34-48,,false,final
+2017,Detroit Pistons,Pistons,Detroit,NBA,1499.6,1461,1544.9,1450.9,37-45,,false,final
+2017,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1436,1459.5,1493.4,1412.4,31-51,,false,final
+2017,Dallas Mavericks,Mavericks,Dallas,NBA,1504.5,1436.4,1504.5,1434,33-49,,false,final
+2017,Sacramento Kings,Kings,Sacramento,NBA,1456.4,1410.4,1469.4,1406.2,32-50,,false,final
+2017,New York Knicks,Knicks,New York,NBA,1430.5,1394.9,1460.6,1393.5,31-51,,false,final
+2017,Orlando Magic,Magic,Orlando,NBA,1457.3,1376.3,1457.3,1376.3,29-53,,false,final
+2017,Los Angeles Lakers,Lakers,Los Angeles,NBA,1365,1368.1,1414.4,1341,26-56,,false,final
+2017,Brooklyn Nets,Nets,Brooklyn,NBA,1383.6,1363.3,1392.8,1293.2,20-62,,false,final
+2017,Phoenix Suns,Suns,Phoenix,NBA,1414.8,1360.8,1414.8,1345.8,24-58,,false,final
+2017,Philadelphia 76ers,76ers,Philadelphia,NBA,1325.4,1349.6,1386.3,1302.3,28-54,,false,final
+2018,Houston Rockets,Rockets,Houston,NBA,1578.7,1698.8,1731.8,1578.7,65-17,11-6,false,final
+2018,Golden State Warriors,Warriors,Golden State,NBA,1707.3,1664.6,1735.8,1618.2,58-24,16-5,true,final
+2018,Utah Jazz,Jazz,Utah,NBA,1566.5,1639.7,1653.5,1510.2,48-34,5-6,false,final
+2018,Toronto Raptors,Raptors,Toronto,NBA,1549.6,1636.7,1673.2,1549.6,59-23,4-6,false,final
+2018,Philadelphia 76ers,76ers,Philadelphia,NBA,1397.7,1619.7,1630.3,1386.7,52-30,5-5,false,final
+2018,Boston Celtics,Celtics,Boston,NBA,1549.2,1587.2,1613.1,1544,55-27,11-8,false,final
+2018,New Orleans Pelicans,Pelicans,New Orleans,NBA,1478.5,1581.4,1583.7,1476.7,48-34,5-4,false,final
+2018,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1526.5,1580.6,1598.2,1523,48-34,2-4,false,final
+2018,Indiana Pacers,Pacers,Indiana,NBA,1505.4,1573.2,1573.2,1494.5,48-34,3-4,false,final
+2018,San Antonio Spurs,Spurs,San Antonio,NBA,1602.3,1567.1,1610,1560.3,47-35,1-4,false,final
+2018,Denver Nuggets,Nuggets,Denver,NBA,1520.2,1564.6,1564.8,1511.8,46-36,,false,final
+2018,Portland Trail Blazers,Trail Blazers,Portland,NBA,1523.1,1561.6,1598.6,1507.5,49-33,0-4,false,final
+2018,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1473.6,1544.5,1561.5,1461.7,47-35,1-4,false,final
+2018,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1586.4,1523.3,1608.7,1523.3,50-32,12-10,false,final
+2018,Milwaukee Bucks,Bucks,Milwaukee,NBA,1503,1520,1527.1,1485.9,44-38,3-4,false,final
+2018,Los Angeles Clippers,Clippers,Los Angeles,NBA,1572.3,1518.7,1583.1,1499,42-40,,false,final
+2018,Washington Wizards,Wizards,Washington,NBA,1551.7,1504.5,1565.3,1503.3,43-39,2-4,false,final
+2018,Charlotte Hornets,Hornets,Charlotte,NBA,1489.6,1494.3,1508.3,1456.5,36-46,,false,final
+2018,Miami Heat,Heat,Miami,NBA,1534.4,1486.1,1534.4,1486.1,44-38,1-4,false,final
+2018,Detroit Pistons,Pistons,Detroit,NBA,1474.6,1485.7,1510.4,1442.9,39-43,,false,final
+2018,Los Angeles Lakers,Lakers,Los Angeles,NBA,1410.5,1468.8,1476.7,1378.3,35-47,,false,final
+2018,Brooklyn Nets,Nets,Brooklyn,NBA,1407.1,1404.2,1434.9,1373,28-54,,false,final
+2018,New York Knicks,Knicks,New York,NBA,1428.9,1395.9,1471.7,1386.5,29-53,,false,final
+2018,Dallas Mavericks,Mavericks,Dallas,NBA,1457.6,1390.9,1465.5,1390.9,24-58,,false,final
+2018,Atlanta Hawks,Hawks,Atlanta,NBA,1491.1,1373,1491.1,1367.1,24-58,,false,final
+2018,Sacramento Kings,Kings,Sacramento,NBA,1439.6,1370.6,1439.6,1355.6,27-55,,false,final
+2018,Orlando Magic,Magic,Orlando,NBA,1416.1,1362.6,1460.1,1353.6,25-57,,false,final
+2018,Chicago Bulls,Bulls,Chicago,NBA,1494.3,1360.8,1494.3,1360.8,27-55,,false,final
+2018,Memphis Grizzlies,Grizzlies,Memphis,NBA,1506.7,1360,1531.9,1347.8,22-60,,false,final
+2018,Phoenix Suns,Suns,Phoenix,NBA,1405.4,1308.9,1405.4,1286,21-61,,false,final
+2019,Toronto Raptors,Raptors,Toronto,NBA,1596,1704.4,1704.4,1596,58-24,16-8,true,final
+2019,Milwaukee Bucks,Bucks,Milwaukee,NBA,1515.4,1674.7,1693.9,1515.4,60-22,10-5,false,final
+2019,Houston Rockets,Rockets,Houston,NBA,1638.8,1673.3,1685.2,1571,53-29,6-5,false,final
+2019,Portland Trail Blazers,Trail Blazers,Portland,NBA,1544.1,1633.4,1646.5,1538.4,53-29,8-8,false,final
+2019,Utah Jazz,Jazz,Utah,NBA,1598,1614.1,1621.2,1550.3,50-32,1-4,false,final
+2019,Golden State Warriors,Warriors,Golden State,NBA,1615.3,1609.6,1670.9,1594.1,57-25,14-8,false,final
+2019,Denver Nuggets,Nuggets,Denver,NBA,1546.2,1602.7,1603.5,1546.2,54-28,7-7,false,final
+2019,Philadelphia 76ers,76ers,Philadelphia,NBA,1584.2,1593.7,1609.8,1563.3,51-31,7-5,false,final
+2019,Boston Celtics,Celtics,Boston,NBA,1561.7,1586.5,1617.5,1553.8,49-33,5-4,false,final
+2019,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1557.2,1559.3,1605.7,1530,49-33,1-4,false,final
+2019,San Antonio Spurs,Spurs,San Antonio,NBA,1547.9,1554.2,1573.1,1508.6,48-34,3-4,false,final
+2019,Los Angeles Clippers,Clippers,Los Angeles,NBA,1514.5,1540.4,1564.9,1508.2,48-34,2-4,false,final
+2019,Indiana Pacers,Pacers,Indiana,NBA,1552.1,1529.7,1608.2,1529.7,48-34,0-4,false,final
+2019,Orlando Magic,Magic,Orlando,NBA,1406.6,1527.9,1551.7,1387.3,42-40,1-4,false,final
+2019,Miami Heat,Heat,Miami,NBA,1492,1492.8,1504.3,1461.2,39-43,,false,final
+2019,Charlotte Hornets,Hornets,Charlotte,NBA,1497.6,1487.7,1524.5,1460.9,39-43,,false,final
+2019,Brooklyn Nets,Nets,Brooklyn,NBA,1435.4,1484.2,1508.2,1430,42-40,1-4,false,final
+2019,Detroit Pistons,Pistons,Detroit,NBA,1491.7,1475.5,1525.5,1452.9,41-41,0-4,false,final
+2019,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1532.3,1472.5,1532.3,1472.5,36-46,,false,final
+2019,Los Angeles Lakers,Lakers,Los Angeles,NBA,1480,1469,1530.1,1443,37-45,,false,final
+2019,Sacramento Kings,Kings,Sacramento,NBA,1412.2,1458.8,1476.2,1412.2,39-43,,false,final
+2019,Dallas Mavericks,Mavericks,Dallas,NBA,1426.2,1451.5,1488.6,1403.1,33-49,,false,final
+2019,Memphis Grizzlies,Grizzlies,Memphis,NBA,1404.9,1437.9,1461.8,1400.2,33-49,,false,final
+2019,Washington Wizards,Wizards,Washington,NBA,1504.6,1435.5,1504.6,1435.5,32-50,,false,final
+2019,New Orleans Pelicans,Pelicans,New Orleans,NBA,1557.8,1434.1,1576.9,1434.1,33-49,,false,final
+2019,Atlanta Hawks,Hawks,Atlanta,NBA,1413.8,1392,1421,1348.5,29-53,,false,final
+2019,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1517.7,1327.2,1517.7,1327.2,19-63,,false,final
+2019,Chicago Bulls,Bulls,Chicago,NBA,1405.4,1326.6,1405.4,1319,22-60,,false,final
+2019,Phoenix Suns,Suns,Phoenix,NBA,1369.5,1304.4,1374.8,1290.8,19-63,,false,final
+2019,New York Knicks,Knicks,New York,NBA,1429.7,1295.1,1431.3,1287.2,17-65,,false,final
+2020,Los Angeles Lakers,Lakers,Los Angeles,NBA,1480.1,1678.5,1678.5,1480.1,52-19,16-5,true,final
+2020,Toronto Raptors,Raptors,Toronto,NBA,1642.7,1668.3,1689.1,1628.4,53-19,7-4,false,final
+2020,Boston Celtics,Celtics,Boston,NBA,1561.3,1658.2,1667.6,1561.3,48-24,10-7,false,final
+2020,Milwaukee Bucks,Bucks,Milwaukee,NBA,1622.2,1652.1,1735.8,1620.5,56-17,5-5,false,final
+2020,Los Angeles Clippers,Clippers,Los Angeles,NBA,1529.5,1618.7,1636.5,1529.5,49-23,7-6,false,final
+2020,Miami Heat,Heat,Miami,NBA,1496.6,1598,1611.9,1496.6,44-29,14-7,false,final
+2020,Denver Nuggets,Nuggets,Denver,NBA,1572.5,1567.6,1610.9,1541.2,46-27,9-10,false,final
+2020,Utah Jazz,Jazz,Utah,NBA,1580.4,1564.4,1628.9,1559.6,44-28,3-4,false,final
+2020,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1542.5,1557.1,1595.1,1522.2,44-28,3-4,false,final
+2020,Philadelphia 76ers,76ers,Philadelphia,NBA,1566.2,1550.5,1595.8,1550.5,43-30,0-4,false,final
+2020,Houston Rockets,Rockets,Houston,NBA,1621.2,1549.6,1635.6,1549.6,44-28,5-7,false,final
+2020,Indiana Pacers,Pacers,Indiana,NBA,1522.1,1539.2,1568.4,1505.6,45-28,0-4,false,final
+2020,Dallas Mavericks,Mavericks,Dallas,NBA,1468,1538.4,1573.8,1468,43-32,2-4,false,final
+2020,San Antonio Spurs,Spurs,San Antonio,NBA,1539,1521.3,1545.9,1472.9,32-39,,false,final
+2020,Memphis Grizzlies,Grizzlies,Memphis,NBA,1458.7,1519.7,1526,1400.6,34-39,0-1,false,final
+2020,Phoenix Suns,Suns,Phoenix,NBA,1366.4,1517.8,1517.8,1366.4,34-39,,false,final
+2020,Portland Trail Blazers,Trail Blazers,Portland,NBA,1593.7,1505.9,1593.9,1494.7,35-39,2-4,false,final
+2020,Orlando Magic,Magic,Orlando,NBA,1520.8,1495.4,1520.8,1469.8,33-40,1-4,false,final
+2020,New Orleans Pelicans,Pelicans,New Orleans,NBA,1456,1491.8,1520,1404.4,30-42,,false,final
+2020,Sacramento Kings,Kings,Sacramento,NBA,1473.1,1488.6,1492.1,1441.4,31-41,,false,final
+2020,Brooklyn Nets,Nets,Brooklyn,NBA,1490.7,1482.7,1500.6,1445.1,35-37,0-4,false,final
+2020,Charlotte Hornets,Hornets,Charlotte,NBA,1493,1409.3,1493,1378.7,23-42,,false,final
+2020,Washington Wizards,Wizards,Washington,NBA,1457,1396.1,1463.9,1388.5,25-47,,false,final
+2020,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1482.6,1393.8,1511.6,1393.8,19-45,,false,final
+2020,Detroit Pistons,Pistons,Detroit,NBA,1484.6,1384.5,1484.9,1384.5,20-46,,false,final
+2020,Golden State Warriors,Warriors,Golden State,NBA,1577.3,1381.6,1577.3,1365.6,15-50,,false,final
+2020,Chicago Bulls,Bulls,Chicago,NBA,1381.8,1368.5,1412,1365.9,22-43,,false,final
+2020,Atlanta Hawks,Hawks,Atlanta,NBA,1426.9,1361.1,1444.9,1347.7,20-47,,false,final
+2020,New York Knicks,Knicks,New York,NBA,1360,1354.2,1363.7,1314.1,21-45,,false,final
+2020,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1382.2,1336.4,1398.5,1306.6,19-46,,false,final
+2021,Phoenix Suns,Suns,Phoenix,NBA,1513.8,1677,1690.1,1513.8,51-21,14-8,false,final
+2021,Milwaukee Bucks,Bucks,Milwaukee,NBA,1606.6,1658.9,1658.9,1594.4,46-26,16-7,true,final
+2021,Utah Jazz,Jazz,Utah,NBA,1546,1642.3,1666.3,1546,52-20,6-5,false,final
+2021,Los Angeles Clippers,Clippers,Los Angeles,NBA,1583.5,1632.8,1643,1567.1,47-25,10-9,false,final
+2021,Brooklyn Nets,Nets,Brooklyn,NBA,1489.6,1630.4,1636.1,1489.6,48-24,7-5,false,final
+2021,Philadelphia 76ers,76ers,Philadelphia,NBA,1536.5,1618.1,1632.2,1533,49-23,7-5,false,final
+2021,Denver Nuggets,Nuggets,Denver,NBA,1548.2,1584.8,1620.3,1535.1,47-25,4-6,false,final
+2021,Portland Trail Blazers,Trail Blazers,Portland,NBA,1505.6,1576.7,1590.6,1492.3,42-30,2-4,false,final
+2021,Atlanta Hawks,Hawks,Atlanta,NBA,1405.6,1559.3,1563.3,1405.6,41-31,10-8,false,final
+2021,Los Angeles Lakers,Lakers,Los Angeles,NBA,1624.9,1557.6,1661.6,1557.6,42-30,3-4,false,final
+2021,Dallas Mavericks,Mavericks,Dallas,NBA,1528,1556.7,1577.4,1495.1,42-30,3-4,false,final
+2021,Memphis Grizzlies,Grizzlies,Memphis,NBA,1515.1,1542.1,1566.8,1493.6,38-34,3-4,false,final
+2021,New York Knicks,Knicks,New York,NBA,1400.8,1537.6,1556.2,1400.8,41-31,1-4,false,final
+2021,Golden State Warriors,Warriors,Golden State,NBA,1419.7,1518.5,1525.7,1412.5,39-33,0-2,false,final
+2021,Miami Heat,Heat,Miami,NBA,1569.3,1513.4,1569.3,1503.2,40-32,0-4,false,final
+2021,Boston Celtics,Celtics,Boston,NBA,1610.8,1503.4,1610.8,1503.4,36-36,2-4,false,final
+2021,Indiana Pacers,Pacers,Indiana,NBA,1528.6,1494.1,1541.6,1487,34-38,1-1,false,final
+2021,New Orleans Pelicans,Pelicans,New Orleans,NBA,1495.9,1481.1,1525.7,1477.2,31-41,,false,final
+2021,Chicago Bulls,Bulls,Chicago,NBA,1410.7,1474.5,1474.5,1386.2,31-41,,false,final
+2021,San Antonio Spurs,Spurs,San Antonio,NBA,1516.3,1473.4,1527.1,1455.5,33-39,0-1,false,final
+2021,Washington Wizards,Wizards,Washington,NBA,1429.7,1471.8,1484.5,1391,34-38,2-5,false,final
+2021,Toronto Raptors,Raptors,Toronto,NBA,1617.8,1471.7,1617.8,1471.7,27-45,,false,final
+2021,Sacramento Kings,Kings,Sacramento,NBA,1493.7,1445.3,1493.7,1425.5,31-41,,false,final
+2021,Charlotte Hornets,Hornets,Charlotte,NBA,1438.9,1438.6,1503.5,1434.7,33-39,0-1,false,final
+2021,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1428.2,1409.1,1436,1340.2,23-49,,false,final
+2021,Detroit Pistons,Pistons,Detroit,NBA,1421.8,1370.3,1423.9,1370.3,20-52,,false,final
+2021,Houston Rockets,Rockets,Houston,NBA,1535.8,1339.9,1550,1336.1,17-55,,false,final
+2021,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1388.5,1334,1414.9,1334,22-50,,false,final
+2021,Orlando Magic,Magic,Orlando,NBA,1498.4,1326.1,1514.4,1326.1,21-51,,false,final
+2021,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1541,1309.9,1543.7,1307.2,22-50,,false,final
+2022,Boston Celtics,Celtics,Boston,NBA,1503.9,1686.6,1707.3,1486.2,51-31,14-10,false,final
+2022,Golden State Warriors,Warriors,Golden State,NBA,1514.4,1635.7,1635.7,1514.4,53-29,16-6,true,final
+2022,Phoenix Suns,Suns,Phoenix,NBA,1623.8,1629.7,1706.8,1602.1,64-18,7-6,false,final
+2022,Memphis Grizzlies,Grizzlies,Memphis,NBA,1530.6,1628.9,1639.9,1477,56-26,6-6,false,final
+2022,Dallas Mavericks,Mavericks,Dallas,NBA,1540.7,1620.4,1635.6,1514.6,52-30,9-9,false,final
+2022,Miami Heat,Heat,Miami,NBA,1510.8,1617.4,1625.7,1510.8,53-29,11-7,false,final
+2022,Philadelphia 76ers,76ers,Philadelphia,NBA,1583.2,1598.4,1616.4,1550.7,51-31,6-6,false,final
+2022,Milwaukee Bucks,Bucks,Milwaukee,NBA,1611.3,1580.9,1613.6,1559.7,51-31,7-5,false,final
+2022,Utah Jazz,Jazz,Utah,NBA,1599.9,1576.2,1658.5,1576.2,49-33,2-4,false,final
+2022,Toronto Raptors,Raptors,Toronto,NBA,1482,1554.2,1577,1482,48-34,2-4,false,final
+2022,Denver Nuggets,Nuggets,Denver,NBA,1560.1,1548.3,1592.7,1534.6,48-34,1-4,false,final
+2022,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1438.8,1545.9,1572.5,1417.9,46-36,3-4,false,final
+2022,Atlanta Hawks,Hawks,Atlanta,NBA,1542.5,1538.7,1553.6,1477.6,43-39,3-4,false,final
+2022,Brooklyn Nets,Nets,Brooklyn,NBA,1591.6,1529.9,1596.9,1469.4,44-38,1-4,false,final
+2022,New Orleans Pelicans,Pelicans,New Orleans,NBA,1488.5,1528,1536.1,1435.4,36-46,4-4,false,final
+2022,Los Angeles Clippers,Clippers,Los Angeles,NBA,1593.3,1521,1593.3,1479.5,42-40,0-2,false,final
+2022,Charlotte Hornets,Hornets,Charlotte,NBA,1459.1,1518.9,1527.1,1459.1,43-39,0-1,false,final
+2022,New York Knicks,Knicks,New York,NBA,1527.5,1511.3,1543.8,1446.9,37-45,,false,final
+2022,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1386.9,1492.1,1552.8,1383.8,44-38,0-2,false,final
+2022,San Antonio Spurs,Spurs,San Antonio,NBA,1483.2,1483.3,1514.5,1448.6,34-48,0-1,false,final
+2022,Chicago Bulls,Bulls,Chicago,NBA,1483.9,1466.2,1555.1,1466.2,46-36,1-4,false,final
+2022,Los Angeles Lakers,Lakers,Los Angeles,NBA,1541.3,1441.7,1541.3,1433.4,33-49,,false,final
+2022,Washington Wizards,Wizards,Washington,NBA,1482.1,1428.9,1519.7,1420.2,35-47,,false,final
+2022,Indiana Pacers,Pacers,Indiana,NBA,1497.5,1397.1,1512.3,1397.1,25-57,,false,final
+2022,Sacramento Kings,Kings,Sacramento,NBA,1463.8,1394,1474.7,1384,30-52,,false,final
+2022,Detroit Pistons,Pistons,Detroit,NBA,1411.9,1360.3,1411.9,1326.5,23-59,,false,final
+2022,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1370.2,1335.9,1373.7,1329,24-58,,false,final
+2022,Orlando Magic,Magic,Orlando,NBA,1381.4,1334.8,1381.4,1318.8,22-60,,false,final
+2022,Portland Trail Blazers,Trail Blazers,Portland,NBA,1554.5,1322.7,1560.6,1322.7,27-55,,false,final
+2022,Houston Rockets,Rockets,Houston,NBA,1390.9,1322.1,1390.9,1307,20-62,,false,final
+2023,Boston Celtics,Celtics,Boston,NBA,1630.4,1649.3,1670.1,1621.5,57-25,11-9,false,final
+2023,Denver Nuggets,Nuggets,Denver,NBA,1534.9,1640.6,1640.6,1526.6,53-29,16-4,true,final
+2023,Philadelphia 76ers,76ers,Philadelphia,NBA,1569.5,1623.2,1638.3,1552.5,54-28,7-4,false,final
+2023,New York Knicks,Knicks,New York,NBA,1509.4,1593.5,1593.5,1490.8,47-35,6-5,false,final
+2023,Milwaukee Bucks,Bucks,Milwaukee,NBA,1557.4,1574.9,1622.1,1529.7,58-24,1-4,false,final
+2023,Memphis Grizzlies,Grizzlies,Memphis,NBA,1590.6,1574,1629.1,1574,51-31,2-4,false,final
+2023,Los Angeles Lakers,Lakers,Los Angeles,NBA,1461.3,1564.5,1582.6,1431.9,43-39,9-8,false,final
+2023,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1496.1,1563.6,1604.2,1496.1,51-31,1-4,false,final
+2023,Miami Heat,Heat,Miami,NBA,1582.6,1561,1588.8,1516.2,44-38,14-11,false,final
+2023,Phoenix Suns,Suns,Phoenix,NBA,1591.1,1558.8,1618.6,1534.4,45-37,6-5,false,final
+2023,Sacramento Kings,Kings,Sacramento,NBA,1428.3,1549.7,1550.9,1416.3,48-34,3-4,false,final
+2023,Golden State Warriors,Warriors,Golden State,NBA,1595.3,1547.5,1595.3,1535.2,44-38,6-7,false,final
+2023,Toronto Raptors,Raptors,Toronto,NBA,1539,1544.4,1565,1495.4,41-41,0-1,false,final
+2023,Atlanta Hawks,Hawks,Atlanta,NBA,1528.3,1527,1539,1493.7,41-41,3-4,false,final
+2023,Chicago Bulls,Bulls,Chicago,NBA,1478.2,1526.9,1535.9,1467.5,40-42,1-1,false,final
+2023,New Orleans Pelicans,Pelicans,New Orleans,NBA,1520.9,1523.9,1587.5,1481.3,42-40,0-1,false,final
+2023,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1533.2,1521.1,1534.2,1484.8,42-40,2-5,false,final
+2023,Los Angeles Clippers,Clippers,Los Angeles,NBA,1516.1,1515.7,1540.2,1483.5,44-38,1-4,false,final
+2023,Brooklyn Nets,Nets,Brooklyn,NBA,1522.2,1505.9,1588.2,1490.8,45-37,0-4,false,final
+2023,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1388.2,1501.1,1503.1,1380,40-42,1-1,false,final
+2023,Dallas Mavericks,Mavericks,Dallas,NBA,1584.7,1481.4,1594.9,1481.4,38-44,,false,final
+2023,Utah Jazz,Jazz,Utah,NBA,1554.2,1452.2,1577,1452.2,37-45,,false,final
+2023,Washington Wizards,Wizards,Washington,NBA,1452.5,1450.9,1509.7,1427,35-47,,false,final
+2023,Orlando Magic,Magic,Orlando,NBA,1387.4,1440.3,1460.3,1355.6,34-48,,false,final
+2023,Indiana Pacers,Pacers,Indiana,NBA,1430.5,1416.5,1484,1416.5,35-47,,false,final
+2023,Charlotte Hornets,Hornets,Charlotte,NBA,1514.6,1399.9,1532.8,1398.5,27-55,,false,final
+2023,Portland Trail Blazers,Trail Blazers,Portland,NBA,1379.1,1353.9,1463.9,1353.9,33-49,,false,final
+2023,San Antonio Spurs,Spurs,San Antonio,NBA,1490,1345.4,1500.8,1321.9,22-60,,false,final
+2023,Houston Rockets,Rockets,Houston,NBA,1378.7,1335.8,1383.7,1304.4,22-60,,false,final
+2023,Detroit Pistons,Pistons,Detroit,NBA,1405,1306.9,1405,1306.9,17-65,,false,final
+2024,Boston Celtics,Celtics,Boston,NBA,1604.7,1726.2,1736.8,1604.7,64-18,16-3,true,final
+2024,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1516.1,1663.7,1685.1,1516.1,56-26,9-7,false,final
+2024,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1502.3,1641.7,1654.4,1501.4,57-25,6-4,false,final
+2024,Dallas Mavericks,Mavericks,Dallas,NBA,1488.7,1627.1,1632.2,1469.7,50-32,13-9,false,final
+2024,Denver Nuggets,Nuggets,Denver,NBA,1598.7,1617.8,1643.1,1588.9,57-25,7-5,false,final
+2024,Indiana Pacers,Pacers,Indiana,NBA,1443.9,1592.8,1603.1,1443.9,47-35,8-9,false,final
+2024,New York Knicks,Knicks,New York,NBA,1566.1,1590,1625.9,1554.2,50-32,7-6,false,final
+2024,Golden State Warriors,Warriors,Golden State,NBA,1534.3,1583.9,1593.5,1485.9,46-36,0-1,false,final
+2024,Phoenix Suns,Suns,Phoenix,NBA,1542.2,1577.8,1609.1,1517.3,49-33,0-4,false,final
+2024,Los Angeles Lakers,Lakers,Los Angeles,NBA,1546.1,1563.4,1564.6,1495.5,47-35,2-4,false,final
+2024,New Orleans Pelicans,Pelicans,New Orleans,NBA,1518,1557.7,1614.7,1487.4,49-33,1-5,false,final
+2024,Sacramento Kings,Kings,Sacramento,NBA,1535.9,1549.7,1556,1518,46-36,1-1,false,final
+2024,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1545.5,1540.3,1632.1,1522.1,48-34,5-7,false,final
+2024,Miami Heat,Heat,Miami,NBA,1543.7,1538.9,1568.4,1505.5,46-36,2-5,false,final
+2024,Orlando Magic,Magic,Orlando,NBA,1460.3,1537.4,1540.3,1460.3,47-35,3-4,false,final
+2024,Philadelphia 76ers,76ers,Philadelphia,NBA,1586.7,1537.3,1631.7,1498.1,47-35,3-4,false,final
+2024,Milwaukee Bucks,Bucks,Milwaukee,NBA,1553.3,1528.7,1614.8,1528,49-33,2-4,false,final
+2024,Los Angeles Clippers,Clippers,Los Angeles,NBA,1512.4,1528.3,1629.1,1501.4,51-31,2-4,false,final
+2024,Houston Rockets,Rockets,Houston,NBA,1388.1,1497.8,1505.1,1374,41-41,,false,final
+2024,Chicago Bulls,Bulls,Chicago,NBA,1520.1,1480.1,1520.1,1465.5,39-43,1-1,false,final
+2024,Atlanta Hawks,Hawks,Atlanta,NBA,1520.2,1462,1543.8,1449.4,36-46,0-1,false,final
+2024,Brooklyn Nets,Nets,Brooklyn,NBA,1505.6,1435.2,1528.7,1435.2,32-50,,false,final
+2024,Utah Jazz,Jazz,Utah,NBA,1468.5,1401,1520.4,1398.7,31-51,,false,final
+2024,San Antonio Spurs,Spurs,San Antonio,NBA,1394.8,1387.1,1399.5,1320.6,22-60,,false,final
+2024,Memphis Grizzlies,Grizzlies,Memphis,NBA,1552.7,1365.8,1552.7,1365.8,27-55,,false,final
+2024,Toronto Raptors,Raptors,Toronto,NBA,1532.2,1350.4,1532.2,1350.4,25-57,,false,final
+2024,Charlotte Hornets,Hornets,Charlotte,NBA,1432.4,1334.1,1432.4,1302.6,21-61,,false,final
+2024,Portland Trail Blazers,Trail Blazers,Portland,NBA,1400.6,1324.5,1404.3,1324.5,21-61,,false,final
+2024,Detroit Pistons,Pistons,Detroit,NBA,1368.2,1305.5,1388.6,1267.2,14-68,,false,final
+2024,Washington Wizards,Wizards,Washington,NBA,1467.6,1303.4,1467.6,1303.4,15-67,,false,final
+2025,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1599.4,1748.8,1752,1599.4,68-14,16-7,true,final
+2025,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1529.4,1693.6,1711,1529.4,64-18,5-4,false,final
+2025,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1614.6,1665.9,1677.2,1571,49-33,9-6,false,final
+2025,Boston Celtics,Celtics,Boston,NBA,1657.8,1660.7,1709,1648,61-21,6-5,false,final
+2025,Indiana Pacers,Pacers,Indiana,NBA,1565.7,1628.1,1628.1,1488,50-32,15-8,false,final
+2025,Los Angeles Clippers,Clippers,Los Angeles,NBA,1521.1,1619,1627.6,1515,50-32,3-4,false,final
+2025,New York Knicks,Knicks,New York,NBA,1563.7,1602.4,1625,1563.7,51-31,10-8,false,final
+2025,Denver Nuggets,Nuggets,Denver,NBA,1582.9,1588.9,1624,1566,50-32,7-7,false,final
+2025,Houston Rockets,Rockets,Houston,NBA,1500,1588.9,1611,1494,52-30,3-4,false,final
+2025,Golden State Warriors,Warriors,Golden State,NBA,1559.5,1578.4,1608,1493,48-34,6-7,false,final
+2025,Los Angeles Lakers,Lakers,Los Angeles,NBA,1545.3,1554.6,1591,1505,50-32,1-4,false,final
+2025,Milwaukee Bucks,Bucks,Milwaukee,NBA,1521.4,1553.7,1575,1494,48-34,1-4,false,final
+2025,Memphis Grizzlies,Grizzlies,Memphis,NBA,1408.9,1536.1,1583,1408.9,48-34,1-5,false,final
+2025,Detroit Pistons,Pistons,Detroit,NBA,1367.2,1534.2,1547,1360,44-38,2-4,false,final
+2025,Orlando Magic,Magic,Orlando,NBA,1527.4,1516.3,1574,1451,41-41,2-4,false,final
+2025,Sacramento Kings,Kings,Sacramento,NBA,1535.9,1498.8,1553,1495,40-42,0-1,false,final
+2025,Chicago Bulls,Bulls,Chicago,NBA,1487.8,1497.2,1510,1399,39-43,0-1,false,final
+2025,Miami Heat,Heat,Miami,NBA,1528.4,1483.7,1546,1444,37-45,2-4,false,final
+2025,Dallas Mavericks,Mavericks,Dallas,NBA,1589.4,1479.4,1623,1472,39-43,1-1,false,final
+2025,Portland Trail Blazers,Trail Blazers,Portland,NBA,1380.3,1475,1475,1346,36-46,,false,final
+2025,Atlanta Hawks,Hawks,Atlanta,NBA,1475.3,1471.5,1505,1452,40-42,0-2,false,final
+2025,Phoenix Suns,Suns,Phoenix,NBA,1555.3,1452,1571,1452,36-46,,false,final
+2025,San Antonio Spurs,Spurs,San Antonio,NBA,1423.6,1433,1460,1423.6,34-48,,false,final
+2025,Toronto Raptors,Raptors,Toronto,NBA,1398.2,1407,1421,1353,30-52,,false,final
+2025,New Orleans Pelicans,Pelicans,New Orleans,NBA,1541.4,1345,1541.4,1345,21-61,,false,final
+2025,Philadelphia 76ers,76ers,Philadelphia,NBA,1527.3,1345,1527.3,1345,24-58,,false,final
+2025,Brooklyn Nets,Nets,Brooklyn,NBA,1456.8,1328,1457,1328,26-56,,false,final
+2025,Utah Jazz,Jazz,Utah,NBA,1433.2,1319,1433.2,1317,17-65,,false,final
+2025,Charlotte Hornets,Hornets,Charlotte,NBA,1386.9,1280,1396,1280,19-63,,false,final
+2025,Washington Wizards,Wizards,Washington,NBA,1365.8,1264,1365.8,1263,18-64,,false,final
+2026,San Antonio Spurs,Spurs,San Antonio,NBA,1507.8,1756.9,1767.9,1507.8,62-20,13-10,false,final
+2026,New York Knicks,Knicks,New York,NBA,1598.9,1729.2,1729.6,1561.8,53-29,16-3,true,final
+2026,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1686.5,1715.6,1751.1,1686.5,64-18,11-4,false,final
+2026,Detroit Pistons,Pistons,Detroit,NBA,1536.3,1659.3,1673.4,1536.3,60-22,7-7,false,final
+2026,Denver Nuggets,Nuggets,Denver,NBA,1596.8,1617.2,1640.8,1572,54-28,2-4,false,final
+2026,Boston Celtics,Celtics,Boston,NBA,1529.6,1612.8,1660.3,1519.8,56-26,3-4,false,final
+2026,Houston Rockets,Rockets,Houston,NBA,1590.3,1596.8,1645.1,1581.4,52-30,2-4,false,final
+2026,Charlotte Hornets,Hornets,Charlotte,NBA,1380,1595.4,1609,1366.8,44-38,1-1,false,final
+2026,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1639,1583.2,1639,1561.8,52-30,8-10,false,final
+2026,Los Angeles Lakers,Lakers,Los Angeles,NBA,1545.9,1572.6,1590.9,1509.1,53-29,4-6,false,final
+2026,Toronto Raptors,Raptors,Toronto,NBA,1484.2,1556.7,1558.6,1484.2,46-36,3-4,false,final
+2026,Orlando Magic,Magic,Orlando,NBA,1566.1,1548.1,1592.5,1507.5,45-37,4-5,false,final
+2026,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1582.5,1544.2,1602.4,1544.2,49-33,6-6,false,final
+2026,Atlanta Hawks,Hawks,Atlanta,NBA,1533.2,1542.7,1580.2,1480.2,46-36,2-4,false,final
+2026,Philadelphia 76ers,76ers,Philadelphia,NBA,1487.8,1542.5,1568.7,1479.4,45-37,5-7,false,final
+2026,Los Angeles Clippers,Clippers,Los Angeles,NBA,1575.4,1533.3,1575.4,1493.8,42-40,0-1,false,final
+2026,Phoenix Suns,Suns,Phoenix,NBA,1425.9,1525.2,1539.4,1421.2,45-37,1-5,false,final
+2026,Miami Heat,Heat,Miami,NBA,1482.9,1521.8,1551.5,1482.9,43-39,0-1,false,final
+2026,Portland Trail Blazers,Trail Blazers,Portland,NBA,1462.1,1504.4,1513.7,1454.8,42-40,2-4,false,final
+2026,Golden State Warriors,Warriors,Golden State,NBA,1562.6,1467.7,1572.2,1465,37-45,1-1,false,final
+2026,New Orleans Pelicans,Pelicans,New Orleans,NBA,1415.9,1402.5,1430.2,1347.4,26-56,,false,final
+2026,Dallas Mavericks,Mavericks,Dallas,NBA,1501.8,1384.7,1501.8,1382.6,26-56,,false,final
+2026,Milwaukee Bucks,Bucks,Milwaukee,NBA,1526.2,1380.9,1537.8,1380.9,32-50,,false,final
+2026,Chicago Bulls,Bulls,Chicago,NBA,1452.4,1368.9,1480.7,1365.7,31-51,,false,final
+2026,Indiana Pacers,Pacers,Indiana,NBA,1492,1345,1492,1314.7,19-63,,false,final
+2026,Sacramento Kings,Kings,Sacramento,NBA,1459.1,1340.3,1459.1,1327,22-60,,false,final
+2026,Memphis Grizzlies,Grizzlies,Memphis,NBA,1497.4,1337.9,1497.4,1337.9,25-57,,false,final
+2026,Utah Jazz,Jazz,Utah,NBA,1333.8,1302.7,1376.9,1291.9,22-60,,false,final
+2026,Brooklyn Nets,Nets,Brooklyn,NBA,1335.1,1284.7,1387.8,1284.7,20-62,,false,final
+2026,Washington Wizards,Wizards,Washington,NBA,1331.9,1245.9,1331.9,1245.9,17-65,,false,final
+2027,San Antonio Spurs,Spurs,San Antonio,NBA,1693.9,1703.2,1713.6,1680.9,13-3,,,live
+2027,New York Knicks,Knicks,New York,NBA,1673.2,1661.3,1673.2,1649.1,9-6,,,live
+2027,Detroit Pistons,Pistons,Detroit,NBA,1620.7,1644.3,1644.3,1620.7,10-4,,,live
+2027,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1662.9,1643,1678.2,1643,9-6,,,live
+2027,Boston Celtics,Celtics,Boston,NBA,1585.8,1621.8,1636.8,1585.8,11-4,,,live
+2027,Houston Rockets,Rockets,Houston,NBA,1573.8,1607.4,1612,1573.8,12-4,,,live
+2027,Los Angeles Lakers,Lakers,Los Angeles,NBA,1555.7,1585,1600.7,1555.7,13-3,,,live
+2027,Denver Nuggets,Nuggets,Denver,NBA,1589.2,1576.1,1589.2,1576.1,8-5,,,live
+2027,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1534.4,1574.2,1581.6,1534.4,11-5,,,live
+2027,Philadelphia 76ers,76ers,Philadelphia,NBA,1533.1,1564.1,1564.1,1533.1,13-3,,,live
+2027,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,1563.7,1558.9,1569.6,1558.9,8-8,,,live
+2027,Portland Trail Blazers,Trail Blazers,Portland,NBA,1504.6,1547.9,1548.6,1504.6,10-5,,,live
+2027,Atlanta Hawks,Hawks,Atlanta,NBA,1533.3,1543.4,1561.1,1533.3,9-6,,,live
+2027,Miami Heat,Heat,Miami,NBA,1517.6,1529.1,1529.1,1492.7,9-6,,,live
+2027,Phoenix Suns,Suns,Phoenix,NBA,1520.2,1518.1,1520.2,1498.8,7-7,,,live
+2027,Orlando Magic,Magic,Orlando,NBA,1537.3,1517,1537.3,1498.9,6-8,,,live
+2027,Toronto Raptors,Raptors,Toronto,NBA,1543.8,1508.5,1549.6,1508.5,5-10,,,live
+2027,Charlotte Hornets,Hornets,Charlotte,NBA,1572.8,1490.7,1572.8,1490.7,4-10,,,live
+2027,Golden State Warriors,Warriors,Golden State,NBA,1477,1484.7,1516.7,1462.8,8-8,,,live
+2027,Los Angeles Clippers,Clippers,Los Angeles,NBA,1526.2,1471.5,1526.2,1471.5,4-10,,,live
+2027,Memphis Grizzlies,Grizzlies,Memphis,NBA,1379.7,1471.1,1471.1,1379.7,12-4,,,live
+2027,Dallas Mavericks,Mavericks,Dallas,NBA,1414.8,1442.8,1448.6,1414.8,8-7,,,live
+2027,Chicago Bulls,Bulls,Chicago,NBA,1402.9,1413.3,1413.3,1380.5,4-10,,,live
+2027,New Orleans Pelicans,Pelicans,New Orleans,NBA,1428.1,1381.8,1429.4,1373.2,5-11,,,live
+2027,Indiana Pacers,Pacers,Indiana,NBA,1385,1374.2,1393.8,1372.6,5-10,,,live
+2027,Utah Jazz,Jazz,Utah,NBA,1353.3,1355.1,1355.1,1313.4,3-13,,,live
+2027,Milwaukee Bucks,Bucks,Milwaukee,NBA,1411.9,1350.7,1411.9,1350.7,1-15,,,live
+2027,Sacramento Kings,Kings,Sacramento,NBA,1381.5,1334.5,1381.5,1334.5,1-13,,,live
+2027,Brooklyn Nets,Nets,Brooklyn,NBA,1339.8,1328.8,1348,1321.9,3-11,,,live
+2027,Washington Wizards,Wizards,Washington,NBA,1310.7,1324.5,1335.9,1310.7,5-11,,,live

@@ -1,0 +1,16 @@
+rank,team,abbr,slug,active,elo,rating_date,last_season,change_last_season,peak_elo,peak_date,low_elo,low_date,games
+1,Royal Challengers Bengaluru,RCB,rcb,true,1560.7,2026-05-31,2026,9.3,1560.7,2026-05-31,1444,2019-04-07,283
+2,Gujarat Titans,GT,gujarat-titans,true,1528.7,2026-05-31,2026,12.4,1560.4,2023-05-21,1491.9,2026-04-04,77
+3,Sunrisers Hyderabad,SRH,sunrisers-hyderabad,true,1521.5,2026-05-27,2026,26.2,1559.7,2018-05-10,1444.1,2021-10-03,210
+4,Punjab Kings,PBKS,punjab-kings,true,1505.8,2026-05-23,2026,-9,1555.3,2014-05-30,1446.1,2016-05-21,275
+5,Delhi Capitals,DC,delhi-capitals,true,1504.3,2026-05-24,2026,0.2,1552.8,2021-10-04,1409.5,2014-05-25,277
+6,Rajasthan Royals,RR,rajasthan-royals,true,1499.8,2026-05-29,2026,32.9,1568.8,2008-06-01,1458.9,2025-05-18,249
+7,Kolkata Knight Riders,KKR,kolkata-knight-riders,true,1496.4,2026-05-24,2026,-3.6,1553.1,2012-05-27,1431,2009-05-16,276
+8,Chennai Super Kings,CSK,chennai-super-kings,true,1471.4,2026-05-21,2026,8.5,1565.9,2019-04-14,1450.5,2025-05-03,265
+9,Mumbai Indians,MI,mumbai-indians,true,1459.3,2026-05-24,2026,-43,1561.8,2013-05-15,1450,2022-04-24,291
+10,Lucknow Super Giants,LSG,lucknow-super-giants,true,1452.3,2026-05-23,2026,-33.9,1535.9,2022-05-07,1452.3,2026-05-23,71
+,Rising Pune Supergiant,RPSG,rising-pune-supergiant,false,1522.9,2017-05-21,2017,48.7,1530.6,2017-05-16,1459,2016-05-14,30
+,Kochi Tuskers Kerala,KTK,kochi-tuskers,false,1487.4,2011-05-18,2011,,1510.7,2011-04-20,1484.4,2011-04-13,14
+,Gujarat Lions,GL,gujarat-lions,false,1462.8,2017-05-13,2017,-48.4,1537,2016-04-29,1462.8,2017-05-13,30
+,Deccan Chargers,DEC,deccan-chargers,false,1454,2012-05-20,2012,-34.7,1515.1,2010-04-18,1429.4,2008-05-27,75
+,Pune Warriors,PW,pune-warriors,false,1423,2013-05-19,2013,-3.8,1514.1,2011-04-13,1404.6,2013-05-11,45

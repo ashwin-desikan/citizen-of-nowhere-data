@@ -1,0 +1,1425 @@
+season,club,slug,season_end_elo
+1908,South Sydney,south-sydney,1623.9
+1908,Sydney Roosters,sydney-roosters,1579.5
+1908,North Sydney,north-sydney,1559.4
+1908,Glebe,glebe,1526.4
+1908,Newcastle (08-09),newcastle-08-09,1519.8
+1908,Balmain,balmain,1461.7
+1908,Newtown,newtown,1425.5
+1908,Cumberland,cumberland,1406
+1908,Western Suburbs,western-suburbs,1397.7
+1909,South Sydney,south-sydney,1673
+1909,Balmain,balmain,1580.4
+1909,Newcastle (08-09),newcastle-08-09,1531.7
+1909,Sydney Roosters,sydney-roosters,1510.9
+1909,North Sydney,north-sydney,1501.6
+1909,Glebe,glebe,1460.8
+1909,Newtown,newtown,1435.2
+1909,Western Suburbs,western-suburbs,1367.5
+1910,South Sydney,south-sydney,1666.1
+1910,Newtown,newtown,1608.1
+1910,Sydney Roosters,sydney-roosters,1598.9
+1910,Balmain,balmain,1522.1
+1910,Glebe,glebe,1467.2
+1910,Annandale,annandale,1464.4
+1910,North Sydney,north-sydney,1393.9
+1910,Western Suburbs,western-suburbs,1298.6
+1911,Sydney Roosters,sydney-roosters,1654.8
+1911,South Sydney,south-sydney,1597.6
+1911,Glebe,glebe,1581.3
+1911,Newtown,newtown,1541.7
+1911,Annandale,annandale,1424.3
+1911,Balmain,balmain,1411.4
+1911,North Sydney,north-sydney,1405.1
+1911,Western Suburbs,western-suburbs,1396.2
+1912,Sydney Roosters,sydney-roosters,1685
+1912,Glebe,glebe,1620.8
+1912,South Sydney,south-sydney,1561.4
+1912,Newtown,newtown,1545.7
+1912,Balmain,balmain,1456.8
+1912,North Sydney,north-sydney,1433.2
+1912,Annandale,annandale,1373.5
+1912,Western Suburbs,western-suburbs,1331.7
+1913,Sydney Roosters,sydney-roosters,1674.1
+1913,Newtown,newtown,1589.3
+1913,Glebe,glebe,1559.8
+1913,South Sydney,south-sydney,1559.2
+1913,North Sydney,north-sydney,1469.3
+1913,Balmain,balmain,1417.9
+1913,Annandale,annandale,1378.8
+1913,Western Suburbs,western-suburbs,1356.9
+1914,Newtown,newtown,1616.3
+1914,South Sydney,south-sydney,1610.4
+1914,Sydney Roosters,sydney-roosters,1596.3
+1914,Glebe,glebe,1541.9
+1914,Balmain,balmain,1494.7
+1914,North Sydney,north-sydney,1456.8
+1914,Western Suburbs,western-suburbs,1365
+1914,Annandale,annandale,1322.1
+1915,Balmain,balmain,1641.2
+1915,Glebe,glebe,1624.9
+1915,Newtown,newtown,1608.6
+1915,South Sydney,south-sydney,1578.9
+1915,Sydney Roosters,sydney-roosters,1533.9
+1915,Western Suburbs,western-suburbs,1341.2
+1915,Annandale,annandale,1336.8
+1915,North Sydney,north-sydney,1336.7
+1916,Balmain,balmain,1641.6
+1916,Glebe,glebe,1632.2
+1916,South Sydney,south-sydney,1589.6
+1916,Sydney Roosters,sydney-roosters,1564.5
+1916,Newtown,newtown,1477.9
+1916,North Sydney,north-sydney,1398.5
+1916,Annandale,annandale,1380.3
+1916,Western Suburbs,western-suburbs,1316.8
+1917,Balmain,balmain,1687.3
+1917,South Sydney,south-sydney,1600.5
+1917,Glebe,glebe,1548.1
+1917,Sydney Roosters,sydney-roosters,1517.7
+1917,Newtown,newtown,1496.5
+1917,Western Suburbs,western-suburbs,1453.9
+1917,North Sydney,north-sydney,1364.5
+1917,Annandale,annandale,1332.6
+1918,South Sydney,south-sydney,1662
+1918,Balmain,balmain,1597.4
+1918,Glebe,glebe,1590.1
+1918,Western Suburbs,western-suburbs,1555.1
+1918,Sydney Roosters,sydney-roosters,1522
+1918,Newtown,newtown,1421.9
+1918,North Sydney,north-sydney,1385.8
+1918,Annandale,annandale,1266.3
+1919,Balmain,balmain,1648.9
+1919,Glebe,glebe,1594.6
+1919,Sydney Roosters,sydney-roosters,1582.9
+1919,Western Suburbs,western-suburbs,1571.5
+1919,South Sydney,south-sydney,1546.3
+1919,Newtown,newtown,1449.9
+1919,North Sydney,north-sydney,1323.3
+1919,Annandale,annandale,1283.1
+1920,Balmain,balmain,1675.9
+1920,South Sydney,south-sydney,1568.4
+1920,Western Suburbs,western-suburbs,1562.2
+1920,Glebe,glebe,1561.6
+1920,Sydney Roosters,sydney-roosters,1539.6
+1920,Newtown,newtown,1515.9
+1920,North Sydney,north-sydney,1475.4
+1920,Sydney University,sydney-university,1360.1
+1920,Annandale,annandale,1241.2
+1921,Balmain,balmain,1608.4
+1921,Sydney Roosters,sydney-roosters,1600.3
+1921,North Sydney,north-sydney,1581.2
+1921,Glebe,glebe,1576.8
+1921,South Sydney,south-sydney,1555.8
+1921,Newtown,newtown,1482.3
+1921,Western Suburbs,western-suburbs,1463.9
+1921,St George,st-george,1452.3
+1921,Sydney University,sydney-university,1347.5
+1922,North Sydney,north-sydney,1655.3
+1922,Glebe,glebe,1605.5
+1922,Sydney Roosters,sydney-roosters,1585.3
+1922,South Sydney,south-sydney,1577.9
+1922,Balmain,balmain,1551.8
+1922,Western Suburbs,western-suburbs,1441.4
+1922,Newtown,newtown,1440
+1922,Sydney University,sydney-university,1401.5
+1922,St George,st-george,1350.8
+1923,Sydney Roosters,sydney-roosters,1648.4
+1923,South Sydney,south-sydney,1608.7
+1923,Balmain,balmain,1592.3
+1923,North Sydney,north-sydney,1573.3
+1923,Western Suburbs,western-suburbs,1501.6
+1923,Glebe,glebe,1489.8
+1923,Newtown,newtown,1399.7
+1923,Sydney University,sydney-university,1384.8
+1923,St George,st-george,1372.5
+1924,Balmain,balmain,1613.2
+1924,South Sydney,south-sydney,1613.2
+1924,Sydney Roosters,sydney-roosters,1525.7
+1924,Western Suburbs,western-suburbs,1521
+1924,North Sydney,north-sydney,1512.2
+1924,Glebe,glebe,1482.8
+1924,St George,st-george,1437.2
+1924,Newtown,newtown,1422.8
+1924,Sydney University,sydney-university,1418.1
+1925,South Sydney,south-sydney,1663.2
+1925,Balmain,balmain,1555.2
+1925,Western Suburbs,western-suburbs,1533.7
+1925,North Sydney,north-sydney,1514.1
+1925,Sydney Roosters,sydney-roosters,1471.9
+1925,St George,st-george,1471.7
+1925,Sydney University,sydney-university,1451.9
+1925,Glebe,glebe,1447.9
+1925,Newtown,newtown,1420.4
+1926,South Sydney,south-sydney,1711.6
+1926,Sydney University,sydney-university,1524.9
+1926,Sydney Roosters,sydney-roosters,1524.3
+1926,Balmain,balmain,1508.3
+1926,Western Suburbs,western-suburbs,1505.9
+1926,Glebe,glebe,1491.8
+1926,North Sydney,north-sydney,1476.5
+1926,Newtown,newtown,1436.1
+1926,St George,st-george,1340.1
+1927,South Sydney,south-sydney,1738.6
+1927,St George,st-george,1560.4
+1927,Western Suburbs,western-suburbs,1521.8
+1927,Sydney Roosters,sydney-roosters,1487.9
+1927,Balmain,balmain,1477.1
+1927,Newtown,newtown,1462.4
+1927,North Sydney,north-sydney,1438.4
+1927,Sydney University,sydney-university,1430.5
+1927,Glebe,glebe,1395.7
+1928,South Sydney,south-sydney,1669.1
+1928,St George,st-george,1627
+1928,Sydney Roosters,sydney-roosters,1584.3
+1928,Sydney University,sydney-university,1495.7
+1928,North Sydney,north-sydney,1467.7
+1928,Western Suburbs,western-suburbs,1453.6
+1928,Balmain,balmain,1441.8
+1928,Glebe,glebe,1415.2
+1928,Newtown,newtown,1354
+1929,South Sydney,south-sydney,1703.9
+1929,St George,st-george,1592.6
+1929,Western Suburbs,western-suburbs,1549.7
+1929,Newtown,newtown,1499.8
+1929,North Sydney,north-sydney,1470
+1929,Sydney Roosters,sydney-roosters,1447.5
+1929,Balmain,balmain,1438.2
+1929,Sydney University,sydney-university,1420.8
+1929,Glebe,glebe,1382.8
+1930,Western Suburbs,western-suburbs,1639.6
+1930,South Sydney,south-sydney,1595.3
+1930,Sydney Roosters,sydney-roosters,1576.3
+1930,St George,st-george,1559.4
+1930,Newtown,newtown,1503.5
+1930,Balmain,balmain,1465.8
+1930,North Sydney,north-sydney,1382.4
+1930,Sydney University,sydney-university,1357.4
+1931,Sydney Roosters,sydney-roosters,1641.7
+1931,South Sydney,south-sydney,1626.9
+1931,Western Suburbs,western-suburbs,1549.7
+1931,St George,st-george,1519.3
+1931,Newtown,newtown,1493.7
+1931,Balmain,balmain,1444
+1931,North Sydney,north-sydney,1432.5
+1931,Sydney University,sydney-university,1343.9
+1932,South Sydney,south-sydney,1694.1
+1932,Western Suburbs,western-suburbs,1623.6
+1932,Sydney Roosters,sydney-roosters,1588.7
+1932,Newtown,newtown,1497
+1932,Balmain,balmain,1483.8
+1932,St George,st-george,1450.4
+1932,North Sydney,north-sydney,1353.4
+1932,Sydney University,sydney-university,1342.7
+1933,Newtown,newtown,1592.1
+1933,South Sydney,south-sydney,1571.1
+1933,Sydney Roosters,sydney-roosters,1558.3
+1933,St George,st-george,1500.6
+1933,Balmain,balmain,1472.6
+1933,Western Suburbs,western-suburbs,1469.3
+1933,Sydney University,sydney-university,1449
+1933,North Sydney,north-sydney,1408.9
+1934,Sydney Roosters,sydney-roosters,1638.5
+1934,Western Suburbs,western-suburbs,1619.5
+1934,St George,st-george,1550.6
+1934,South Sydney,south-sydney,1542
+1934,Newtown,newtown,1473.4
+1934,Balmain,balmain,1424.6
+1934,North Sydney,north-sydney,1424.2
+1934,Sydney University,sydney-university,1341.4
+1935,Sydney Roosters,sydney-roosters,1729.8
+1935,South Sydney,south-sydney,1576
+1935,Western Suburbs,western-suburbs,1563.7
+1935,St George,st-george,1538.2
+1935,Newtown,newtown,1499.1
+1935,North Sydney,north-sydney,1496.7
+1935,Balmain,balmain,1481.2
+1935,Canterbury-Bankstown,canterbury-bankstown,1351
+1935,Sydney University,sydney-university,1273.5
+1936,Sydney Roosters,sydney-roosters,1738
+1936,Balmain,balmain,1562.8
+1936,South Sydney,south-sydney,1512.9
+1936,Canterbury-Bankstown,canterbury-bankstown,1509.4
+1936,Western Suburbs,western-suburbs,1497.9
+1936,North Sydney,north-sydney,1495.5
+1936,Newtown,newtown,1469.9
+1936,St George,st-george,1437.6
+1936,Sydney University,sydney-university,1282
+1937,Sydney Roosters,sydney-roosters,1694.7
+1937,South Sydney,south-sydney,1569.5
+1937,Balmain,balmain,1515.5
+1937,Canterbury-Bankstown,canterbury-bankstown,1502.5
+1937,St George,st-george,1496
+1937,Newtown,newtown,1483.5
+1937,North Sydney,north-sydney,1478.1
+1937,Western Suburbs,western-suburbs,1469.2
+1937,Sydney University,sydney-university,1294.8
+1938,Canterbury-Bankstown,canterbury-bankstown,1647.1
+1938,Sydney Roosters,sydney-roosters,1596.2
+1938,South Sydney,south-sydney,1580.6
+1938,Balmain,balmain,1508.6
+1938,North Sydney,north-sydney,1468.5
+1938,Newtown,newtown,1463.5
+1938,Western Suburbs,western-suburbs,1445.4
+1938,St George,st-george,1426.1
+1939,Balmain,balmain,1636.6
+1939,Canterbury-Bankstown,canterbury-bankstown,1616.7
+1939,South Sydney,south-sydney,1570.1
+1939,Sydney Roosters,sydney-roosters,1550.4
+1939,St George,st-george,1546.9
+1939,Western Suburbs,western-suburbs,1417.7
+1939,North Sydney,north-sydney,1396.3
+1939,Newtown,newtown,1353.7
+1940,Sydney Roosters,sydney-roosters,1627.2
+1940,Canterbury-Bankstown,canterbury-bankstown,1572
+1940,Balmain,balmain,1567
+1940,St George,st-george,1526.9
+1940,Newtown,newtown,1512.4
+1940,South Sydney,south-sydney,1488.6
+1940,North Sydney,north-sydney,1394.4
+1940,Western Suburbs,western-suburbs,1369
+1941,St George,st-george,1594.2
+1941,Sydney Roosters,sydney-roosters,1580.8
+1941,Canterbury-Bankstown,canterbury-bankstown,1554.5
+1941,Balmain,balmain,1550.9
+1941,Newtown,newtown,1490
+1941,Western Suburbs,western-suburbs,1466.8
+1941,South Sydney,south-sydney,1420.6
+1941,North Sydney,north-sydney,1379.5
+1942,St George,st-george,1608.9
+1942,Canterbury-Bankstown,canterbury-bankstown,1600.5
+1942,Balmain,balmain,1555.3
+1942,Sydney Roosters,sydney-roosters,1537
+1942,South Sydney,south-sydney,1492.5
+1942,North Sydney,north-sydney,1440.3
+1942,Newtown,newtown,1431.4
+1942,Western Suburbs,western-suburbs,1358.3
+1943,Newtown,newtown,1597.3
+1943,Balmain,balmain,1575.1
+1943,St George,st-george,1549.5
+1943,North Sydney,north-sydney,1545.7
+1943,South Sydney,south-sydney,1514.4
+1943,Sydney Roosters,sydney-roosters,1431.6
+1943,Canterbury-Bankstown,canterbury-bankstown,1426.7
+1943,Western Suburbs,western-suburbs,1375.4
+1944,Balmain,balmain,1679.7
+1944,Newtown,newtown,1631.7
+1944,St George,st-george,1532.9
+1944,North Sydney,north-sydney,1492
+1944,South Sydney,south-sydney,1466.2
+1944,Western Suburbs,western-suburbs,1412.6
+1944,Sydney Roosters,sydney-roosters,1398.1
+1944,Canterbury-Bankstown,canterbury-bankstown,1396.9
+1945,Newtown,newtown,1643.7
+1945,Balmain,balmain,1618.6
+1945,Sydney Roosters,sydney-roosters,1569.2
+1945,North Sydney,north-sydney,1494.7
+1945,Western Suburbs,western-suburbs,1484.9
+1945,St George,st-george,1453.4
+1945,Canterbury-Bankstown,canterbury-bankstown,1409.4
+1945,South Sydney,south-sydney,1332.7
+1946,Balmain,balmain,1609.9
+1946,Newtown,newtown,1602.2
+1946,St George,st-george,1558.8
+1946,Sydney Roosters,sydney-roosters,1553.7
+1946,Canterbury-Bankstown,canterbury-bankstown,1511.3
+1946,North Sydney,north-sydney,1447.2
+1946,Western Suburbs,western-suburbs,1444.8
+1946,South Sydney,south-sydney,1276.4
+1947,Balmain,balmain,1625.3
+1947,Canterbury-Bankstown,canterbury-bankstown,1585.1
+1947,Newtown,newtown,1582.4
+1947,St George,st-george,1562
+1947,Western Suburbs,western-suburbs,1509.2
+1947,North Sydney,north-sydney,1481.1
+1947,Sydney Roosters,sydney-roosters,1459.2
+1947,South Sydney,south-sydney,1435.4
+1947,Manly Warringah,manly-warringah,1402.7
+1947,Parramatta,parramatta,1360.4
+1948,Western Suburbs,western-suburbs,1644.8
+1948,Balmain,balmain,1621.5
+1948,Newtown,newtown,1612.2
+1948,St George,st-george,1556.2
+1948,Canterbury-Bankstown,canterbury-bankstown,1498.8
+1948,Sydney Roosters,sydney-roosters,1483
+1948,South Sydney,south-sydney,1440.6
+1948,Parramatta,parramatta,1407.5
+1948,North Sydney,north-sydney,1371.6
+1948,Manly Warringah,manly-warringah,1365.5
+1949,Western Suburbs,western-suburbs,1609.6
+1949,St George,st-george,1602.8
+1949,Balmain,balmain,1582.6
+1949,South Sydney,south-sydney,1563.3
+1949,Newtown,newtown,1524.1
+1949,Parramatta,parramatta,1499.8
+1949,Canterbury-Bankstown,canterbury-bankstown,1439.9
+1949,Sydney Roosters,sydney-roosters,1408.1
+1949,Manly Warringah,manly-warringah,1391.9
+1949,North Sydney,north-sydney,1379.1
+1950,South Sydney,south-sydney,1641.9
+1950,Western Suburbs,western-suburbs,1595.7
+1950,St George,st-george,1580.3
+1950,Balmain,balmain,1567.1
+1950,Newtown,newtown,1535.4
+1950,Canterbury-Bankstown,canterbury-bankstown,1510.1
+1950,Manly Warringah,manly-warringah,1411.9
+1950,Sydney Roosters,sydney-roosters,1408.1
+1950,Parramatta,parramatta,1391.3
+1950,North Sydney,north-sydney,1359
+1951,South Sydney,south-sydney,1693.5
+1951,St George,st-george,1595.7
+1951,Manly Warringah,manly-warringah,1569.2
+1951,Western Suburbs,western-suburbs,1527.9
+1951,Balmain,balmain,1463.8
+1951,Sydney Roosters,sydney-roosters,1457.6
+1951,Canterbury-Bankstown,canterbury-bankstown,1444.4
+1951,Parramatta,parramatta,1437.7
+1951,Newtown,newtown,1433.3
+1951,North Sydney,north-sydney,1377.5
+1952,South Sydney,south-sydney,1649.2
+1952,St George,st-george,1603.6
+1952,Western Suburbs,western-suburbs,1589.4
+1952,North Sydney,north-sydney,1557.2
+1952,Balmain,balmain,1535.4
+1952,Manly Warringah,manly-warringah,1531
+1952,Newtown,newtown,1411.7
+1952,Sydney Roosters,sydney-roosters,1402.9
+1952,Canterbury-Bankstown,canterbury-bankstown,1367.1
+1952,Parramatta,parramatta,1352.9
+1953,South Sydney,south-sydney,1651.2
+1953,North Sydney,north-sydney,1565.1
+1953,St George,st-george,1557.6
+1953,Newtown,newtown,1505.5
+1953,Sydney Roosters,sydney-roosters,1491.1
+1953,Canterbury-Bankstown,canterbury-bankstown,1473
+1953,Balmain,balmain,1461.6
+1953,Parramatta,parramatta,1434.9
+1953,Manly Warringah,manly-warringah,1430.9
+1953,Western Suburbs,western-suburbs,1429.4
+1954,South Sydney,south-sydney,1705.1
+1954,Newtown,newtown,1660.6
+1954,North Sydney,north-sydney,1569
+1954,St George,st-george,1566.7
+1954,Manly Warringah,manly-warringah,1511.2
+1954,Balmain,balmain,1498.3
+1954,Western Suburbs,western-suburbs,1413.7
+1954,Canterbury-Bankstown,canterbury-bankstown,1372.6
+1954,Parramatta,parramatta,1370
+1954,Sydney Roosters,sydney-roosters,1332.9
+1955,Newtown,newtown,1676.5
+1955,South Sydney,south-sydney,1652.1
+1955,St George,st-george,1611.4
+1955,Manly Warringah,manly-warringah,1578.9
+1955,North Sydney,north-sydney,1554.3
+1955,Balmain,balmain,1486.3
+1955,Sydney Roosters,sydney-roosters,1431.5
+1955,Parramatta,parramatta,1381.2
+1955,Canterbury-Bankstown,canterbury-bankstown,1323.6
+1955,Western Suburbs,western-suburbs,1304.3
+1956,St George,st-george,1651.4
+1956,South Sydney,south-sydney,1617
+1956,Newtown,newtown,1584.2
+1956,Balmain,balmain,1566.4
+1956,Manly Warringah,manly-warringah,1538
+1956,Western Suburbs,western-suburbs,1524.5
+1956,North Sydney,north-sydney,1436.1
+1956,Sydney Roosters,sydney-roosters,1381.3
+1956,Canterbury-Bankstown,canterbury-bankstown,1355.2
+1956,Parramatta,parramatta,1345.9
+1957,St George,st-george,1681.8
+1957,South Sydney,south-sydney,1577
+1957,Manly Warringah,manly-warringah,1561.3
+1957,Western Suburbs,western-suburbs,1538.9
+1957,Balmain,balmain,1533.2
+1957,Newtown,newtown,1518.5
+1957,North Sydney,north-sydney,1502
+1957,Sydney Roosters,sydney-roosters,1460.1
+1957,Canterbury-Bankstown,canterbury-bankstown,1334.3
+1957,Parramatta,parramatta,1292.9
+1958,St George,st-george,1716.2
+1958,Western Suburbs,western-suburbs,1599.3
+1958,Balmain,balmain,1543.9
+1958,Manly Warringah,manly-warringah,1540.1
+1958,Newtown,newtown,1524.4
+1958,North Sydney,north-sydney,1500.1
+1958,Sydney Roosters,sydney-roosters,1471.7
+1958,South Sydney,south-sydney,1453.7
+1958,Canterbury-Bankstown,canterbury-bankstown,1352.4
+1958,Parramatta,parramatta,1298.2
+1959,St George,st-george,1778.1
+1959,Western Suburbs,western-suburbs,1622.1
+1959,Manly Warringah,manly-warringah,1566.9
+1959,North Sydney,north-sydney,1505.1
+1959,South Sydney,south-sydney,1491.1
+1959,Newtown,newtown,1485.8
+1959,Balmain,balmain,1467.1
+1959,Sydney Roosters,sydney-roosters,1434.7
+1959,Canterbury-Bankstown,canterbury-bankstown,1369.9
+1959,Parramatta,parramatta,1279.1
+1960,St George,st-george,1725.8
+1960,Western Suburbs,western-suburbs,1580.5
+1960,Sydney Roosters,sydney-roosters,1537.4
+1960,Manly Warringah,manly-warringah,1529.5
+1960,Balmain,balmain,1496.1
+1960,North Sydney,north-sydney,1492
+1960,Canterbury-Bankstown,canterbury-bankstown,1489.4
+1960,Newtown,newtown,1436.4
+1960,South Sydney,south-sydney,1429.3
+1960,Parramatta,parramatta,1283.7
+1961,St George,st-george,1727.1
+1961,Western Suburbs,western-suburbs,1644.5
+1961,Sydney Roosters,sydney-roosters,1541.7
+1961,Balmain,balmain,1536.2
+1961,Manly Warringah,manly-warringah,1526.6
+1961,North Sydney,north-sydney,1490
+1961,Canterbury-Bankstown,canterbury-bankstown,1432.4
+1961,South Sydney,south-sydney,1423.3
+1961,Newtown,newtown,1371.3
+1961,Parramatta,parramatta,1306.9
+1962,St George,st-george,1706.8
+1962,Western Suburbs,western-suburbs,1627.8
+1962,Sydney Roosters,sydney-roosters,1520.4
+1962,Newtown,newtown,1506.2
+1962,Manly Warringah,manly-warringah,1478.1
+1962,Parramatta,parramatta,1459.9
+1962,Canterbury-Bankstown,canterbury-bankstown,1457.6
+1962,Balmain,balmain,1456.6
+1962,North Sydney,north-sydney,1407.9
+1962,South Sydney,south-sydney,1378.7
+1963,St George,st-george,1730.2
+1963,Western Suburbs,western-suburbs,1616.8
+1963,Balmain,balmain,1554.5
+1963,Parramatta,parramatta,1548.8
+1963,North Sydney,north-sydney,1497.5
+1963,Manly Warringah,manly-warringah,1469.3
+1963,Newtown,newtown,1431.1
+1963,Canterbury-Bankstown,canterbury-bankstown,1411.2
+1963,Sydney Roosters,sydney-roosters,1380.7
+1963,South Sydney,south-sydney,1359.9
+1964,St George,st-george,1743.9
+1964,Parramatta,parramatta,1574.9
+1964,Balmain,balmain,1566.7
+1964,North Sydney,north-sydney,1554.3
+1964,Western Suburbs,western-suburbs,1542.2
+1964,South Sydney,south-sydney,1514.2
+1964,Newtown,newtown,1483
+1964,Manly Warringah,manly-warringah,1411.8
+1964,Sydney Roosters,sydney-roosters,1306.1
+1964,Canterbury-Bankstown,canterbury-bankstown,1303.1
+1965,St George,st-george,1720.8
+1965,North Sydney,north-sydney,1575.4
+1965,South Sydney,south-sydney,1561.1
+1965,Parramatta,parramatta,1552.8
+1965,Balmain,balmain,1550.6
+1965,Newtown,newtown,1516.6
+1965,Western Suburbs,western-suburbs,1449.2
+1965,Manly Warringah,manly-warringah,1441
+1965,Canterbury-Bankstown,canterbury-bankstown,1317.6
+1965,Sydney Roosters,sydney-roosters,1315
+1966,St George,st-george,1702.2
+1966,Balmain,balmain,1553
+1966,Manly Warringah,manly-warringah,1539.4
+1966,South Sydney,south-sydney,1532.6
+1966,Parramatta,parramatta,1530.7
+1966,Newtown,newtown,1529
+1966,North Sydney,north-sydney,1487
+1966,Western Suburbs,western-suburbs,1474.3
+1966,Canterbury-Bankstown,canterbury-bankstown,1416.4
+1966,Sydney Roosters,sydney-roosters,1235.4
+1967,South Sydney,south-sydney,1646.5
+1967,St George,st-george,1643
+1967,Balmain,balmain,1566.7
+1967,Manly Warringah,manly-warringah,1564.1
+1967,Canterbury-Bankstown,canterbury-bankstown,1552.1
+1967,Western Suburbs,western-suburbs,1507.5
+1967,Sydney Roosters,sydney-roosters,1505.1
+1967,Parramatta,parramatta,1472.8
+1967,North Sydney,north-sydney,1428.8
+1967,Newtown,newtown,1426.1
+1967,Penrith,penrith,1384.3
+1967,Cronulla-Sutherland,cronulla-sutherland,1303
+1968,South Sydney,south-sydney,1671.2
+1968,Balmain,balmain,1607.3
+1968,St George,st-george,1596.5
+1968,Manly Warringah,manly-warringah,1596
+1968,Sydney Roosters,sydney-roosters,1568.9
+1968,Western Suburbs,western-suburbs,1550
+1968,Parramatta,parramatta,1516.4
+1968,Canterbury-Bankstown,canterbury-bankstown,1470.3
+1968,Penrith,penrith,1449.2
+1968,North Sydney,north-sydney,1355.2
+1968,Cronulla-Sutherland,cronulla-sutherland,1315.1
+1968,Newtown,newtown,1303.9
+1969,South Sydney,south-sydney,1694
+1969,Balmain,balmain,1650.9
+1969,St George,st-george,1578.9
+1969,Manly Warringah,manly-warringah,1577.5
+1969,Western Suburbs,western-suburbs,1527.5
+1969,Parramatta,parramatta,1499.5
+1969,Canterbury-Bankstown,canterbury-bankstown,1465
+1969,North Sydney,north-sydney,1442.4
+1969,Sydney Roosters,sydney-roosters,1428.3
+1969,Penrith,penrith,1407
+1969,Newtown,newtown,1374.3
+1969,Cronulla-Sutherland,cronulla-sutherland,1354.7
+1970,South Sydney,south-sydney,1700.5
+1970,Manly Warringah,manly-warringah,1609.8
+1970,Balmain,balmain,1586.5
+1970,St George,st-george,1578.5
+1970,Sydney Roosters,sydney-roosters,1525.5
+1970,Canterbury-Bankstown,canterbury-bankstown,1520.8
+1970,Cronulla-Sutherland,cronulla-sutherland,1468.7
+1970,Western Suburbs,western-suburbs,1444.2
+1970,North Sydney,north-sydney,1434.6
+1970,Newtown,newtown,1423.9
+1970,Penrith,penrith,1372.3
+1970,Parramatta,parramatta,1334.7
+1971,South Sydney,south-sydney,1695
+1971,Manly Warringah,manly-warringah,1664.4
+1971,St George,st-george,1618
+1971,Balmain,balmain,1502.4
+1971,Cronulla-Sutherland,cronulla-sutherland,1499.4
+1971,Sydney Roosters,sydney-roosters,1491.3
+1971,Canterbury-Bankstown,canterbury-bankstown,1490.3
+1971,Parramatta,parramatta,1477.5
+1971,Penrith,penrith,1435.5
+1971,Newtown,newtown,1389.7
+1971,North Sydney,north-sydney,1385.2
+1971,Western Suburbs,western-suburbs,1351.4
+1972,Manly Warringah,manly-warringah,1718.2
+1972,St George,st-george,1645.1
+1972,Sydney Roosters,sydney-roosters,1631.9
+1972,South Sydney,south-sydney,1569.3
+1972,Canterbury-Bankstown,canterbury-bankstown,1526.8
+1972,Newtown,newtown,1508
+1972,Cronulla-Sutherland,cronulla-sutherland,1478.6
+1972,Balmain,balmain,1398
+1972,Western Suburbs,western-suburbs,1397.6
+1972,North Sydney,north-sydney,1379.1
+1972,Penrith,penrith,1374.9
+1972,Parramatta,parramatta,1372.3
+1973,Manly Warringah,manly-warringah,1715.4
+1973,Cronulla-Sutherland,cronulla-sutherland,1640.2
+1973,St George,st-george,1627.7
+1973,Newtown,newtown,1598.9
+1973,Sydney Roosters,sydney-roosters,1573.9
+1973,Canterbury-Bankstown,canterbury-bankstown,1526.7
+1973,South Sydney,south-sydney,1498.2
+1973,Western Suburbs,western-suburbs,1395.8
+1973,North Sydney,north-sydney,1379.7
+1973,Balmain,balmain,1358.2
+1973,Parramatta,parramatta,1348.1
+1973,Penrith,penrith,1337.2
+1974,Sydney Roosters,sydney-roosters,1720.3
+1974,Manly Warringah,manly-warringah,1626
+1974,Western Suburbs,western-suburbs,1569.2
+1974,Canterbury-Bankstown,canterbury-bankstown,1564.6
+1974,St George,st-george,1508.7
+1974,Newtown,newtown,1503.4
+1974,South Sydney,south-sydney,1496.4
+1974,North Sydney,north-sydney,1482.7
+1974,Cronulla-Sutherland,cronulla-sutherland,1458.2
+1974,Penrith,penrith,1387.8
+1974,Balmain,balmain,1348.4
+1974,Parramatta,parramatta,1334.5
+1975,Sydney Roosters,sydney-roosters,1745.2
+1975,Manly Warringah,manly-warringah,1590.3
+1975,St George,st-george,1556.8
+1975,Western Suburbs,western-suburbs,1544.6
+1975,Canterbury-Bankstown,canterbury-bankstown,1533.2
+1975,Parramatta,parramatta,1497.5
+1975,Cronulla-Sutherland,cronulla-sutherland,1448.7
+1975,Newtown,newtown,1442.8
+1975,North Sydney,north-sydney,1434.4
+1975,Balmain,balmain,1432.9
+1975,Penrith,penrith,1390
+1975,South Sydney,south-sydney,1383.6
+1976,Manly Warringah,manly-warringah,1652.5
+1976,Sydney Roosters,sydney-roosters,1616.4
+1976,Parramatta,parramatta,1602.2
+1976,Canterbury-Bankstown,canterbury-bankstown,1576.8
+1976,St George,st-george,1530
+1976,Western Suburbs,western-suburbs,1528.8
+1976,Balmain,balmain,1504
+1976,Cronulla-Sutherland,cronulla-sutherland,1469.5
+1976,Penrith,penrith,1448.9
+1976,South Sydney,south-sydney,1396.4
+1976,North Sydney,north-sydney,1382.6
+1976,Newtown,newtown,1292
+1977,St George,st-george,1680.7
+1977,Parramatta,parramatta,1659.6
+1977,Sydney Roosters,sydney-roosters,1628.1
+1977,Manly Warringah,manly-warringah,1579.8
+1977,Balmain,balmain,1575.2
+1977,Cronulla-Sutherland,cronulla-sutherland,1552.5
+1977,Canterbury-Bankstown,canterbury-bankstown,1510.2
+1977,North Sydney,north-sydney,1474
+1977,Penrith,penrith,1404.3
+1977,Western Suburbs,western-suburbs,1397.3
+1977,South Sydney,south-sydney,1290.7
+1977,Newtown,newtown,1247.7
+1978,Manly Warringah,manly-warringah,1656.9
+1978,Parramatta,parramatta,1628
+1978,Cronulla-Sutherland,cronulla-sutherland,1597.7
+1978,Sydney Roosters,sydney-roosters,1585.3
+1978,Western Suburbs,western-suburbs,1563.1
+1978,Canterbury-Bankstown,canterbury-bankstown,1531.1
+1978,St George,st-george,1522.7
+1978,Balmain,balmain,1486.2
+1978,South Sydney,south-sydney,1476.9
+1978,North Sydney,north-sydney,1396.1
+1978,Penrith,penrith,1304.1
+1978,Newtown,newtown,1252.1
+1979,St George,st-george,1649.3
+1979,Parramatta,parramatta,1645.5
+1979,Canterbury-Bankstown,canterbury-bankstown,1579
+1979,Western Suburbs,western-suburbs,1562.8
+1979,Cronulla-Sutherland,cronulla-sutherland,1548.6
+1979,Balmain,balmain,1546.5
+1979,Manly Warringah,manly-warringah,1543.5
+1979,Sydney Roosters,sydney-roosters,1488.4
+1979,South Sydney,south-sydney,1465
+1979,Newtown,newtown,1352.8
+1979,Penrith,penrith,1328.9
+1979,North Sydney,north-sydney,1289.7
+1980,Canterbury-Bankstown,canterbury-bankstown,1619.7
+1980,Sydney Roosters,sydney-roosters,1593.7
+1980,St George,st-george,1589.6
+1980,Parramatta,parramatta,1568.6
+1980,Western Suburbs,western-suburbs,1561.6
+1980,South Sydney,south-sydney,1535.3
+1980,Cronulla-Sutherland,cronulla-sutherland,1497
+1980,Manly Warringah,manly-warringah,1491.3
+1980,Newtown,newtown,1478.7
+1980,Balmain,balmain,1448.6
+1980,North Sydney,north-sydney,1339
+1980,Penrith,penrith,1277
+1981,Parramatta,parramatta,1642.8
+1981,Sydney Roosters,sydney-roosters,1615.8
+1981,Newtown,newtown,1586.8
+1981,Manly Warringah,manly-warringah,1545.9
+1981,Canterbury-Bankstown,canterbury-bankstown,1499.2
+1981,Cronulla-Sutherland,cronulla-sutherland,1496.7
+1981,Western Suburbs,western-suburbs,1494.6
+1981,South Sydney,south-sydney,1454.1
+1981,St George,st-george,1453.6
+1981,Balmain,balmain,1419.5
+1981,North Sydney,north-sydney,1410.3
+1981,Penrith,penrith,1380.7
+1982,Parramatta,parramatta,1717.8
+1982,Sydney Roosters,sydney-roosters,1609.8
+1982,Manly Warringah,manly-warringah,1608.2
+1982,Newtown,newtown,1561.4
+1982,Western Suburbs,western-suburbs,1535.3
+1982,Cronulla-Sutherland,cronulla-sutherland,1530.6
+1982,North Sydney,north-sydney,1526.3
+1982,Canterbury-Bankstown,canterbury-bankstown,1509.8
+1982,St George,st-george,1471.2
+1982,South Sydney,south-sydney,1464
+1982,Balmain,balmain,1440
+1982,Penrith,penrith,1391.3
+1982,Illawarra,illawarra,1352.1
+1982,Canberra Raiders,canberra-raiders,1282.2
+1983,Parramatta,parramatta,1695.1
+1983,Manly Warringah,manly-warringah,1690.3
+1983,Canterbury-Bankstown,canterbury-bankstown,1601.9
+1983,St George,st-george,1580.3
+1983,Balmain,balmain,1550.9
+1983,North Sydney,north-sydney,1512.2
+1983,South Sydney,south-sydney,1505.4
+1983,Sydney Roosters,sydney-roosters,1499.1
+1983,Cronulla-Sutherland,cronulla-sutherland,1468.1
+1983,Canberra Raiders,canberra-raiders,1396.8
+1983,Newtown,newtown,1384.5
+1983,Penrith,penrith,1384.4
+1983,Western Suburbs,western-suburbs,1369.6
+1983,Illawarra,illawarra,1361.5
+1984,Canterbury-Bankstown,canterbury-bankstown,1670.3
+1984,St George,st-george,1641.1
+1984,Parramatta,parramatta,1635.1
+1984,Manly Warringah,manly-warringah,1587.7
+1984,South Sydney,south-sydney,1553.8
+1984,Penrith,penrith,1505.4
+1984,Balmain,balmain,1496.7
+1984,Cronulla-Sutherland,cronulla-sutherland,1484.8
+1984,Illawarra,illawarra,1479.5
+1984,Canberra Raiders,canberra-raiders,1470.1
+1984,North Sydney,north-sydney,1457.8
+1984,Sydney Roosters,sydney-roosters,1351.6
+1984,Western Suburbs,western-suburbs,1241.3
+1985,St George,st-george,1689.7
+1985,Canterbury-Bankstown,canterbury-bankstown,1679.9
+1985,Parramatta,parramatta,1634.4
+1985,Balmain,balmain,1587.9
+1985,Penrith,penrith,1542.1
+1985,Manly Warringah,manly-warringah,1526.4
+1985,Cronulla-Sutherland,cronulla-sutherland,1514.4
+1985,South Sydney,south-sydney,1500.8
+1985,Sydney Roosters,sydney-roosters,1448
+1985,Canberra Raiders,canberra-raiders,1419.6
+1985,Illawarra,illawarra,1360.7
+1985,North Sydney,north-sydney,1349.3
+1985,Western Suburbs,western-suburbs,1295.6
+1986,Parramatta,parramatta,1638.3
+1986,Canterbury-Bankstown,canterbury-bankstown,1612.8
+1986,Balmain,balmain,1567.8
+1986,St George,st-george,1545.4
+1986,Manly Warringah,manly-warringah,1543.3
+1986,South Sydney,south-sydney,1519.5
+1986,Penrith,penrith,1496.7
+1986,Sydney Roosters,sydney-roosters,1467.9
+1986,North Sydney,north-sydney,1467.4
+1986,Cronulla-Sutherland,cronulla-sutherland,1451.1
+1986,Canberra Raiders,canberra-raiders,1446.9
+1986,Western Suburbs,western-suburbs,1389
+1986,Illawarra,illawarra,1385.6
+1987,Manly Warringah,manly-warringah,1675
+1987,Canberra Raiders,canberra-raiders,1580.6
+1987,Parramatta,parramatta,1552.1
+1987,Canterbury-Bankstown,canterbury-bankstown,1548.7
+1987,Balmain,balmain,1537.8
+1987,Sydney Roosters,sydney-roosters,1523.7
+1987,South Sydney,south-sydney,1518.6
+1987,St George,st-george,1509.6
+1987,North Sydney,north-sydney,1490.6
+1987,Cronulla-Sutherland,cronulla-sutherland,1443.6
+1987,Illawarra,illawarra,1403.5
+1987,Penrith,penrith,1391.6
+1987,Western Suburbs,western-suburbs,1345.2
+1988,Canterbury-Bankstown,canterbury-bankstown,1659.4
+1988,Balmain,balmain,1642
+1988,Manly Warringah,manly-warringah,1620.1
+1988,Canberra Raiders,canberra-raiders,1605.6
+1988,Cronulla-Sutherland,cronulla-sutherland,1598.2
+1988,Brisbane Broncos,brisbane-broncos,1549.5
+1988,South Sydney,south-sydney,1547.9
+1988,Penrith,penrith,1534.7
+1988,Parramatta,parramatta,1475.3
+1988,North Sydney,north-sydney,1458.1
+1988,Sydney Roosters,sydney-roosters,1439.7
+1988,St George,st-george,1434.7
+1988,Illawarra,illawarra,1380
+1988,Newcastle Knights,newcastle-knights,1370.1
+1988,Gold Coast Chargers,gold-coast-chargers,1360.2
+1988,Western Suburbs,western-suburbs,1338
+1989,Canberra Raiders,canberra-raiders,1666
+1989,Balmain,balmain,1651.7
+1989,South Sydney,south-sydney,1635.1
+1989,Penrith,penrith,1590.7
+1989,Cronulla-Sutherland,cronulla-sutherland,1581.9
+1989,Brisbane Broncos,brisbane-broncos,1537.4
+1989,Manly Warringah,manly-warringah,1536.8
+1989,Canterbury-Bankstown,canterbury-bankstown,1498.6
+1989,St George,st-george,1483.1
+1989,Sydney Roosters,sydney-roosters,1481.7
+1989,Newcastle Knights,newcastle-knights,1472.5
+1989,Parramatta,parramatta,1470.1
+1989,Western Suburbs,western-suburbs,1386.8
+1989,Gold Coast Chargers,gold-coast-chargers,1367.5
+1989,North Sydney,north-sydney,1348.4
+1989,Illawarra,illawarra,1300.3
+1990,Canberra Raiders,canberra-raiders,1684.9
+1990,Penrith,penrith,1659
+1990,Brisbane Broncos,brisbane-broncos,1624.5
+1990,Manly Warringah,manly-warringah,1619.9
+1990,Balmain,balmain,1601.6
+1990,Canterbury-Bankstown,canterbury-bankstown,1535.7
+1990,Newcastle Knights,newcastle-knights,1534.2
+1990,Parramatta,parramatta,1530
+1990,Cronulla-Sutherland,cronulla-sutherland,1469.1
+1990,Illawarra,illawarra,1468.2
+1990,North Sydney,north-sydney,1456
+1990,St George,st-george,1421.7
+1990,Western Suburbs,western-suburbs,1392.6
+1990,Sydney Roosters,sydney-roosters,1381.7
+1990,Gold Coast Chargers,gold-coast-chargers,1323.1
+1990,South Sydney,south-sydney,1303.6
+1991,Penrith,penrith,1705.1
+1991,Canberra Raiders,canberra-raiders,1651.2
+1991,Brisbane Broncos,brisbane-broncos,1610.8
+1991,Manly Warringah,manly-warringah,1587.9
+1991,North Sydney,north-sydney,1542.7
+1991,Illawarra,illawarra,1540.2
+1991,Canterbury-Bankstown,canterbury-bankstown,1539.4
+1991,St George,st-george,1527.3
+1991,Western Suburbs,western-suburbs,1508.4
+1991,Balmain,balmain,1507.2
+1991,Cronulla-Sutherland,cronulla-sutherland,1460
+1991,Newcastle Knights,newcastle-knights,1408.9
+1991,Parramatta,parramatta,1401.4
+1991,Sydney Roosters,sydney-roosters,1394.4
+1991,South Sydney,south-sydney,1347.1
+1991,Gold Coast Chargers,gold-coast-chargers,1271.6
+1992,Brisbane Broncos,brisbane-broncos,1712.8
+1992,St George,st-george,1585.3
+1992,Newcastle Knights,newcastle-knights,1564.5
+1992,Illawarra,illawarra,1539.1
+1992,Manly Warringah,manly-warringah,1534.4
+1992,Canberra Raiders,canberra-raiders,1530.4
+1992,Canterbury-Bankstown,canterbury-bankstown,1527.5
+1992,Penrith,penrith,1526.6
+1992,Western Suburbs,western-suburbs,1509.5
+1992,Sydney Roosters,sydney-roosters,1491.3
+1992,Balmain,balmain,1474.6
+1992,North Sydney,north-sydney,1473.3
+1992,Cronulla-Sutherland,cronulla-sutherland,1450
+1992,South Sydney,south-sydney,1373.9
+1992,Gold Coast Chargers,gold-coast-chargers,1356.2
+1992,Parramatta,parramatta,1353
+1993,Brisbane Broncos,brisbane-broncos,1720.9
+1993,St George,st-george,1653.4
+1993,Canterbury-Bankstown,canterbury-bankstown,1619.1
+1993,Manly Warringah,manly-warringah,1617.3
+1993,Canberra Raiders,canberra-raiders,1616
+1993,Illawarra,illawarra,1546.2
+1993,North Sydney,north-sydney,1533.8
+1993,Newcastle Knights,newcastle-knights,1490.4
+1993,Sydney Roosters,sydney-roosters,1484.7
+1993,Cronulla-Sutherland,cronulla-sutherland,1451.4
+1993,Penrith,penrith,1446.3
+1993,Balmain,balmain,1430.7
+1993,Western Suburbs,western-suburbs,1415
+1993,Parramatta,parramatta,1390.8
+1993,South Sydney,south-sydney,1348.4
+1993,Gold Coast Chargers,gold-coast-chargers,1237.2
+1994,Canberra Raiders,canberra-raiders,1750.8
+1994,Canterbury-Bankstown,canterbury-bankstown,1672.9
+1994,Brisbane Broncos,brisbane-broncos,1654.2
+1994,Manly Warringah,manly-warringah,1648.2
+1994,North Sydney,north-sydney,1618.3
+1994,Illawarra,illawarra,1568.3
+1994,Cronulla-Sutherland,cronulla-sutherland,1511
+1994,Penrith,penrith,1464.8
+1994,Newcastle Knights,newcastle-knights,1454.2
+1994,St George,st-george,1448.8
+1994,Parramatta,parramatta,1412.8
+1994,South Sydney,south-sydney,1411.5
+1994,Sydney Roosters,sydney-roosters,1399.2
+1994,Western Suburbs,western-suburbs,1381
+1994,Gold Coast Chargers,gold-coast-chargers,1303.7
+1994,Balmain,balmain,1301.3
+1995,Manly Warringah,manly-warringah,1736.6
+1995,Canberra Raiders,canberra-raiders,1730.7
+1995,Canterbury-Bankstown,canterbury-bankstown,1669.6
+1995,Cronulla-Sutherland,cronulla-sutherland,1652.7
+1995,Brisbane Broncos,brisbane-broncos,1620.7
+1995,St George,st-george,1577.1
+1995,North Sydney,north-sydney,1567.1
+1995,Illawarra,illawarra,1561.7
+1995,Newcastle Knights,newcastle-knights,1551.2
+1995,New Zealand Warriors,new-zealand-warriors,1547.3
+1995,Sydney Roosters,sydney-roosters,1519.1
+1995,Western Reds,western-reds,1458
+1995,Penrith,penrith,1456.3
+1995,Western Suburbs,western-suburbs,1425.5
+1995,South Queensland,south-queensland,1398.7
+1995,Balmain,balmain,1328.2
+1995,South Sydney,south-sydney,1313.2
+1995,Gold Coast Chargers,gold-coast-chargers,1301.1
+1995,North Queensland,north-queensland,1298
+1995,Parramatta,parramatta,1288
+1996,Manly Warringah,manly-warringah,1766.8
+1996,Brisbane Broncos,brisbane-broncos,1669.2
+1996,Cronulla-Sutherland,cronulla-sutherland,1647.7
+1996,North Sydney,north-sydney,1632.5
+1996,St George,st-george,1625.6
+1996,Canberra Raiders,canberra-raiders,1621.6
+1996,Canterbury-Bankstown,canterbury-bankstown,1566.5
+1996,Sydney Roosters,sydney-roosters,1558.4
+1996,Newcastle Knights,newcastle-knights,1504.7
+1996,Western Suburbs,western-suburbs,1498.4
+1996,Illawarra,illawarra,1488.4
+1996,New Zealand Warriors,new-zealand-warriors,1479.2
+1996,Penrith,penrith,1429.7
+1996,Parramatta,parramatta,1424.1
+1996,Balmain,balmain,1420
+1996,Western Reds,western-reds,1406.7
+1996,North Queensland,north-queensland,1339.9
+1996,Gold Coast Chargers,gold-coast-chargers,1323.4
+1996,South Sydney,south-sydney,1322.1
+1996,South Queensland,south-queensland,1275.6
+1997,Brisbane Broncos,brisbane-broncos,1717.9
+1997,Manly Warringah,manly-warringah,1654.8
+1997,Cronulla-Sutherland,cronulla-sutherland,1622.6
+1997,Newcastle Knights,newcastle-knights,1615.1
+1997,Canberra Raiders,canberra-raiders,1601.9
+1997,Sydney Roosters,sydney-roosters,1599
+1997,North Sydney,north-sydney,1577.3
+1997,Canterbury-Bankstown,canterbury-bankstown,1534.7
+1997,Parramatta,parramatta,1525.7
+1997,St George,st-george,1488.9
+1997,Illawarra,illawarra,1485.9
+1997,Hunter,hunter,1475.2
+1997,Balmain,balmain,1472.9
+1997,Penrith,penrith,1463.1
+1997,Western Suburbs,western-suburbs,1458.7
+1997,New Zealand Warriors,new-zealand-warriors,1456.4
+1997,Adelaide Rams,adelaide-rams,1450.2
+1997,Gold Coast Chargers,gold-coast-chargers,1433.5
+1997,Western Reds,western-reds,1398.2
+1997,North Queensland,north-queensland,1384.1
+1997,South Sydney,south-sydney,1292.3
+1997,South Queensland,south-queensland,1292
+1998,Brisbane Broncos,brisbane-broncos,1736.1
+1998,Sydney Roosters,sydney-roosters,1647.8
+1998,North Sydney,north-sydney,1630.9
+1998,Newcastle Knights,newcastle-knights,1623.7
+1998,Canberra Raiders,canberra-raiders,1621.8
+1998,Parramatta,parramatta,1619.2
+1998,Canterbury-Bankstown,canterbury-bankstown,1610.7
+1998,Melbourne Storm,melbourne-storm,1601
+1998,Manly Warringah,manly-warringah,1589.3
+1998,Cronulla-Sutherland,cronulla-sutherland,1559.5
+1998,St George,st-george,1498.3
+1998,Illawarra,illawarra,1480.8
+1998,Penrith,penrith,1447.4
+1998,New Zealand Warriors,new-zealand-warriors,1435.2
+1998,Balmain,balmain,1430.4
+1998,North Queensland,north-queensland,1387.9
+1998,Adelaide Rams,adelaide-rams,1387.7
+1998,South Sydney,south-sydney,1305.1
+1998,Gold Coast Chargers,gold-coast-chargers,1302.6
+1998,Western Suburbs,western-suburbs,1302.4
+1999,Parramatta,parramatta,1662.4
+1999,St George Illawarra,st-george-illawarra,1652.3
+1999,Brisbane Broncos,brisbane-broncos,1631.9
+1999,Cronulla-Sutherland,cronulla-sutherland,1630.4
+1999,Melbourne Storm,melbourne-storm,1620.7
+1999,Sydney Roosters,sydney-roosters,1618.6
+1999,Canterbury-Bankstown,canterbury-bankstown,1596.2
+1999,Canberra Raiders,canberra-raiders,1592.9
+1999,Newcastle Knights,newcastle-knights,1548.2
+1999,New Zealand Warriors,new-zealand-warriors,1515.9
+1999,Manly Warringah,manly-warringah,1496.2
+1999,Penrith,penrith,1493.4
+1999,North Sydney,north-sydney,1449.8
+1999,Balmain,balmain,1390
+1999,South Sydney,south-sydney,1382.7
+1999,North Queensland,north-queensland,1347
+1999,Western Suburbs,western-suburbs,1228.1
+2000,Brisbane Broncos,brisbane-broncos,1719.7
+2000,Parramatta,parramatta,1626.7
+2000,Sydney Roosters,sydney-roosters,1624.9
+2000,Newcastle Knights,newcastle-knights,1611.7
+2000,Cronulla-Sutherland,cronulla-sutherland,1580.3
+2000,Melbourne Storm,melbourne-storm,1577.1
+2000,Canberra Raiders,canberra-raiders,1572.3
+2000,St George Illawarra,st-george-illawarra,1542.5
+2000,Penrith,penrith,1538.6
+2000,Canterbury-Bankstown,canterbury-bankstown,1486.3
+2000,Wests Tigers,wests-tigers,1461.6
+2000,New Zealand Warriors,new-zealand-warriors,1441.9
+2000,Northern Eagles,northern-eagles,1431.9
+2000,North Queensland,north-queensland,1376
+2001,Parramatta,parramatta,1745.6
+2001,Newcastle Knights,newcastle-knights,1646.4
+2001,Cronulla-Sutherland,cronulla-sutherland,1626.3
+2001,Brisbane Broncos,brisbane-broncos,1580.4
+2001,Canterbury-Bankstown,canterbury-bankstown,1568
+2001,St George Illawarra,st-george-illawarra,1536.7
+2001,Sydney Roosters,sydney-roosters,1536
+2001,New Zealand Warriors,new-zealand-warriors,1504.7
+2001,Melbourne Storm,melbourne-storm,1502.7
+2001,Canberra Raiders,canberra-raiders,1502.5
+2001,Northern Eagles,northern-eagles,1448.5
+2001,Wests Tigers,wests-tigers,1410.5
+2001,Penrith,penrith,1391.1
+2001,North Queensland,north-queensland,1385.1
+2002,Canterbury-Bankstown,canterbury-bankstown,1703.4
+2002,Sydney Roosters,sydney-roosters,1684.5
+2002,New Zealand Warriors,new-zealand-warriors,1618
+2002,Brisbane Broncos,brisbane-broncos,1615.8
+2002,Cronulla-Sutherland,cronulla-sutherland,1605.7
+2002,Newcastle Knights,newcastle-knights,1595.9
+2002,St George Illawarra,st-george-illawarra,1536.9
+2002,Parramatta,parramatta,1531.6
+2002,Canberra Raiders,canberra-raiders,1472.9
+2002,Melbourne Storm,melbourne-storm,1443.4
+2002,Penrith,penrith,1414.1
+2002,Northern Eagles,northern-eagles,1406.2
+2002,North Queensland,north-queensland,1379.9
+2002,Wests Tigers,wests-tigers,1378.5
+2002,South Sydney,south-sydney,1287
+2003,Sydney Roosters,sydney-roosters,1681.1
+2003,Canterbury-Bankstown,canterbury-bankstown,1654.4
+2003,Penrith,penrith,1650.7
+2003,New Zealand Warriors,new-zealand-warriors,1600.3
+2003,Melbourne Storm,melbourne-storm,1566.3
+2003,Newcastle Knights,newcastle-knights,1556.4
+2003,Canberra Raiders,canberra-raiders,1541.2
+2003,Parramatta,parramatta,1515.6
+2003,Brisbane Broncos,brisbane-broncos,1495
+2003,St George Illawarra,st-george-illawarra,1468.5
+2003,North Queensland,north-queensland,1459.4
+2003,Cronulla-Sutherland,cronulla-sutherland,1441.9
+2003,Wests Tigers,wests-tigers,1387
+2003,Manly Warringah,manly-warringah,1379.4
+2003,South Sydney,south-sydney,1274.1
+2004,Canterbury-Bankstown,canterbury-bankstown,1721.9
+2004,Sydney Roosters,sydney-roosters,1688.4
+2004,Melbourne Storm,melbourne-storm,1586.4
+2004,Penrith,penrith,1585.7
+2004,St George Illawarra,st-george-illawarra,1569.2
+2004,North Queensland,north-queensland,1565.5
+2004,Brisbane Broncos,brisbane-broncos,1542.8
+2004,Newcastle Knights,newcastle-knights,1468.6
+2004,Wests Tigers,wests-tigers,1448.9
+2004,Manly Warringah,manly-warringah,1446.3
+2004,Canberra Raiders,canberra-raiders,1444.9
+2004,Parramatta,parramatta,1439.2
+2004,Cronulla-Sutherland,cronulla-sutherland,1432.8
+2004,New Zealand Warriors,new-zealand-warriors,1382.9
+2004,South Sydney,south-sydney,1287.8
+2005,St George Illawarra,st-george-illawarra,1633.2
+2005,Wests Tigers,wests-tigers,1617.4
+2005,Parramatta,parramatta,1584.8
+2005,North Queensland,north-queensland,1566.1
+2005,Sydney Roosters,sydney-roosters,1550.7
+2005,Melbourne Storm,melbourne-storm,1544.3
+2005,Penrith,penrith,1534.1
+2005,Brisbane Broncos,brisbane-broncos,1519.9
+2005,Newcastle Knights,newcastle-knights,1477.8
+2005,Canterbury-Bankstown,canterbury-bankstown,1454.2
+2005,Cronulla-Sutherland,cronulla-sutherland,1453.1
+2005,Manly Warringah,manly-warringah,1422.9
+2005,New Zealand Warriors,new-zealand-warriors,1418.2
+2005,South Sydney,south-sydney,1411.1
+2005,Canberra Raiders,canberra-raiders,1384.5
+2006,Melbourne Storm,melbourne-storm,1678.5
+2006,Brisbane Broncos,brisbane-broncos,1619.2
+2006,St George Illawarra,st-george-illawarra,1594.3
+2006,Canterbury-Bankstown,canterbury-bankstown,1589.9
+2006,Parramatta,parramatta,1542.5
+2006,Newcastle Knights,newcastle-knights,1523
+2006,New Zealand Warriors,new-zealand-warriors,1495.5
+2006,Wests Tigers,wests-tigers,1495.3
+2006,Manly Warringah,manly-warringah,1491.3
+2006,North Queensland,north-queensland,1478.7
+2006,Canberra Raiders,canberra-raiders,1451.1
+2006,Penrith,penrith,1440
+2006,Cronulla-Sutherland,cronulla-sutherland,1436.4
+2006,Sydney Roosters,sydney-roosters,1412.3
+2006,South Sydney,south-sydney,1299.1
+2007,Melbourne Storm,melbourne-storm,1758.4
+2007,Manly Warringah,manly-warringah,1614
+2007,Parramatta,parramatta,1564.1
+2007,New Zealand Warriors,new-zealand-warriors,1554.6
+2007,Brisbane Broncos,brisbane-broncos,1524.8
+2007,North Queensland,north-queensland,1523.6
+2007,Canterbury-Bankstown,canterbury-bankstown,1511
+2007,St George Illawarra,st-george-illawarra,1477.4
+2007,Cronulla-Sutherland,cronulla-sutherland,1471.2
+2007,Sydney Roosters,sydney-roosters,1459.6
+2007,South Sydney,south-sydney,1457.5
+2007,Wests Tigers,wests-tigers,1450.9
+2007,Penrith,penrith,1434.4
+2007,Gold Coast Titans,gold-coast-titans,1426.3
+2007,Canberra Raiders,canberra-raiders,1416.5
+2007,Newcastle Knights,newcastle-knights,1386.1
+2008,Manly Warringah,manly-warringah,1716.8
+2008,Melbourne Storm,melbourne-storm,1684.5
+2008,Cronulla-Sutherland,cronulla-sutherland,1571.4
+2008,Brisbane Broncos,brisbane-broncos,1556
+2008,New Zealand Warriors,new-zealand-warriors,1550.8
+2008,St George Illawarra,st-george-illawarra,1534.6
+2008,Sydney Roosters,sydney-roosters,1518.8
+2008,Canberra Raiders,canberra-raiders,1515.6
+2008,Newcastle Knights,newcastle-knights,1499.1
+2008,Parramatta,parramatta,1473.7
+2008,Wests Tigers,wests-tigers,1460
+2008,Penrith,penrith,1445.2
+2008,Gold Coast Titans,gold-coast-titans,1412.2
+2008,South Sydney,south-sydney,1393.5
+2008,North Queensland,north-queensland,1378.2
+2008,Canterbury-Bankstown,canterbury-bankstown,1309.8
+2009,Melbourne Storm,melbourne-storm,1653.4
+2009,Manly Warringah,manly-warringah,1594.6
+2009,St George Illawarra,st-george-illawarra,1570.5
+2009,Parramatta,parramatta,1569.6
+2009,Canterbury-Bankstown,canterbury-bankstown,1565.6
+2009,Wests Tigers,wests-tigers,1535.3
+2009,Brisbane Broncos,brisbane-broncos,1531.8
+2009,Gold Coast Titans,gold-coast-titans,1503.7
+2009,Newcastle Knights,newcastle-knights,1497.9
+2009,South Sydney,south-sydney,1488
+2009,North Queensland,north-queensland,1475.7
+2009,Canberra Raiders,canberra-raiders,1473
+2009,Penrith,penrith,1453.1
+2009,New Zealand Warriors,new-zealand-warriors,1398.9
+2009,Cronulla-Sutherland,cronulla-sutherland,1352.7
+2009,Sydney Roosters,sydney-roosters,1349.2
+2010,St George Illawarra,st-george-illawarra,1661.7
+2010,Melbourne Storm,melbourne-storm,1555
+2010,Sydney Roosters,sydney-roosters,1552.9
+2010,Wests Tigers,wests-tigers,1544.9
+2010,Penrith,penrith,1532.7
+2010,Canberra Raiders,canberra-raiders,1531.1
+2010,New Zealand Warriors,new-zealand-warriors,1526.9
+2010,Gold Coast Titans,gold-coast-titans,1507.8
+2010,Manly Warringah,manly-warringah,1495.6
+2010,South Sydney,south-sydney,1493.1
+2010,Brisbane Broncos,brisbane-broncos,1488.2
+2010,Parramatta,parramatta,1478.1
+2010,Canterbury-Bankstown,canterbury-bankstown,1465.2
+2010,Newcastle Knights,newcastle-knights,1464.5
+2010,North Queensland,north-queensland,1356.1
+2010,Cronulla-Sutherland,cronulla-sutherland,1354.7
+2011,Manly Warringah,manly-warringah,1693.8
+2011,Brisbane Broncos,brisbane-broncos,1625.8
+2011,Melbourne Storm,melbourne-storm,1619.3
+2011,New Zealand Warriors,new-zealand-warriors,1586.5
+2011,Wests Tigers,wests-tigers,1576.2
+2011,St George Illawarra,st-george-illawarra,1553.6
+2011,Sydney Roosters,sydney-roosters,1493.8
+2011,Canterbury-Bankstown,canterbury-bankstown,1491.9
+2011,Newcastle Knights,newcastle-knights,1489.1
+2011,South Sydney,south-sydney,1477.8
+2011,North Queensland,north-queensland,1471.9
+2011,Penrith,penrith,1437.2
+2011,Parramatta,parramatta,1405.6
+2011,Canberra Raiders,canberra-raiders,1377.4
+2011,Cronulla-Sutherland,cronulla-sutherland,1365.8
+2011,Gold Coast Titans,gold-coast-titans,1339.8
+2012,Melbourne Storm,melbourne-storm,1652.9
+2012,Canterbury-Bankstown,canterbury-bankstown,1637.2
+2012,Manly Warringah,manly-warringah,1610.4
+2012,North Queensland,north-queensland,1583.7
+2012,South Sydney,south-sydney,1560.4
+2012,Canberra Raiders,canberra-raiders,1534.7
+2012,Brisbane Broncos,brisbane-broncos,1491.4
+2012,St George Illawarra,st-george-illawarra,1484
+2012,Newcastle Knights,newcastle-knights,1476
+2012,Wests Tigers,wests-tigers,1460.8
+2012,Cronulla-Sutherland,cronulla-sutherland,1457.6
+2012,Gold Coast Titans,gold-coast-titans,1447.6
+2012,New Zealand Warriors,new-zealand-warriors,1425.8
+2012,Sydney Roosters,sydney-roosters,1416.1
+2012,Penrith,penrith,1401.7
+2012,Parramatta,parramatta,1363.3
+2013,Sydney Roosters,sydney-roosters,1649.7
+2013,South Sydney,south-sydney,1626.8
+2013,Melbourne Storm,melbourne-storm,1618
+2013,Manly Warringah,manly-warringah,1613.7
+2013,North Queensland,north-queensland,1563.8
+2013,Canterbury-Bankstown,canterbury-bankstown,1545.6
+2013,Newcastle Knights,newcastle-knights,1542.5
+2013,Cronulla-Sutherland,cronulla-sutherland,1520.5
+2013,Gold Coast Titans,gold-coast-titans,1480.5
+2013,New Zealand Warriors,new-zealand-warriors,1477.5
+2013,Penrith,penrith,1460.5
+2013,Brisbane Broncos,brisbane-broncos,1452.2
+2013,Canberra Raiders,canberra-raiders,1419.9
+2013,Wests Tigers,wests-tigers,1372.6
+2013,St George Illawarra,st-george-illawarra,1369.4
+2013,Parramatta,parramatta,1289.2
+2014,South Sydney,south-sydney,1670.6
+2014,Sydney Roosters,sydney-roosters,1656.3
+2014,North Queensland,north-queensland,1619
+2014,Manly Warringah,manly-warringah,1576.2
+2014,Melbourne Storm,melbourne-storm,1559.7
+2014,Penrith,penrith,1540.8
+2014,Canterbury-Bankstown,canterbury-bankstown,1531.3
+2014,Brisbane Broncos,brisbane-broncos,1510.9
+2014,New Zealand Warriors,new-zealand-warriors,1492.4
+2014,Newcastle Knights,newcastle-knights,1485.3
+2014,Parramatta,parramatta,1436.1
+2014,St George Illawarra,st-george-illawarra,1434.6
+2014,Canberra Raiders,canberra-raiders,1400.2
+2014,Gold Coast Titans,gold-coast-titans,1388.5
+2014,Wests Tigers,wests-tigers,1380.4
+2014,Cronulla-Sutherland,cronulla-sutherland,1319.2
+2015,Sydney Roosters,sydney-roosters,1686.1
+2015,North Queensland,north-queensland,1648.4
+2015,Brisbane Broncos,brisbane-broncos,1634.8
+2015,Melbourne Storm,melbourne-storm,1558.8
+2015,Canterbury-Bankstown,canterbury-bankstown,1556.3
+2015,Manly Warringah,manly-warringah,1537.5
+2015,Cronulla-Sutherland,cronulla-sutherland,1507
+2015,South Sydney,south-sydney,1504
+2015,St George Illawarra,st-george-illawarra,1477.3
+2015,Canberra Raiders,canberra-raiders,1462.4
+2015,Penrith,penrith,1428.7
+2015,Parramatta,parramatta,1420.5
+2015,Newcastle Knights,newcastle-knights,1398.8
+2015,Gold Coast Titans,gold-coast-titans,1397.4
+2015,Wests Tigers,wests-tigers,1394.1
+2015,New Zealand Warriors,new-zealand-warriors,1388.9
+2016,Melbourne Storm,melbourne-storm,1660.7
+2016,Canberra Raiders,canberra-raiders,1651.8
+2016,Cronulla-Sutherland,cronulla-sutherland,1608.8
+2016,North Queensland,north-queensland,1598.7
+2016,Brisbane Broncos,brisbane-broncos,1590
+2016,Penrith,penrith,1556
+2016,Canterbury-Bankstown,canterbury-bankstown,1511.3
+2016,Parramatta,parramatta,1498.3
+2016,South Sydney,south-sydney,1477.8
+2016,Wests Tigers,wests-tigers,1472.7
+2016,Sydney Roosters,sydney-roosters,1467.2
+2016,Gold Coast Titans,gold-coast-titans,1452.5
+2016,Manly Warringah,manly-warringah,1432
+2016,St George Illawarra,st-george-illawarra,1403
+2016,New Zealand Warriors,new-zealand-warriors,1391.1
+2016,Newcastle Knights,newcastle-knights,1228.8
+2017,Melbourne Storm,melbourne-storm,1745.2
+2017,Brisbane Broncos,brisbane-broncos,1591.6
+2017,Cronulla-Sutherland,cronulla-sutherland,1577
+2017,North Queensland,north-queensland,1564.4
+2017,Penrith,penrith,1560.6
+2017,Canberra Raiders,canberra-raiders,1557.3
+2017,Parramatta,parramatta,1553
+2017,Sydney Roosters,sydney-roosters,1539.5
+2017,Manly Warringah,manly-warringah,1512.1
+2017,Canterbury-Bankstown,canterbury-bankstown,1466.7
+2017,St George Illawarra,st-george-illawarra,1464
+2017,South Sydney,south-sydney,1447.1
+2017,Wests Tigers,wests-tigers,1408
+2017,New Zealand Warriors,new-zealand-warriors,1345.1
+2017,Gold Coast Titans,gold-coast-titans,1345
+2017,Newcastle Knights,newcastle-knights,1323.6
+2018,Sydney Roosters,sydney-roosters,1648
+2018,Melbourne Storm,melbourne-storm,1628.4
+2018,Cronulla-Sutherland,cronulla-sutherland,1599.3
+2018,South Sydney,south-sydney,1557.9
+2018,Penrith,penrith,1551.7
+2018,Brisbane Broncos,brisbane-broncos,1534.7
+2018,St George Illawarra,st-george-illawarra,1528.6
+2018,Canberra Raiders,canberra-raiders,1521
+2018,New Zealand Warriors,new-zealand-warriors,1502.1
+2018,North Queensland,north-queensland,1457.3
+2018,Canterbury-Bankstown,canterbury-bankstown,1448.4
+2018,Wests Tigers,wests-tigers,1440.6
+2018,Manly Warringah,manly-warringah,1417.9
+2018,Gold Coast Titans,gold-coast-titans,1406.7
+2018,Parramatta,parramatta,1400.5
+2018,Newcastle Knights,newcastle-knights,1357.2
+2019,Melbourne Storm,melbourne-storm,1714.6
+2019,Sydney Roosters,sydney-roosters,1676.5
+2019,Canberra Raiders,canberra-raiders,1593.7
+2019,South Sydney,south-sydney,1569
+2019,Parramatta,parramatta,1541.5
+2019,Cronulla-Sutherland,cronulla-sutherland,1541.1
+2019,Manly Warringah,manly-warringah,1525.3
+2019,Brisbane Broncos,brisbane-broncos,1480.4
+2019,Penrith,penrith,1465.1
+2019,Wests Tigers,wests-tigers,1463.8
+2019,Canterbury-Bankstown,canterbury-bankstown,1462.7
+2019,New Zealand Warriors,new-zealand-warriors,1434.3
+2019,Newcastle Knights,newcastle-knights,1430
+2019,North Queensland,north-queensland,1424.5
+2019,St George Illawarra,st-george-illawarra,1384.1
+2019,Gold Coast Titans,gold-coast-titans,1293.6
+2020,Melbourne Storm,melbourne-storm,1736.4
+2020,Penrith,penrith,1687.2
+2020,Sydney Roosters,sydney-roosters,1645.9
+2020,Canberra Raiders,canberra-raiders,1620.5
+2020,South Sydney,south-sydney,1612.5
+2020,Parramatta,parramatta,1570
+2020,Cronulla-Sutherland,cronulla-sutherland,1495.6
+2020,Newcastle Knights,newcastle-knights,1469.7
+2020,New Zealand Warriors,new-zealand-warriors,1464.3
+2020,Gold Coast Titans,gold-coast-titans,1432
+2020,Wests Tigers,wests-tigers,1418.2
+2020,St George Illawarra,st-george-illawarra,1414.7
+2020,Manly Warringah,manly-warringah,1410.1
+2020,North Queensland,north-queensland,1368.5
+2020,Canterbury-Bankstown,canterbury-bankstown,1352.4
+2020,Brisbane Broncos,brisbane-broncos,1302.3
+2021,Penrith,penrith,1772
+2021,Melbourne Storm,melbourne-storm,1770.1
+2021,South Sydney,south-sydney,1751
+2021,Manly Warringah,manly-warringah,1592.2
+2021,Sydney Roosters,sydney-roosters,1582.5
+2021,Parramatta,parramatta,1572.2
+2021,Canberra Raiders,canberra-raiders,1484.1
+2021,Cronulla-Sutherland,cronulla-sutherland,1462.5
+2021,Newcastle Knights,newcastle-knights,1450.5
+2021,Gold Coast Titans,gold-coast-titans,1447.1
+2021,New Zealand Warriors,new-zealand-warriors,1405.3
+2021,Wests Tigers,wests-tigers,1388.2
+2021,St George Illawarra,st-george-illawarra,1361
+2021,Brisbane Broncos,brisbane-broncos,1358.6
+2021,North Queensland,north-queensland,1311.1
+2021,Canterbury-Bankstown,canterbury-bankstown,1291.7
+2022,Penrith,penrith,1745.4
+2022,South Sydney,south-sydney,1651.6
+2022,Melbourne Storm,melbourne-storm,1627.4
+2022,Sydney Roosters,sydney-roosters,1620.6
+2022,Parramatta,parramatta,1612.4
+2022,Cronulla-Sutherland,cronulla-sutherland,1593.9
+2022,North Queensland,north-queensland,1584.2
+2022,Canberra Raiders,canberra-raiders,1563
+2022,St George Illawarra,st-george-illawarra,1452.4
+2022,Brisbane Broncos,brisbane-broncos,1449.8
+2022,Manly Warringah,manly-warringah,1432.2
+2022,Canterbury-Bankstown,canterbury-bankstown,1344.8
+2022,New Zealand Warriors,new-zealand-warriors,1344.1
+2022,Gold Coast Titans,gold-coast-titans,1341.7
+2022,Newcastle Knights,newcastle-knights,1332
+2022,Wests Tigers,wests-tigers,1304.4
+2023,Penrith,penrith,1752.7
+2023,Brisbane Broncos,brisbane-broncos,1631.7
+2023,Melbourne Storm,melbourne-storm,1612.9
+2023,Cronulla-Sutherland,cronulla-sutherland,1572.8
+2023,Sydney Roosters,sydney-roosters,1571.8
+2023,New Zealand Warriors,new-zealand-warriors,1549.5
+2023,Newcastle Knights,newcastle-knights,1547.7
+2023,Parramatta,parramatta,1544.8
+2023,North Queensland,north-queensland,1519.7
+2023,South Sydney,south-sydney,1514.8
+2023,Manly Warringah,manly-warringah,1478
+2023,Canberra Raiders,canberra-raiders,1465.5
+2023,Dolphins,dolphins,1423.4
+2023,Gold Coast Titans,gold-coast-titans,1388.7
+2023,St George Illawarra,st-george-illawarra,1340.7
+2023,Canterbury-Bankstown,canterbury-bankstown,1300.6
+2023,Wests Tigers,wests-tigers,1285
+2024,Penrith,penrith,1711.8
+2024,Melbourne Storm,melbourne-storm,1693.5
+2024,Sydney Roosters,sydney-roosters,1628.2
+2024,Cronulla-Sutherland,cronulla-sutherland,1607.4
+2024,North Queensland,north-queensland,1580.5
+2024,Manly Warringah,manly-warringah,1535.6
+2024,Canterbury-Bankstown,canterbury-bankstown,1510.3
+2024,Newcastle Knights,newcastle-knights,1486.5
+2024,Brisbane Broncos,brisbane-broncos,1462.1
+2024,New Zealand Warriors,new-zealand-warriors,1453
+2024,Canberra Raiders,canberra-raiders,1448.2
+2024,Dolphins,dolphins,1446.5
+2024,Parramatta,parramatta,1427.7
+2024,St George Illawarra,st-george-illawarra,1422.4
+2024,South Sydney,south-sydney,1403
+2024,Gold Coast Titans,gold-coast-titans,1377.6
+2024,Wests Tigers,wests-tigers,1305.7
+2025,Melbourne Storm,melbourne-storm,1645.7
+2025,Penrith,penrith,1625.3
+2025,Cronulla-Sutherland,cronulla-sutherland,1616.1
+2025,Sydney Roosters,sydney-roosters,1610.8
+2025,Brisbane Broncos,brisbane-broncos,1609.1
+2025,Canberra Raiders,canberra-raiders,1568
+2025,Canterbury-Bankstown,canterbury-bankstown,1532.8
+2025,Dolphins,dolphins,1514.4
+2025,Manly Warringah,manly-warringah,1500.3
+2025,New Zealand Warriors,new-zealand-warriors,1479.9
+2025,Parramatta,parramatta,1461
+2025,North Queensland,north-queensland,1451.4
+2025,South Sydney,south-sydney,1411.2
+2025,St George Illawarra,st-george-illawarra,1397.3
+2025,Wests Tigers,wests-tigers,1389.2
+2025,Gold Coast Titans,gold-coast-titans,1348.4
+2025,Newcastle Knights,newcastle-knights,1339.1
+2026,Penrith,penrith,1651.9
+2026,Sydney Roosters,sydney-roosters,1645.2
+2026,New Zealand Warriors,new-zealand-warriors,1634.8
+2026,Dolphins,dolphins,1633.5
+2026,Cronulla-Sutherland,cronulla-sutherland,1554.5
+2026,Newcastle Knights,newcastle-knights,1547.1
+2026,South Sydney,south-sydney,1534.3
+2026,Melbourne Storm,melbourne-storm,1534
+2026,Canberra Raiders,canberra-raiders,1510.6
+2026,Manly Warringah,manly-warringah,1505.4
+2026,Canterbury-Bankstown,canterbury-bankstown,1461.1
+2026,North Queensland,north-queensland,1453.9
+2026,Parramatta,parramatta,1432.6
+2026,Brisbane Broncos,brisbane-broncos,1412.1
+2026,Wests Tigers,wests-tigers,1344.5
+2026,Gold Coast Titans,gold-coast-titans,1327.9
+2026,St George Illawarra,st-george-illawarra,1316.5

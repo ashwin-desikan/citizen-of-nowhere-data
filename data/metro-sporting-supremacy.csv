@@ -1,0 +1,212 @@
+rank,metro,slug,country,weeks_top10,weeks_top1,team_weeks_top10,team_weeks_top25,share_top10,best_rank,best_week,best_team,best_league,best_universal
+1,New York,new-york,United States,2505,165,3045,6716,0.4474,1,1998-08-11,New York Yankees,mlb,1911
+2,Milan,milan,Italy,2487,483,2985,5699,0.4442,1,1990-05-29,AC Milan,club,1936
+3,Turin,turin,Italy,2716,420,2925,5208,0.4851,1,1985-06-04,Juventus,club,1857
+4,Madrid,madrid,Spain,2183,492,2557,4996,0.3899,2,2017-06-06,Real Madrid,club,1870
+5,Munich,munich,Germany,2228,498,2230,3232,0.3979,1,2001-05-29,Bayern Munich,club,1878
+6,Barcelona,barcelona,Spain,2211,334,2211,3928,0.3949,1,2009-06-02,FC Barcelona,club,1868
+7,Vienna,vienna,Austria,1091,266,2154,4832,0.1949,1,1935-06-11,SK Rapid Wien,club,1895
+8,Boston,boston,United States,1843,191,2098,4436,0.3292,1,2008-01-22,New England Patriots,nfl,1905
+9,Glasgow,glasgow,United Kingdom,1482,89,1936,3945,0.2647,1,1967-05-30,Celtic,club,1874
+10,Liverpool,liverpool,United Kingdom,1621,267,1766,3394,0.2895,1,1984-06-05,Liverpool,club,1859
+11,Manchester,manchester,United Kingdom,1593,211,1635,3822,0.2845,1,1999-06-01,Manchester United,club,1882
+12,London,london,United Kingdom,1467,167,1610,4677,0.262,1,1934-06-12,Arsenal,club,1847
+13,Budapest,budapest,Hungary,1193,94,1365,3162,0.2131,1,1952-03-04,Budapest Honvéd FC,club,1824
+14,Rhine-Ruhr,rhine-ruhr,Germany,1184,93,1289,4176,0.2115,3,1955-06-28,Rot-Weiß Essen,club,1835
+15,San Francisco-San Jose,san-francisco-san-jose,United States,1004,115,1116,2731,0.1793,1,2017-06-06,Golden State Warriors,nba,1894
+16,Los Angeles,los-angeles,United States,1028,60,1064,2886,0.1836,1,1980-06-03,Los Angeles Lakers,nba,1924
+17,Washington-Baltimore,washington-baltimore,United States,870,55,928,2292,0.1554,1,1984-01-17,Washington Redskins,nfl,1856
+18,Montreal,montreal,Canada,921,103,921,1670,0.1645,1,1977-05-17,Montreal Canadiens,nhl,1862
+19,Detroit,detroit,United States,820,30,857,2505,0.1465,1,1996-04-02,Detroit Red Wings,nhl,1847
+20,Philadelphia,philadelphia,United States,824,45,831,2066,0.1472,1,1981-01-20,Philadelphia 76ers,nba,1851
+21,Chicago,chicago,United States,760,26,765,2387,0.1357,2,1996-06-11,Chicago Bulls,nba,1837
+22,Cleveland,cleveland,United States,646,71,664,1747,0.1154,1,1995-10-17,Cleveland Indians,mlb,1895
+23,St. Louis,st-louis,United States,614,46,625,1625,0.1097,1,2000-12-26,St. Louis Blues,nhl,1766
+24,Pittsburgh,pittsburgh,United States,578,21,602,1520,0.1032,1,2006-02-07,Pittsburgh Steelers,nfl,1800
+25,Bologna,bologna,Italy,600,127,600,1197,0.1072,1,1939-06-13,Bologna,club,1836
+26,Leeds-Bradford,leeds-bradford,United Kingdom,583,104,583,1091,0.1041,1,1926-06-08,Huddersfield Town,club,1861
+27,Amsterdam,amsterdam,Netherlands,574,113,574,1211,0.1025,1,1973-06-05,Ajax,club,1893
+28,Prague,prague,Czech Republic,547,0,569,2176,0.0977,2,1923-12-11,AC Sparta Praha,club,1689
+29,Birmingham,birmingham,United Kingdom,515,42,528,1590,0.092,1,1951-01-09,Wolverhampton Wanderers,club,1823
+30,Florence,florence,Italy,478,5,478,853,0.0854,1,1956-06-05,Fiorentina,club,1817
+31,Dallas,dallas,United States,447,19,447,1248,0.0798,1,1993-02-02,Dallas Cowboys,nfl,1809
+32,Green Bay,green-bay,United States,446,59,446,795,0.0797,1,1998-01-13,Green Bay Packers,nfl,1817
+33,Rome,rome,Italy,383,31,418,1613,0.0684,2,1998-03-03,Lazio,club,1759
+34,Atlanta,atlanta,United States,398,23,408,851,0.0711,1,1993-10-12,Atlanta Braves,mlb,1878
+35,San Antonio,san-antonio,United States,386,18,386,798,0.0689,1,2026-06-02,San Antonio Spurs,nba,1827
+36,Milwaukee,milwaukee,United States,370,10,370,922,0.0661,1,1971-03-09,Milwaukee Bucks,nba,1839
+37,Lisbon,lisbon,Portugal,354,11,368,1419,0.0632,1,1965-06-01,Benfica,club,1760
+38,Valencia,valencia,Spain,368,29,368,1004,0.0657,1,2004-05-25,Valencia,club,1826
+39,Hamburg,hamburg,Germany,364,45,364,1075,0.065,1,1983-06-07,Hamburger SV,club,1901
+40,Denver,denver,United States,361,40,363,959,0.0645,1,2022-06-21,Colorado Avalanche,nhl,1861
+41,Houston,houston,United States,333,19,359,853,0.0595,1,2018-10-16,Houston Astros,mlb,1809
+42,Tampa,tampa,United States,271,32,310,689,0.0484,1,2019-04-09,Tampa Bay Lightning,nhl,1909
+43,Seattle,seattle,United States,288,32,288,627,0.0514,2,2001-10-09,Seattle Mariners,mlb,1805
+44,Cincinnati,cincinnati,United States,284,35,284,715,0.0507,1,1975-10-21,Cincinnati Reds,mlb,1805
+45,Edinburgh,edinburgh,United Kingdom,278,0,278,450,0.0497,3,1951-06-05,Hibernian,club,1735
+46,Miami,miami,United States,272,0,272,659,0.0486,2,1984-11-13,Miami Dolphins,nfl,1792
+47,Kansas City,kansas-city,United States,266,7,266,744,0.0475,1,2020-12-29,Kansas City Chiefs,nfl,1787
+48,Porto,porto,Portugal,259,25,259,870,0.0463,2,2004-06-01,FC Porto,club,1817
+49,Minneapolis,minneapolis,United States,253,0,253,968,0.0452,2,1999-01-12,Minnesota Vikings,nfl,1774
+50,Sunderland,sunderland,United Kingdom,250,0,250,531,0.0447,2,1936-06-09,Sunderland,club,1827
+51,Paris,paris,France,239,11,239,869,0.0427,1,2025-06-03,Paris Saint-Germain,club,1830
+52,Brussels,brussels,Belgium,221,0,221,596,0.0395,2,1983-05-24,RSC Anderlecht,club,1754
+53,Ottawa,ottawa,Canada,218,5,218,464,0.0389,2,1927-01-18,Ottawa Senators,nhl,1767
+54,Toronto,toronto,Canada,211,0,211,817,0.0377,2,1987-09-29,Toronto Blue Jays,mlb,1754
+55,Edmonton,edmonton,Canada,207,0,207,401,0.037,3,1985-02-26,Edmonton Oilers,nhl,1754
+56,Genoa,genoa,Italy,200,2,200,793,0.0357,1,1991-10-08,Sampdoria,club,1814
+57,Eindhoven,eindhoven,Netherlands,194,16,194,610,0.0346,1,1978-05-09,PSV Eindhoven,club,1859
+58,Belgrade,belgrade,Serbia,188,1,190,655,0.0336,4,1957-06-25,Red Star Belgrade,club,1707
+59,Bilbao,bilbao,Spain,182,0,182,908,0.0325,4,1956-04-24,Atlético Bilbao,club,1763
+60,Indianapolis,indianapolis,United States,175,7,175,403,0.0313,1,2005-12-13,Indianapolis Colts,nfl,1823
+61,Rotterdam-The Hague,rotterdam-the-hague,Netherlands,170,15,170,561,0.0304,1,1974-06-04,Feyenoord,club,1818
+62,Sheffield,sheffield,United Kingdom,169,24,169,341,0.0302,1,1930-06-10,Sheffield Wednesday,club,1864
+63,Stuttgart,stuttgart,Germany,169,0,169,924,0.0302,2,1981-09-22,VfB Stuttgart,club,1733
+64,Frankfurt,frankfurt,Germany,158,0,158,862,0.0282,10,1976-04-13,Eintracht Frankfurt,club,1691
+65,Oklahoma City,oklahoma-city,United States,156,27,156,310,0.0279,1,2025-04-01,Oklahoma City Thunder,nba,1829
+66,Kyiv,kyiv,Ukraine,151,1,151,439,0.027,2,1977-03-22,Dynamo Kyiv,club,1783
+67,Nuremberg,nuremberg,Germany,146,0,146,762,0.0261,3,1946-10-22,1. FC Nürnberg,club,1724
+68,Blackburn-Burnley,blackburn-burnley,United Kingdom,140,33,140,254,0.025,1,1922-01-03,Burnley,club,1755
+69,Bremen,bremen,Germany,140,1,140,658,0.025,1,1985-09-17,Werder Bremen,club,1764
+70,Phoenix,phoenix,United States,134,0,134,584,0.0239,3,2022-03-29,Phoenix Suns,nba,1736
+71,Padua-Venice,padua-venice,Italy,133,0,133,167,0.0238,5,1944-06-13,Venezia,club,1673
+72,Buffalo,buffalo,United States,131,0,131,627,0.0234,3,2024-12-31,Buffalo Bills,nfl,1735
+73,Reims,reims,France,118,0,118,260,0.0211,4,1955-05-24,Stade Reims,club,1710
+74,Calgary,calgary,Canada,106,5,106,179,0.0189,1,1989-05-30,Calgary Flames,nhl,1811
+75,Newcastle,newcastle,United Kingdom,102,21,102,487,0.0182,1,1951-03-13,Newcastle United,club,1823
+76,Moscow,moscow,Russia,99,0,99,465,0.0177,4,1993-10-26,FC Spartak Moscow,club,1729
+77,Seville,seville,Spain,99,1,99,797,0.0177,1,2007-09-18,Sevilla FC,club,1740
+78,Nottingham,nottingham,United Kingdom,94,11,94,308,0.0168,1,1979-10-30,Nottingham Forest,club,1783
+79,Portsmouth,portsmouth,United Kingdom,87,0,87,204,0.0155,2,1949-05-10,Portsmouth,club,1754
+80,Kaiserslautern,kaiserslautern,Germany,84,0,84,577,0.015,4,1980-09-23,1. FC Kaiserslautern,club,1706
+81,Naples,naples,Italy,84,0,84,708,0.015,7,1989-04-25,SSC Napoli,club,1692
+82,Parma,parma,Italy,84,0,84,359,0.015,3,1995-06-13,Parma,club,1769
+83,La Spezia,la-spezia,Italy,81,0,81,81,0.0145,3,1944-06-13,Spezia,club,1685
+84,Raleigh-Durham,raleigh-durham,United States,73,0,73,173,0.013,3,2022-03-01,Carolina Hurricanes,nhl,1729
+85,Lyon,lyon,France,72,5,72,253,0.0129,2,2005-11-08,Olympique Lyonnais,club,1747
+86,Salt Lake City-Provo,salt-lake-city-provo,United States,60,0,60,353,0.0107,7,1997-06-10,Utah Jazz,nba,1718
+87,Portland,portland,United States,59,0,59,195,0.0105,3,1978-03-07,Portland Trail Blazers,nba,1763
+88,Derby,derby,United Kingdom,55,1,55,417,0.0098,7,1949-05-10,Derby County,club,1679
+89,Rhine-Neckar,rhine-neckar,Germany,53,0,53,252,0.0095,3,1943-06-08,VfR Mannheim,club,1684
+90,Vancouver,vancouver,Canada,51,3,51,109,0.0091,2,2011-06-07,Vancouver Canucks,nhl,1783
+91,Alkmaar,alkmaar,Netherlands,47,0,47,98,0.0084,9,1981-02-10,AZ Alkmaar,club,1691
+92,Orlando,orlando,United States,47,0,47,152,0.0084,3,2010-05-11,Orlando Magic,nba,1733
+93,Zaragoza,zaragoza,Spain,47,0,47,176,0.0084,4,1965-05-04,Real Zaragoza,club,1690
+94,Cardiff,cardiff,United Kingdom,45,0,45,90,0.008,5,1924-06-10,Cardiff City,club,1659
+95,Preston,preston,United Kingdom,45,1,45,188,0.008,1,1953-09-08,Preston North End,club,1725
+96,New Orleans,new-orleans,United States,44,0,44,234,0.0079,4,2009-12-15,New Orleans Saints,nfl,1733
+97,Saarbrücken,saarbrucken,Germany,44,0,44,50,0.0079,7,1944-06-06,KSG Saarbrücken,club,1625
+98,San Diego,san-diego,United States,44,2,44,185,0.0079,1,2007-01-02,San Diego Chargers,nfl,1750
+99,Leicester,leicester,United Kingdom,42,0,42,98,0.0075,6,1929-06-11,Leicester City,club,1691
+100,Nashville,nashville,United States,42,0,42,203,0.0075,3,2018-03-20,Nashville Predators,nhl,1722
+101,Zagreb,zagreb,Croatia,42,0,42,256,0.0075,5,1964-12-22,Dinamo Zagreb,club,1683
+102,Las Vegas,las-vegas,United States,35,0,35,76,0.0063,2,2021-06-15,Vegas Golden Knights,nhl,1758
+103,Sacramento,sacramento,United States,34,0,34,122,0.0061,7,2002-05-28,Sacramento Kings,nba,1701
+104,Ipswich,ipswich,United Kingdom,33,0,33,131,0.0059,3,1981-03-31,Ipswich Town,club,1729
+105,Mechelen,mechelen,Belgium,27,0,27,146,0.0048,8,1989-04-25,KV Mechelen,club,1688
+106,Syracuse,syracuse,United States,26,3,26,60,0.0046,1,1955-12-06,Syracuse Nationals,nba,1706
+107,Marseille,marseille,France,21,7,21,138,0.0038,1,1991-06-04,Olympique Marseille,club,1822
+108,Pisa-Livorno,pisa-livorno,Italy,21,0,21,31,0.0038,2,1943-06-08,Livorno,club,1732
+109,Winnipeg,winnipeg,Canada,20,0,20,136,0.0036,3,1973-03-06,Winnipeg Jets,nhl,1740
+110,Charlotte,charlotte,United States,19,0,19,65,0.0034,5,2016-01-26,Carolina Panthers,nfl,1720
+111,Bruges,bruges,Belgium,17,0,17,70,0.003,7,1978-05-16,Club Brugge,club,1697
+112,Gothenburg,gothenburg,Sweden,17,0,17,112,0.003,6,1982-05-25,IFK Göteborg,club,1710
+113,Liege,liege,Belgium,16,0,16,153,0.0029,7,1982-04-27,Standard Liège,club,1693
+114,Blackpool,blackpool,United Kingdom,15,0,15,128,0.0027,3,1951-04-03,Blackpool,club,1702
+115,Donetsk,donetsk,Ukraine,15,0,15,128,0.0027,5,1976-10-26,FC Shakhtar Donetsk,club,1706
+116,Stoke-on-Trent,stoke-on-trent,United Kingdom,15,0,15,51,0.0027,6,1947-08-26,Stoke City,club,1657
+117,Bratislava,bratislava,Slovakia,12,0,12,146,0.0021,7,1963-12-31,ŠK Slovan Bratislava,club,1673
+118,Jacksonville,jacksonville,United States,12,0,12,45,0.0021,3,1999-12-21,Jacksonville Jaguars,nfl,1721
+119,Louisville,louisville,United States,12,0,12,57,0.0021,4,1972-02-22,Kentucky Colonels,nba,1740
+120,Novi Sad,novi-sad,Serbia,12,0,12,45,0.0021,11,1956-07-03,FK Vojvodina,club,1637
+121,Rochester,rochester,United States,10,0,10,137,0.0018,6,1949-03-15,Rochester Royals,nba,1670
+122,Monaco,monaco,Monaco,8,0,8,143,0.0014,9,1998-05-12,AS Monaco,club,1687
+123,Plovdiv,plovdiv,Bulgaria,8,0,8,21,0.0014,5,1962-11-06,Botev Plovdiv,club,1677
+124,Split,split,Croatia,8,0,8,88,0.0014,7,1952-03-11,Hajduk Split,club,1674
+125,Dunfermline,dunfermline,United Kingdom,7,0,7,46,0.0013,9,1968-11-19,Dunfermline Athletic,club,1676
+126,Enschede,enschede,Netherlands,7,0,7,107,0.0013,10,1975-05-27,FC Twente,club,1676
+127,Modena,modena,Italy,6,0,6,34,0.0011,7,1947-07-01,Modena,club,1641
+128,Považská Bystrica,povazska-bystrica,Slovakia,6,0,6,95,0.0011,12,1938-08-16,MŠK Považská Bystrica,club,1612
+129,Saxon Triangle,saxon-triangle,Germany,6,0,6,265,0.0011,10,2024-04-23,RB Leipzig,club,1666
+130,Nice,nice,France,5,0,5,26,0.0009,10,1959-06-02,OGC Nice,club,1645
+131,Fredrikstad,fredrikstad,Norway,4,0,4,7,0.0007,10,1960-09-27,Fredrikstad FK,club,1638
+132,Karlsruhe,karlsruhe,Germany,4,0,4,33,0.0007,6,1960-09-20,Karlsruher SC,club,1653
+133,Brno,brno,Czech Republic,3,0,3,63,0.0005,13,1963-10-29,FC Brno,club,1647
+134,Istanbul,istanbul,Turkey,3,0,3,62,0.0005,17,2000-05-23,Galatasaray SK,club,1652
+135,Middlesbrough,middlesbrough,United Kingdom,3,0,3,180,0.0005,5,1919-09-16,Middlesbrough,club,1683
+136,Aberdeen,aberdeen,United Kingdom,2,0,2,237,0.0004,9,1983-11-08,Aberdeen,club,1672
+137,Odessa,odessa,Ukraine,2,0,2,9,0.0004,4,1975-09-23,Chernomorets,club,1704
+138,Bari,bari,Italy,1,0,1,1,0.0002,5,1946-07-02,Bari,club,1645
+139,Berlin,berlin,Germany,1,0,1,71,0.0002,15,1975-10-28,Hertha BSC Berlin,club,1650
+140,Corunna,corunna,Spain,1,0,1,108,0.0002,10,2004-05-25,Deportivo de La Coruña,club,1661
+141,Grimsby,grimsby,United Kingdom,1,0,1,2,0.0002,9,1929-09-10,Grimsby Town,club,1645
+142,Gyor,gyor,Hungary,1,0,1,145,0.0002,10,1969-09-23,Győri ETO FC,club,1654
+143,Lille,lille,France,1,0,1,22,0.0002,8,1954-09-07,Lille OSC,club,1661
+144,Alessandria,alessandria,Italy,0,0,0,20,0,20,1930-04-01,Alessandria,club,1604
+145,Athens,athens,Greece,0,0,0,26,0,15,1996-04-23,Panathinaikos,club,1656
+146,Auxerre,auxerre,France,0,0,0,3,0,25,1993-06-08,AJ Auxerre,club,1624
+147,Bastia,bastia,France,0,0,0,7,0,24,1978-05-30,SC Bastia,club,1624
+148,Bern,bern,Switzerland,0,0,0,93,0,16,1960-11-01,BSC Young Boys,club,1618
+149,Bodo,bodo,Norway,0,0,0,4,0,14,2026-08-11,FK Bodø/Glimt,club,1637
+150,Bordeaux,bordeaux,France,0,0,0,24,0,12,1999-06-01,FC Girondins de Bordeaux,club,1672
+151,Bucharest,bucharest,Romania,0,0,0,87,0,15,1986-05-13,Steaua Bucureşti,club,1682
+152,Cagliari,cagliari,Italy,0,0,0,24,0,14,1970-11-03,Cagliari,club,1644
+153,Castellon,castellon,Spain,0,0,0,97,0,12,2022-08-30,Villarreal,club,1666
+154,Cesena,cesena,Italy,0,0,0,121,0,15,1944-06-06,AC Cesena,club,1581
+155,Columbus,columbus,United States,0,0,0,9,0,15,2017-01-03,Columbus Blue Jackets,nhl,1647
+156,Copenhagen,copenhagen,Denmark,0,0,0,55,0,24,1991-05-14,Brøndby IF,club,1623
+157,Cordova,cordova,Spain,0,0,0,4,0,19,1965-04-20,Córdoba CF,club,1613
+158,Craiova,craiova,Romania,0,0,0,1,0,25,1983-05-03,Universitatea Craiova,club,1617
+159,Dnipro,dnipro,Ukraine,0,0,0,12,0,23,1985-10-08,FC Dnipro,club,1635
+160,Dresden,dresden,Germany,0,0,0,10,0,22,1980-10-07,Dynamo Dresden,club,1630
+161,Dundee,dundee,United Kingdom,0,0,0,64,0,12,1987-05-26,Dundee United,club,1668
+162,Elche,elche,Spain,0,0,0,4,0,23,1964-04-28,Elche CF,club,1609
+163,Faro,faro,Portugal,0,0,0,8,0,24,1923-08-21,SC Olhanense,club,1553
+164,Frankfurt (Oder),frankfurt-oder,Germany,0,0,0,7,0,11,1960-08-02,FC Viktoria Frankfurt,club,1617
+165,Geneva,geneva,Switzerland,0,0,0,107,0,11,1928-06-12,Étoile Carouge FC,club,1630
+166,Girona,girona,Spain,0,0,0,3,0,15,2024-09-03,Girona FC,club,1636
+167,Hannover-Brunswick,hannover-brunswick,Germany,0,0,0,35,0,17,2015-04-07,VfL Wolfsburg,club,1635
+168,Hradec Králové,hradec-kralove,Czech Republic,0,0,0,19,0,15,1960-12-20,Hradec Králové FC,club,1621
+169,Kharkiv,kharkiv,Ukraine,0,0,0,6,0,23,2012-12-04,Metalist,club,1625
+170,Kiel,kiel,Germany,0,0,0,53,0,19,1943-06-08,FC Holstein Kiel,club,1588
+171,Kilmarnock,kilmarnock,United Kingdom,0,0,0,8,0,23,1967-01-10,Kilmarnock,club,1609
+172,Lens,lens,France,0,0,0,6,0,23,1957-05-21,RC Lens,club,1606
+173,Lovech,lovech,Bulgaria,0,0,0,9,0,21,1963-10-01,Lokomotiv Plovdiv,club,1610
+174,Lucca,lucca,Italy,0,0,0,5,0,16,1936-11-10,Lucchese,club,1603
+175,Luxembourg City,luxembourg-city,Luxembourg,0,0,0,8,0,21,1959-10-13,Jeunesse d'Esch,club,1591
+176,Magdeburg,magdeburg,Germany,0,0,0,2,0,23,1977-12-06,FC Magdeburg,club,1638
+177,Málaga,malaga,Spain,0,0,0,3,0,25,2012-10-23,Málaga CF,club,1621
+178,Malmo,malmo,Sweden,0,0,0,91,0,13,1950-06-06,Malmö FF,club,1642
+179,Memphis,memphis,United States,0,0,0,23,0,16,2013-05-21,Memphis Grizzlies,nba,1645
+180,Methil,methil,United Kingdom,0,0,0,1,0,23,1953-06-16,East Fife,club,1600
+181,Mulhouse,mulhouse,France,0,0,0,3,0,13,1944-06-13,FC Mülhausen,club,1620
+182,Nantes,nantes,France,0,0,0,18,0,17,1980-05-27,FC Nantes,club,1646
+183,Neuchâtel,neuchatel,Switzerland,0,0,0,1,0,25,1955-09-13,FC La Chaux-de-Fonds,club,1571
+184,Nicosia,nicosia,Cyprus,0,0,0,3,0,18,1963-09-24,APOEL FC,club,1627
+185,Nîmes,nimes,France,0,0,0,38,0,17,1959-06-02,Nîmes Olympique,club,1623
+186,Norfolk,norfolk,United States,0,0,0,3,0,15,1971-01-05,Virginia Squires,nba,1649
+187,Oradea,oradea,Romania,0,0,0,3,0,14,1944-06-13,CA Oradea,club,1611
+188,Oviedo,oviedo,Spain,0,0,0,58,0,16,1946-01-08,Real Oviedo,club,1617
+189,Pamplona,pamplona,Spain,0,0,0,20,0,14,1958-05-06,CA Osasuna,club,1627
+190,Saint Étienne,saint-etienne,France,0,0,0,41,0,17,1976-06-22,AS Saint-Étienne,club,1655
+191,San Sebastián,san-sebastian,Spain,0,0,0,169,0,20,2023-10-03,Real Sociedad,club,1633
+192,Schweinfurt,schweinfurt,Germany,0,0,0,37,0,21,1939-06-13,FC Schweinfurt 05,club,1590
+193,Sint-Niklaas,sint-niklaas,Belgium,0,0,0,1,0,24,1981-12-08,KSC Lokeren,club,1619
+194,Sofia,sofia,Bulgaria,0,0,0,11,0,25,1982-05-18,CSKA Sofia,club,1617
+195,St. Petersburg,st-petersburg,Russia,0,0,0,15,0,22,2011-11-08,Zenit St. Petersburg,club,1625
+196,Strasbourg,strasbourg,France,0,0,0,52,0,14,1942-06-09,SG SS Straßburg,club,1590
+197,Tbilisi,tbilisi,Georgia,0,0,0,14,0,20,1982-04-06,Dinamo Tbilisi,club,1631
+198,Thessaloniki,thessaloniki,Greece,0,0,0,3,0,22,1961-10-31,Iraklis,club,1604
+199,Trieste,trieste,Italy,0,0,0,20,0,24,1938-06-14,Triestina,club,1606
+200,Trnava,trnava,Slovakia,0,0,0,2,0,19,1973-10-30,FC Spartak Trnava,club,1630
+201,Udine,udine,Italy,0,0,0,3,0,13,1955-06-21,Udinese,club,1630
+202,Upper Silesian,upper-silesian,Poland,0,0,0,27,0,15,1970-11-24,Górnik Zabrze,club,1644
+203,Valladolid,valladolid,Spain,0,0,0,31,0,19,1963-04-23,Real Valladolid,club,1607
+204,Vercelli,vercelli,Italy,0,0,0,160,0,14,1922-06-13,Pro Vercelli,club,1608
+205,Verona,verona,Italy,0,0,0,13,0,19,1985-05-21,Hellas Verona,club,1643
+206,Vigo,vigo,Spain,0,0,0,22,0,22,2001-07-17,Celta de Vigo,club,1616
+207,Volgograd,volgograd,Russia,0,0,0,4,0,25,1997-10-07,Rotor Volgograd,club,1615
+208,Warsaw,warsaw,Poland,0,0,0,16,0,16,1971-09-28,Legia Warszawa,club,1634
+209,Yerevan,yerevan,Armenia,0,0,0,18,0,13,1975-09-23,Ararat Yerevan,club,1663
+210,Zilina,zilina,Slovakia,0,0,0,13,0,12,1961-12-26,MŠK Žilina,club,1643
+211,Zurich,zurich,Switzerland,0,0,0,163,0,18,1981-11-10,Grasshopper-Club Zürich,club,1637

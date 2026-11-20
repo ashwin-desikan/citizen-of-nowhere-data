@@ -1,0 +1,3260 @@
+{
+  "profile": "tabular-data-package",
+  "name": "citizen-of-nowhere-data",
+  "title": "Citizen of Nowhere open data: Elo ratings and rankings",
+  "description": "Free, daily-refreshed Elo ratings and rankings computed by Citizen of Nowhere (rankings.citizenofnowhere.org): NFL, college football, NBA, NHL, MLB, WNBA, AFL, NRL, IPL and world football Elo, the Universal Index, the Global Metro Power Rankings and other site-own rankings.",
+  "homepage": "https://rankings.citizenofnowhere.org",
+  "repository": "https://github.com/ashwin-desikan/citizen-of-nowhere-data",
+  "version": "2026-11-20",
+  "last_updated": "2026-11-20",
+  "licenses": [
+    {
+      "name": "CC-BY-NC-4.0",
+      "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Ashwin Desikan",
+      "role": "author",
+      "path": "https://rankings.citizenofnowhere.org"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Citizen of Nowhere",
+      "path": "https://rankings.citizenofnowhere.org"
+    }
+  ],
+  "keywords": [
+    "elo",
+    "elo ratings",
+    "nfl elo",
+    "nba elo",
+    "nhl elo",
+    "mlb elo",
+    "college football elo",
+    "football elo",
+    "club elo",
+    "rankings",
+    "metro rankings",
+    "sports data",
+    "open data"
+  ],
+  "resources": [
+    {
+      "name": "nfl-elo",
+      "path": "data/nfl-elo.csv",
+      "title": "NFL Elo ratings: current ratings",
+      "description": "NFL Elo ratings is Citizen of Nowhere's own Elo rating of every NFL franchise since 1920, updated after each week's games (K 20, home advantage 65; method at https://rankings.citizenofnowhere.org/methodology/elo), a free, maintained alternative to FiveThirtyEight's discontinued NFL Elo. As of 2026-11-19. Page: https://rankings.citizenofnowhere.org/teams/nfl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 3535,
+      "hash": "sha256:a3342de3295d1b5601a656b81b44d5f9309ea7a8665e4ad06ccc7805dbb8f826",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nfl",
+      "last_updated": "2026-11-19",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nfl/elo (the site's NFL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nfl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by current Elo, 1 = strongest"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team as usually named"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city or region"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "conference",
+            "type": "string",
+            "description": "conference"
+          },
+          {
+            "name": "division",
+            "type": "string",
+            "description": "division"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo rating"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season the rating belongs to"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "live or final"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week of the season the rating runs to"
+          },
+          {
+            "name": "ratings_date",
+            "type": "date",
+            "description": "date the rating runs to"
+          },
+          {
+            "name": "season_start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "season_peak_elo",
+            "type": "number",
+            "description": "highest Elo this season"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "this season's record (W-L, or W-L-T / W-L-OTL as the league counts it)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nfl-elo-weekly",
+      "path": "data/nfl-elo-weekly.csv",
+      "title": "NFL Elo ratings: this season week by week",
+      "description": "NFL Elo ratings is Citizen of Nowhere's own Elo rating of every NFL franchise since 1920, updated after each week's games (K 20, home advantage 65; method at https://rankings.citizenofnowhere.org/methodology/elo), a free, maintained alternative to FiveThirtyEight's discontinued NFL Elo. As of 2026-11-19. Page: https://rankings.citizenofnowhere.org/teams/nfl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 22286,
+      "hash": "sha256:2fb8bf0384864488654f9516a4340c64ef31be564ffc28b417712d2a138d8d7b",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nfl",
+      "last_updated": "2026-11-19",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nfl/elo (the site's NFL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nfl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week (0 = preseason seed)"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "date of the week's rating"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo after that week"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank that week, where the site keeps one"
+          },
+          {
+            "name": "change",
+            "type": "string",
+            "description": "Elo change that week"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "record to that week"
+          },
+          {
+            "name": "seed",
+            "type": "boolean",
+            "description": "true for the preseason seed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nfl-elo-season-end",
+      "path": "data/nfl-elo-season-end.csv",
+      "title": "NFL Elo ratings: every team, every season",
+      "description": "NFL Elo ratings is Citizen of Nowhere's own Elo rating of every NFL franchise since 1920, updated after each week's games (K 20, home advantage 65; method at https://rankings.citizenofnowhere.org/methodology/elo), a free, maintained alternative to FiveThirtyEight's discontinued NFL Elo. As of 2026-11-19. Page: https://rankings.citizenofnowhere.org/teams/nfl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 214071,
+      "hash": "sha256:f2a788013965cb0ff468501728c1f0666db628ba8fce75779e655d0e0e301741",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nfl",
+      "last_updated": "2026-11-19",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nfl/elo (the site's NFL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nfl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname then"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city then"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league (the pool can hold more than one league in a season)"
+          },
+          {
+            "name": "start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          },
+          {
+            "name": "peak_elo",
+            "type": "number",
+            "description": "highest Elo that season"
+          },
+          {
+            "name": "low_elo",
+            "type": "number",
+            "description": "lowest Elo that season"
+          },
+          {
+            "name": "regular_season_record",
+            "type": "string",
+            "description": "regular-season record"
+          },
+          {
+            "name": "postseason_record",
+            "type": "string",
+            "description": "postseason record"
+          },
+          {
+            "name": "champion",
+            "type": "boolean",
+            "description": "won the league title that season, where the site marks it"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "final, or live for the season in progress"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cfb-elo",
+      "path": "data/cfb-elo.csv",
+      "title": "College football Elo: current season",
+      "description": "College football Elo ratings is the site's own Elo rating for every college football program, 1869 to today, with K 36, home advantage 60 and 15% regression to 1500 between seasons. As of 2026-11-19. Page: https://rankings.citizenofnowhere.org/teams/cfb",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 7237,
+      "hash": "sha256:5662a1d11d13be7c01a704549ca5847e2b4026576293d810244bc672ba9f1de8",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/cfb",
+      "last_updated": "2026-11-19",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/cfb/elo/programs.json (scripts/build-cfb-elo.py over the site's college football database)",
+          "path": "https://rankings.citizenofnowhere.org/teams/cfb"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank among major programs (blank = rated in a lower pool)"
+          },
+          {
+            "name": "program",
+            "type": "string",
+            "description": "program"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug, page at /teams/cfb/<slug>"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo"
+          },
+          {
+            "name": "z",
+            "type": "number",
+            "description": "standard score against this season's majors"
+          },
+          {
+            "name": "adj_z",
+            "type": "number",
+            "description": "era-adjusted z"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          }
+        ]
+      }
+    },
+    {
+      "name": "cfb-elo-season-end",
+      "path": "data/cfb-elo-season-end.csv",
+      "title": "College football Elo: every program, every season",
+      "description": "College football Elo ratings is the site's own Elo rating for every college football program, 1869 to today, with K 36, home advantage 60 and 15% regression to 1500 between seasons. As of 2026-11-19. Page: https://rankings.citizenofnowhere.org/teams/cfb",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 727255,
+      "hash": "sha256:3e17049561304e2955e3259fe6171e4225befb2eeaffca462154a2050ea93ac1",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/cfb",
+      "last_updated": "2026-11-19",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/cfb/elo/programs.json (scripts/build-cfb-elo.py over the site's college football database)",
+          "path": "https://rankings.citizenofnowhere.org/teams/cfb"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank among major programs (blank = rated in a lower pool)"
+          },
+          {
+            "name": "program",
+            "type": "string",
+            "description": "program"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug, page at /teams/cfb/<slug>"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo"
+          },
+          {
+            "name": "z",
+            "type": "number",
+            "description": "standard score against this season's majors"
+          },
+          {
+            "name": "adj_z",
+            "type": "number",
+            "description": "era-adjusted z"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nba-elo",
+      "path": "data/nba-elo.csv",
+      "title": "NBA Elo ratings: current ratings",
+      "description": "NBA Elo ratings is Citizen of Nowhere's own Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nba",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 3316,
+      "hash": "sha256:4022e630f05fb65771375f7dffed808e2a439da4037c622ae4ed7f47715369cb",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nba",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nba/elo (the site's NBA Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nba"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by current Elo, 1 = strongest"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team as usually named"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city or region"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "conference",
+            "type": "string",
+            "description": "conference"
+          },
+          {
+            "name": "division",
+            "type": "string",
+            "description": "division"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo rating"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season the rating belongs to"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "live or final"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week of the season the rating runs to"
+          },
+          {
+            "name": "ratings_date",
+            "type": "date",
+            "description": "date the rating runs to"
+          },
+          {
+            "name": "season_start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "season_peak_elo",
+            "type": "number",
+            "description": "highest Elo this season"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "this season's record (W-L, or W-L-T / W-L-OTL as the league counts it)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nba-elo-weekly",
+      "path": "data/nba-elo-weekly.csv",
+      "title": "NBA Elo ratings: this season week by week",
+      "description": "NBA Elo ratings is Citizen of Nowhere's own Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nba",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 10669,
+      "hash": "sha256:65c1c809a82043e4b80fc2ca7d4d4392d6d34e93ccf9000263fe893df4af5763",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nba",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nba/elo (the site's NBA Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nba"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week (0 = preseason seed)"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "date of the week's rating"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo after that week"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank that week, where the site keeps one"
+          },
+          {
+            "name": "change",
+            "type": "number",
+            "description": "Elo change that week"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "record to that week"
+          },
+          {
+            "name": "seed",
+            "type": "boolean",
+            "description": "true for the preseason seed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nba-elo-season-end",
+      "path": "data/nba-elo-season-end.csv",
+      "title": "NBA Elo ratings: every team, every season",
+      "description": "NBA Elo ratings is Citizen of Nowhere's own Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nba",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 167823,
+      "hash": "sha256:a0bfc48c99695516516adc7ed83f08478ac8b50e43c1e907216072c6fd220fa7",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nba",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nba/elo (the site's NBA Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nba"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname then"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city then"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league (the pool can hold more than one league in a season)"
+          },
+          {
+            "name": "start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          },
+          {
+            "name": "peak_elo",
+            "type": "number",
+            "description": "highest Elo that season"
+          },
+          {
+            "name": "low_elo",
+            "type": "number",
+            "description": "lowest Elo that season"
+          },
+          {
+            "name": "regular_season_record",
+            "type": "string",
+            "description": "regular-season record"
+          },
+          {
+            "name": "postseason_record",
+            "type": "string",
+            "description": "postseason record"
+          },
+          {
+            "name": "champion",
+            "type": "boolean",
+            "description": "won the league title that season, where the site marks it"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "final, or live for the season in progress"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nhl-elo",
+      "path": "data/nhl-elo.csv",
+      "title": "NHL Elo ratings: current ratings",
+      "description": "NHL Elo ratings is Citizen of Nowhere's own Elo rating of every NHL (and WHA) team since 1917, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nhl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 3443,
+      "hash": "sha256:0306f03fc66e425175bf11aa2770477fc8a2d5f0c656caedc1729d18c277d2eb",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nhl",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nhl/elo (the site's NHL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nhl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by current Elo, 1 = strongest"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team as usually named"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city or region"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "conference",
+            "type": "string",
+            "description": "conference"
+          },
+          {
+            "name": "division",
+            "type": "string",
+            "description": "division"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo rating"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season the rating belongs to"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "live or final"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week of the season the rating runs to"
+          },
+          {
+            "name": "ratings_date",
+            "type": "date",
+            "description": "date the rating runs to"
+          },
+          {
+            "name": "season_start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "season_peak_elo",
+            "type": "number",
+            "description": "highest Elo this season"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "this season's record (W-L, or W-L-T / W-L-OTL as the league counts it)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nhl-elo-weekly",
+      "path": "data/nhl-elo-weekly.csv",
+      "title": "NHL Elo ratings: this season week by week",
+      "description": "NHL Elo ratings is Citizen of Nowhere's own Elo rating of every NHL (and WHA) team since 1917, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nhl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 18232,
+      "hash": "sha256:c6276c7b64d6e708df094a50fa055730ba189077b556403fc64cdb2fb8e08def",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nhl",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nhl/elo (the site's NHL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nhl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week (0 = preseason seed)"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "date of the week's rating"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo after that week"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank that week, where the site keeps one"
+          },
+          {
+            "name": "change",
+            "type": "number",
+            "description": "Elo change that week"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "record to that week"
+          },
+          {
+            "name": "seed",
+            "type": "boolean",
+            "description": "true for the preseason seed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nhl-elo-season-end",
+      "path": "data/nhl-elo-season-end.csv",
+      "title": "NHL Elo ratings: every team, every season",
+      "description": "NHL Elo ratings is Citizen of Nowhere's own Elo rating of every NHL (and WHA) team since 1917, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/nhl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 181157,
+      "hash": "sha256:62669f79cae9491df81514daa870013972cee18b10b9edc081dbb1de467290ef",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nhl",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nhl/elo (the site's NHL Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nhl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname then"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city then"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league (the pool can hold more than one league in a season)"
+          },
+          {
+            "name": "start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          },
+          {
+            "name": "peak_elo",
+            "type": "number",
+            "description": "highest Elo that season"
+          },
+          {
+            "name": "low_elo",
+            "type": "number",
+            "description": "lowest Elo that season"
+          },
+          {
+            "name": "regular_season_record",
+            "type": "string",
+            "description": "regular-season record"
+          },
+          {
+            "name": "postseason_record",
+            "type": "string",
+            "description": "postseason record"
+          },
+          {
+            "name": "champion",
+            "type": "boolean",
+            "description": "won the league title that season, where the site marks it"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "final, or live for the season in progress"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mlb-elo",
+      "path": "data/mlb-elo.csv",
+      "title": "MLB Elo ratings: current ratings",
+      "description": "MLB Elo ratings is Citizen of Nowhere's own Elo rating of every Major League Baseball team since 1876, with the latest season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-01. Page: https://rankings.citizenofnowhere.org/teams/mlb",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 3260,
+      "hash": "sha256:14acca769c2e7cecd90c36253064d2722d6649311223067fbaf105123853e3f3",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/mlb",
+      "last_updated": "2026-11-01",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/mlb/elo (the site's MLB Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/mlb"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by current Elo, 1 = strongest"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team as usually named"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city or region"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "conference",
+            "type": "string",
+            "description": "conference"
+          },
+          {
+            "name": "division",
+            "type": "string",
+            "description": "division"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo rating"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season the rating belongs to"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "live or final"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week of the season the rating runs to"
+          },
+          {
+            "name": "ratings_date",
+            "type": "date",
+            "description": "date the rating runs to"
+          },
+          {
+            "name": "season_start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "season_peak_elo",
+            "type": "number",
+            "description": "highest Elo this season"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "this season's record (W-L, or W-L-T / W-L-OTL as the league counts it)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mlb-elo-weekly",
+      "path": "data/mlb-elo-weekly.csv",
+      "title": "MLB Elo ratings: this season week by week",
+      "description": "MLB Elo ratings is Citizen of Nowhere's own Elo rating of every Major League Baseball team since 1876, with the latest season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-01. Page: https://rankings.citizenofnowhere.org/teams/mlb",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 60462,
+      "hash": "sha256:49f1e40efa40a0dda766d42c8011e65649f88c60dbc230fcdc504564b195aa24",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/mlb",
+      "last_updated": "2026-11-01",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/mlb/elo (the site's MLB Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/mlb"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "week",
+            "type": "integer",
+            "description": "week (0 = preseason seed)"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "date of the week's rating"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo after that week"
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank that week, where the site keeps one"
+          },
+          {
+            "name": "change",
+            "type": "number",
+            "description": "Elo change that week"
+          },
+          {
+            "name": "record",
+            "type": "string",
+            "description": "record to that week"
+          },
+          {
+            "name": "seed",
+            "type": "boolean",
+            "description": "true for the preseason seed"
+          }
+        ]
+      }
+    },
+    {
+      "name": "mlb-elo-season-end",
+      "path": "data/mlb-elo-season-end.csv",
+      "title": "MLB Elo ratings: every team, every season",
+      "description": "MLB Elo ratings is Citizen of Nowhere's own Elo rating of every Major League Baseball team since 1876, with the latest season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). As of 2026-11-01. Page: https://rankings.citizenofnowhere.org/teams/mlb",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 280557,
+      "hash": "sha256:1e4041afc46d39b32077050f334003bc466f19993fb417943f936d703711fb67",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/mlb",
+      "last_updated": "2026-11-01",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/mlb/elo (the site's MLB Elo build)",
+          "path": "https://rankings.citizenofnowhere.org/teams/mlb"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "nickname then"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "city then"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league (the pool can hold more than one league in a season)"
+          },
+          {
+            "name": "start_elo",
+            "type": "number",
+            "description": "Elo at the start of the season"
+          },
+          {
+            "name": "end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          },
+          {
+            "name": "peak_elo",
+            "type": "number",
+            "description": "highest Elo that season"
+          },
+          {
+            "name": "low_elo",
+            "type": "number",
+            "description": "lowest Elo that season"
+          },
+          {
+            "name": "regular_season_record",
+            "type": "string",
+            "description": "regular-season record"
+          },
+          {
+            "name": "postseason_record",
+            "type": "string",
+            "description": "postseason record"
+          },
+          {
+            "name": "champion",
+            "type": "boolean",
+            "description": "won the league title that season, where the site marks it"
+          },
+          {
+            "name": "season_status",
+            "type": "string",
+            "description": "final, or live for the season in progress"
+          }
+        ]
+      }
+    },
+    {
+      "name": "wnba-elo",
+      "path": "data/wnba-elo.csv",
+      "title": "WNBA Elo ratings",
+      "description": "WNBA Elo ratings is the site's own Elo rating of every WNBA team, as carried on the Women's Universal Index. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/teams/wnba",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 638,
+      "hash": "sha256:84d2cd48b738021b14a460697d55b59284ce7b1dc015ce6b0bd32b63ae1b6721",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/wnba",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase womens_universal_rankings_daily, league wnba",
+          "path": "https://rankings.citizenofnowhere.org/teams/wnba"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by Elo"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo rating"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "in_season",
+            "type": "boolean",
+            "description": "the WNBA is in season"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the team's last game"
+          }
+        ]
+      }
+    },
+    {
+      "name": "afl-elo",
+      "path": "data/afl-elo.csv",
+      "title": "AFL Elo ratings: current",
+      "description": "AFL Elo ratings is the site's own Elo rating of every VFL/AFL club since 1897 (K 40, travel-aware home advantage, 35% regression between seasons). As of 2026-09-26. Page: https://rankings.citizenofnowhere.org/teams/afl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 897,
+      "hash": "sha256:2309316a4b6deae00b8a0b9a96eb41acf358575bbedc7c03ab56bc3d24584390",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/afl",
+      "last_updated": "2026-09-26",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/afl/elo.json (17056 games since 1897)",
+          "path": "https://rankings.citizenofnowhere.org/teams/afl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by Elo"
+          },
+          {
+            "name": "club",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "nickname",
+            "type": "string",
+            "description": "short name"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo"
+          },
+          {
+            "name": "change_last_5",
+            "type": "number",
+            "description": "Elo change over the last five games"
+          }
+        ]
+      }
+    },
+    {
+      "name": "afl-elo-season-end",
+      "path": "data/afl-elo-season-end.csv",
+      "title": "AFL Elo ratings: season-end rating of every club",
+      "description": "AFL Elo ratings is the site's own Elo rating of every VFL/AFL club since 1897 (K 40, travel-aware home advantage, 35% regression between seasons). As of 2026-09-26. Page: https://rankings.citizenofnowhere.org/teams/afl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 54872,
+      "hash": "sha256:7cbdcfcd18b4a613e44164453dc2e10dac87fd9bc872cd737688f0d64afa6180",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/afl",
+      "last_updated": "2026-09-26",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/afl/elo.json (17056 games since 1897)",
+          "path": "https://rankings.citizenofnowhere.org/teams/afl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "club",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "season_end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nrl-elo",
+      "path": "data/nrl-elo.csv",
+      "title": "NRL Elo ratings: current",
+      "description": "NRL Elo ratings is the site's own Elo rating of every NSWRL/ARL/NRL rugby league club since 1908 (K 40, travel-aware home advantage, 35% regression between seasons). As of 2026-10-04. Page: https://rankings.citizenofnowhere.org/teams/nrl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 969,
+      "hash": "sha256:f5f2c396e047d0c4eaf0dfd6394b9f807c2d68d0f0002620f4df0d1206054a96",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nrl",
+      "last_updated": "2026-10-04",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nrl/elo.json (15050 games since 1908)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nrl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by Elo"
+          },
+          {
+            "name": "club",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "nickname",
+            "type": "string",
+            "description": "short name"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo"
+          },
+          {
+            "name": "change_last_5",
+            "type": "number",
+            "description": "Elo change over the last five games"
+          }
+        ]
+      }
+    },
+    {
+      "name": "nrl-elo-season-end",
+      "path": "data/nrl-elo-season-end.csv",
+      "title": "NRL Elo ratings: season-end rating of every club",
+      "description": "NRL Elo ratings is the site's own Elo rating of every NSWRL/ARL/NRL rugby league club since 1908 (K 40, travel-aware home advantage, 35% regression between seasons). As of 2026-10-04. Page: https://rankings.citizenofnowhere.org/teams/nrl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 57294,
+      "hash": "sha256:6ec00d5ec52cc4212cc2569d99f0056ffc6e7447b4834ec2f633ba2d55f791a9",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/nrl",
+      "last_updated": "2026-10-04",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/nrl/elo.json (15050 games since 1908)",
+          "path": "https://rankings.citizenofnowhere.org/teams/nrl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "club",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "season_end_elo",
+            "type": "number",
+            "description": "Elo at the end of the season"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ipl-elo",
+      "path": "data/ipl-elo.csv",
+      "title": "IPL Elo ratings",
+      "description": "IPL Elo ratings is the site's own Elo rating for every Indian Premier League franchise since 2008, with each side's peak and low. As of 2026-05-31. Page: https://rankings.citizenofnowhere.org/teams/ipl",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 1787,
+      "hash": "sha256:1baba4dc0632a382a0845d6821370bf9d9bbfa8812eda0e0b899d212231418ec",
+      "homepage": "https://rankings.citizenofnowhere.org/teams/ipl",
+      "last_updated": "2026-05-31",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/ipl/elo/ratings.json (results from the IPL season pages, 2008 onward)",
+          "path": "https://rankings.citizenofnowhere.org/teams/ipl"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank among active franchises"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "franchise"
+          },
+          {
+            "name": "abbr",
+            "type": "string",
+            "description": "abbreviation"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "active",
+            "type": "boolean",
+            "description": "plays in the current IPL"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "current Elo"
+          },
+          {
+            "name": "rating_date",
+            "type": "date",
+            "description": "date of the last rated game"
+          },
+          {
+            "name": "last_season",
+            "type": "integer",
+            "description": "last season played"
+          },
+          {
+            "name": "change_last_season",
+            "type": "number",
+            "description": "Elo change over the last season"
+          },
+          {
+            "name": "peak_elo",
+            "type": "number",
+            "description": "highest Elo"
+          },
+          {
+            "name": "peak_date",
+            "type": "date",
+            "description": "date of the peak"
+          },
+          {
+            "name": "low_elo",
+            "type": "number",
+            "description": "lowest Elo"
+          },
+          {
+            "name": "low_date",
+            "type": "date",
+            "description": "date of the low"
+          },
+          {
+            "name": "games",
+            "type": "integer",
+            "description": "games rated"
+          }
+        ]
+      }
+    },
+    {
+      "name": "world-club-elo",
+      "path": "data/world-club-elo.csv",
+      "title": "World Club Elo",
+      "description": "World Club Elo is the site's own Elo rating of the world's top 500 men's football clubs on one scale across all six confederations, with each confederation's level fitted from cross-confederation games. As of 2026-11-15. Page: https://rankings.citizenofnowhere.org/football/world-club-elo",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 29840,
+      "hash": "sha256:6cdf9795a072129f2c8468ad71a321c0d67e4bcabe228e37dfd8c20c08121d35",
+      "homepage": "https://rankings.citizenofnowhere.org/football/world-club-elo",
+      "last_updated": "2026-11-15",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/football/world-club-elo.json (scripts/predictions/world_club_elo.py)",
+          "path": "https://rankings.citizenofnowhere.org/football/world-club-elo"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "world rank"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "country"
+          },
+          {
+            "name": "confederation",
+            "type": "string",
+            "description": "confederation"
+          },
+          {
+            "name": "rating",
+            "type": "number",
+            "description": "Elo on the world scale"
+          },
+          {
+            "name": "games",
+            "type": "integer",
+            "description": "games rated"
+          },
+          {
+            "name": "xconf_games",
+            "type": "integer",
+            "description": "games against other confederations"
+          },
+          {
+            "name": "provisional",
+            "type": "boolean",
+            "description": "too few games to be settled"
+          },
+          {
+            "name": "last_match",
+            "type": "date",
+            "description": "date of the last rated match"
+          }
+        ]
+      }
+    },
+    {
+      "name": "gbi-club-elo",
+      "path": "data/gbi-club-elo.csv",
+      "title": "British and Irish club Elo",
+      "description": "British and Irish club football Elo is the site's own Elo ranking of every men's league club in England, Scotland, Wales, Northern Ireland and Ireland on one list. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/sports/great-britain-ireland",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 10812,
+      "hash": "sha256:3d0276ab68a583b685cd97dca24e765974dd07e96ebb1e5cf1a32e566a554702",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/great-britain-ireland",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/regions/gbi-club-elo.json (scripts/universal/build_gbi_club_elo.py)",
+          "path": "https://rankings.citizenofnowhere.org/sports/great-britain-ireland"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank"
+          },
+          {
+            "name": "club",
+            "type": "string",
+            "description": "club"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "country"
+          },
+          {
+            "name": "division",
+            "type": "string",
+            "description": "division"
+          },
+          {
+            "name": "tier",
+            "type": "integer",
+            "description": "tier of the pyramid"
+          },
+          {
+            "name": "rating",
+            "type": "number",
+            "description": "rating on the list's scale"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo on the club football scale"
+          }
+        ]
+      }
+    },
+    {
+      "name": "football-elo-men",
+      "path": "data/football-elo-men.csv",
+      "title": "Football Elo ratings: men's national teams",
+      "description": "Football Elo ratings: men's national teams is the site's own Elo rating of every men's national football team, computed from every international result since 1872 and updated each morning; the international hubs show it in place of the FIFA ranking. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/football/international",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 10533,
+      "hash": "sha256:aa5ae58e85ef30b734c048c180b8022708f5eb6177cc17fbd52ed53df92512a9",
+      "homepage": "https://rankings.citizenofnowhere.org/football/international",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase universal_nations_daily, board football-m",
+          "path": "https://rankings.citizenofnowhere.org/football/international"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by Elo"
+          },
+          {
+            "name": "nation",
+            "type": "string",
+            "description": "nation"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo rating"
+          },
+          {
+            "name": "last_game",
+            "type": "date",
+            "description": "date of the last rated game"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the last game"
+          },
+          {
+            "name": "suspended",
+            "type": "boolean",
+            "description": "suspended from competition"
+          }
+        ]
+      }
+    },
+    {
+      "name": "football-elo-women",
+      "path": "data/football-elo-women.csv",
+      "title": "Football Elo ratings: women's national teams",
+      "description": "Football Elo ratings: women's national teams is the site's own Elo rating of every women's national football team, computed from international results and updated each morning. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/football/women/international",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 9304,
+      "hash": "sha256:d976a3d24178dcf162969edd8ef0a91f3d7bbc8975845fac85f9e9c7020d0abe",
+      "homepage": "https://rankings.citizenofnowhere.org/football/women/international",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase universal_nations_daily, board football-w",
+          "path": "https://rankings.citizenofnowhere.org/football/women/international"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by Elo"
+          },
+          {
+            "name": "nation",
+            "type": "string",
+            "description": "nation"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo rating"
+          },
+          {
+            "name": "last_game",
+            "type": "date",
+            "description": "date of the last rated game"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the last game"
+          },
+          {
+            "name": "suspended",
+            "type": "boolean",
+            "description": "suspended from competition"
+          }
+        ]
+      }
+    },
+    {
+      "name": "universal-index",
+      "path": "data/universal-index.csv",
+      "title": "The Universal Index",
+      "description": "The Universal Index is a cross-sport, day-by-day leaderboard of the strongest teams in the NFL, college football, MLB, NBA, NHL, IPL and men's club football, each team's Elo placed on one common scale so a Bundesliga club and an NBA side can be compared. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/sports/universal",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 32105,
+      "hash": "sha256:b60102a3c41434944f2640a63d49959900fa2799e9fd635fc55161147b0711f4",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/universal",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase universal_rankings_daily, written daily by scripts/universal/build_universal.py from the site's Elo datasets",
+          "path": "https://rankings.citizenofnowhere.org/sports/universal"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank on the cross-sport board"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league code"
+          },
+          {
+            "name": "team_id",
+            "type": "string",
+            "description": "stable id, league:team"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo in the league's own pool"
+          },
+          {
+            "name": "universal",
+            "type": "number",
+            "description": "Universal score on the common scale"
+          },
+          {
+            "name": "z",
+            "type": "number",
+            "description": "standard score within the league"
+          },
+          {
+            "name": "rank_in_league",
+            "type": "integer",
+            "description": "rank within the league"
+          },
+          {
+            "name": "in_season",
+            "type": "boolean",
+            "description": "the league is in season"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the team's last game"
+          }
+        ]
+      }
+    },
+    {
+      "name": "universal-nations",
+      "path": "data/universal-nations.csv",
+      "title": "Universal Index: Nations",
+      "description": "The Universal Index: Nations is a cross-sport leaderboard of national teams that puts every nation's Elo in 17 sports (football, basketball, rugby, cricket, ice hockey, handball, volleyball, baseball and Olympic codes, men's and women's) on one comparable scale. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/sports/universal/nations",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 126305,
+      "hash": "sha256:c3aefc6416e0b0a119e0bf7fff5544640e21101b9400ea2360ba671fef3ac416",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/universal/nations",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase universal_nations_daily, written daily by scripts/universal/build_nations.py",
+          "path": "https://rankings.citizenofnowhere.org/sports/universal/nations"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank across every board"
+          },
+          {
+            "name": "nation",
+            "type": "string",
+            "description": "nation"
+          },
+          {
+            "name": "board",
+            "type": "string",
+            "description": "sport board code"
+          },
+          {
+            "name": "sport",
+            "type": "string",
+            "description": "sport"
+          },
+          {
+            "name": "gender",
+            "type": "string",
+            "description": "men or women"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo within the board's own pool"
+          },
+          {
+            "name": "universal",
+            "type": "number",
+            "description": "Universal score: the Elo placed on the common cross-sport scale"
+          },
+          {
+            "name": "z",
+            "type": "number",
+            "description": "standard score within the board"
+          },
+          {
+            "name": "rank_in_board",
+            "type": "integer",
+            "description": "rank within the board"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the last game"
+          },
+          {
+            "name": "last_game",
+            "type": "date",
+            "description": "date of the last game"
+          },
+          {
+            "name": "suspended",
+            "type": "boolean",
+            "description": "suspended from competition"
+          }
+        ]
+      }
+    },
+    {
+      "name": "womens-universal-index",
+      "path": "data/womens-universal-index.csv",
+      "title": "The Women's Universal Index",
+      "description": "The Women's Universal Index is a cross-sport leaderboard of the strongest women's teams (club football, the NWSL, WNBA, PWHL, LOVB, the Hundred and the WPL) with each team's Elo placed on one common scale. As of 2026-11-20. Page: https://rankings.citizenofnowhere.org/sports/women/universal",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 9919,
+      "hash": "sha256:191a39e08c6f899fbf188b80c18cd9b0e64264d0414198dcaa10bec489711ecb",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/women/universal",
+      "last_updated": "2026-11-20",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: Supabase womens_universal_rankings_daily (scripts/universal/push_womens_universal.py)",
+          "path": "https://rankings.citizenofnowhere.org/sports/women/universal"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank on the cross-sport board"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league code"
+          },
+          {
+            "name": "team_id",
+            "type": "string",
+            "description": "stable id, league:team"
+          },
+          {
+            "name": "season",
+            "type": "integer",
+            "description": "season"
+          },
+          {
+            "name": "elo",
+            "type": "number",
+            "description": "Elo in the league's own pool"
+          },
+          {
+            "name": "universal",
+            "type": "number",
+            "description": "Universal score on the common scale"
+          },
+          {
+            "name": "z",
+            "type": "number",
+            "description": "standard score within the league"
+          },
+          {
+            "name": "rank_in_league",
+            "type": "integer",
+            "description": "rank within the league"
+          },
+          {
+            "name": "in_season",
+            "type": "boolean",
+            "description": "the league is in season"
+          },
+          {
+            "name": "days_idle",
+            "type": "integer",
+            "description": "days since the team's last game"
+          },
+          {
+            "name": "attribution",
+            "type": "string",
+            "description": "upstream credit this row must carry, where one is required"
+          }
+        ]
+      }
+    },
+    {
+      "name": "global-metro-power-rankings",
+      "path": "data/global-metro-power-rankings.csv",
+      "title": "Global Metro Power Rankings",
+      "description": "Global Metro Power Rankings is a composite ranking of every metropolitan area on Earth by what it has built, the sum of sixteen weighted dimensions from population and listed companies to universities, transit, skyscrapers, sport and culture. As of 2026-11-14. Page: https://rankings.citizenofnowhere.org/rankings",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 685282,
+      "hash": "sha256:3c381f73f7e77ccf029adc7d130a6c09bf34bf09fea1dba190ce8e0b1024cf9b",
+      "homepage": "https://rankings.citizenofnowhere.org/rankings",
+      "last_updated": "2026-11-14",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/metros.json (MetroAreas.xlsx through scripts/extract.py)",
+          "path": "https://rankings.citizenofnowhere.org/rankings"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "world rank"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug, profile at /rankings/<slug>"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "metro"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "country"
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "world region"
+          },
+          {
+            "name": "timezone",
+            "type": "string",
+            "description": "IANA time zone"
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent"
+          },
+          {
+            "name": "pop",
+            "type": "integer",
+            "description": "metro population"
+          },
+          {
+            "name": "score",
+            "type": "number",
+            "description": "composite score (sum of sixteen weighted dimensions)"
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "description": "latitude"
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "description": "longitude"
+          },
+          {
+            "name": "primaryCity",
+            "type": "string",
+            "description": "principal city"
+          },
+          {
+            "name": "gdp",
+            "type": "number",
+            "description": "metro GDP, US$ billions"
+          },
+          {
+            "name": "majorTeams",
+            "type": "integer",
+            "description": "major-league teams"
+          },
+          {
+            "name": "companies",
+            "type": "integer",
+            "description": "listed companies headquartered"
+          },
+          {
+            "name": "marketCap",
+            "type": "integer",
+            "description": "combined market capitalisation of those companies, US$"
+          },
+          {
+            "name": "skyscrapers",
+            "type": "integer",
+            "description": "skyscrapers"
+          },
+          {
+            "name": "metroStations",
+            "type": "integer",
+            "description": "metro (subway) stations"
+          },
+          {
+            "name": "universities",
+            "type": "integer",
+            "description": "ranked universities"
+          },
+          {
+            "name": "countrySlug",
+            "type": "string",
+            "description": "country slug"
+          },
+          {
+            "name": "primaryState",
+            "type": "string",
+            "description": "principal state or province"
+          },
+          {
+            "name": "state2",
+            "type": "string",
+            "description": "second state"
+          },
+          {
+            "name": "state3",
+            "type": "string",
+            "description": "third state"
+          },
+          {
+            "name": "stateSlug",
+            "type": "string",
+            "description": "state slug"
+          },
+          {
+            "name": "state2Slug",
+            "type": "string",
+            "description": "second state slug"
+          },
+          {
+            "name": "state3Slug",
+            "type": "string",
+            "description": "third state slug"
+          },
+          {
+            "name": "sovereignSlug",
+            "type": "string",
+            "description": "sovereignSlug"
+          },
+          {
+            "name": "subCountry",
+            "type": "string",
+            "description": "subCountry"
+          },
+          {
+            "name": "additionalStates",
+            "type": "string",
+            "description": "additionalStates"
+          }
+        ]
+      }
+    },
+    {
+      "name": "country-composite",
+      "path": "data/country-composite.csv",
+      "title": "Country composite ranking",
+      "description": "Country composite ranking is every sovereign state, constituent country, territory and disputed region ranked by the combined Global Metro Power score of its metros, with its population and metro count. As of 2026-11-14. Page: https://rankings.citizenofnowhere.org/countries",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 27570,
+      "hash": "sha256:59231aed87fe889a03051b056bc6f8ceaed69e78ce6ddb385588312855cacd3f",
+      "homepage": "https://rankings.citizenofnowhere.org/countries",
+      "last_updated": "2026-11-14",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/countries.json",
+          "path": "https://rankings.citizenofnowhere.org/countries"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "scoreRank",
+            "type": "integer",
+            "description": "rank by composite score"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "country or territory"
+          },
+          {
+            "name": "parent",
+            "type": "string",
+            "description": "sovereign parent, for a constituent or territory"
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent"
+          },
+          {
+            "name": "scoreTotal",
+            "type": "number",
+            "description": "composite score: the sum of its metros' scores"
+          },
+          {
+            "name": "metroAreas",
+            "type": "integer",
+            "description": "metros in the corpus"
+          },
+          {
+            "name": "teams",
+            "type": "integer",
+            "description": "top-flight teams"
+          },
+          {
+            "name": "pop",
+            "type": "integer",
+            "description": "population"
+          },
+          {
+            "name": "metroPop",
+            "type": "integer",
+            "description": "population living in its metros"
+          },
+          {
+            "name": "metroPct",
+            "type": "number",
+            "description": "share living in metros"
+          },
+          {
+            "name": "areaSqKm",
+            "type": "number",
+            "description": "area, km2"
+          },
+          {
+            "name": "popRank",
+            "type": "integer",
+            "description": "rank by population"
+          },
+          {
+            "name": "capital",
+            "type": "string",
+            "description": "capital metro"
+          },
+          {
+            "name": "biggestMetro",
+            "type": "string",
+            "description": "largest metro"
+          },
+          {
+            "name": "mostImportantMetro",
+            "type": "string",
+            "description": "highest-ranked metro"
+          }
+        ]
+      }
+    },
+    {
+      "name": "zone-zero-cup",
+      "path": "data/zone-zero-cup.csv",
+      "title": "Zone Zero Cup",
+      "description": "Zone Zero Cup is the site's ranking of national sporting merit, scoring every nation across fourteen sport pillars from football and cricket to athletics and winter sports, rebuilt weekly. As of 2026-11-15. Page: https://rankings.citizenofnowhere.org/sports/zone-zero-cup",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 22654,
+      "hash": "sha256:99cec99585074573e06c1982c51e1e0ce6629b77655f74423f2c929bcecd5bb9",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/zone-zero-cup",
+      "last_updated": "2026-11-15",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/zone-zero-cup.json",
+          "path": "https://rankings.citizenofnowhere.org/sports/zone-zero-cup"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by merit"
+          },
+          {
+            "name": "nation",
+            "type": "string",
+            "description": "nation"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent"
+          },
+          {
+            "name": "tier",
+            "type": "string",
+            "description": "tier, A strongest"
+          },
+          {
+            "name": "merit",
+            "type": "number",
+            "description": "total merit points"
+          },
+          {
+            "name": "merit_summer",
+            "type": "number",
+            "description": "summer-sport merit"
+          },
+          {
+            "name": "rank_summer",
+            "type": "integer",
+            "description": "summer rank"
+          },
+          {
+            "name": "merit_winter",
+            "type": "number",
+            "description": "winter-sport merit"
+          },
+          {
+            "name": "rank_winter",
+            "type": "integer",
+            "description": "winter rank"
+          },
+          {
+            "name": "merit_per_capita",
+            "type": "number",
+            "description": "merit per million people"
+          },
+          {
+            "name": "rank_per_capita",
+            "type": "integer",
+            "description": "rank per capita"
+          },
+          {
+            "name": "major_titles",
+            "type": "integer",
+            "description": "major titles held"
+          },
+          {
+            "name": "best_rank",
+            "type": "integer",
+            "description": "best world rank in any sport"
+          },
+          {
+            "name": "best_rank_sport",
+            "type": "string",
+            "description": "the sport of that best rank"
+          },
+          {
+            "name": "top_sport",
+            "type": "string",
+            "description": "sport contributing most merit"
+          },
+          {
+            "name": "top_sport_points",
+            "type": "number",
+            "description": "its merit points"
+          },
+          {
+            "name": "suspended",
+            "type": "boolean",
+            "description": "suspended from competition"
+          },
+          {
+            "name": "defunct",
+            "type": "boolean",
+            "description": "no longer exists"
+          }
+        ]
+      }
+    },
+    {
+      "name": "team-that-wins-the-city",
+      "path": "data/team-that-wins-the-city.csv",
+      "title": "The Team That Wins the City",
+      "description": "The Team That Wins the City is the site's editorial pick of the one sports team each ranked metro is identified with, with the reasoning for every pick. As of 2026-11-14. Page: https://rankings.citizenofnowhere.org/top-teams",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 72097,
+      "hash": "sha256:52da348fbe2458a0581d85bd25e92f6be5d5d1a385f2ea483799d299ac92e397",
+      "homepage": "https://rankings.citizenofnowhere.org/top-teams",
+      "last_updated": "2026-11-14",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: lib/topTeams.ts (the Top Sports Teams sheet of MetroAreas.xlsx)",
+          "path": "https://rankings.citizenofnowhere.org/top-teams"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "the metro's rank in the Global Metro Power Rankings"
+          },
+          {
+            "name": "metro",
+            "type": "string",
+            "description": "metro"
+          },
+          {
+            "name": "sport",
+            "type": "string",
+            "description": "sport"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team ('/' separates co-equal picks)"
+          },
+          {
+            "name": "rationale",
+            "type": "string",
+            "description": "why"
+          }
+        ]
+      }
+    },
+    {
+      "name": "marylebone-neighbourhoods",
+      "path": "data/marylebone-neighbourhoods.csv",
+      "title": "Marylebone-class neighbourhoods",
+      "description": "The Last of the Marylebones: global neighbourhoods is the site's list of the neighbourhoods in the world's top-ranked metros that match London's Marylebone (historic, elite residential, dense and walkable with a daily village life), and the metros that have none, with the reasoning for each. As of 2026-04-21. Page: https://rankings.citizenofnowhere.org/neighborhoods",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 47806,
+      "hash": "sha256:99c7328ba9759ce19227f30ff23efd53f0b6500627472e96555b8c7af2ca77dc",
+      "homepage": "https://rankings.citizenofnowhere.org/neighborhoods",
+      "last_updated": "2026-04-21",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: lib/neighborhoods.ts (the essay 'The Last of the Marylebones' and its appendix)",
+          "path": "https://rankings.citizenofnowhere.org/neighborhoods"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "the metro's rank in the Global Metro Power Rankings"
+          },
+          {
+            "name": "metro",
+            "type": "string",
+            "description": "metro"
+          },
+          {
+            "name": "qualifies",
+            "type": "boolean",
+            "description": "the metro has at least one qualifying neighbourhood"
+          },
+          {
+            "name": "neighborhoods",
+            "type": "string",
+            "description": "qualifying neighbourhoods, ';' separated"
+          },
+          {
+            "name": "rationale",
+            "type": "string",
+            "description": "why"
+          }
+        ]
+      }
+    },
+    {
+      "name": "champions-ledger",
+      "path": "data/champions-ledger.csv",
+      "title": "The Champions Ledger: every title",
+      "description": "The Champions Ledger is the site's ledger of every champion of every competition it tracks, from the World Cup and the Olympics to domestic leagues and cups, each title placed on the metro the champion played in. As of 2026-11-15. Page: https://rankings.citizenofnowhere.org/datasets/champions-ledger",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 2931383,
+      "hash": "sha256:73e7fc6172d43e13d120c6aedf965af8acf521fb2e262e5a193fe5b1cb3cb08b",
+      "homepage": "https://rankings.citizenofnowhere.org/datasets/champions-ledger",
+      "last_updated": "2026-11-15",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/champions-history.json (scripts/build-champions-history.py)",
+          "path": "https://rankings.citizenofnowhere.org/datasets/champions-ledger"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year the title is filed under"
+          },
+          {
+            "name": "season",
+            "type": "string",
+            "description": "season label"
+          },
+          {
+            "name": "sport",
+            "type": "string",
+            "description": "sport"
+          },
+          {
+            "name": "competition",
+            "type": "string",
+            "description": "competition"
+          },
+          {
+            "name": "comp_slug",
+            "type": "string",
+            "description": "competition slug"
+          },
+          {
+            "name": "era_name",
+            "type": "string",
+            "description": "the competition's name in that era"
+          },
+          {
+            "name": "champion",
+            "type": "string",
+            "description": "champion as named then"
+          },
+          {
+            "name": "canonical",
+            "type": "string",
+            "description": "champion as known now"
+          },
+          {
+            "name": "metro",
+            "type": "string",
+            "description": "metro the champion played in"
+          },
+          {
+            "name": "metro_slug",
+            "type": "string",
+            "description": "metro slug, profile at /rankings/<slug>"
+          },
+          {
+            "name": "date_awarded",
+            "type": "date",
+            "description": "date the title was awarded, where known"
+          },
+          {
+            "name": "scope",
+            "type": "string",
+            "description": "scope (World, a continent or a country)"
+          },
+          {
+            "name": "scope_type",
+            "type": "string",
+            "description": "International, Continental or Domestic"
+          },
+          {
+            "name": "tier",
+            "type": "integer",
+            "description": "the competition's tier in the ledger, 0 highest"
+          },
+          {
+            "name": "is_current",
+            "type": "boolean",
+            "description": "the reigning champion"
+          }
+        ]
+      }
+    },
+    {
+      "name": "champions-titles-by-metro",
+      "path": "data/champions-titles-by-metro.csv",
+      "title": "The Champions Ledger: titles by metro",
+      "description": "The Champions Ledger is the site's ledger of every champion of every competition it tracks, from the World Cup and the Olympics to domestic leagues and cups, each title placed on the metro the champion played in. As of 2026-11-15. Page: https://rankings.citizenofnowhere.org/datasets/champions-ledger",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 38048,
+      "hash": "sha256:f747d3a8188fe25be279cd41409d5879b1f975d96086406666a016fd92dff48a",
+      "homepage": "https://rankings.citizenofnowhere.org/datasets/champions-ledger",
+      "last_updated": "2026-11-15",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/champions-history.json (scripts/build-champions-history.py)",
+          "path": "https://rankings.citizenofnowhere.org/datasets/champions-ledger"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by titles"
+          },
+          {
+            "name": "metro",
+            "type": "string",
+            "description": "metro"
+          },
+          {
+            "name": "metro_slug",
+            "type": "string",
+            "description": "metro slug"
+          },
+          {
+            "name": "titles",
+            "type": "integer",
+            "description": "titles won"
+          },
+          {
+            "name": "international_titles",
+            "type": "integer",
+            "description": "international titles"
+          },
+          {
+            "name": "continental_titles",
+            "type": "integer",
+            "description": "continental titles"
+          },
+          {
+            "name": "domestic_titles",
+            "type": "integer",
+            "description": "domestic titles"
+          },
+          {
+            "name": "competitions",
+            "type": "integer",
+            "description": "distinct competitions won"
+          },
+          {
+            "name": "sports",
+            "type": "integer",
+            "description": "distinct sports"
+          },
+          {
+            "name": "first_title_year",
+            "type": "integer",
+            "description": "first title"
+          },
+          {
+            "name": "last_title_year",
+            "type": "integer",
+            "description": "latest title"
+          }
+        ]
+      }
+    },
+    {
+      "name": "elections",
+      "path": "data/elections.csv",
+      "title": "Elections of the world",
+      "description": "Elections of the world is every general election the site covers in dozens of democracies and the European Union: date, winner or largest party, turnout, seats and the winner's share. As of 2026-10-23. Page: https://rankings.citizenofnowhere.org/elections",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 416884,
+      "hash": "sha256:fa4902cf4f78e2c560a34f5b804b6b18415ab5fe445a73b46b489326d018255b",
+      "homepage": "https://rankings.citizenofnowhere.org/elections",
+      "last_updated": "2026-10-23",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/elections-all.csv (the site's election hubs)",
+          "path": "https://rankings.citizenofnowhere.org/elections"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "hub_code",
+            "type": "string",
+            "description": "hub code"
+          },
+          {
+            "name": "hub_name",
+            "type": "string",
+            "description": "hub name"
+          },
+          {
+            "name": "series",
+            "type": "string",
+            "description": "series"
+          },
+          {
+            "name": "election_id",
+            "type": "string",
+            "description": "election id"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "description": "year"
+          },
+          {
+            "name": "date",
+            "type": "string",
+            "description": "date"
+          },
+          {
+            "name": "type_or_label",
+            "type": "string",
+            "description": "type or label"
+          },
+          {
+            "name": "winner_or_largest",
+            "type": "string",
+            "description": "winner or largest"
+          },
+          {
+            "name": "turnout",
+            "type": "number",
+            "description": "turnout"
+          },
+          {
+            "name": "seats_total",
+            "type": "integer",
+            "description": "seats total"
+          },
+          {
+            "name": "seat_share_or_vote_share_of_winner",
+            "type": "number",
+            "description": "seat share or vote share of winner"
+          },
+          {
+            "name": "freedom_label",
+            "type": "string",
+            "description": "freedom label"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "url"
+          }
+        ]
+      }
+    },
+    {
+      "name": "language-power",
+      "path": "data/language-power.csv",
+      "title": "Language power",
+      "description": "Language power is the site's ranking of the world's languages by the Global Metro Power of the metros where they are spoken, weighted by each metro's speaker share. As of 2026-11-01. Page: https://rankings.citizenofnowhere.org/languages/power",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 18051,
+      "hash": "sha256:cebb83e56c0ac4f96c650d92d6c154b6994a20d6f2850f52b222a6069bf77ddd",
+      "homepage": "https://rankings.citizenofnowhere.org/languages/power",
+      "last_updated": "2026-11-01",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/languages/power.json: Metro Power scores (this site), Unicode CLDR territory language data, national censuses and surveys",
+          "path": "https://rankings.citizenofnowhere.org/languages/power"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by power"
+          },
+          {
+            "name": "language",
+            "type": "string",
+            "description": "language"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "site slug"
+          },
+          {
+            "name": "power",
+            "type": "number",
+            "description": "language power: speaker-weighted sum of Metro Power scores"
+          },
+          {
+            "name": "share_of_world",
+            "type": "number",
+            "description": "share of all metro power, %"
+          },
+          {
+            "name": "metros",
+            "type": "integer",
+            "description": "metros where it is spoken"
+          },
+          {
+            "name": "per_million_speakers",
+            "type": "number",
+            "description": "power per million speakers"
+          },
+          {
+            "name": "metros_for_80pct",
+            "type": "integer",
+            "description": "metros that hold 80% of its power"
+          },
+          {
+            "name": "top_metro",
+            "type": "string",
+            "description": "metro contributing most"
+          },
+          {
+            "name": "top_metro_contribution",
+            "type": "number",
+            "description": "that metro's contribution"
+          }
+        ]
+      }
+    },
+    {
+      "name": "metro-sporting-supremacy",
+      "path": "data/metro-sporting-supremacy.csv",
+      "title": "Sporting supremacy by city",
+      "description": "Sporting supremacy by city is the Universal Index rolled up by metro: how many weeks since 1919-08-05 each city has had a team in the cross-sport top 10, and its best week. As of 2026-11-17. Page: https://rankings.citizenofnowhere.org/sports/universal",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 18520,
+      "hash": "sha256:ec3e5390b47e12565057d3592cd27fb665745278fcf15b0c393b85f6183c0dac",
+      "homepage": "https://rankings.citizenofnowhere.org/sports/universal",
+      "last_updated": "2026-11-17",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: public/data/universal/metro-supremacy.json (Universal Index weekly snapshots (Supabase universal_rankings_weekly))",
+          "path": "https://rankings.citizenofnowhere.org/sports/universal"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank by team-weeks in the top 10"
+          },
+          {
+            "name": "metro",
+            "type": "string",
+            "description": "metro"
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "metro slug"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "country"
+          },
+          {
+            "name": "weeks_top10",
+            "type": "integer",
+            "description": "weeks with at least one team in the top 10"
+          },
+          {
+            "name": "weeks_top1",
+            "type": "integer",
+            "description": "weeks with the No. 1 team"
+          },
+          {
+            "name": "team_weeks_top10",
+            "type": "integer",
+            "description": "team-weeks in the top 10"
+          },
+          {
+            "name": "team_weeks_top25",
+            "type": "integer",
+            "description": "team-weeks in the top 25"
+          },
+          {
+            "name": "share_top10",
+            "type": "number",
+            "description": "share of all top-10 team-weeks"
+          },
+          {
+            "name": "best_rank",
+            "type": "integer",
+            "description": "best rank reached"
+          },
+          {
+            "name": "best_week",
+            "type": "date",
+            "description": "week of that best"
+          },
+          {
+            "name": "best_team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "best_league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "best_universal",
+            "type": "integer",
+            "description": "its Universal score"
+          }
+        ]
+      }
+    },
+    {
+      "name": "fan-attention-top20",
+      "path": "data/fan-attention-top20.csv",
+      "title": "Fan Attention Index: the top 20",
+      "description": "Fan Attention Index: the top 20 is the site's measure of how much attention fans pay each sports team, scored 0 to 100 across 770 teams over 2025-11 to 2026-10; this file is the public top 20 only, exactly as the page shows it without sign-in. As of 2026-11-03. Page: https://rankings.citizenofnowhere.org/fans",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "profile": "tabular-data-resource",
+      "bytes": 790,
+      "hash": "sha256:1ece0ad968f560d321a4ebcef4caebfb5150903dd73ecaf5a71c7547d76c4682",
+      "homepage": "https://rankings.citizenofnowhere.org/fans",
+      "last_updated": "2026-11-03",
+      "licenses": [
+        {
+          "name": "CC-BY-NC-4.0",
+          "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Citizen of Nowhere: data/fans/preview.json (the public preview of the Fan Attention Index)",
+          "path": "https://rankings.citizenofnowhere.org/fans"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "rank across every team"
+          },
+          {
+            "name": "team",
+            "type": "string",
+            "description": "team"
+          },
+          {
+            "name": "league",
+            "type": "string",
+            "description": "league"
+          },
+          {
+            "name": "group",
+            "type": "string",
+            "description": "sport group"
+          },
+          {
+            "name": "score",
+            "type": "number",
+            "description": "attention score, 100 = the most-followed team"
+          }
+        ]
+      }
+    }
+  ]
+}

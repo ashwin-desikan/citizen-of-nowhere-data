@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Citizen of Nowhere open data: Elo ratings and rankings"
+type: dataset
+authors:
+  - family-names: Desikan
+    given-names: Ashwin
+    website: "https://rankings.citizenofnowhere.org"
+license: CC-BY-NC-4.0
+url: "https://rankings.citizenofnowhere.org/cite"
+repository: "https://github.com/ashwin-desikan/citizen-of-nowhere-data"
+version: "2026-11-20"
+date-released: 2026-11-20
+keywords:
+  - "Elo ratings"
+  - "NFL Elo"
+  - "college football Elo"
+  - "NBA Elo"
+  - "NHL Elo"
+  - "MLB Elo"
+  - "football Elo"
+  - "Global Metro Power Rankings"

@@ -1,0 +1,1641 @@
+season,club,slug,season_end_elo
+1897,Geelong,geelong,1642.4
+1897,Essendon,essendon,1635.7
+1897,Sydney Swans,sydney-swans,1559.1
+1897,Melbourne,melbourne,1544.5
+1897,Collingwood,collingwood,1534.3
+1897,Fitzroy,fitzroy,1449.9
+1897,Carlton,carlton,1352
+1897,St Kilda,st-kilda,1282.2
+1898,Fitzroy,fitzroy,1648.2
+1898,Collingwood,collingwood,1644.3
+1898,Essendon,essendon,1629.6
+1898,Geelong,geelong,1606.5
+1898,Sydney Swans,sydney-swans,1477.9
+1898,Melbourne,melbourne,1457.1
+1898,Carlton,carlton,1335.9
+1898,St Kilda,st-kilda,1200.4
+1899,Fitzroy,fitzroy,1675
+1899,Geelong,geelong,1639.1
+1899,Collingwood,collingwood,1628.8
+1899,Essendon,essendon,1567.7
+1899,Sydney Swans,sydney-swans,1502.2
+1899,Melbourne,melbourne,1450.8
+1899,Carlton,carlton,1358.1
+1899,St Kilda,st-kilda,1178.3
+1900,Fitzroy,fitzroy,1647.6
+1900,Geelong,geelong,1600.2
+1900,Essendon,essendon,1589.3
+1900,Collingwood,collingwood,1585.7
+1900,Melbourne,melbourne,1522.7
+1900,Sydney Swans,sydney-swans,1458.6
+1900,Carlton,carlton,1407.7
+1900,St Kilda,st-kilda,1188.2
+1901,Essendon,essendon,1691.9
+1901,Geelong,geelong,1620.6
+1901,Collingwood,collingwood,1590.1
+1901,Fitzroy,fitzroy,1571.6
+1901,Melbourne,melbourne,1525.9
+1901,Sydney Swans,sydney-swans,1494.6
+1901,Carlton,carlton,1292.8
+1901,St Kilda,st-kilda,1212.6
+1902,Collingwood,collingwood,1714.8
+1902,Essendon,essendon,1648.3
+1902,Fitzroy,fitzroy,1567.9
+1902,Melbourne,melbourne,1511.1
+1902,Sydney Swans,sydney-swans,1487.2
+1902,Geelong,geelong,1466
+1902,Carlton,carlton,1411.4
+1902,St Kilda,st-kilda,1193.3
+1903,Collingwood,collingwood,1734.3
+1903,Fitzroy,fitzroy,1686
+1903,Carlton,carlton,1526.4
+1903,Geelong,geelong,1512.1
+1903,Essendon,essendon,1466.9
+1903,St Kilda,st-kilda,1406.2
+1903,Melbourne,melbourne,1359.2
+1903,Sydney Swans,sydney-swans,1308.9
+1904,Fitzroy,fitzroy,1632.9
+1904,Collingwood,collingwood,1587.4
+1904,Essendon,essendon,1557.2
+1904,Carlton,carlton,1527.5
+1904,Melbourne,melbourne,1505.4
+1904,Sydney Swans,sydney-swans,1482.5
+1904,Geelong,geelong,1384.1
+1904,St Kilda,st-kilda,1322.9
+1905,Fitzroy,fitzroy,1681.8
+1905,Collingwood,collingwood,1651.3
+1905,Carlton,carlton,1595.5
+1905,Essendon,essendon,1521.8
+1905,Sydney Swans,sydney-swans,1462.2
+1905,Geelong,geelong,1391.8
+1905,Melbourne,melbourne,1370.3
+1905,St Kilda,st-kilda,1325.3
+1906,Carlton,carlton,1706.7
+1906,Fitzroy,fitzroy,1667.2
+1906,Collingwood,collingwood,1603.7
+1906,Sydney Swans,sydney-swans,1501.8
+1906,Essendon,essendon,1494
+1906,St Kilda,st-kilda,1412.7
+1906,Geelong,geelong,1375.1
+1906,Melbourne,melbourne,1238.8
+1907,Carlton,carlton,1689.6
+1907,Sydney Swans,sydney-swans,1600.6
+1907,Fitzroy,fitzroy,1505.2
+1907,Collingwood,collingwood,1501.7
+1907,St Kilda,st-kilda,1474.6
+1907,Geelong,geelong,1425.6
+1907,Essendon,essendon,1401.7
+1907,Melbourne,melbourne,1401
+1908,Carlton,carlton,1751.1
+1908,Essendon,essendon,1606.1
+1908,Collingwood,collingwood,1524.5
+1908,Sydney Swans,sydney-swans,1517.6
+1908,Fitzroy,fitzroy,1500.4
+1908,St Kilda,st-kilda,1478.7
+1908,University,university,1467.7
+1908,Melbourne,melbourne,1430.5
+1908,Richmond,richmond,1408.7
+1908,Geelong,geelong,1314.8
+1909,Carlton,carlton,1739.6
+1909,Sydney Swans,sydney-swans,1637.6
+1909,Essendon,essendon,1600.9
+1909,Collingwood,collingwood,1600.4
+1909,Melbourne,melbourne,1519.7
+1909,Fitzroy,fitzroy,1479.8
+1909,University,university,1475
+1909,Richmond,richmond,1341.8
+1909,St Kilda,st-kilda,1310.9
+1909,Geelong,geelong,1294.3
+1910,Collingwood,collingwood,1680.3
+1910,Carlton,carlton,1678.6
+1910,Sydney Swans,sydney-swans,1632.8
+1910,Essendon,essendon,1554.2
+1910,University,university,1509.3
+1910,Geelong,geelong,1497
+1910,Richmond,richmond,1431.2
+1910,Fitzroy,fitzroy,1392.9
+1910,Melbourne,melbourne,1358.1
+1910,St Kilda,st-kilda,1265.6
+1911,Essendon,essendon,1715.3
+1911,Collingwood,collingwood,1648.3
+1911,Carlton,carlton,1647.4
+1911,Sydney Swans,sydney-swans,1629.9
+1911,Fitzroy,fitzroy,1498.9
+1911,Geelong,geelong,1496.4
+1911,Richmond,richmond,1431
+1911,Melbourne,melbourne,1429.7
+1911,University,university,1261.5
+1911,St Kilda,st-kilda,1241.6
+1912,Carlton,carlton,1690.5
+1912,Sydney Swans,sydney-swans,1661.2
+1912,Essendon,essendon,1638.5
+1912,Geelong,geelong,1541.1
+1912,Fitzroy,fitzroy,1524.1
+1912,Collingwood,collingwood,1517.5
+1912,Melbourne,melbourne,1493.3
+1912,St Kilda,st-kilda,1427.3
+1912,Richmond,richmond,1291.7
+1912,University,university,1214.9
+1913,Fitzroy,fitzroy,1690.7
+1913,Sydney Swans,sydney-swans,1639.9
+1913,Geelong,geelong,1582.8
+1913,St Kilda,st-kilda,1581.2
+1913,Collingwood,collingwood,1577.2
+1913,Carlton,carlton,1538.5
+1913,Essendon,essendon,1468.6
+1913,Richmond,richmond,1378.5
+1913,Melbourne,melbourne,1362.5
+1913,University,university,1179.9
+1914,Carlton,carlton,1645.7
+1914,Geelong,geelong,1627.1
+1914,Sydney Swans,sydney-swans,1618.1
+1914,Fitzroy,fitzroy,1585.2
+1914,St Kilda,st-kilda,1553.1
+1914,Collingwood,collingwood,1541.2
+1914,Essendon,essendon,1537.6
+1914,Richmond,richmond,1468.5
+1914,Melbourne,melbourne,1274.2
+1914,University,university,1149.4
+1915,Carlton,carlton,1728.1
+1915,Collingwood,collingwood,1674.4
+1915,Fitzroy,fitzroy,1650.6
+1915,Sydney Swans,sydney-swans,1565
+1915,Melbourne,melbourne,1472.5
+1915,St Kilda,st-kilda,1449.2
+1915,Richmond,richmond,1419.3
+1915,Essendon,essendon,1389.1
+1915,Geelong,geelong,1379.8
+1916,Carlton,carlton,1678.6
+1916,Collingwood,collingwood,1577.8
+1916,Fitzroy,fitzroy,1550.7
+1916,Richmond,richmond,1499.9
+1917,Collingwood,collingwood,1649.9
+1917,Carlton,carlton,1619.4
+1917,Sydney Swans,sydney-swans,1568.9
+1917,Fitzroy,fitzroy,1493.8
+1917,Richmond,richmond,1417.5
+1917,Geelong,geelong,1414.1
+1918,Sydney Swans,sydney-swans,1698.7
+1918,Collingwood,collingwood,1635.6
+1918,Carlton,carlton,1547.4
+1918,St Kilda,st-kilda,1488
+1918,Fitzroy,fitzroy,1466.4
+1918,Richmond,richmond,1412.7
+1918,Geelong,geelong,1392.8
+1918,Essendon,essendon,1359.6
+1919,Collingwood,collingwood,1699.2
+1919,Sydney Swans,sydney-swans,1627.2
+1919,Richmond,richmond,1574.8
+1919,Carlton,carlton,1571.9
+1919,Fitzroy,fitzroy,1520.5
+1919,Essendon,essendon,1446.9
+1919,St Kilda,st-kilda,1428.1
+1919,Geelong,geelong,1371.9
+1919,Melbourne,melbourne,1242.3
+1920,Richmond,richmond,1657.8
+1920,Fitzroy,fitzroy,1648.9
+1920,Collingwood,collingwood,1628.3
+1920,Carlton,carlton,1616.4
+1920,Sydney Swans,sydney-swans,1508.6
+1920,Geelong,geelong,1414.6
+1920,Essendon,essendon,1394.7
+1920,Melbourne,melbourne,1325.9
+1920,St Kilda,st-kilda,1293.7
+1921,Carlton,carlton,1688.1
+1921,Richmond,richmond,1675
+1921,Fitzroy,fitzroy,1556.8
+1921,Collingwood,collingwood,1536.9
+1921,Geelong,geelong,1472.7
+1921,Melbourne,melbourne,1420.1
+1921,Sydney Swans,sydney-swans,1418.1
+1921,Essendon,essendon,1365.3
+1921,St Kilda,st-kilda,1359.9
+1922,Fitzroy,fitzroy,1614
+1922,Collingwood,collingwood,1613.6
+1922,Carlton,carlton,1608.7
+1922,Essendon,essendon,1523.9
+1922,Richmond,richmond,1506.5
+1922,St Kilda,st-kilda,1422.8
+1922,Melbourne,melbourne,1421
+1922,Sydney Swans,sydney-swans,1400.4
+1922,Geelong,geelong,1384.3
+1923,Essendon,essendon,1620.6
+1923,Fitzroy,fitzroy,1619.6
+1923,Collingwood,collingwood,1541.4
+1923,Sydney Swans,sydney-swans,1528.1
+1923,Geelong,geelong,1514.7
+1923,Carlton,carlton,1487.4
+1923,St Kilda,st-kilda,1470
+1923,Richmond,richmond,1381.4
+1923,Melbourne,melbourne,1333.8
+1924,Essendon,essendon,1627.9
+1924,Richmond,richmond,1566.9
+1924,Sydney Swans,sydney-swans,1564.6
+1924,Fitzroy,fitzroy,1527.4
+1924,Geelong,geelong,1518
+1924,Collingwood,collingwood,1509.6
+1924,Carlton,carlton,1447.7
+1924,Melbourne,melbourne,1371.3
+1924,St Kilda,st-kilda,1364.6
+1925,Geelong,geelong,1670.3
+1925,Collingwood,collingwood,1630.1
+1925,Essendon,essendon,1615.9
+1925,Fitzroy,fitzroy,1599.7
+1925,Melbourne,melbourne,1580.4
+1925,St Kilda,st-kilda,1473.6
+1925,Richmond,richmond,1473.3
+1925,Sydney Swans,sydney-swans,1413.3
+1925,North Melbourne,north-melbourne,1404.2
+1925,Carlton,carlton,1403
+1925,Western Bulldogs,western-bulldogs,1395.8
+1925,Hawthorn,hawthorn,1339.3
+1926,Melbourne,melbourne,1698.2
+1926,Geelong,geelong,1682.9
+1926,Collingwood,collingwood,1663.6
+1926,Essendon,essendon,1626.5
+1926,Sydney Swans,sydney-swans,1594.7
+1926,Carlton,carlton,1534.4
+1926,Richmond,richmond,1439.4
+1926,Fitzroy,fitzroy,1439.1
+1926,St Kilda,st-kilda,1393.1
+1926,Western Bulldogs,western-bulldogs,1359.2
+1926,Hawthorn,hawthorn,1289.7
+1926,North Melbourne,north-melbourne,1278.3
+1927,Collingwood,collingwood,1739.1
+1927,Geelong,geelong,1672.7
+1927,Melbourne,melbourne,1628.4
+1927,Richmond,richmond,1623.5
+1927,Carlton,carlton,1608.4
+1927,Sydney Swans,sydney-swans,1519.4
+1927,Essendon,essendon,1502.5
+1927,St Kilda,st-kilda,1407.4
+1927,Fitzroy,fitzroy,1405.7
+1927,Western Bulldogs,western-bulldogs,1398.2
+1927,North Melbourne,north-melbourne,1257.5
+1927,Hawthorn,hawthorn,1236.5
+1928,Collingwood,collingwood,1726.2
+1928,Richmond,richmond,1689.9
+1928,Melbourne,melbourne,1625
+1928,Carlton,carlton,1590.9
+1928,Essendon,essendon,1565.3
+1928,St Kilda,st-kilda,1543.2
+1928,Geelong,geelong,1467.5
+1928,Western Bulldogs,western-bulldogs,1451.2
+1928,Fitzroy,fitzroy,1447.9
+1928,Sydney Swans,sydney-swans,1414.4
+1928,North Melbourne,north-melbourne,1289.1
+1928,Hawthorn,hawthorn,1188.9
+1929,Collingwood,collingwood,1787.3
+1929,Richmond,richmond,1686.8
+1929,Carlton,carlton,1663.7
+1929,St Kilda,st-kilda,1607.3
+1929,Melbourne,melbourne,1564.7
+1929,Geelong,geelong,1500.7
+1929,Essendon,essendon,1478.9
+1929,Sydney Swans,sydney-swans,1440.3
+1929,Western Bulldogs,western-bulldogs,1384.9
+1929,Fitzroy,fitzroy,1337
+1929,Hawthorn,hawthorn,1311.6
+1929,North Melbourne,north-melbourne,1236.5
+1930,Collingwood,collingwood,1751
+1930,Carlton,carlton,1668.2
+1930,Geelong,geelong,1607.7
+1930,Richmond,richmond,1596.6
+1930,Melbourne,melbourne,1532.1
+1930,St Kilda,st-kilda,1528.6
+1930,Essendon,essendon,1509.5
+1930,Sydney Swans,sydney-swans,1470.8
+1930,Fitzroy,fitzroy,1429
+1930,Hawthorn,hawthorn,1349.6
+1930,Western Bulldogs,western-bulldogs,1348
+1930,North Melbourne,north-melbourne,1208.8
+1931,Geelong,geelong,1726.8
+1931,Richmond,richmond,1674.7
+1931,Carlton,carlton,1641.7
+1931,Collingwood,collingwood,1611.6
+1931,Essendon,essendon,1550.1
+1931,Western Bulldogs,western-bulldogs,1543.7
+1931,St Kilda,st-kilda,1468.4
+1931,Sydney Swans,sydney-swans,1463.7
+1931,Melbourne,melbourne,1436.2
+1931,Fitzroy,fitzroy,1375
+1931,Hawthorn,hawthorn,1341.3
+1931,North Melbourne,north-melbourne,1166.6
+1932,Richmond,richmond,1743.2
+1932,Carlton,carlton,1700.8
+1932,Geelong,geelong,1643.8
+1932,Collingwood,collingwood,1628.7
+1932,Sydney Swans,sydney-swans,1549.8
+1932,Essendon,essendon,1503.6
+1932,Western Bulldogs,western-bulldogs,1495.7
+1932,North Melbourne,north-melbourne,1415.6
+1932,St Kilda,st-kilda,1339.9
+1932,Melbourne,melbourne,1338.1
+1932,Fitzroy,fitzroy,1337.9
+1932,Hawthorn,hawthorn,1302.8
+1933,Sydney Swans,sydney-swans,1706.6
+1933,Richmond,richmond,1691.7
+1933,Geelong,geelong,1622.6
+1933,Collingwood,collingwood,1621.2
+1933,Carlton,carlton,1616.7
+1933,Fitzroy,fitzroy,1512.7
+1933,Western Bulldogs,western-bulldogs,1501.8
+1933,North Melbourne,north-melbourne,1432.7
+1933,St Kilda,st-kilda,1395.6
+1933,Melbourne,melbourne,1314
+1933,Essendon,essendon,1312.2
+1933,Hawthorn,hawthorn,1272.1
+1934,Richmond,richmond,1751.4
+1934,Sydney Swans,sydney-swans,1731.3
+1934,Geelong,geelong,1648.6
+1934,Collingwood,collingwood,1630.4
+1934,Carlton,carlton,1603.7
+1934,St Kilda,st-kilda,1458.1
+1934,Melbourne,melbourne,1442.5
+1934,Fitzroy,fitzroy,1436.5
+1934,Western Bulldogs,western-bulldogs,1412.6
+1934,Essendon,essendon,1355.9
+1934,Hawthorn,hawthorn,1267.7
+1934,North Melbourne,north-melbourne,1261.4
+1935,Sydney Swans,sydney-swans,1752.8
+1935,Collingwood,collingwood,1706.8
+1935,Carlton,carlton,1691.5
+1935,Richmond,richmond,1651.1
+1935,St Kilda,st-kilda,1562.7
+1935,Melbourne,melbourne,1492.9
+1935,Fitzroy,fitzroy,1440.1
+1935,Geelong,geelong,1431
+1935,Essendon,essendon,1393.5
+1935,Hawthorn,hawthorn,1349.6
+1935,Western Bulldogs,western-bulldogs,1300.1
+1935,North Melbourne,north-melbourne,1227.9
+1936,Collingwood,collingwood,1753.8
+1936,Sydney Swans,sydney-swans,1698.9
+1936,Carlton,carlton,1628.1
+1936,Melbourne,melbourne,1596.6
+1936,Geelong,geelong,1562.4
+1936,Richmond,richmond,1526.6
+1936,St Kilda,st-kilda,1505.4
+1936,Essendon,essendon,1408.9
+1936,Hawthorn,hawthorn,1379.5
+1936,Western Bulldogs,western-bulldogs,1368.3
+1936,North Melbourne,north-melbourne,1297.1
+1936,Fitzroy,fitzroy,1274.4
+1937,Geelong,geelong,1742.6
+1937,Collingwood,collingwood,1688.3
+1937,Melbourne,melbourne,1635.6
+1937,Carlton,carlton,1611.1
+1937,Richmond,richmond,1560.5
+1937,St Kilda,st-kilda,1501.2
+1937,Sydney Swans,sydney-swans,1466.8
+1937,Hawthorn,hawthorn,1413.7
+1937,Fitzroy,fitzroy,1396.9
+1937,Essendon,essendon,1387.5
+1937,Western Bulldogs,western-bulldogs,1345.3
+1937,North Melbourne,north-melbourne,1250.4
+1938,Collingwood,collingwood,1662.6
+1938,Carlton,carlton,1661.6
+1938,Geelong,geelong,1643.7
+1938,Melbourne,melbourne,1574.6
+1938,Richmond,richmond,1555.3
+1938,Western Bulldogs,western-bulldogs,1553.1
+1938,St Kilda,st-kilda,1474.3
+1938,Essendon,essendon,1463.7
+1938,Fitzroy,fitzroy,1409.9
+1938,North Melbourne,north-melbourne,1365.4
+1938,Hawthorn,hawthorn,1341.6
+1938,Sydney Swans,sydney-swans,1294.4
+1939,Melbourne,melbourne,1706.5
+1939,Collingwood,collingwood,1669.6
+1939,Carlton,carlton,1634.7
+1939,Richmond,richmond,1590.4
+1939,St Kilda,st-kilda,1588
+1939,Essendon,essendon,1518
+1939,Geelong,geelong,1454.3
+1939,Fitzroy,fitzroy,1423.8
+1939,North Melbourne,north-melbourne,1403.3
+1939,Western Bulldogs,western-bulldogs,1390.5
+1939,Hawthorn,hawthorn,1340.5
+1939,Sydney Swans,sydney-swans,1280.5
+1940,Melbourne,melbourne,1698
+1940,Richmond,richmond,1631.7
+1940,Carlton,carlton,1618.2
+1940,Essendon,essendon,1599.5
+1940,Collingwood,collingwood,1502.1
+1940,Geelong,geelong,1494
+1940,Western Bulldogs,western-bulldogs,1493.2
+1940,Fitzroy,fitzroy,1455
+1940,Hawthorn,hawthorn,1415
+1940,St Kilda,st-kilda,1399.9
+1940,Sydney Swans,sydney-swans,1389
+1940,North Melbourne,north-melbourne,1304.4
+1941,Melbourne,melbourne,1722.6
+1941,Essendon,essendon,1655.1
+1941,Carlton,carlton,1647.3
+1941,Collingwood,collingwood,1604.5
+1941,Richmond,richmond,1596.7
+1941,Western Bulldogs,western-bulldogs,1512.5
+1941,Fitzroy,fitzroy,1482.6
+1941,Sydney Swans,sydney-swans,1406.3
+1941,North Melbourne,north-melbourne,1383.4
+1941,Geelong,geelong,1343.6
+1941,St Kilda,st-kilda,1323.5
+1941,Hawthorn,hawthorn,1321.8
+1942,Essendon,essendon,1677
+1942,Carlton,carlton,1675.8
+1942,Richmond,richmond,1639.9
+1942,Sydney Swans,sydney-swans,1611
+1942,Western Bulldogs,western-bulldogs,1581.9
+1942,Fitzroy,fitzroy,1492.8
+1942,Melbourne,melbourne,1485.1
+1942,St Kilda,st-kilda,1414.2
+1942,Collingwood,collingwood,1403.5
+1942,North Melbourne,north-melbourne,1371.2
+1942,Hawthorn,hawthorn,1249.3
+1943,Richmond,richmond,1657.6
+1943,Essendon,essendon,1625.2
+1943,Carlton,carlton,1586.5
+1943,Fitzroy,fitzroy,1562.9
+1943,Sydney Swans,sydney-swans,1536.3
+1943,Western Bulldogs,western-bulldogs,1497.9
+1943,Hawthorn,hawthorn,1486.6
+1943,Melbourne,melbourne,1471.9
+1943,Collingwood,collingwood,1416.6
+1943,North Melbourne,north-melbourne,1367.8
+1943,St Kilda,st-kilda,1356.7
+1944,Fitzroy,fitzroy,1683.6
+1944,Richmond,richmond,1677.5
+1944,Essendon,essendon,1642.6
+1944,Carlton,carlton,1613.7
+1944,Western Bulldogs,western-bulldogs,1539.8
+1944,Sydney Swans,sydney-swans,1508.6
+1944,North Melbourne,north-melbourne,1479.6
+1944,Melbourne,melbourne,1445.2
+1944,Collingwood,collingwood,1429.8
+1944,St Kilda,st-kilda,1410.5
+1944,Hawthorn,hawthorn,1265.9
+1944,Geelong,geelong,1244.4
+1945,Carlton,carlton,1669.7
+1945,Sydney Swans,sydney-swans,1638.7
+1945,Collingwood,collingwood,1617.9
+1945,Fitzroy,fitzroy,1595.1
+1945,North Melbourne,north-melbourne,1561.8
+1945,Western Bulldogs,western-bulldogs,1538.9
+1945,Essendon,essendon,1528.6
+1945,Richmond,richmond,1516.1
+1945,Melbourne,melbourne,1450.8
+1945,Hawthorn,hawthorn,1382.4
+1945,St Kilda,st-kilda,1237.8
+1945,Geelong,geelong,1224.1
+1946,Essendon,essendon,1671.6
+1946,Melbourne,melbourne,1592.9
+1946,Richmond,richmond,1587.4
+1946,Collingwood,collingwood,1580.6
+1946,Fitzroy,fitzroy,1573.9
+1946,Sydney Swans,sydney-swans,1565.7
+1946,Carlton,carlton,1543.3
+1946,Western Bulldogs,western-bulldogs,1518.5
+1946,North Melbourne,north-melbourne,1446.1
+1946,Geelong,geelong,1301.7
+1946,Hawthorn,hawthorn,1297.8
+1946,St Kilda,st-kilda,1295.7
+1947,Essendon,essendon,1669.7
+1947,Carlton,carlton,1665.7
+1947,Fitzroy,fitzroy,1641.8
+1947,Collingwood,collingwood,1566
+1947,Richmond,richmond,1565.9
+1947,Melbourne,melbourne,1563.8
+1947,Geelong,geelong,1528.3
+1947,Sydney Swans,sydney-swans,1499.7
+1947,Western Bulldogs,western-bulldogs,1447.2
+1947,North Melbourne,north-melbourne,1348.1
+1947,Hawthorn,hawthorn,1283.9
+1947,St Kilda,st-kilda,1203.8
+1948,Essendon,essendon,1723.6
+1948,Melbourne,melbourne,1672.3
+1948,Carlton,carlton,1606
+1948,Collingwood,collingwood,1599.1
+1948,Richmond,richmond,1584.9
+1948,Western Bulldogs,western-bulldogs,1523.2
+1948,Fitzroy,fitzroy,1477
+1948,Geelong,geelong,1441.7
+1948,Sydney Swans,sydney-swans,1421.9
+1948,North Melbourne,north-melbourne,1414.8
+1948,Hawthorn,hawthorn,1289.7
+1948,St Kilda,st-kilda,1235.3
+1949,Essendon,essendon,1728.4
+1949,Melbourne,melbourne,1635.7
+1949,Carlton,carlton,1616.7
+1949,North Melbourne,north-melbourne,1588.7
+1949,Collingwood,collingwood,1565.5
+1949,Richmond,richmond,1512.8
+1949,Geelong,geelong,1470.5
+1949,Western Bulldogs,western-bulldogs,1458.4
+1949,Fitzroy,fitzroy,1448.3
+1949,Sydney Swans,sydney-swans,1353.4
+1949,St Kilda,st-kilda,1332.3
+1949,Hawthorn,hawthorn,1282.4
+1950,Essendon,essendon,1788
+1950,North Melbourne,north-melbourne,1630.9
+1950,Melbourne,melbourne,1574.1
+1950,Richmond,richmond,1560.7
+1950,Fitzroy,fitzroy,1560.2
+1950,Geelong,geelong,1554.1
+1950,Collingwood,collingwood,1512.6
+1950,Carlton,carlton,1465
+1950,Western Bulldogs,western-bulldogs,1414.4
+1950,St Kilda,st-kilda,1396.3
+1950,Sydney Swans,sydney-swans,1353.8
+1950,Hawthorn,hawthorn,1185.5
+1951,Geelong,geelong,1697.7
+1951,Essendon,essendon,1690.6
+1951,Collingwood,collingwood,1609
+1951,Fitzroy,fitzroy,1573.1
+1951,Richmond,richmond,1535.8
+1951,Western Bulldogs,western-bulldogs,1535.2
+1951,Carlton,carlton,1492.9
+1951,North Melbourne,north-melbourne,1471.4
+1951,Sydney Swans,sydney-swans,1465.5
+1951,St Kilda,st-kilda,1359.3
+1951,Melbourne,melbourne,1294
+1951,Hawthorn,hawthorn,1272.6
+1952,Geelong,geelong,1754.2
+1952,Collingwood,collingwood,1613.9
+1952,Carlton,carlton,1587.7
+1952,Fitzroy,fitzroy,1578.5
+1952,Essendon,essendon,1544
+1952,North Melbourne,north-melbourne,1504
+1952,Sydney Swans,sydney-swans,1490
+1952,Richmond,richmond,1474.6
+1952,Melbourne,melbourne,1439.4
+1952,Western Bulldogs,western-bulldogs,1389.2
+1952,Hawthorn,hawthorn,1322.4
+1952,St Kilda,st-kilda,1300.2
+1953,Collingwood,collingwood,1717.3
+1953,Geelong,geelong,1668.6
+1953,Essendon,essendon,1640.1
+1953,Western Bulldogs,western-bulldogs,1597.9
+1953,Carlton,carlton,1547.6
+1953,Sydney Swans,sydney-swans,1530.6
+1953,Fitzroy,fitzroy,1471.7
+1953,North Melbourne,north-melbourne,1468.3
+1953,Richmond,richmond,1375.9
+1953,Melbourne,melbourne,1362.1
+1953,St Kilda,st-kilda,1323.2
+1953,Hawthorn,hawthorn,1295.5
+1954,Western Bulldogs,western-bulldogs,1653.6
+1954,Geelong,geelong,1641.8
+1954,Melbourne,melbourne,1570.2
+1954,Essendon,essendon,1568.7
+1954,Collingwood,collingwood,1523.9
+1954,Richmond,richmond,1513
+1954,Carlton,carlton,1509.2
+1954,North Melbourne,north-melbourne,1508
+1954,Hawthorn,hawthorn,1411.7
+1954,Sydney Swans,sydney-swans,1393.6
+1954,Fitzroy,fitzroy,1380.2
+1954,St Kilda,st-kilda,1325.2
+1955,Melbourne,melbourne,1711.4
+1955,Geelong,geelong,1653.7
+1955,Essendon,essendon,1627.7
+1955,Western Bulldogs,western-bulldogs,1626.1
+1955,Collingwood,collingwood,1625.2
+1955,Richmond,richmond,1514
+1955,Carlton,carlton,1506
+1955,Hawthorn,hawthorn,1436.8
+1955,Fitzroy,fitzroy,1378.6
+1955,Sydney Swans,sydney-swans,1364.5
+1955,North Melbourne,north-melbourne,1336.2
+1955,St Kilda,st-kilda,1219.2
+1956,Melbourne,melbourne,1777.9
+1956,Collingwood,collingwood,1654.8
+1956,Western Bulldogs,western-bulldogs,1612.8
+1956,Geelong,geelong,1601.1
+1956,Carlton,carlton,1558.1
+1956,Essendon,essendon,1536.2
+1956,Richmond,richmond,1451.6
+1956,Hawthorn,hawthorn,1424
+1956,Sydney Swans,sydney-swans,1400.8
+1956,Fitzroy,fitzroy,1385.7
+1956,St Kilda,st-kilda,1301.7
+1956,North Melbourne,north-melbourne,1295
+1957,Melbourne,melbourne,1699.7
+1957,Essendon,essendon,1597.4
+1957,Hawthorn,hawthorn,1558.8
+1957,Collingwood,collingwood,1551.4
+1957,Carlton,carlton,1510.3
+1957,Western Bulldogs,western-bulldogs,1510.1
+1957,St Kilda,st-kilda,1460.5
+1957,Richmond,richmond,1457.1
+1957,Sydney Swans,sydney-swans,1436.4
+1957,Geelong,geelong,1426.8
+1957,North Melbourne,north-melbourne,1404.6
+1957,Fitzroy,fitzroy,1386.7
+1958,Melbourne,melbourne,1692.3
+1958,Collingwood,collingwood,1608.9
+1958,Essendon,essendon,1569.9
+1958,Hawthorn,hawthorn,1536
+1958,Fitzroy,fitzroy,1532.4
+1958,North Melbourne,north-melbourne,1532.2
+1958,Carlton,carlton,1466
+1958,Sydney Swans,sydney-swans,1456.6
+1958,Western Bulldogs,western-bulldogs,1440.6
+1958,St Kilda,st-kilda,1416.2
+1958,Richmond,richmond,1403.5
+1958,Geelong,geelong,1345.3
+1959,Melbourne,melbourne,1711.4
+1959,Essendon,essendon,1618.8
+1959,Collingwood,collingwood,1613.5
+1959,Fitzroy,fitzroy,1580.8
+1959,Carlton,carlton,1543.8
+1959,Hawthorn,hawthorn,1526
+1959,Sydney Swans,sydney-swans,1482
+1959,St Kilda,st-kilda,1455.8
+1959,North Melbourne,north-melbourne,1445.9
+1959,Geelong,geelong,1358.2
+1959,Western Bulldogs,western-bulldogs,1334.8
+1959,Richmond,richmond,1329.1
+1960,Melbourne,melbourne,1698.5
+1960,Collingwood,collingwood,1623.8
+1960,Fitzroy,fitzroy,1622.4
+1960,Essendon,essendon,1615.5
+1960,Hawthorn,hawthorn,1583.5
+1960,Carlton,carlton,1510.7
+1960,St Kilda,st-kilda,1488.6
+1960,Geelong,geelong,1417.5
+1960,Sydney Swans,sydney-swans,1414.5
+1960,North Melbourne,north-melbourne,1380.1
+1960,Western Bulldogs,western-bulldogs,1362.9
+1960,Richmond,richmond,1281.8
+1961,Hawthorn,hawthorn,1700.3
+1961,Melbourne,melbourne,1614.9
+1961,Fitzroy,fitzroy,1570.4
+1961,Western Bulldogs,western-bulldogs,1558.2
+1961,Essendon,essendon,1547.7
+1961,St Kilda,st-kilda,1538.8
+1961,Geelong,geelong,1512.2
+1961,Carlton,carlton,1484.1
+1961,Collingwood,collingwood,1424.6
+1961,North Melbourne,north-melbourne,1359.3
+1961,Sydney Swans,sydney-swans,1349.4
+1961,Richmond,richmond,1339.9
+1962,Essendon,essendon,1704.3
+1962,Melbourne,melbourne,1654.4
+1962,Geelong,geelong,1632.6
+1962,Carlton,carlton,1593.1
+1962,Western Bulldogs,western-bulldogs,1557.8
+1962,St Kilda,st-kilda,1538.7
+1962,Collingwood,collingwood,1494.9
+1962,Hawthorn,hawthorn,1436.3
+1962,Fitzroy,fitzroy,1386.6
+1962,Richmond,richmond,1380.1
+1962,North Melbourne,north-melbourne,1318.1
+1962,Sydney Swans,sydney-swans,1303
+1963,Geelong,geelong,1700.1
+1963,Melbourne,melbourne,1672.6
+1963,Essendon,essendon,1652.8
+1963,St Kilda,st-kilda,1638.6
+1963,Hawthorn,hawthorn,1599.7
+1963,Carlton,carlton,1523.7
+1963,Western Bulldogs,western-bulldogs,1445.1
+1963,Collingwood,collingwood,1444.3
+1963,North Melbourne,north-melbourne,1419.9
+1963,Richmond,richmond,1341
+1963,Sydney Swans,sydney-swans,1314.1
+1963,Fitzroy,fitzroy,1248
+1964,Melbourne,melbourne,1706.9
+1964,Geelong,geelong,1653.9
+1964,Essendon,essendon,1644.6
+1964,Hawthorn,hawthorn,1619.2
+1964,Collingwood,collingwood,1605.2
+1964,St Kilda,st-kilda,1603.7
+1964,Western Bulldogs,western-bulldogs,1497.3
+1964,North Melbourne,north-melbourne,1429.4
+1964,Carlton,carlton,1419.4
+1964,Richmond,richmond,1378.5
+1964,Sydney Swans,sydney-swans,1266.1
+1964,Fitzroy,fitzroy,1175.8
+1965,Essendon,essendon,1671.5
+1965,St Kilda,st-kilda,1639.7
+1965,Collingwood,collingwood,1633
+1965,Geelong,geelong,1601.6
+1965,Richmond,richmond,1533.4
+1965,Carlton,carlton,1512.3
+1965,Melbourne,melbourne,1500.6
+1965,Sydney Swans,sydney-swans,1459.4
+1965,North Melbourne,north-melbourne,1421.7
+1965,Hawthorn,hawthorn,1395.8
+1965,Western Bulldogs,western-bulldogs,1375.4
+1965,Fitzroy,fitzroy,1255.4
+1966,Collingwood,collingwood,1696.9
+1966,Geelong,geelong,1686.7
+1966,St Kilda,st-kilda,1665.5
+1966,Essendon,essendon,1659
+1966,Richmond,richmond,1608.5
+1966,Carlton,carlton,1545.5
+1966,North Melbourne,north-melbourne,1462.5
+1966,Sydney Swans,sydney-swans,1445.6
+1966,Melbourne,melbourne,1359.9
+1966,Hawthorn,hawthorn,1343.7
+1966,Western Bulldogs,western-bulldogs,1316.1
+1966,Fitzroy,fitzroy,1210.1
+1967,Richmond,richmond,1732.3
+1967,Geelong,geelong,1662.1
+1967,St Kilda,st-kilda,1633.1
+1967,Collingwood,collingwood,1616.3
+1967,Carlton,carlton,1597.8
+1967,Essendon,essendon,1559.3
+1967,North Melbourne,north-melbourne,1442.9
+1967,Melbourne,melbourne,1425.9
+1967,Sydney Swans,sydney-swans,1356.7
+1967,Hawthorn,hawthorn,1349.8
+1967,Fitzroy,fitzroy,1312.3
+1967,Western Bulldogs,western-bulldogs,1311.5
+1968,Richmond,richmond,1688.5
+1968,Carlton,carlton,1666.4
+1968,Essendon,essendon,1658
+1968,Geelong,geelong,1635.4
+1968,St Kilda,st-kilda,1628.4
+1968,Hawthorn,hawthorn,1503.4
+1968,Collingwood,collingwood,1492.8
+1968,Melbourne,melbourne,1396.9
+1968,Western Bulldogs,western-bulldogs,1366.4
+1968,Sydney Swans,sydney-swans,1347.9
+1968,North Melbourne,north-melbourne,1308.1
+1968,Fitzroy,fitzroy,1307.7
+1969,Richmond,richmond,1691.8
+1969,Carlton,carlton,1647
+1969,Collingwood,collingwood,1621.1
+1969,Geelong,geelong,1584.4
+1969,Hawthorn,hawthorn,1541.7
+1969,Essendon,essendon,1538
+1969,St Kilda,st-kilda,1485.7
+1969,Fitzroy,fitzroy,1406
+1969,Sydney Swans,sydney-swans,1405.2
+1969,Western Bulldogs,western-bulldogs,1393.7
+1969,North Melbourne,north-melbourne,1368.6
+1969,Melbourne,melbourne,1316.8
+1970,Collingwood,collingwood,1711.7
+1970,Carlton,carlton,1676.1
+1970,St Kilda,st-kilda,1603.4
+1970,Sydney Swans,sydney-swans,1536.4
+1970,Hawthorn,hawthorn,1533.8
+1970,Richmond,richmond,1532.1
+1970,Geelong,geelong,1493.8
+1970,Western Bulldogs,western-bulldogs,1483.6
+1970,Fitzroy,fitzroy,1404.9
+1970,Essendon,essendon,1368
+1970,Melbourne,melbourne,1337.4
+1970,North Melbourne,north-melbourne,1318.7
+1971,Hawthorn,hawthorn,1722.2
+1971,St Kilda,st-kilda,1692.3
+1971,Richmond,richmond,1649.5
+1971,Carlton,carlton,1603.3
+1971,Collingwood,collingwood,1575.8
+1971,Fitzroy,fitzroy,1558.2
+1971,Melbourne,melbourne,1471.5
+1971,Western Bulldogs,western-bulldogs,1438.6
+1971,Geelong,geelong,1373.8
+1971,Essendon,essendon,1316.7
+1971,Sydney Swans,sydney-swans,1315.8
+1971,North Melbourne,north-melbourne,1282.3
+1972,Carlton,carlton,1726.3
+1972,Richmond,richmond,1709.1
+1972,Collingwood,collingwood,1633.2
+1972,St Kilda,st-kilda,1616
+1972,Hawthorn,hawthorn,1584.8
+1972,Essendon,essendon,1505.8
+1972,Melbourne,melbourne,1494.5
+1972,Western Bulldogs,western-bulldogs,1480.2
+1972,Fitzroy,fitzroy,1438.5
+1972,Geelong,geelong,1398
+1972,Sydney Swans,sydney-swans,1219.7
+1972,North Melbourne,north-melbourne,1193.7
+1973,Richmond,richmond,1726
+1973,Collingwood,collingwood,1685.2
+1973,Carlton,carlton,1675.6
+1973,St Kilda,st-kilda,1573.2
+1973,Hawthorn,hawthorn,1542.9
+1973,Essendon,essendon,1519.6
+1973,Fitzroy,fitzroy,1460.6
+1973,North Melbourne,north-melbourne,1426.1
+1973,Western Bulldogs,western-bulldogs,1402.6
+1973,Melbourne,melbourne,1363.8
+1973,Geelong,geelong,1314.1
+1973,Sydney Swans,sydney-swans,1310.3
+1974,Richmond,richmond,1744.1
+1974,North Melbourne,north-melbourne,1652
+1974,Hawthorn,hawthorn,1599.5
+1974,Collingwood,collingwood,1579.9
+1974,Carlton,carlton,1524.3
+1974,Western Bulldogs,western-bulldogs,1519.2
+1974,Geelong,geelong,1478.7
+1974,Sydney Swans,sydney-swans,1466.9
+1974,Essendon,essendon,1465.9
+1974,St Kilda,st-kilda,1409.7
+1974,Melbourne,melbourne,1294.8
+1974,Fitzroy,fitzroy,1264.9
+1975,North Melbourne,north-melbourne,1674.2
+1975,Hawthorn,hawthorn,1628.8
+1975,Richmond,richmond,1613.9
+1975,Carlton,carlton,1597.4
+1975,Collingwood,collingwood,1552.8
+1975,St Kilda,st-kilda,1489.9
+1975,Western Bulldogs,western-bulldogs,1471.5
+1975,Melbourne,melbourne,1435.3
+1975,Fitzroy,fitzroy,1434.9
+1975,Essendon,essendon,1429.4
+1975,Geelong,geelong,1393.1
+1975,Sydney Swans,sydney-swans,1278.8
+1976,Carlton,carlton,1666.2
+1976,Hawthorn,hawthorn,1636.7
+1976,North Melbourne,north-melbourne,1619.6
+1976,Richmond,richmond,1527.7
+1976,Melbourne,melbourne,1521.6
+1976,Geelong,geelong,1479.6
+1976,Western Bulldogs,western-bulldogs,1466.8
+1976,Sydney Swans,sydney-swans,1438.8
+1976,Fitzroy,fitzroy,1438.2
+1976,St Kilda,st-kilda,1424.7
+1976,Essendon,essendon,1397.8
+1976,Collingwood,collingwood,1382.3
+1977,Collingwood,collingwood,1664.9
+1977,North Melbourne,north-melbourne,1664.8
+1977,Hawthorn,hawthorn,1650.1
+1977,Richmond,richmond,1578.9
+1977,Sydney Swans,sydney-swans,1567.7
+1977,Carlton,carlton,1554.2
+1977,Western Bulldogs,western-bulldogs,1511.4
+1977,Fitzroy,fitzroy,1395
+1977,Geelong,geelong,1385.7
+1977,Melbourne,melbourne,1365.9
+1977,Essendon,essendon,1354.9
+1977,St Kilda,st-kilda,1306.6
+1978,Hawthorn,hawthorn,1675.7
+1978,Carlton,carlton,1632.2
+1978,North Melbourne,north-melbourne,1615.4
+1978,Collingwood,collingwood,1607.4
+1978,Richmond,richmond,1513.2
+1978,Geelong,geelong,1512.1
+1978,St Kilda,st-kilda,1510.2
+1978,Fitzroy,fitzroy,1435.7
+1978,Sydney Swans,sydney-swans,1433.2
+1978,Western Bulldogs,western-bulldogs,1400.6
+1978,Essendon,essendon,1363.4
+1978,Melbourne,melbourne,1301
+1979,Carlton,carlton,1759.1
+1979,North Melbourne,north-melbourne,1651.1
+1979,Collingwood,collingwood,1647.6
+1979,Fitzroy,fitzroy,1585.3
+1979,Geelong,geelong,1538.9
+1979,Hawthorn,hawthorn,1515.2
+1979,Richmond,richmond,1472.6
+1979,Essendon,essendon,1463
+1979,Sydney Swans,sydney-swans,1379
+1979,Western Bulldogs,western-bulldogs,1368.6
+1979,Melbourne,melbourne,1338.4
+1979,St Kilda,st-kilda,1281.3
+1980,Richmond,richmond,1684.6
+1980,Geelong,geelong,1658.2
+1980,Carlton,carlton,1651.4
+1980,Collingwood,collingwood,1645.2
+1980,North Melbourne,north-melbourne,1614.9
+1980,Sydney Swans,sydney-swans,1522.9
+1980,Essendon,essendon,1499.8
+1980,Hawthorn,hawthorn,1442.8
+1980,Fitzroy,fitzroy,1368.8
+1980,Western Bulldogs,western-bulldogs,1363.9
+1980,Melbourne,melbourne,1283.8
+1980,St Kilda,st-kilda,1263.6
+1981,Carlton,carlton,1730.8
+1981,Geelong,geelong,1659.1
+1981,Essendon,essendon,1645.8
+1981,Collingwood,collingwood,1621.9
+1981,Richmond,richmond,1593.6
+1981,Fitzroy,fitzroy,1586.6
+1981,Hawthorn,hawthorn,1540.9
+1981,North Melbourne,north-melbourne,1486.4
+1981,Sydney Swans,sydney-swans,1419.4
+1981,St Kilda,st-kilda,1319.2
+1981,Western Bulldogs,western-bulldogs,1233.9
+1981,Melbourne,melbourne,1162.4
+1982,Carlton,carlton,1728.4
+1982,Richmond,richmond,1690.2
+1982,Hawthorn,hawthorn,1660.4
+1982,Essendon,essendon,1618.3
+1982,Fitzroy,fitzroy,1560.9
+1982,North Melbourne,north-melbourne,1556
+1982,Sydney Swans,sydney-swans,1524.9
+1982,Geelong,geelong,1400.1
+1982,Melbourne,melbourne,1393.8
+1982,Collingwood,collingwood,1336
+1982,St Kilda,st-kilda,1269.7
+1982,Western Bulldogs,western-bulldogs,1261.4
+1983,Hawthorn,hawthorn,1693.4
+1983,Essendon,essendon,1661.9
+1983,North Melbourne,north-melbourne,1607.2
+1983,Carlton,carlton,1581
+1983,Fitzroy,fitzroy,1569.5
+1983,Collingwood,collingwood,1509.8
+1983,Richmond,richmond,1449.5
+1983,Melbourne,melbourne,1425.5
+1983,Western Bulldogs,western-bulldogs,1424.2
+1983,Geelong,geelong,1370.4
+1983,St Kilda,st-kilda,1364.1
+1983,Sydney Swans,sydney-swans,1343.5
+1984,Essendon,essendon,1705
+1984,Hawthorn,hawthorn,1667.1
+1984,Collingwood,collingwood,1577.6
+1984,Fitzroy,fitzroy,1548.2
+1984,Carlton,carlton,1536.8
+1984,Western Bulldogs,western-bulldogs,1485.5
+1984,Geelong,geelong,1468
+1984,Richmond,richmond,1454.9
+1984,Melbourne,melbourne,1431.9
+1984,Sydney Swans,sydney-swans,1395.5
+1984,North Melbourne,north-melbourne,1386.3
+1984,St Kilda,st-kilda,1343.3
+1985,Essendon,essendon,1767.4
+1985,Hawthorn,hawthorn,1675.8
+1985,Carlton,carlton,1612.2
+1985,Western Bulldogs,western-bulldogs,1597.8
+1985,North Melbourne,north-melbourne,1513.2
+1985,Geelong,geelong,1510.1
+1985,Collingwood,collingwood,1480.5
+1985,Richmond,richmond,1448.9
+1985,Fitzroy,fitzroy,1438.8
+1985,Sydney Swans,sydney-swans,1359.8
+1985,Melbourne,melbourne,1324.4
+1985,St Kilda,st-kilda,1271.1
+1986,Hawthorn,hawthorn,1714.7
+1986,Carlton,carlton,1647.9
+1986,Sydney Swans,sydney-swans,1564.1
+1986,Collingwood,collingwood,1558.7
+1986,Fitzroy,fitzroy,1556.5
+1986,Essendon,essendon,1547.9
+1986,North Melbourne,north-melbourne,1526.4
+1986,Western Bulldogs,western-bulldogs,1505.9
+1986,Geelong,geelong,1420
+1986,Melbourne,melbourne,1387.8
+1986,Richmond,richmond,1322.3
+1986,St Kilda,st-kilda,1247.8
+1987,Carlton,carlton,1773.3
+1987,Hawthorn,hawthorn,1711.2
+1987,Melbourne,melbourne,1585.4
+1987,Sydney Swans,sydney-swans,1581
+1987,Western Bulldogs,western-bulldogs,1519.6
+1987,North Melbourne,north-melbourne,1518.2
+1987,Geelong,geelong,1499.8
+1987,West Coast,west-coast,1479.2
+1987,Essendon,essendon,1470.8
+1987,Fitzroy,fitzroy,1422.2
+1987,St Kilda,st-kilda,1419.7
+1987,Collingwood,collingwood,1379.7
+1987,Brisbane Lions,brisbane-lions,1326.3
+1987,Richmond,richmond,1313.5
+1988,Hawthorn,hawthorn,1779.6
+1988,Carlton,carlton,1572.2
+1988,Melbourne,melbourne,1559.4
+1988,Sydney Swans,sydney-swans,1546.8
+1988,West Coast,west-coast,1540.9
+1988,Essendon,essendon,1533.2
+1988,Geelong,geelong,1530.6
+1988,Collingwood,collingwood,1523.7
+1988,Western Bulldogs,western-bulldogs,1504.3
+1988,Richmond,richmond,1422.4
+1988,North Melbourne,north-melbourne,1407.4
+1988,Fitzroy,fitzroy,1402.1
+1988,Brisbane Lions,brisbane-lions,1358
+1988,St Kilda,st-kilda,1319.1
+1989,Hawthorn,hawthorn,1765.1
+1989,Geelong,geelong,1668
+1989,Essendon,essendon,1616.2
+1989,Collingwood,collingwood,1561.3
+1989,Melbourne,melbourne,1516.4
+1989,Sydney Swans,sydney-swans,1504.1
+1989,Carlton,carlton,1500.3
+1989,Fitzroy,fitzroy,1492.6
+1989,West Coast,west-coast,1492
+1989,Brisbane Lions,brisbane-lions,1432.8
+1989,Western Bulldogs,western-bulldogs,1394.3
+1989,St Kilda,st-kilda,1378.8
+1989,North Melbourne,north-melbourne,1375.7
+1989,Richmond,richmond,1302.4
+1990,Collingwood,collingwood,1722.9
+1990,Essendon,essendon,1660.3
+1990,Hawthorn,hawthorn,1634
+1990,West Coast,west-coast,1611
+1990,Melbourne,melbourne,1596.9
+1990,North Melbourne,north-melbourne,1556.3
+1990,Carlton,carlton,1519.7
+1990,Western Bulldogs,western-bulldogs,1488
+1990,Geelong,geelong,1436.8
+1990,St Kilda,st-kilda,1424.5
+1990,Fitzroy,fitzroy,1406.3
+1990,Richmond,richmond,1354.9
+1990,Brisbane Lions,brisbane-lions,1303
+1990,Sydney Swans,sydney-swans,1285.2
+1991,Hawthorn,hawthorn,1741.2
+1991,West Coast,west-coast,1734
+1991,Geelong,geelong,1650.7
+1991,Collingwood,collingwood,1601
+1991,St Kilda,st-kilda,1575.4
+1991,Melbourne,melbourne,1565.6
+1991,Essendon,essendon,1528.1
+1991,North Melbourne,north-melbourne,1479
+1991,Adelaide,adelaide,1474
+1991,Western Bulldogs,western-bulldogs,1464.9
+1991,Carlton,carlton,1391.8
+1991,Richmond,richmond,1368.7
+1991,Sydney Swans,sydney-swans,1340.9
+1991,Fitzroy,fitzroy,1320.4
+1991,Brisbane Lions,brisbane-lions,1264.4
+1992,West Coast,west-coast,1754.1
+1992,Hawthorn,hawthorn,1647.4
+1992,Geelong,geelong,1634.7
+1992,Collingwood,collingwood,1613.4
+1992,Western Bulldogs,western-bulldogs,1603
+1992,St Kilda,st-kilda,1596.7
+1992,Carlton,carlton,1575.4
+1992,Essendon,essendon,1533.8
+1992,Adelaide,adelaide,1521.2
+1992,Melbourne,melbourne,1455.1
+1992,North Melbourne,north-melbourne,1402.2
+1992,Fitzroy,fitzroy,1366.1
+1992,Richmond,richmond,1301.7
+1992,Brisbane Lions,brisbane-lions,1289.2
+1992,Sydney Swans,sydney-swans,1205.9
+1993,Essendon,essendon,1663.4
+1993,Geelong,geelong,1645.2
+1993,Carlton,carlton,1627
+1993,West Coast,west-coast,1620.2
+1993,Hawthorn,hawthorn,1574.2
+1993,Adelaide,adelaide,1568.8
+1993,Western Bulldogs,western-bulldogs,1549.4
+1993,St Kilda,st-kilda,1526.7
+1993,North Melbourne,north-melbourne,1518.3
+1993,Collingwood,collingwood,1512.5
+1993,Melbourne,melbourne,1501.8
+1993,Fitzroy,fitzroy,1452.8
+1993,Richmond,richmond,1280.3
+1993,Brisbane Lions,brisbane-lions,1268.7
+1993,Sydney Swans,sydney-swans,1190.5
+1994,West Coast,west-coast,1711.2
+1994,Geelong,geelong,1606.2
+1994,North Melbourne,north-melbourne,1597.6
+1994,Carlton,carlton,1591.4
+1994,Melbourne,melbourne,1590.6
+1994,Western Bulldogs,western-bulldogs,1557.2
+1994,Hawthorn,hawthorn,1555.7
+1994,Collingwood,collingwood,1518.5
+1994,Essendon,essendon,1514.8
+1994,Richmond,richmond,1470.9
+1994,Adelaide,adelaide,1445.9
+1994,Brisbane Lions,brisbane-lions,1410.4
+1994,St Kilda,st-kilda,1389.5
+1994,Fitzroy,fitzroy,1292.2
+1994,Sydney Swans,sydney-swans,1247.8
+1995,Carlton,carlton,1775.9
+1995,Geelong,geelong,1668.2
+1995,North Melbourne,north-melbourne,1627.9
+1995,West Coast,west-coast,1603.4
+1995,Essendon,essendon,1579
+1995,Richmond,richmond,1544.5
+1995,Brisbane Lions,brisbane-lions,1497.1
+1995,Western Bulldogs,western-bulldogs,1493.2
+1995,Collingwood,collingwood,1461.9
+1995,Melbourne,melbourne,1461
+1995,St Kilda,st-kilda,1454
+1995,Fremantle,fremantle,1434
+1995,Sydney Swans,sydney-swans,1415.3
+1995,Adelaide,adelaide,1402.3
+1995,Hawthorn,hawthorn,1392.5
+1995,Fitzroy,fitzroy,1189.7
+1996,North Melbourne,north-melbourne,1676.6
+1996,Sydney Swans,sydney-swans,1635.7
+1996,West Coast,west-coast,1631.1
+1996,Essendon,essendon,1629.3
+1996,Brisbane Lions,brisbane-lions,1613
+1996,Carlton,carlton,1588.7
+1996,Geelong,geelong,1565.8
+1996,Richmond,richmond,1536.4
+1996,Hawthorn,hawthorn,1490.7
+1996,Collingwood,collingwood,1482.1
+1996,St Kilda,st-kilda,1465.6
+1996,Melbourne,melbourne,1415.7
+1996,Fremantle,fremantle,1392.4
+1996,Western Bulldogs,western-bulldogs,1379.5
+1996,Adelaide,adelaide,1350.6
+1996,Fitzroy,fitzroy,1146.9
+1997,St Kilda,st-kilda,1657.5
+1997,Adelaide,adelaide,1622.8
+1997,North Melbourne,north-melbourne,1617.5
+1997,Geelong,geelong,1597.8
+1997,Western Bulldogs,western-bulldogs,1573.5
+1997,West Coast,west-coast,1568.1
+1997,Sydney Swans,sydney-swans,1550.1
+1997,Brisbane Lions,brisbane-lions,1533.8
+1997,Carlton,carlton,1501.6
+1997,Collingwood,collingwood,1484.1
+1997,Port Adelaide,port-adelaide,1468.4
+1997,Richmond,richmond,1468.3
+1997,Essendon,essendon,1460.2
+1997,Fremantle,fremantle,1413.3
+1997,Hawthorn,hawthorn,1398.1
+1997,Melbourne,melbourne,1314.3
+1998,Adelaide,adelaide,1719.8
+1998,North Melbourne,north-melbourne,1677.4
+1998,Western Bulldogs,western-bulldogs,1594.7
+1998,Melbourne,melbourne,1589.3
+1998,Sydney Swans,sydney-swans,1551.4
+1998,West Coast,west-coast,1540.5
+1998,Carlton,carlton,1534.3
+1998,Essendon,essendon,1524.6
+1998,St Kilda,st-kilda,1511.7
+1998,Richmond,richmond,1492.2
+1998,Hawthorn,hawthorn,1470
+1998,Port Adelaide,port-adelaide,1446.1
+1998,Geelong,geelong,1441.5
+1998,Collingwood,collingwood,1382.1
+1998,Brisbane Lions,brisbane-lions,1340.3
+1998,Fremantle,fremantle,1333.2
+1999,North Melbourne,north-melbourne,1736
+1999,Essendon,essendon,1699.9
+1999,Brisbane Lions,brisbane-lions,1679.9
+1999,Western Bulldogs,western-bulldogs,1643
+1999,Carlton,carlton,1530.2
+1999,Sydney Swans,sydney-swans,1517.3
+1999,Port Adelaide,port-adelaide,1482.2
+1999,West Coast,west-coast,1481
+1999,Geelong,geelong,1467.2
+1999,St Kilda,st-kilda,1465.6
+1999,Hawthorn,hawthorn,1465.4
+1999,Richmond,richmond,1447.8
+1999,Adelaide,adelaide,1436.2
+1999,Collingwood,collingwood,1360.5
+1999,Fremantle,fremantle,1351.1
+1999,Melbourne,melbourne,1333.8
+2000,Essendon,essendon,1836
+2000,Carlton,carlton,1662
+2000,Melbourne,melbourne,1619.1
+2000,Brisbane Lions,brisbane-lions,1591.3
+2000,North Melbourne,north-melbourne,1560.4
+2000,Hawthorn,hawthorn,1559.6
+2000,Western Bulldogs,western-bulldogs,1548.2
+2000,Richmond,richmond,1499.2
+2000,Sydney Swans,sydney-swans,1493.7
+2000,Port Adelaide,port-adelaide,1461.2
+2000,Geelong,geelong,1460.4
+2000,Adelaide,adelaide,1429.1
+2000,Fremantle,fremantle,1358.6
+2000,West Coast,west-coast,1356.2
+2000,Collingwood,collingwood,1355.6
+2000,St Kilda,st-kilda,1272.5
+2001,Brisbane Lions,brisbane-lions,1767.9
+2001,Essendon,essendon,1707.1
+2001,Carlton,carlton,1617.6
+2001,Port Adelaide,port-adelaide,1605.4
+2001,Richmond,richmond,1590.8
+2001,Hawthorn,hawthorn,1537.7
+2001,Adelaide,adelaide,1512.8
+2001,Sydney Swans,sydney-swans,1506.5
+2001,Collingwood,collingwood,1490.3
+2001,Melbourne,melbourne,1484.9
+2001,Western Bulldogs,western-bulldogs,1484.5
+2001,North Melbourne,north-melbourne,1465.8
+2001,Geelong,geelong,1446.3
+2001,West Coast,west-coast,1305.8
+2001,Fremantle,fremantle,1274
+2001,St Kilda,st-kilda,1243.6
+2002,Brisbane Lions,brisbane-lions,1768.4
+2002,Port Adelaide,port-adelaide,1667.9
+2002,Adelaide,adelaide,1596.2
+2002,Essendon,essendon,1550.4
+2002,Collingwood,collingwood,1541.2
+2002,Western Bulldogs,western-bulldogs,1527.7
+2002,Sydney Swans,sydney-swans,1520.2
+2002,Melbourne,melbourne,1500.9
+2002,North Melbourne,north-melbourne,1498.6
+2002,Hawthorn,hawthorn,1497.7
+2002,Geelong,geelong,1460.5
+2002,West Coast,west-coast,1454.3
+2002,Richmond,richmond,1417.9
+2002,Fremantle,fremantle,1402.8
+2002,St Kilda,st-kilda,1328.1
+2002,Carlton,carlton,1293.8
+2003,Brisbane Lions,brisbane-lions,1719.3
+2003,Port Adelaide,port-adelaide,1685
+2003,Collingwood,collingwood,1638
+2003,Essendon,essendon,1600.2
+2003,Adelaide,adelaide,1590.8
+2003,Sydney Swans,sydney-swans,1582.8
+2003,Hawthorn,hawthorn,1540.1
+2003,West Coast,west-coast,1517.7
+2003,North Melbourne,north-melbourne,1507.9
+2003,Fremantle,fremantle,1505.8
+2003,St Kilda,st-kilda,1469.3
+2003,Geelong,geelong,1415.1
+2003,Richmond,richmond,1367.6
+2003,Melbourne,melbourne,1322.3
+2003,Western Bulldogs,western-bulldogs,1305.5
+2003,Carlton,carlton,1249.9
+2004,Port Adelaide,port-adelaide,1727.4
+2004,Brisbane Lions,brisbane-lions,1687.1
+2004,St Kilda,st-kilda,1601.8
+2004,Geelong,geelong,1591.2
+2004,Sydney Swans,sydney-swans,1588.4
+2004,West Coast,west-coast,1568.9
+2004,Essendon,essendon,1522.5
+2004,Melbourne,melbourne,1493.2
+2004,Adelaide,adelaide,1492.4
+2004,Fremantle,fremantle,1474.3
+2004,Collingwood,collingwood,1473.8
+2004,North Melbourne,north-melbourne,1473.2
+2004,Carlton,carlton,1426.4
+2004,Hawthorn,hawthorn,1333
+2004,Western Bulldogs,western-bulldogs,1312.9
+2004,Richmond,richmond,1244.9
+2005,Sydney Swans,sydney-swans,1691.8
+2005,Adelaide,adelaide,1661.2
+2005,St Kilda,st-kilda,1632.9
+2005,West Coast,west-coast,1619.8
+2005,Port Adelaide,port-adelaide,1598.5
+2005,Geelong,geelong,1545.3
+2005,Western Bulldogs,western-bulldogs,1517.4
+2005,Brisbane Lions,brisbane-lions,1513.3
+2005,North Melbourne,north-melbourne,1500.3
+2005,Fremantle,fremantle,1491.4
+2005,Melbourne,melbourne,1466.3
+2005,Essendon,essendon,1427.9
+2005,Richmond,richmond,1363.2
+2005,Hawthorn,hawthorn,1342.5
+2005,Collingwood,collingwood,1341.7
+2005,Carlton,carlton,1293.7
+2006,West Coast,west-coast,1693.9
+2006,Sydney Swans,sydney-swans,1650.1
+2006,Adelaide,adelaide,1647.1
+2006,Fremantle,fremantle,1617.1
+2006,St Kilda,st-kilda,1594.9
+2006,Melbourne,melbourne,1576.3
+2006,Western Bulldogs,western-bulldogs,1553.7
+2006,Collingwood,collingwood,1499.7
+2006,Geelong,geelong,1495.8
+2006,Port Adelaide,port-adelaide,1463.2
+2006,Richmond,richmond,1452.9
+2006,Hawthorn,hawthorn,1435.9
+2006,North Melbourne,north-melbourne,1409.2
+2006,Brisbane Lions,brisbane-lions,1357.1
+2006,Essendon,essendon,1312.9
+2006,Carlton,carlton,1244.8
+2007,Geelong,geelong,1757.5
+2007,Port Adelaide,port-adelaide,1592.9
+2007,Sydney Swans,sydney-swans,1579.2
+2007,Adelaide,adelaide,1572.3
+2007,West Coast,west-coast,1571.2
+2007,Collingwood,collingwood,1551.6
+2007,North Melbourne,north-melbourne,1547.6
+2007,Hawthorn,hawthorn,1538.3
+2007,St Kilda,st-kilda,1531.9
+2007,Fremantle,fremantle,1527.6
+2007,Brisbane Lions,brisbane-lions,1472.9
+2007,Western Bulldogs,western-bulldogs,1409.9
+2007,Melbourne,melbourne,1396.5
+2007,Essendon,essendon,1369.1
+2007,Richmond,richmond,1347.7
+2007,Carlton,carlton,1236.9
+2008,Geelong,geelong,1785.5
+2008,Hawthorn,hawthorn,1706.8
+2008,St Kilda,st-kilda,1572.3
+2008,Western Bulldogs,western-bulldogs,1569.3
+2008,Collingwood,collingwood,1548.6
+2008,Adelaide,adelaide,1538.9
+2008,Sydney Swans,sydney-swans,1524.2
+2008,North Melbourne,north-melbourne,1513.9
+2008,Richmond,richmond,1493.9
+2008,Port Adelaide,port-adelaide,1462.7
+2008,Brisbane Lions,brisbane-lions,1456.9
+2008,Carlton,carlton,1439.6
+2008,Fremantle,fremantle,1430.7
+2008,Essendon,essendon,1384.1
+2008,West Coast,west-coast,1320.8
+2008,Melbourne,melbourne,1253.6
+2009,Geelong,geelong,1745.5
+2009,St Kilda,st-kilda,1731.2
+2009,Western Bulldogs,western-bulldogs,1666.4
+2009,Adelaide,adelaide,1623.2
+2009,Collingwood,collingwood,1605.1
+2009,Brisbane Lions,brisbane-lions,1560.9
+2009,Carlton,carlton,1538.2
+2009,Hawthorn,hawthorn,1477.1
+2009,Essendon,essendon,1447.3
+2009,Sydney Swans,sydney-swans,1440.9
+2009,West Coast,west-coast,1403.3
+2009,North Melbourne,north-melbourne,1402.8
+2009,Port Adelaide,port-adelaide,1396.8
+2009,Fremantle,fremantle,1366.9
+2009,Richmond,richmond,1313.9
+2009,Melbourne,melbourne,1281.7
+2010,Collingwood,collingwood,1775.9
+2010,Geelong,geelong,1709.9
+2010,St Kilda,st-kilda,1644.5
+2010,Western Bulldogs,western-bulldogs,1599
+2010,Sydney Swans,sydney-swans,1571.2
+2010,Hawthorn,hawthorn,1535.2
+2010,Carlton,carlton,1504.3
+2010,Adelaide,adelaide,1492.9
+2010,Fremantle,fremantle,1486.8
+2010,North Melbourne,north-melbourne,1486.5
+2010,Port Adelaide,port-adelaide,1420.9
+2010,Melbourne,melbourne,1391.3
+2010,Brisbane Lions,brisbane-lions,1387.5
+2010,Essendon,essendon,1355.5
+2010,Richmond,richmond,1340.7
+2010,West Coast,west-coast,1298.9
+2011,Geelong,geelong,1813.3
+2011,Collingwood,collingwood,1765.1
+2011,Hawthorn,hawthorn,1703
+2011,West Coast,west-coast,1616.2
+2011,Carlton,carlton,1608.2
+2011,St Kilda,st-kilda,1593.8
+2011,Sydney Swans,sydney-swans,1574.9
+2011,North Melbourne,north-melbourne,1516.9
+2011,Western Bulldogs,western-bulldogs,1475.1
+2011,Essendon,essendon,1460.3
+2011,Fremantle,fremantle,1407.5
+2011,Richmond,richmond,1406.4
+2011,Melbourne,melbourne,1385.8
+2011,Adelaide,adelaide,1367.3
+2011,Brisbane Lions,brisbane-lions,1312.7
+2011,Port Adelaide,port-adelaide,1261.5
+2011,Gold Coast,gold-coast,1232.4
+2012,Hawthorn,hawthorn,1752.5
+2012,Sydney Swans,sydney-swans,1723
+2012,Geelong,geelong,1668
+2012,Collingwood,collingwood,1646.5
+2012,West Coast,west-coast,1622.5
+2012,Fremantle,fremantle,1611.4
+2012,Adelaide,adelaide,1597.2
+2012,North Melbourne,north-melbourne,1589.1
+2012,St Kilda,st-kilda,1574.7
+2012,Richmond,richmond,1522.7
+2012,Carlton,carlton,1505
+2012,Essendon,essendon,1447.3
+2012,Brisbane Lions,brisbane-lions,1429
+2012,Western Bulldogs,western-bulldogs,1309.7
+2012,Melbourne,melbourne,1282.2
+2012,Port Adelaide,port-adelaide,1272.3
+2012,Greater Western Sydney,greater-western-sydney,1228
+2012,Gold Coast,gold-coast,1219.4
+2013,Hawthorn,hawthorn,1812
+2013,Geelong,geelong,1705.1
+2013,Fremantle,fremantle,1670.4
+2013,Sydney Swans,sydney-swans,1642.8
+2013,Richmond,richmond,1604.6
+2013,North Melbourne,north-melbourne,1588.9
+2013,Collingwood,collingwood,1588.2
+2013,Carlton,carlton,1516.6
+2013,Adelaide,adelaide,1515.3
+2013,Port Adelaide,port-adelaide,1505.8
+2013,Essendon,essendon,1496.2
+2013,Brisbane Lions,brisbane-lions,1448.1
+2013,West Coast,west-coast,1445.7
+2013,St Kilda,st-kilda,1417.3
+2013,Western Bulldogs,western-bulldogs,1399.1
+2013,Gold Coast,gold-coast,1320.3
+2013,Melbourne,melbourne,1166.2
+2013,Greater Western Sydney,greater-western-sydney,1157.7
+2014,Hawthorn,hawthorn,1784.5
+2014,Sydney Swans,sydney-swans,1729.3
+2014,Geelong,geelong,1637.7
+2014,Port Adelaide,port-adelaide,1626.2
+2014,Fremantle,fremantle,1625
+2014,North Melbourne,north-melbourne,1597.3
+2014,Richmond,richmond,1564.8
+2014,Essendon,essendon,1536.1
+2014,Adelaide,adelaide,1531.6
+2014,West Coast,west-coast,1528.8
+2014,Collingwood,collingwood,1461.1
+2014,Carlton,carlton,1446
+2014,Brisbane Lions,brisbane-lions,1384.3
+2014,Gold Coast,gold-coast,1380.5
+2014,Western Bulldogs,western-bulldogs,1374.2
+2014,Greater Western Sydney,greater-western-sydney,1308.9
+2014,St Kilda,st-kilda,1286.1
+2014,Melbourne,melbourne,1198
+2015,Hawthorn,hawthorn,1769.3
+2015,West Coast,west-coast,1691.9
+2015,Richmond,richmond,1628.2
+2015,North Melbourne,north-melbourne,1625
+2015,Sydney Swans,sydney-swans,1622.4
+2015,Fremantle,fremantle,1617
+2015,Port Adelaide,port-adelaide,1598.7
+2015,Adelaide,adelaide,1583.1
+2015,Geelong,geelong,1553.1
+2015,Western Bulldogs,western-bulldogs,1534.4
+2015,Collingwood,collingwood,1464.6
+2015,Greater Western Sydney,greater-western-sydney,1411.7
+2015,St Kilda,st-kilda,1352.6
+2015,Melbourne,melbourne,1346.1
+2015,Essendon,essendon,1328.4
+2015,Gold Coast,gold-coast,1294.5
+2015,Carlton,carlton,1290
+2015,Brisbane Lions,brisbane-lions,1289.2
+2016,Sydney Swans,sydney-swans,1714.9
+2016,Western Bulldogs,western-bulldogs,1683.6
+2016,Greater Western Sydney,greater-western-sydney,1668.9
+2016,Adelaide,adelaide,1657.1
+2016,Geelong,geelong,1654.7
+2016,Hawthorn,hawthorn,1645.1
+2016,West Coast,west-coast,1635.9
+2016,North Melbourne,north-melbourne,1517.4
+2016,Port Adelaide,port-adelaide,1503.1
+2016,St Kilda,st-kilda,1499.5
+2016,Collingwood,collingwood,1466.6
+2016,Melbourne,melbourne,1459.7
+2016,Richmond,richmond,1446.7
+2016,Fremantle,fremantle,1361.9
+2016,Carlton,carlton,1320
+2016,Gold Coast,gold-coast,1300.5
+2016,Essendon,essendon,1235.7
+2016,Brisbane Lions,brisbane-lions,1228.8
+2017,Sydney Swans,sydney-swans,1684.6
+2017,Richmond,richmond,1682.9
+2017,Adelaide,adelaide,1658.4
+2017,Greater Western Sydney,greater-western-sydney,1632.4
+2017,Geelong,geelong,1609.7
+2017,Port Adelaide,port-adelaide,1576.9
+2017,West Coast,west-coast,1554.4
+2017,Melbourne,melbourne,1521.4
+2017,Hawthorn,hawthorn,1521.3
+2017,Western Bulldogs,western-bulldogs,1511.2
+2017,St Kilda,st-kilda,1495
+2017,Essendon,essendon,1490.6
+2017,Collingwood,collingwood,1470.6
+2017,North Melbourne,north-melbourne,1391.8
+2017,Fremantle,fremantle,1329.9
+2017,Carlton,carlton,1320.9
+2017,Gold Coast,gold-coast,1280.1
+2017,Brisbane Lions,brisbane-lions,1267.9
+2018,Richmond,richmond,1704.4
+2018,West Coast,west-coast,1665.5
+2018,Melbourne,melbourne,1644.6
+2018,Collingwood,collingwood,1635.5
+2018,Greater Western Sydney,greater-western-sydney,1598
+2018,Essendon,essendon,1583.2
+2018,Geelong,geelong,1582.8
+2018,Sydney Swans,sydney-swans,1572.1
+2018,Hawthorn,hawthorn,1558.4
+2018,Adelaide,adelaide,1548.5
+2018,Port Adelaide,port-adelaide,1514.7
+2018,North Melbourne,north-melbourne,1501.6
+2018,Western Bulldogs,western-bulldogs,1422
+2018,Brisbane Lions,brisbane-lions,1353.2
+2018,Fremantle,fremantle,1343
+2018,St Kilda,st-kilda,1308.8
+2018,Gold Coast,gold-coast,1255.8
+2018,Carlton,carlton,1207.9
+2019,Richmond,richmond,1723.4
+2019,Collingwood,collingwood,1616.2
+2019,Geelong,geelong,1615.5
+2019,West Coast,west-coast,1613.2
+2019,Hawthorn,hawthorn,1586.5
+2019,Brisbane Lions,brisbane-lions,1563.9
+2019,Greater Western Sydney,greater-western-sydney,1559.4
+2019,Western Bulldogs,western-bulldogs,1545.6
+2019,North Melbourne,north-melbourne,1538.8
+2019,Port Adelaide,port-adelaide,1530.2
+2019,Essendon,essendon,1507.6
+2019,Sydney Swans,sydney-swans,1473.2
+2019,Adelaide,adelaide,1455.3
+2019,Fremantle,fremantle,1390.4
+2019,Carlton,carlton,1360.2
+2019,St Kilda,st-kilda,1359.6
+2019,Melbourne,melbourne,1355.4
+2019,Gold Coast,gold-coast,1205.5
+2020,Richmond,richmond,1739.9
+2020,Geelong,geelong,1674.9
+2020,Port Adelaide,port-adelaide,1632.8
+2020,West Coast,west-coast,1616.4
+2020,Brisbane Lions,brisbane-lions,1604
+2020,Western Bulldogs,western-bulldogs,1557.4
+2020,Collingwood,collingwood,1554.5
+2020,St Kilda,st-kilda,1541
+2020,Melbourne,melbourne,1485.4
+2020,Greater Western Sydney,greater-western-sydney,1477.7
+2020,Essendon,essendon,1443.4
+2020,Fremantle,fremantle,1432.4
+2020,Hawthorn,hawthorn,1417.2
+2020,Sydney Swans,sydney-swans,1411.1
+2020,Carlton,carlton,1404.4
+2020,Adelaide,adelaide,1346.7
+2020,North Melbourne,north-melbourne,1346.5
+2020,Gold Coast,gold-coast,1314.2
+2021,Melbourne,melbourne,1724.7
+2021,Geelong,geelong,1645
+2021,Western Bulldogs,western-bulldogs,1634.5
+2021,Port Adelaide,port-adelaide,1633.5
+2021,Sydney Swans,sydney-swans,1589.9
+2021,Brisbane Lions,brisbane-lions,1580.4
+2021,Greater Western Sydney,greater-western-sydney,1568.9
+2021,St Kilda,st-kilda,1522.4
+2021,Essendon,essendon,1505.7
+2021,Richmond,richmond,1494.1
+2021,West Coast,west-coast,1444.7
+2021,Fremantle,fremantle,1422.4
+2021,Hawthorn,hawthorn,1413.2
+2021,Carlton,carlton,1391.1
+2021,Collingwood,collingwood,1388.6
+2021,Gold Coast,gold-coast,1373.7
+2021,Adelaide,adelaide,1353.5
+2021,North Melbourne,north-melbourne,1313.5
+2022,Geelong,geelong,1769.4
+2022,Sydney Swans,sydney-swans,1679.3
+2022,Melbourne,melbourne,1627.9
+2022,Brisbane Lions,brisbane-lions,1622.5
+2022,Richmond,richmond,1604.8
+2022,Collingwood,collingwood,1584.2
+2022,Fremantle,fremantle,1577.2
+2022,Western Bulldogs,western-bulldogs,1561
+2022,Port Adelaide,port-adelaide,1533.5
+2022,St Kilda,st-kilda,1481.5
+2022,Carlton,carlton,1479.8
+2022,Gold Coast,gold-coast,1453
+2022,Greater Western Sydney,greater-western-sydney,1410.5
+2022,Hawthorn,hawthorn,1403
+2022,Essendon,essendon,1401.8
+2022,Adelaide,adelaide,1378
+2022,West Coast,west-coast,1232.2
+2022,North Melbourne,north-melbourne,1200.4
+2023,Brisbane Lions,brisbane-lions,1679.2
+2023,Collingwood,collingwood,1655.4
+2023,Melbourne,melbourne,1641.7
+2023,Greater Western Sydney,greater-western-sydney,1605.4
+2023,Carlton,carlton,1587
+2023,Port Adelaide,port-adelaide,1567.3
+2023,Sydney Swans,sydney-swans,1560.9
+2023,Western Bulldogs,western-bulldogs,1545.7
+2023,Geelong,geelong,1532.6
+2023,Adelaide,adelaide,1508.5
+2023,St Kilda,st-kilda,1496.9
+2023,Richmond,richmond,1489.5
+2023,Fremantle,fremantle,1480.4
+2023,Essendon,essendon,1424.2
+2023,Gold Coast,gold-coast,1421.4
+2023,Hawthorn,hawthorn,1386.2
+2023,North Melbourne,north-melbourne,1218
+2023,West Coast,west-coast,1199.6
+2024,Brisbane Lions,brisbane-lions,1717
+2024,Sydney Swans,sydney-swans,1648.8
+2024,Hawthorn,hawthorn,1626.7
+2024,Western Bulldogs,western-bulldogs,1598.5
+2024,Geelong,geelong,1595.6
+2024,Greater Western Sydney,greater-western-sydney,1586.5
+2024,Port Adelaide,port-adelaide,1569.7
+2024,Collingwood,collingwood,1556.6
+2024,Carlton,carlton,1533.8
+2024,Fremantle,fremantle,1512
+2024,Melbourne,melbourne,1503.8
+2024,St Kilda,st-kilda,1495.9
+2024,Adelaide,adelaide,1454
+2024,Essendon,essendon,1442.1
+2024,Gold Coast,gold-coast,1437.4
+2024,West Coast,west-coast,1264
+2024,Richmond,richmond,1230.6
+2024,North Melbourne,north-melbourne,1226.8
+2025,Brisbane Lions,brisbane-lions,1767.3
+2025,Hawthorn,hawthorn,1679
+2025,Geelong,geelong,1677.6
+2025,Collingwood,collingwood,1631.5
+2025,Greater Western Sydney,greater-western-sydney,1614.3
+2025,Adelaide,adelaide,1613.2
+2025,Western Bulldogs,western-bulldogs,1603.8
+2025,Fremantle,fremantle,1599.9
+2025,Gold Coast,gold-coast,1571.3
+2025,Sydney Swans,sydney-swans,1524.7
+2025,Carlton,carlton,1448.4
+2025,Port Adelaide,port-adelaide,1434
+2025,St Kilda,st-kilda,1414.9
+2025,Melbourne,melbourne,1399
+2025,Essendon,essendon,1303.2
+2025,North Melbourne,north-melbourne,1296.4
+2025,Richmond,richmond,1254.9
+2025,West Coast,west-coast,1166.7
+2026,Brisbane Lions,brisbane-lions,1725.1
+2026,Geelong,geelong,1678.1
+2026,Fremantle,fremantle,1672.7
+2026,Sydney Swans,sydney-swans,1661
+2026,Hawthorn,hawthorn,1651.3
+2026,Adelaide,adelaide,1606.7
+2026,Carlton,carlton,1579.9
+2026,Collingwood,collingwood,1556.5
+2026,Western Bulldogs,western-bulldogs,1534.3
+2026,Melbourne,melbourne,1532.2
+2026,Greater Western Sydney,greater-western-sydney,1507.1
+2026,Gold Coast,gold-coast,1459.9
+2026,St Kilda,st-kilda,1422.8
+2026,Port Adelaide,port-adelaide,1384.2
+2026,North Melbourne,north-melbourne,1383.3
+2026,Richmond,richmond,1218
+2026,Essendon,essendon,1213.8
+2026,West Coast,west-coast,1213.2

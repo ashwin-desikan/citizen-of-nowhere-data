@@ -1,0 +1,833 @@
+rank,metro,metro_slug,titles,international_titles,continental_titles,domestic_titles,competitions,sports,first_title_year,last_title_year
+1,Buenos Aires,buenos-aires,217,0,40,177,4,1,1891,2025
+2,Central Islip,new-york,190,0,0,190,12,7,1869,2026
+3,London,london,184,6,19,159,17,5,1872,2026
+4,Tokorozawa,tokyo,158,0,6,152,6,2,1937,2025
+5,San Jose,san-jose,129,0,6,123,3,2,1921,2025
+6,Manchester,manchester,127,2,10,115,14,5,1897,2026
+7,Lake Elsinore,los-angeles,119,0,1,118,13,6,1903,2026
+8,Glasgow,glasgow,118,1,2,115,4,1,1891,2026
+9,Melbourne,melbourne,114,0,1,113,7,5,1898,2023
+10,Sydney,sydney,109,0,2,107,7,5,1908,2026
+11,Mexico City,mexico-city,103,0,21,82,3,2,1927,2026
+12,Madrid,madrid,97,3,41,53,9,3,1932,2025
+13,Manchester (New Hampshire),boston,90,0,0,90,9,4,1875,2024
+14,Amsterdam,amsterdam,89,1,8,80,7,2,1890,2023
+15,Leeds-Bradford,leeds-bradford,82,2,0,80,5,3,1893,2026
+16,Santo Domingo,santo-domingo,81,0,0,81,3,2,1922,2025
+17,Liverpool,liverpool,79,1,10,68,8,3,1891,2025
+18,Toronto,toronto,78,0,0,78,7,5,1887,2025
+19,Milan,milan,76,4,32,40,9,2,1901,2026
+20,Geneva,chicago,75,0,0,75,11,6,1876,2025
+21,Rotterdam,rotterdam-the-hague,75,0,4,71,5,2,1889,2026
+22,Guatemala City,guatemala-city,74,0,2,72,2,1,1943,2024
+23,Paramaribo,paramaribo,71,0,2,69,2,1,1924,2024
+24,Tegucigalpa,tegucigalpa,71,0,2,69,2,1,1948,2025
+25,Barcelona,barcelona,67,9,17,41,10,3,1929,2026
+26,Dar es Salaam,dar-es-salaam,66,0,0,66,1,1,1965,2026
+27,Amman,amman,65,0,0,65,1,1,1944,2022
+28,Moscow,moscow,65,0,9,56,6,3,1947,2023
+29,Detroit,detroit,64,0,0,64,11,5,1887,2026
+30,Lisbon,lisbon,64,2,2,60,4,1,1936,2025
+31,Montreal,montreal,64,0,0,64,4,3,1893,2023
+32,Cairo,cairo,62,0,18,44,2,1,1949,2025
+33,Washington-Baltimore,washington-baltimore,62,0,1,61,15,8,1894,2021
+34,Oakland,san-francisco-san-jose,61,0,0,61,11,5,1920,2026
+35,Kuwait City,kuwait-city,58,0,0,58,1,1,1962,2025
+36,Abidjan,abidjan,57,0,2,55,2,1,1956,2026
+37,Khartoum,khartoum,56,0,0,56,1,1,1962,2025
+38,Munich,munich,56,1,13,42,8,2,1932,2026
+39,Panama City,panama-city,56,0,0,56,3,2,1946,2025
+40,Tunis,tunis,56,0,4,52,2,1,1942,2026
+41,Philadelphia,philadelphia,55,0,0,55,9,4,1883,2026
+42,Bamako,bamako,54,0,0,54,1,1,1966,2026
+43,Hong Kong,hong-kong,53,0,0,53,1,1,1924,2026
+44,Paris,paris,52,1,4,47,7,3,1892,2026
+45,Turin,turin,52,1,7,44,5,1,1905,2020
+46,Addis Ababa,addis-ababa,50,0,0,50,1,1,1949,2025
+47,San Salvador,san-salvador,50,0,1,49,2,1,1937,2025
+48,Conakry,conakry,49,0,3,46,2,1,1965,2026
+49,Nairobi,nairobi,48,0,0,48,1,1,1966,2025
+50,Maputo,maputo,46,0,0,46,1,1,1957,2019
+51,Doha,doha,44,0,2,42,2,1,1964,2012
+52,Luanda,luanda,43,0,0,43,1,1,1965,2026
+53,Casablanca,casablanca,42,0,6,36,2,1,1948,2024
+54,Kampala,kampala,42,0,0,42,1,1,1976,2026
+55,Rhine-Ruhr,rhine-ruhr,41,1,7,33,8,4,1933,2024
+56,Gateway,st-louis,41,0,0,41,5,4,1885,2019
+57,Birmingham,birmingham,40,0,2,38,7,3,1887,2026
+58,Managua,managua,40,0,0,40,3,2,1933,2025
+59,Niamey,niamey,40,0,0,40,1,1,1966,2025
+60,Bangui,bangui,39,0,0,39,1,1,1971,2025
+61,Port-au-Prince,port-au-prince,39,0,2,37,2,1,1938,2025
+62,Singapore,singapore,39,0,0,39,1,1,1978,2026
+63,Baghdad,baghdad,38,0,0,38,1,1,1975,2026
+64,Sugar Land,houston,38,0,0,38,10,6,1889,2024
+65,Kingston,kingston,38,0,0,38,2,2,1974,2025
+66,Klagenfurt,klagenfurt,38,0,0,38,1,1,1934,2021
+67,Porto,porto,38,0,6,32,4,1,1935,2026
+68,Sao Paulo,sao-paulo,38,0,13,25,5,1,1960,2023
+69,Port of Spain,port-of-spain,37,0,2,35,3,2,1974,2026
+70,Santiago,santiago-de-los-caballeros,37,0,0,37,3,2,1952,2024
+71,Kigali,kigali,34,0,0,34,1,1,1975,2026
+72,La Guaira,caracas,33,0,0,33,2,1,1947,2024
+73,St. Paul,minneapolis,33,0,0,33,8,5,1902,2019
+74,Pittsburgh,pittsburgh,33,0,0,33,6,4,1901,2017
+75,Auckland,auckland,32,0,16,16,2,1,2005,2026
+76,Kinshasa,kinshasa,32,0,1,31,2,1,1964,2025
+77,Kumasi,kumasi,32,0,2,30,2,1,1960,2022
+78,Jupiter,miami,32,0,0,32,8,5,1968,2026
+79,Durham,raleigh-durham,32,0,0,32,7,5,1924,2026
+80,Tripoli,tripoli,32,0,0,32,1,1,1964,2025
+81,Brazzaville,brazzaville,31,0,1,30,2,1,1953,2011
+82,Eindhoven,eindhoven,31,0,3,28,4,1,1929,2026
+83,Johannesburg,johannesburg,31,0,3,28,3,1,1965,2026
+84,Toulouse,toulouse,31,0,6,25,2,1,1912,2025
+85,Winnipeg,winnipeg,31,0,0,31,4,3,1896,2021
+86,Fukuoka,fukuoka,30,0,0,30,2,1,1954,2026
+87,Gaborone,gaborone,30,0,0,30,1,1,1967,2026
+88,Vienna,vienna,30,4,0,26,3,2,1923,2017
+89,Algiers,algiers,29,0,1,28,2,1,1963,2026
+90,Bujumbura,bujumbura,29,0,0,29,1,1,1971,2024
+91,Eastlake,cleveland,29,0,0,29,7,3,1895,2024
+92,Columbus,columbus,29,0,0,29,8,4,1942,2024
+93,Frisco,dallas,29,0,0,29,6,4,1888,2023
+94,Edmonton,edmonton,29,0,0,29,4,3,1912,2026
+95,Harare,harare,29,0,0,29,1,1,1963,2016
+96,Lubumbashi,lubumbashi,29,0,5,24,2,1,1966,2026
+97,Maseru,maseru,29,0,0,29,1,1,1974,2022
+98,Monrovia,monrovia,29,0,0,29,1,1,1967,2023
+99,Monterrey,monterrey,29,0,6,23,3,2,1943,2023
+100,Hanoi,hanoi,28,0,0,28,1,1,1955,2026
+101,Nishinomiya,osaka-kyoto-kobe,28,0,1,27,6,2,1944,2026
+102,Ottawa,ottawa,28,0,0,28,6,4,1903,2026
+103,Seoul,seoul,28,0,4,24,3,2,1982,2025
+104,Guadalajara,guadalajara,27,0,3,24,5,2,1951,2026
+105,Ouagadougou,ouagadougou,27,0,0,27,1,1,1962,2014
+106,Rio de Janeiro,rio-de-janeiro,27,0,8,19,3,1,1968,2025
+107,San Pedro Sula,san-pedro-sula,27,0,0,27,2,1,1945,2018
+108,Bangkok,bangkok,26,0,2,24,2,1,1968,2021
+109,Banjul,banjul,26,0,0,26,1,1,1972,2025
+110,Barranquilla,barranquilla,26,0,0,26,2,1,1949,2025
+111,Kansas City,kansas-city,26,0,0,26,6,5,1922,2026
+112,Lomé,lome,26,0,0,26,1,1,1934,2012
+113,New Haven,new-haven,26,0,0,26,4,4,1874,2023
+114,Tehran,tehran,26,0,3,23,2,1,1970,2006
+115,N'Djamena,ndjamena,25,0,0,25,1,1,1962,2026
+116,Riyadh,riyadh,25,0,4,21,2,1,1975,2022
+117,Kiel,kiel,24,0,0,24,2,2,1912,2023
+118,Tacoma,seattle,24,0,1,23,9,6,1917,2025
+119,Dubai-Sharjah,dubai-sharjah,23,0,0,23,2,2,1974,2026
+120,San Juan,san-juan,23,0,0,23,3,2,1945,2018
+121,Accra,accra,22,0,1,21,2,1,1956,2021
+122,Berlin,berlin,22,0,2,20,4,4,1905,2026
+123,Kitwe,kitwe,22,0,0,22,1,1,1982,2026
+124,Mayagüez,mayaguez,22,0,0,22,2,1,1948,2024
+125,Portland,portland,22,0,0,22,7,5,1906,2022
+126,Denver,denver,21,0,0,21,7,5,1958,2026
+127,Estelí,esteli,21,0,0,21,1,1,1991,2023
+128,Hermosillo,hermosillo,21,0,0,21,2,1,1946,2023
+129,Rochester,rochester,21,0,0,21,2,2,1899,2026
+130,South Bend,south-bend,21,0,0,21,4,4,1919,2022
+131,Avarua,avarua,20,0,0,20,1,1,1992,2025
+132,Brisbane,brisbane,20,0,0,20,6,5,1992,2026
+133,Dakar,dakar,20,0,0,20,1,1,1968,2025
+134,Hiroshima,hiroshima,20,0,0,20,3,2,1965,2018
+135,León,leon,20,0,1,19,4,2,1948,2025
+136,Malabo,malabo,20,0,0,20,1,1,1984,2016
+137,Papeete,papeete,20,0,0,20,1,1,1989,2024
+138,Tashkent,tashkent,20,0,0,20,1,1,1998,2023
+139,Culiacán,culiacan,19,0,0,19,2,1,1948,2020
+140,Freetown,freetown,19,0,0,19,1,1,1980,2025
+141,Hamilton,hamilton,19,0,0,19,3,3,1913,2023
+142,Hartford,hartford,19,0,0,19,3,3,1973,2025
+143,Havana,havana,19,0,0,19,3,1,1949,2009
+144,Lyon,lyon,19,0,8,11,3,3,1910,2022
+145,Dunedin,tampa,19,0,0,19,4,3,1920,2026
+146,Vancouver,vancouver,19,0,0,19,5,3,1915,2026
+147,Zanzibar City,zanzibar-city,19,0,0,19,2,1,1984,2023
+148,Garoua,garoua,18,0,0,18,1,1,1997,2023
+149,Leicester,leicester,18,0,2,16,5,3,1975,2022
+150,Perth,perth,18,0,0,18,5,4,1990,2026
+151,Richmond,richmond,18,0,0,18,4,2,1920,2024
+152,San Antonio,san-antonio,18,0,0,18,2,2,1897,2014
+153,Atlanta,atlanta,17,0,0,17,5,3,1917,2022
+154,Round Rock,austin,17,0,0,17,5,4,1907,2005
+155,Blantyre,blantyre,17,0,0,17,1,1,1986,2023
+156,Bordeaux,bordeaux,17,0,2,15,3,2,1899,2026
+157,Cincinnati,cincinnati,17,0,0,17,2,2,1882,1990
+158,Damascus,damascus,17,0,0,17,1,1,1973,2019
+159,Oklahoma City,oklahoma-city,17,0,0,17,6,3,1935,2026
+160,Valencia,valencia,17,3,1,13,6,3,1942,2008
+161,Asmara,asmara,16,0,0,16,1,1,1995,2023
+162,Billings,billings,16,0,0,16,1,1,1950,2026
+163,Cartagena,cartagena,16,0,0,16,1,1,1948,2013
+164,Frankfurt,frankfurt,16,0,6,10,5,4,1959,2022
+165,Lexington,lexington,16,0,0,16,3,2,1933,2021
+166,Manama,manama,16,0,0,16,1,1,1982,2022
+167,Mazatlán,mazatlan,16,0,0,16,2,1,1945,2016
+168,Nottingham,nottingham,16,0,2,14,6,2,1894,2025
+169,Nouadhibou,nouadhibou,16,0,0,16,1,1,2001,2026
+170,Syracuse,syracuse,16,0,0,16,4,3,1885,2003
+171,Tampere,tampere,16,0,1,15,2,1,1977,2026
+172,Tizi Ouzou,tizi-ouzou,16,0,2,14,2,1,1973,2008
+173,Tuscaloosa,tuscaloosa,16,0,0,16,2,2,1925,2020
+174,Valencia,valencia-vn,16,0,0,16,2,1,1949,2025
+175,Binghamton,binghamton,15,0,0,15,2,1,1892,2025
+176,Buffalo,buffalo,15,0,0,15,3,3,1891,2016
+177,Colón (Pan),colon-pan,15,0,0,15,1,1,1995,2016
+178,Douala,douala,15,0,2,13,2,1,1960,2024
+179,Honiara,honiara,15,0,0,15,1,1,2004,2025
+180,Rabat,rabat,15,0,1,14,2,1,1961,2023
+181,Spokane,spokane,15,0,0,15,3,2,1960,2024
+182,Baton Rouge,baton-rouge,14,0,0,14,3,3,1908,2025
+183,Bissau,bissau,14,0,0,14,1,1,1983,2021
+184,Guangzhou,guangzhou,14,0,2,12,3,2,1979,2021
+185,Harrisburg,harrisburg,14,0,0,14,2,1,1927,2025
+186,Marseille,marseille,14,0,1,13,2,1,1909,2010
+187,Montevideo,montevideo,14,0,14,0,2,1,1960,1989
+188,Orlando,orlando,14,0,0,14,3,2,1921,2025
+189,Pachuca,pachuca,14,0,7,7,3,1,1999,2024
+190,Stuttgart,stuttgart,14,0,0,14,2,2,1950,2007
+191,Taipei,taipei,14,0,0,14,1,1,1990,2026
+192,Belmopan,belmopan,13,0,0,13,1,1,2012,2024
+193,Béziers,beziers,13,0,0,13,1,1,1936,1984
+194,Bilbao,bilbao,13,0,0,13,2,2,1930,2016
+195,Blackburn-Burnley,blackburn-burnley,13,0,0,13,2,1,1883,1995
+196,Great Falls,great-falls,13,0,0,13,1,1,1951,2018
+197,Green Bay,green-bay,13,0,0,13,1,1,1929,2010
+198,Hamburg,hamburg,13,1,1,11,4,2,1923,2011
+199,Knoxville,knoxville,13,0,0,13,4,3,1951,2024
+200,La Plata,la-plata,13,0,5,8,3,1,1913,2025
+201,Lille,lille,13,0,0,13,1,1,1902,2021
+202,Phoenix,phoenix,13,0,0,13,4,2,1958,2023
+203,Porto Alegre,porto-alegre,13,0,8,5,5,1,1975,2017
+204,Santos,santos,13,0,5,8,3,1,1961,2011
+205,Victoria (SEY),victoria-sey,13,0,0,13,1,1,1996,2015
+206,Windhoek,windhoek,13,0,0,13,1,1,1987,2019
+207,Yaoundé,yaounde,13,0,3,10,2,1,1970,2002
+208,Adelaide,adelaide,12,0,1,11,5,4,1978,2025
+209,Athens,athens,12,0,12,0,2,2,1996,2026
+210,Changwon,busan-ulsan,12,0,3,9,3,2,1984,2021
+211,Calcutta,calcutta,12,0,0,12,2,2,1998,2024
+212,Fresno,fresno,12,0,0,12,4,1,1952,2015
+213,Gainesville,gainesville,12,0,0,12,4,3,1936,2025
+214,Gummersbach,gummersbach,12,0,0,12,1,1,1966,1991
+215,Gwangju,gwangju,12,0,0,12,1,1,1983,2024
+216,Hull,hull,12,0,0,12,1,1,1920,2025
+217,Jeddah,jeddah,12,0,4,8,2,1,1978,2026
+218,Johor Bahru,johor-bahru,12,0,0,12,1,1,2014,2026
+219,Lae,lae,12,0,0,12,1,1,2001,2022
+220,Nagoya,nagoya,12,0,0,12,3,2,1954,2011
+221,Newcastle,newcastle,12,1,0,11,4,2,1905,1998
+222,Nuremberg,nuremberg,12,0,0,12,1,1,1914,1968
+223,Omaha,omaha-lincoln,12,0,0,12,5,2,1970,2024
+224,Ponce,ponce,12,0,0,12,2,1,1941,2008
+225,Port Moresby,port-moresby,12,0,1,11,2,1,2006,2024
+226,Salzburg,salzburg,12,0,0,12,1,1,2007,2025
+227,Sheffield,sheffield,12,0,0,12,2,1,1896,1935
+228,Shenyang,shenyang,12,0,0,12,2,2,1978,2024
+229,Sousse,sousse,12,0,1,11,2,1,1950,2023
+230,St. Petersburg,st-petersburg,12,0,1,11,3,3,1922,2017
+231,Veracruz,veracruz,12,0,0,12,2,2,1937,2012
+232,Aba,aba,11,0,2,9,2,1,2001,2023
+233,Al Ain,al-ain,11,0,2,9,2,1,1977,2024
+234,Albuquerque,albuquerque,11,0,0,11,2,1,1965,1994
+235,Buriram,buriram,11,0,0,11,1,1,2011,2026
+236,Calgary,calgary,11,0,0,11,4,3,1926,2024
+237,Genoa,genoa,11,1,0,10,2,1,1898,1991
+238,Gothenburg,gothenburg,11,0,7,4,3,2,1982,2026
+239,Libreville,libreville,11,0,0,11,1,1,1978,2011
+240,Maracay,maracay,11,0,0,11,2,1,1971,2015
+241,Modesto,modesto,11,0,0,11,1,1,1950,2024
+242,Pinar del Río,pinar-del-rio,11,0,0,11,2,1,1977,2015
+243,Rome,rome,11,2,2,7,6,3,1942,2022
+244,Rosario,rosario,11,0,0,11,1,1,1971,2025
+245,Sacramento,sacramento,11,0,0,11,3,2,1938,2019
+246,Stockton,stockton,11,0,0,11,1,1,1946,2008
+247,Beijing,beijing,10,0,0,10,2,2,1956,2015
+248,Belize City,belize-city,10,0,0,10,1,1,1993,2010
+249,Belo Horizonte,belo-horizonte,10,0,3,7,2,1,1937,2021
+250,Cape Town,cape-town,10,0,0,10,3,2,1970,2025
+251,Enugu,enugu,10,0,0,10,1,1,1971,2026
+252,Geelong,geelong,10,0,0,10,1,1,1925,2022
+253,Indianapolis,indianapolis,10,0,0,10,6,4,1906,2012
+254,Karlstad,karlstad,10,0,0,10,1,1,1981,2022
+255,Lusaka,lusaka,10,0,0,10,1,1,2002,2024
+256,Lynchburg,lynchburg,10,0,0,10,2,1,1964,2025
+257,Madison,madison,10,0,0,10,2,2,1912,2006
+258,Milwaukee,milwaukee,10,0,0,10,4,2,1957,2026
+259,Providence,providence,10,0,0,10,4,3,1879,2015
+260,Québec,quebec-city,10,0,0,10,3,2,1912,2025
+261,Rhine-Neckar,rhine-neckar,10,0,0,10,3,3,1949,2019
+262,Saint Étienne,saint-etienne,10,0,0,10,1,1,1957,1981
+263,Sétif,setif,10,0,2,8,2,1,1968,2017
+264,Tainan,tainan,10,0,0,10,1,1,1991,2020
+265,Tulsa,tulsa,10,0,0,10,2,1,1936,2018
+266,Turku,turku,10,0,0,10,1,1,1976,2010
+267,Altach,altach,9,0,0,9,1,1,1982,1998
+268,Appleton (Wisconsin),appleton,9,0,0,9,1,1,1964,2012
+269,Bandung,bandung,9,0,0,9,1,1,1961,2026
+270,Boise,boise,9,0,0,9,2,1,1956,2004
+271,Bologna,bologna,9,1,1,7,3,2,1925,1998
+272,Burlington,burlington,9,0,0,9,3,1,1949,2008
+273,Ciudad Obregón,ciudad-obregon,9,0,0,9,2,1,1965,2013
+274,Daegu,daegu,9,0,0,9,1,1,1985,2026
+275,Dhaka,dhaka,9,0,0,9,2,2,2012,2026
+276,Eugene,eugene,9,0,0,9,2,2,1939,2022
+277,Helsinki,helsinki,9,0,0,9,1,1,1980,2011
+278,Jacksonville,jacksonville,9,0,0,9,3,1,1968,2025
+279,Lansing,lansing,9,0,0,9,4,4,1952,2007
+280,North Little Rock,little-rock,9,0,0,9,1,1,1966,2024
+281,Ndola,ndola,9,0,0,9,1,1,2007,2021
+282,Noumea,noumea,9,0,1,8,2,1,1974,2019
+283,Prague,prague,9,3,0,6,2,2,1927,2008
+284,Puebla,puebla,9,0,1,8,3,2,1963,2023
+285,Regina,regina,9,0,0,9,2,2,1925,2025
+286,Saint-Marc,saint-marc,9,0,0,9,1,1,1993,2011
+287,Seville,seville,9,0,7,2,2,1,1935,2023
+288,Stockholm,stockholm,9,0,0,9,1,1,1982,2001
+289,Tel-Aviv,tel-aviv,9,0,9,0,2,2,1968,2014
+290,Tucson,tucson,9,0,0,9,4,2,1976,2012
+291,Agen,agen,8,0,0,8,1,1,1930,1988
+292,Bath,bath,8,0,1,7,2,1,1989,2025
+293,Bayonne,bayonne,8,0,0,8,1,1,1913,2006
+294,Birmingham,birmingham-al,8,0,0,8,1,1,1983,2025
+295,Bulawayo,bulawayo,8,0,0,8,1,1,1990,2015
+296,Cancún,cancun,8,0,2,6,3,2,1947,2015
+297,Canterbury,canterbury,8,0,0,8,2,1,1906,2021
+298,Charlotte,charlotte,8,0,0,8,3,1,1969,2002
+299,Curepipe,curepipe,8,0,0,8,1,1,2007,2025
+300,Dalian,dalian,8,0,0,8,1,1,1994,2005
+301,Edinburgh,edinburgh,8,0,0,8,1,1,1895,1960
+302,El Paso,el-paso,8,0,0,8,3,2,1962,2016
+303,Elmira,elmira,8,0,0,8,1,1,1937,1971
+304,Grand Forks,grand-forks,8,0,0,8,1,1,1959,2016
+305,Homs,homs,8,0,0,8,1,1,1975,2009
+306,Idaho Falls,idaho-falls,8,0,0,8,1,1,1952,2019
+307,Jackson,jackson,8,0,0,8,2,1,1981,2019
+308,Las Vegas,las-vegas,8,0,0,8,4,4,1986,2025
+309,Lourdes,lourdes,8,0,0,8,1,1,1948,1968
+310,Maracaibo,maracaibo,8,0,0,8,2,1,1983,2016
+311,Mbabane,mbabane,8,0,0,8,1,1,1993,2024
+312,Memphis,memphis,8,0,0,8,4,1,1969,2018
+313,Monaco,monaco,8,0,0,8,1,1,1961,2017
+314,Montego Bay,montego-bay,8,0,0,8,1,1,1987,2016
+315,Nanchang,nanchang,8,0,0,8,1,1,1996,2007
+316,Nantes,nantes,8,0,0,8,1,1,1965,2001
+317,Nukuʻalofa,nukualofa,8,0,0,8,1,1,1978,2023
+318,Oulu,oulu,8,0,0,8,1,1,1981,2018
+319,Santa Clara,santa-clara-cuba,8,0,0,8,1,1,1968,2012
+320,Santiago de Cuba,santiago-de-cuba,8,0,0,8,1,1,1979,2007
+321,São Tomé,sao-tome,8,0,0,8,1,1,1982,2016
+322,Sapporo,sapporo,8,0,0,8,2,1,1962,2016
+323,Sfax,sfax,8,0,0,8,1,1,1969,2013
+324,Shreveport,shreveport,8,0,0,8,1,1,1919,1995
+325,Sunderland,sunderland,8,0,0,8,2,1,1892,1973
+326,Torreón,torreon,8,0,0,8,2,2,1942,2018
+327,Yakima,yakima,8,0,0,8,1,1,1956,2000
+328,Aleppo,aleppo,7,0,0,7,1,1,1967,2025
+329,Antananarivo,antananarivo,7,0,0,7,1,1,2002,2021
+330,Apia,apia,7,0,0,7,1,1,2013,2021
+331,Barquisimeto,barquisimeto,7,0,0,7,1,1,1990,2024
+332,Columbia,columbia,7,0,0,7,3,2,1986,2024
+333,Danville,danville,7,0,0,7,2,1,1945,1974
+334,Comstock Park,grand-rapids,7,0,0,7,1,1,1996,2025
+335,Guaymas,guaymas,7,0,0,7,1,1,1947,1967
+336,Hannover-Brunswick,hannover-brunswick,7,0,2,5,3,3,1938,2014
+337,Innsbruck,innsbruck,7,0,0,7,1,1,1953,1989
+338,Jakarta,jakarta,7,0,0,7,1,1,1954,2018
+339,Louisville,louisville,7,0,0,7,4,2,1890,2013
+340,Makassar,makassar,7,0,0,7,1,1,1957,2023
+341,Montgomery,montgomery,7,0,0,7,1,1,1972,2007
+342,Myrtle Beach,myrtle-beach,7,0,0,7,3,1,1987,2016
+343,Nouakchott,nouakchott,7,0,0,7,1,1,1983,2006
+344,Perpignan,perpignan,7,0,0,7,1,1,1914,2009
+345,Quetzaltenango,quetzaltenango,7,0,0,7,1,1,1962,2024
+346,Reims,reims,7,1,0,6,2,1,1949,1962
+347,Reno,reno,7,0,0,7,3,1,1960,2022
+348,San Diego,san-diego,7,0,0,7,3,2,1937,1998
+349,Scranton,scranton,7,0,0,7,1,1,1926,1951
+350,Springfield,springfield,7,0,0,7,4,2,1895,2021
+351,Taunggyi,taunggyi,7,0,0,7,1,1,2017,2026
+352,Toulon,toulon,7,0,3,4,2,1,1931,2015
+353,Vercelli,vercelli,7,0,0,7,1,1,1908,1922
+354,Waco,waco,7,0,0,7,3,3,1914,2021
+355,Ashgabat,ashgabat,6,0,0,6,1,1,1992,2000
+356,Bloomington,bloomington,6,0,0,6,2,2,1940,2025
+357,Charleston,charleston,6,0,0,6,4,1,1963,2023
+358,Chennai,chennai,6,0,0,6,2,2,2010,2023
+359,Frýdek-Místek,frydek-mistek,6,0,0,6,1,1,2011,2024
+360,Gävle,gavle,6,0,0,6,1,1,1976,2012
+361,Irbid,irbid,6,0,0,6,1,1,1981,2026
+362,La Digue,la-digue,6,0,0,6,1,1,2002,2022
+363,Lancaster,lancaster,6,0,0,6,2,1,2006,2023
+364,Magnitogorsk,magnitogorsk,6,0,0,6,2,1,1999,2024
+365,Marbella,marbella,6,0,0,6,1,1,2000,2018
+366,Midland,midland-odessa,6,0,0,6,1,1,2005,2017
+367,Mumbai,mumbai,6,0,0,6,2,2,2006,2021
+368,Northampton,northampton,6,0,1,5,3,2,2000,2026
+369,Pohang,pohang,6,0,3,3,2,1,1986,2010
+370,Port Louis,port-louis,6,0,0,6,1,1,2002,2016
+371,St. Lucie,port-st-lucie,6,0,0,6,1,1,1988,2022
+372,Surabaya,surabaya,6,0,0,6,1,1,1951,2004
+373,Tijuana,tijuana,6,0,0,6,3,2,1987,2026
+374,Vsetín,vsetin,6,0,0,6,1,1,1995,2001
+375,Wellington,wellington,6,0,1,5,3,2,2016,2021
+376,Worcester,worcester,6,0,0,6,2,1,1964,2018
+377,Aberdeen,aberdeen,5,1,0,4,2,1,1955,1985
+378,Aguascalientes,aguascalientes,5,0,1,4,3,2,1978,2000
+379,Albany,albany,5,0,0,5,2,2,1945,2014
+380,Amarillo,amarillo,5,0,0,5,1,1,1961,2026
+381,Asheville,asheville,5,0,0,5,2,1,1968,2014
+382,Bremen,bremen,5,1,0,4,2,1,1965,2004
+383,Budapest,budapest,5,5,0,0,2,1,1928,1965
+384,Canberra,canberra,5,0,0,5,2,2,1989,2024
+385,Castres,castres,5,0,0,5,1,1,1949,2018
+386,Cedar Rapids,cedar-rapids,5,0,0,5,2,2,1945,2023
+387,Davenport,davenport,5,0,0,5,1,1,2011,2026
+388,Dolisie,dolisie,5,0,0,5,1,1,2012,2024
+389,Springdale,fayetteville,5,0,0,5,3,2,1954,2021
+390,Fez,fez,5,0,0,5,1,1,1965,2026
+391,Greenville,greenville-spartanburg,5,0,0,5,2,2,1981,2023
+392,Hamamatsu,hamamatsu,5,0,1,4,2,1,1988,2002
+393,Ibadan,ibadan,5,0,0,5,1,1,1976,1998
+394,Istanbul,istanbul,5,0,5,0,2,2,2000,2025
+395,Ithaca,ithaca,5,0,0,5,2,2,1915,1970
+396,Jayapura,jayapura,5,0,0,5,1,1,2005,2016
+397,Jönköping,jonkoping,5,0,0,5,1,1,1995,2017
+398,Kazan,kazan,5,0,0,5,2,1,1998,2018
+399,Labé,labe,5,0,0,5,1,1,2004,2010
+400,Mafeteng,mafeteng,5,0,0,5,1,1,2014,2023
+401,Magdeburg,magdeburg,5,1,0,4,2,2,1974,2026
+402,Matanzas,matanzas,5,0,0,5,1,1,1969,2025
+403,Mérida,merida,5,0,0,5,1,1,1957,2022
+404,Mexicali,mexicali,5,0,0,5,2,1,1985,2016
+405,Missoula,missoula,5,0,0,5,1,1,1999,2021
+406,Mobile,mobile,5,0,0,5,1,1,1966,2012
+407,Montería,monteria,5,0,0,5,1,1,2014,2022
+408,Muscat,muscat,5,0,0,5,1,1,1997,2018
+409,Naples,naples,5,0,1,4,2,1,1987,2025
+410,Nashville,nashville,5,0,0,5,3,1,1979,2019
+411,Nuevo Laredo,nuevo-laredo,5,0,0,5,1,1,1953,1989
+412,Owerri,owerri,5,0,0,5,1,1,1987,1993
+413,Parakou,parakou,5,0,0,5,1,1,1980,2019
+414,Quito,quito,5,0,5,0,2,1,2008,2023
+415,Rivas,rivas,5,0,0,5,2,2,1980,2023
+416,Ogden,salt-lake-city-provo,5,0,0,5,4,4,1944,2023
+417,San Pedro de Macorís,san-pedro-de-macoris,5,0,0,5,1,1,1936,2018
+418,Saxon Triangle,saxon-triangle,5,0,0,5,1,1,1903,1944
+419,Shanghai,shanghai,5,0,0,5,2,2,1961,2026
+420,Skellefteå,skelleftea,5,0,0,5,1,1,1978,2026
+421,Southampton,southampton,5,0,0,5,4,2,1961,2022
+422,Varanasi,varanasi,5,0,0,5,1,1,2005,2012
+423,Wichita,wichita,5,0,0,5,3,1,1987,2014
+424,Yangon,yangon,5,0,0,5,1,1,2011,2018
+425,Yaroslavl,yaroslavl,5,0,0,5,2,1,1997,2026
+426,Abu Dhabi,abu-dhabi,4,0,0,4,2,2,1999,2024
+427,Al-Buraimi,al-buraimi,4,0,0,4,1,1,2007,2023
+428,Asuncion,asuncion,4,0,4,0,2,1,1979,2002
+429,Bafoussam,bafoussam,4,0,0,4,1,1,1989,1995
+430,Bandar Seri Begawan,bandar-seri-begawan,4,0,0,4,2,1,2002,2019
+431,Bangalore,bangalore,4,0,0,4,2,2,2014,2026
+432,Bayamo,bayamo,4,0,0,4,1,1,2016,2022
+433,Bellingham,bellingham,4,0,0,4,1,1,1977,1992
+434,Benghazi,benghazi,4,0,0,4,1,1,1970,1992
+435,Bizerte,bizerte,4,0,0,4,1,1,1945,1984
+436,Bobo Dioulasso,bobo-dioulasso,4,0,0,4,1,1,1972,2015
+437,Bowling Green,bowling-green,4,0,0,4,2,1,2018,2024
+438,Bristol,bristol,4,0,0,4,2,2,1975,2024
+439,Cardiff,cardiff,4,0,0,4,2,2,1927,1997
+440,Champaign,champaign,4,0,0,4,2,2,1915,1943
+441,Chinandega,chinandega,4,0,0,4,1,1,2005,2017
+442,Colorado Springs,colorado-springs,4,0,0,4,2,2,1950,1995
+443,Cumilla,cumilla,4,0,0,4,1,1,2016,2023
+444,Curitiba,curitiba,4,0,2,2,2,1,1985,2021
+445,Daytona Beach,daytona-beach,4,0,0,4,1,1,1940,1981
+446,Derby,derby,4,0,0,4,3,2,1936,1975
+447,Deventer,deventer,4,0,0,4,1,1,1917,1933
+448,Dublin,dublin,4,0,4,0,1,1,2009,2018
+449,Durban,durban,4,0,0,4,1,1,1972,1997
+450,Durham,durham,4,0,0,4,2,2,1969,2013
+451,Erbil,erbil,4,0,0,4,1,1,2007,2012
+452,Erie,erie,4,0,0,4,3,1,1893,2024
+453,Florence,florence,4,1,0,3,3,2,1956,1985
+454,Hamilton (NZ),hamilton-nz,4,0,0,4,1,1,2018,2026
+455,Helena,helena,4,0,0,4,1,1,1984,2010
+456,Ho Chi Minh City,ho-chi-minh-city,4,0,0,4,1,1,2007,2015
+457,Madison,huntsville,4,0,0,4,1,1,1985,2026
+458,Ismaïlia,ismailia,4,0,1,3,2,1,1967,2002
+459,Jaffna,jaffna,4,0,0,4,1,1,2021,2024
+460,Juba,juba,4,0,0,4,1,1,2013,2019
+461,Kaiserslautern,kaiserslautern,4,0,0,4,1,1,1951,1998
+462,Kano,kano,4,0,0,4,1,1,2008,2014
+463,Los Mochis,los-mochis,4,0,0,4,1,1,1968,2022
+464,Mandalay,mandalay,4,0,0,4,1,1,2010,2016
+465,Medan,medan,4,0,0,4,1,1,1967,1985
+466,Medford,medford,4,0,0,4,1,1,1967,1983
+467,Montpellier,montpellier,4,0,0,4,2,2,1934,2022
+468,Moroni,moroni,4,0,0,4,1,1,1999,2022
+469,Nakuru,nakuru,4,0,0,4,1,1,2003,2010
+470,Nice,nice,4,0,0,4,1,1,1951,1959
+471,Oran,oran,4,0,0,4,1,1,1971,1993
+472,Pardubice,pardubice,4,0,0,4,1,1,2005,2026
+473,Port Harcourt,port-harcourt,4,0,0,4,1,1,1997,2022
+474,Portsmouth,portsmouth,4,0,0,4,2,1,1939,2008
+475,Praslin,praslin,4,0,0,4,1,1,2013,2025
+476,Preston,preston,4,0,0,4,2,1,1889,1938
+477,Puerto La Cruz,puerto-la-cruz,4,0,0,4,1,1,2010,2020
+478,Savannah,savannah,4,0,0,4,1,1,1993,2013
+479,St. Catharines-Niagara,st-catharines-niagara,4,0,0,4,1,1,1954,1968
+480,State College,state-college,4,0,0,4,1,1,1911,1986
+481,Suva,suva,4,0,0,4,1,1,1996,2020
+482,Tampico,tampico,4,0,0,4,2,2,1945,1975
+483,Toledo,toledo,4,0,0,4,2,2,1967,2006
+484,Twin Falls,twin-falls,4,0,0,4,1,1,1939,1955
+485,Vaxjo,vaxjo,4,0,0,4,1,1,2015,2023
+486,Victoria,victoria,4,0,0,4,3,3,1925,2021
+487,Walvis Bay,walvis-bay,4,0,0,4,1,1,1988,2004
+488,Williamsport,williamsport,4,0,0,4,1,1,1923,1960
+489,Wollongong,wollongong,4,0,1,3,3,2,2000,2010
+490,Augusta,augusta,3,0,0,3,2,2,1989,1999
+491,Augusta,augusta-ga,3,0,0,3,1,1,1995,2008
+492,Beaumont,beaumont,3,0,0,3,1,1,1932,1983
+493,Belgrade,belgrade,3,0,3,0,3,2,1991,1992
+494,Brighton & Hove,brighton-hove,3,0,0,3,1,1,2003,2007
+495,Brno,brno,3,0,0,3,1,1,2017,2025
+496,Brussels,brussels,3,2,1,0,2,1,1976,1983
+497,Chattanooga,chattanooga,3,0,0,3,1,1,1988,2017
+498,Ciego de Ávila,ciego-de-avila,3,0,0,3,1,1,2011,2015
+499,College Station,college-station,3,0,0,3,2,2,1919,2011
+500,Columbia (MO),columbia-mo,3,0,0,3,2,2,1921,1954
+501,Córdoba,cordoba,3,0,0,3,2,2,1939,2026
+502,Cornwall (ON),cornwall-on,3,0,0,3,1,1,1972,1981
+503,Da Nang,da-nang,3,0,0,3,1,1,1992,2012
+504,Decatur,decatur,3,0,0,3,1,1,1952,1957
+505,Duluth,duluth,3,0,0,3,1,1,2011,2019
+506,East London,east-london,3,0,0,3,1,1,2023,2026
+507,Esfahan,esfahan,3,0,0,3,1,1,1987,2003
+508,Exeter,exeter,3,0,1,2,2,1,2017,2020
+509,Flensburg,flensburg,3,0,0,3,1,1,2004,2019
+510,Fort Myers,fort-myers,3,0,0,3,1,1,1985,2018
+511,Graz,graz,3,0,0,3,1,1,1975,2026
+512,Winston-Salem,greensboro-winston-salem,3,0,0,3,2,1,1955,2026
+513,Hickory,hickory,3,0,0,3,1,1,2002,2015
+514,Houghton (MI),houghton-mi,3,0,0,3,1,1,1962,1975
+515,Ipswich,ipswich,3,0,1,2,3,1,1962,1981
+516,Islamabad,islamabad,3,0,0,3,1,1,2016,2024
+517,Jyvaskyla,jyvaskyla,3,0,1,2,2,1,2009,2018
+518,Kamloops,kamloops,3,0,0,3,1,1,1992,1995
+519,Kingston (ON),kingston-on,3,0,0,3,1,1,1922,1924
+520,Kitchener-Waterloo,kitchener-waterloo,3,0,0,3,1,1,1982,2026
+521,La Romana,la-romana,3,0,0,3,2,1,2010,2020
+522,Lahore,lahore,3,0,0,3,1,1,2022,2025
+523,Las Tunas,las-tunas,3,0,0,3,1,1,2018,2024
+524,Le Havre,le-havre,3,0,0,3,1,1,1899,1919
+525,Lethbridge,lethbridge,3,0,0,3,1,1,1977,1980
+526,Lewiston,lewiston,3,0,0,3,1,1,1961,1972
+527,London (ON),london-on,3,0,0,3,1,1,2005,2025
+528,Luleå,lulea,3,0,1,2,2,1,1996,2025
+529,Medicine Hat,medicine-hat,3,0,0,3,2,2,1982,1988
+530,New Orleans,new-orleans,3,0,0,3,2,2,1998,2009
+531,Norfolk,norfolk,3,0,0,3,3,2,1985,2023
+532,Parma,parma,3,1,2,0,2,1,1993,1999
+533,Pau,pau,3,0,0,3,1,1,1928,1964
+534,Pittsfield,pittsfield,3,0,0,3,2,2,1907,1965
+535,Riga,riga,3,0,3,0,1,1,1958,1960
+536,Saltillo,saltillo,3,0,0,3,1,1,1980,2010
+537,Santa Barbara,santa-barbara,3,0,0,3,1,1,1941,1951
+538,Bradenton,sarasota,3,0,0,3,1,1,1963,2021
+539,Sault Ste. Marie (MI),sault-ste-marie-mi,3,0,0,3,1,1,1988,1994
+540,Split,split,3,0,3,0,1,1,1989,1991
+541,Stillwater,stillwater,3,0,0,3,2,2,1945,1959
+542,Taichung,taichung,3,0,0,3,1,1,2021,2024
+543,Tallahassee,tallahassee,3,0,0,3,1,1,1993,2013
+544,Tilburg,tilburg,3,0,0,3,1,1,1916,1955
+545,Umeå,umea,3,0,2,1,2,2,1987,2004
+546,Vinh,vinh,3,0,0,3,1,1,2000,2011
+547,Visalia,visalia,3,0,0,3,1,1,1971,2019
+548,Willemstad,willemstad,3,0,0,3,1,1,2023,2025
+549,Windsor,windsor,3,0,0,3,1,1,2009,2017
+550,Zagreb,zagreb,3,1,2,0,2,2,1967,1986
+551,Agadir,agadir,2,0,0,2,1,1,2002,2003
+552,Alessandria,alessandria,2,0,0,2,1,1,1914,1922
+553,Alexandria,alexandria,2,0,0,2,2,2,1966,1982
+554,Alkmaar,alkmaar,2,0,0,2,1,1,1981,2009
+555,Allentown,allentown,2,0,0,2,2,2,1896,1955
+556,Almelo,almelo,2,0,0,2,1,1,1927,1941
+557,Altoona,altoona,2,0,0,2,1,1,2010,2017
+558,Auburn,auburn,2,0,0,2,1,1,1957,2010
+559,Bakersfield,bakersfield,2,0,0,2,1,1,1970,1989
+560,Barisal,barisal,2,0,0,2,1,1,2024,2025
+561,Barrie,barrie,2,0,0,2,1,1,1951,1953
+562,Benin City,benin-city,2,0,0,2,1,1,1973,1979
+563,Bielefeld,bielefeld,2,0,0,2,1,1,1997,2003
+564,Bridgetown,bridgetown,2,0,0,2,1,1,2014,2019
+565,Campeche,campeche,2,0,0,2,1,1,1983,2004
+566,Charlottesville,charlottesville,2,0,0,2,2,2,2015,2019
+567,Cienfuegos,cienfuegos,2,0,0,2,1,1,1956,1960
+568,Clermont-Ferrand,clermont-ferrand,2,0,0,2,1,1,2010,2017
+569,Cobán,coban,2,0,0,2,1,1,2004,2022
+570,Constantine,constantine,2,0,0,2,1,1,1997,2018
+571,Corpus Christi,corpus-christi,2,0,0,2,1,1,1958,2006
+572,Cotonou,cotonou,2,0,0,2,1,1,2010,2012
+573,Dammam,dammam,2,0,0,2,1,1,1983,1987
+574,David,david-city,2,0,0,2,1,1,2022,2023
+575,Denpasar,denpasar,2,0,0,2,1,1,2019,2022
+576,Doncaster,doncaster,2,0,0,2,1,1,1992,1994
+577,Dubuque,dubuque,2,0,0,2,1,1,1955,1962
+578,Dundee,dundee,2,0,0,2,1,1,1962,1983
+579,Dushanbe,dushanbe,2,0,0,2,1,1,1992,1995
+580,Enschede,enschede,2,0,0,2,1,1,1926,2010
+581,Evansville,evansville,2,0,0,2,1,1,2006,2016
+582,Gold Coast,gold-coast,2,0,0,2,1,1,1991,1998
+583,Guayama,guayama,2,0,0,2,1,1,1938,1939
+584,Guelph,guelph,2,0,0,2,1,1,1952,1986
+585,Hämeenlinna,hameenlinna,2,0,0,2,1,1,2006,2019
+586,Honolulu,honolulu,2,0,0,2,1,1,1975,1976
+587,Hyderabad,hyderabad,2,0,0,2,1,1,2009,2016
+588,Jeonju,jeonju,2,0,2,0,1,1,2007,2017
+589,Johnstown,johnstown,2,0,0,2,1,1,1995,2000
+590,Kalamazoo,kalamazoo,2,0,0,2,2,2,2005,2025
+591,Karlsruhe,karlsruhe,2,0,0,2,1,1,1909,1910
+592,Kediri,kediri,2,0,0,2,1,1,2003,2006
+593,Kerkrade,kerkrade,2,0,0,2,1,1,1950,1956
+594,Kozhikode,kozhikode,2,0,0,2,1,1,2021,2022
+595,Kyiv,kyiv,2,2,0,0,1,1,1975,1986
+596,La Guaira,la-guaira,2,0,0,2,1,1,1946,1946
+597,La Rochelle,la-rochelle,2,0,2,0,1,1,2022,2023
+598,Laramie,laramie,2,0,0,2,1,1,1934,1943
+599,Leogane,leogane,2,0,0,2,1,1,2007,2012
+600,Limerick City,limerick-city,2,0,2,0,1,1,2006,2008
+601,Linz,linz,2,0,0,2,1,1,2003,2012
+602,Malang,malang,2,0,0,2,1,1,1993,2010
+603,Malmo,malmo,2,0,0,2,1,1,1992,1994
+604,Margao,margao,2,0,0,2,1,1,2009,2013
+605,Marrakesh,marrakesh,2,0,0,2,1,1,1958,1992
+606,May Pen,may-pen,2,0,0,2,1,1,1993,2003
+607,Medellin,medellin,2,0,2,0,1,1,1989,2016
+608,Minden,minden,2,0,0,2,1,1,1971,1977
+609,Monroe,monroe,2,0,0,2,1,1,1982,1988
+610,Montbéliard,montbeliard,2,0,0,2,1,1,1935,1938
+611,Napier,napier,2,0,0,2,1,1,2019,2025
+612,Navojoa,navojoa,2,0,0,2,1,1,1978,1999
+613,Newcastle-Maitland,newcastle-maitland,2,0,0,2,1,1,1997,2001
+614,Nkongsamba,nkongsamba,2,0,0,2,1,1,1971,1994
+615,Omsk,omsk,2,0,0,2,2,1,2004,2021
+616,Örnsköldsvik,ornskoldsvik,2,0,0,2,1,1,1979,2007
+617,Owen Sound,owen-sound,2,0,0,2,1,1,1924,1927
+618,Pago Pago,pago-pago,2,0,0,2,1,1,2014,2015
+619,Pensacola,pensacola,2,0,0,2,1,1,2017,2022
+620,Peshawar,peshawar,2,0,0,2,1,1,2017,2026
+621,Pleiku,pleiku,2,0,0,2,1,1,2003,2004
+622,Pocatello,pocatello,2,0,0,2,1,1,1942,1949
+623,Pori,pori,2,0,0,2,1,1,1978,2013
+624,Port-Gentil,port-gentil,2,0,0,2,1,1,2009,2022
+625,Quincy,quincy,2,0,0,2,1,1,1961,1970
+626,Rajshahi,rajshahi,2,0,0,2,1,1,2020,2026
+627,Rocky Mount,rocky-mount,2,0,0,2,1,1,1966,1975
+628,Midland (Michigan),saginaw,2,0,0,2,2,2,2016,2024
+629,Saint John,saint-john,2,0,0,2,1,1,2011,2022
+630,Salisbury,salisbury-md,2,0,0,2,1,1,1997,2000
+631,Salvador,salvador,2,0,0,2,1,1,1959,1988
+632,San Francisco de Macorís,san-francisco-de-macoris,2,0,0,2,1,1,2014,2021
+633,San Sebastián,san-sebastian,2,0,0,2,1,1,1981,1982
+634,Sangmélima,sangmelima,2,0,0,2,1,1,2025,2026
+635,Santiago,santiago,2,0,2,0,2,1,1991,2011
+636,Sarnia,sarnia,2,0,0,2,1,1,1934,1936
+637,Sekondi-Takoradi,sekondi-takoradi,2,0,0,2,1,1,2023,2026
+638,Semarang,semarang,2,0,0,2,1,1,1987,1999
+639,Sendai,sendai,2,0,0,2,2,1,2013,2013
+640,Sincelejo,sincelejo,2,0,0,2,1,1,1996,2011
+641,Springfield,springfield-mo,2,0,0,2,1,1,2012,2025
+642,Tân An,tan-an,2,0,0,2,1,1,2005,2006
+643,Tarbes,tarbes,2,0,0,2,1,1,1920,1973
+644,Taunton,taunton,2,0,0,2,1,1,2023,2025
+645,Tbilisi,tbilisi,2,1,1,0,2,2,1962,1981
+646,Tétouan,tetouan,2,0,0,2,1,1,2012,2014
+647,Thunder Bay,thunder-bay,2,0,0,2,1,1,1922,1948
+648,Tianjin,tianjin,2,0,0,2,1,1,1960,1980
+649,Ufa,ufa,2,0,0,2,2,1,2008,2011
+650,Utica,utica,2,0,0,2,2,1,1886,1947
+651,Vientiane,vientiane,2,0,0,2,1,1,2025,2026
+652,Wenatchee,wenatchee,2,0,0,2,1,1,1957,1962
+653,West Lafayette,west-lafayette,2,0,0,2,2,2,1932,1999
+654,York,york,2,0,0,2,1,1,1925,1969
+655,Zacatepec,zacatepec,2,0,0,2,1,1,1955,1958
+656,Zaragoza,zaragoza,2,2,0,0,2,1,1964,1995
+657,Zlín,zlin,2,0,0,2,1,1,2004,2014
+658,Zurich,zurich,2,0,2,0,1,1,2009,2025
+659,Ahmedabad,ahmedabad,1,0,0,1,1,1,2022,2022
+660,Ahvaz,ahvaz,1,0,0,1,1,1,2005,2005
+661,Aizawl,aizawl,1,0,0,1,1,1,2017,2017
+662,Albi,albi,1,0,0,1,1,1,1951,1951
+663,Ängelholm,angelholm,1,0,1,0,1,1,2022,2022
+664,Ansbach,ansbach,1,0,0,1,1,1,1968,1968
+665,Auxerre,auxerre,1,0,0,1,1,1,1996,1996
+666,Awassa,awassa,1,0,0,1,1,1,2026,2026
+667,Bafang,bafang,1,0,0,1,1,1,1996,1996
+668,Bamenda,bamenda,1,0,0,1,1,1,2020,2020
+669,Barnsley,barnsley,1,0,0,1,1,1,1912,1912
+670,Basra,basra,1,0,0,1,1,1,1978,1978
+671,Basseterre,basseterre,1,0,0,1,1,1,2021,2021
+672,Bathurst,bathurst,1,0,0,1,1,1,2018,2018
+673,Belfast,belfast,1,0,1,0,1,1,1999,1999
+674,Belleville,belleville,1,0,0,1,1,1,1947,1947
+675,Beloit,beloit,1,0,0,1,1,1,1995,1995
+676,Bend,bend,1,0,0,1,1,1,1979,1979
+677,Berkane,berkane,1,0,0,1,1,1,2025,2025
+678,Bishkek,bishkek,1,0,0,1,1,1,1992,1992
+679,Blackpool,blackpool,1,0,0,1,1,1,1953,1953
+680,Bloomsburg,bloomsburg,1,0,0,1,1,1,1901,1901
+681,Bogota,bogota,1,0,1,0,1,1,2015,2015
+682,Bozeman,bozeman,1,0,0,1,1,1,1929,1929
+683,Bratislava,bratislava,1,1,0,0,1,1,1969,1969
+684,Breda,breda,1,0,0,1,1,1,1921,1921
+685,Brive-la-Gaillarde,brive-la-gaillarde,1,0,1,0,1,1,1997,1997
+686,Bucharest,bucharest,1,0,1,0,1,1,1986,1986
+687,Cagliari,cagliari,1,0,0,1,1,1,1970,1970
+688,Campinas,campinas,1,0,0,1,1,1,1978,1978
+689,Castellon,castellon,1,0,1,0,1,1,2021,2021
+690,Castries,castries,1,0,0,1,1,1,2024,2024
+691,Chandigarh,chandigarh,1,0,0,1,1,1,2018,2018
+692,Changchun,changchun,1,0,0,1,1,1,1965,1965
+693,Chapecó,chapeco,1,0,1,0,1,1,2016,2016
+694,Chengdu,chengdu,1,0,0,1,1,1,2016,2016
+695,Chlef,chlef,1,0,0,1,1,1,2011,2011
+696,Chonburi,chonburi,1,0,0,1,1,1,2007,2007
+697,Ciudad Juárez,ciudad-juarez,1,0,0,1,1,1,1982,1982
+698,Ciudad Quesada,ciudad-quesada,1,0,0,1,1,1,2019,2019
+699,Corunna,corunna,1,0,0,1,1,1,2000,2000
+700,Coventry,coventry,1,0,0,1,1,1,1987,1987
+701,Cranbrook (BC),cranbrook-bc,1,0,0,1,1,1,2002,2002
+702,Cuernavaca,cuernavaca,1,0,0,1,1,1,1954,1954
+703,Cusco,cusco,1,0,1,0,1,1,2003,2003
+704,Daejeon,daejeon,1,0,0,1,1,1,1999,1999
+705,Den Bosch,den-bosch,1,0,0,1,1,1,1948,1948
+706,Donetsk,donetsk,1,0,1,0,1,1,2009,2009
+707,El-Mahalla El-Kubra,el-mahalla-el-kubra,1,0,0,1,1,1,1973,1973
+708,Fargo,fargo,1,0,0,1,1,1,2022,2022
+709,Fayetteville,fayetteville-nc,1,0,0,1,1,1,2026,2026
+710,Flin Flon,flin-flon,1,0,0,1,1,1,1957,1957
+711,Fort Wayne,fort-wayne,1,0,0,1,1,1,2009,2009
+712,Freiburg,freiburg,1,0,0,1,1,1,1907,1907
+713,Frejus,frejus,1,0,0,1,1,1,1912,1912
+714,Galle,galle,1,0,0,1,1,1,2026,2026
+715,Geneva,geneva,1,0,1,0,1,1,2024,2024
+716,Georgetown (GUY),georgetown-guy,1,0,0,1,1,1,2023,2023
+717,Gondar,gondar,1,0,0,1,1,1,2021,2021
+718,Granada,granada,1,0,0,1,1,1,1958,1958
+719,Grand Junction,grand-junction,1,0,0,1,1,1,2022,2022
+720,Grenoble,grenoble,1,0,0,1,1,1,1954,1954
+721,Groningen,groningen,1,0,0,1,1,1,1920,1920
+722,Guasave,guasave,1,0,0,1,1,1,1971,1971
+723,Halifax (NS),halifax-ns,1,0,0,1,1,1,2013,2013
+724,Hangzhou,hangzhou,1,0,0,1,1,1,2025,2025
+725,Hobart,hobart,1,0,0,1,1,1,2025,2025
+726,Holguín,holguin,1,0,0,1,1,1,2001,2001
+727,Jaipur,jaipur,1,0,0,1,1,1,2008,2008
+728,Jeju City,jeju-city,1,0,0,1,1,1,1989,1989
+729,Jinan,jinan,1,0,0,1,1,1,1999,1999
+730,Jinja,jinja,1,0,0,1,1,1,2005,2005
+731,Jos,jos,1,0,0,1,1,1,2017,2017
+732,Kairouan,kairouan,1,0,0,1,1,1,1977,1977
+733,Kananga,kananga,1,0,0,1,1,1,1985,1985
+734,Kandy,kandy,1,0,0,1,1,1,2023,2023
+735,Kaohsiung,kaohsiung,1,0,0,1,1,1,2016,2016
+736,Karachi,karachi,1,0,0,1,1,1,2021,2021
+737,Karlovy Vary,karlovy-vary,1,0,0,1,1,1,2009,2009
+738,Kathmandu,kathmandu,1,0,0,1,1,1,2023,2023
+739,Kaunas,kaunas,1,0,1,0,1,1,1999,1999
+740,Kelowna,kelowna,1,0,0,1,1,1,2004,2004
+741,Kenora (ON),kenora-on,1,0,0,1,1,1,1907,1907
+742,Khouribga,khouribga,1,0,0,1,1,1,2007,2007
+743,Kilmarnock,kilmarnock,1,0,0,1,1,1,1965,1965
+744,Kimberley,kimberley,1,0,0,1,1,1,1990,1990
+745,Kuala Lumpur,kuala-lumpur,1,0,0,1,1,1,2006,2006
+746,Kuopio,kuopio,1,0,0,1,1,1,2025,2025
+747,Lafayette,lafayette,1,0,0,1,1,1,1975,1975
+748,Lagos,lagos,1,0,0,1,1,1,2025,2025
+749,Laredo,laredo,1,0,0,1,1,1,2015,2015
+750,Las Tablas,las-tablas,1,0,0,1,1,1,2021,2021
+751,Lebanon,lebanon,1,0,0,1,1,1,1906,1906
+752,Lens,lens,1,0,0,1,1,1,1998,1998
+753,Liberec,liberec,1,0,0,1,1,1,2016,2016
+754,Liberia,liberia,1,0,0,1,1,1,2009,2009
+755,Limoges,limoges,1,0,1,0,1,1,1993,1993
+756,Lubbock,lubbock,1,0,0,1,1,1,1993,1993
+757,Macau,macau,1,0,0,1,1,1,2026,2026
+758,Villahermosa,macuspana,1,0,0,1,1,1,1993,1993
+759,Makurdi,makurdi,1,0,0,1,1,1,1999,1999
+760,Manila,manila,1,0,0,1,1,1,2026,2026
+761,Manizales,manizales,1,0,1,0,1,1,2004,2004
+762,Marquette,marquette,1,0,0,1,1,1,1991,1991
+763,Martinsville,martinsville,1,0,0,1,1,1,1948,1948
+764,Mbeya,mbeya,1,0,0,1,1,1,1999,1999
+765,Mbuji-Mayi,mbuji-mayi,1,0,0,1,1,1,1983,1983
+766,Mechelen,mechelen,1,1,0,0,1,1,1988,1988
+767,Mekelle,mekelle,1,0,0,1,1,1,2019,2019
+768,Meknès,meknes,1,0,0,1,1,1,1995,1995
+769,Milton Keynes,milton-keynes,1,0,0,1,1,1,1988,1988
+770,Monclova,monclova-frontera,1,0,0,1,1,1,2019,2019
+771,Mont-de-Marsan,mont-de-marsan,1,0,0,1,1,1,1963,1963
+772,Morelia,morelia,1,0,0,1,1,1,2000,2000
+773,Most,most,1,0,0,1,1,1,2015,2015
+774,Mueang Chiang Rai,mueang-chiang-rai,1,0,0,1,1,1,2019,2019
+775,Multan,multan,1,0,0,1,1,1,2021,2021
+776,Namangan,namangan,1,0,0,1,1,1,1996,1996
+777,Nampula,nampula,1,0,0,1,1,1,2004,2004
+778,Norwich,norwich,1,0,0,1,1,1,2002,2002
+779,Oaxaca,oaxaca,1,0,0,1,1,1,1998,1998
+780,Olomouc,olomouc,1,0,0,1,1,1,1994,1994
+781,Oujda,oujda,1,0,0,1,1,1,1975,1975
+782,Oxford,oxford,1,0,0,1,1,1,1874,1874
+783,Oxford (MS),oxford-ms,1,0,0,1,1,1,2022,2022
+784,Paducah,paducah,1,0,0,1,1,1,1949,1949
+785,Panjin,panjin,1,0,1,0,1,1,1990,1990
+786,Peoria,peoria,1,0,0,1,1,1,2002,2002
+787,Peterborough (ON),peterborough-on,1,0,0,1,1,1,1979,1979
+788,Pilsen,pilsen,1,0,0,1,1,1,2013,2013
+789,Portage la Prairie,portage-la-prairie,1,0,0,1,1,1,1942,1942
+790,Portland,portland-me,1,0,0,1,1,1,2006,2006
+791,Poza Rica,poza-rica,1,0,0,1,1,1,1959,1959
+792,Prince Albert,prince-albert,1,0,0,1,1,1,1985,1985
+793,Pullman-Moscow,pullman-moscow,1,0,0,1,1,1,1917,1917
+794,Puntarenas,puntarenas,1,0,0,1,1,1,1987,1987
+795,Qarshi,qarshi,1,0,0,1,1,1,2024,2024
+796,Quetta,quetta,1,0,0,1,1,1,2019,2019
+797,Rangpur,rangpur,1,0,0,1,1,1,2018,2018
+798,Rauma,rauma,1,0,0,1,1,1,2021,2021
+799,Recife,recife,1,0,0,1,1,1,1987,1987
+800,Red Deer,red-deer,1,0,0,1,1,1,2001,2001
+801,Reynosa,reynosa,1,0,0,1,1,1,1969,1969
+802,Rimouski,rimouski,1,0,0,1,1,1,2000,2000
+803,Rockford,rockford,1,0,0,1,1,1,2004,2004
+804,Rouyn-Noranda,rouyn-noranda,1,0,0,1,1,1,2019,2019
+805,Saint-Louis,saint-louis,1,0,0,1,1,1,2009,2009
+806,San Luis Potosí,san-luis-potosi,1,0,0,1,1,1,1925,1925
+807,San Miguel (El Sal),san-miguel-el-sal,1,0,1,0,1,1,1977,1977
+808,Sancti Spíritus,sancti-spiritus,1,0,0,1,1,1,1978,1978
+809,Santa Ana (El Sal),santa-ana-el-sal,1,0,1,0,1,1,1980,1980
+810,Sarajevo,sarajevo,1,0,1,0,1,1,1979,1979
+811,Sault Ste. Marie (ON),sault-ste-marie-on,1,0,0,1,1,1,1993,1993
+812,Shawinigan,shawinigan,1,0,0,1,1,1,2012,2012
+813,Sioux Falls,sioux-falls,1,0,0,1,1,1,2008,2008
+814,St. John's (ANT),st-johns-ant,1,0,0,1,1,1,2026,2026
+815,Starkville,starkville,1,0,0,1,1,1,2021,2021
+816,Strasbourg,strasbourg,1,0,0,1,1,1,1979,1979
+817,Sudbury (ON),sudbury-on,1,0,0,1,1,1,1932,1932
+818,Swift Current,swift-current,1,0,0,1,1,1,1989,1989
+819,Tanga,tanga,1,0,0,1,1,1,1988,1988
+820,Tangier,tangier,1,0,0,1,1,1,2018,2018
+821,Tolyatti,tolyatti,1,0,0,1,1,1,1994,1994
+822,Townsville,townsville,1,0,0,1,1,1,2015,2015
+823,Traverse City,traverse-city,1,0,0,1,1,1,2015,2015
+824,Urumqi,urumqi,1,0,0,1,1,1,2017,2017
+825,Utrecht,utrecht,1,0,0,1,1,1,1958,1958
+826,Uyo,uyo,1,0,0,1,1,1,2021,2021
+827,Valence,valence,1,0,0,1,1,1,1970,1970
+828,Verona,verona,1,0,0,1,1,1,1985,1985
+829,Wichita Falls,wichita-falls,1,0,0,1,1,1,1927,1927
+830,Workington,workington,1,0,0,1,1,1,1951,1951
+831,Xalapa,xalapa,1,0,0,1,1,1,1926,1926
+832,Yenagoa,yenagoa,1,0,0,1,1,1,2009,2009

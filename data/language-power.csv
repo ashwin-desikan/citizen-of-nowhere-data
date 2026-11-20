@@ -1,0 +1,327 @@
+rank,language,slug,power,share_of_world,metros,per_million_speakers,metros_for_80pct,top_metro,top_metro_contribution
+1,English,english,5731,45.1,2672,3.32,268,London,176.99
+2,Mandarin Chinese,mandarin-chinese,1744.6,13.7,197,1.33,65,Beijing,102.69
+3,Spanish,spanish,1445,11.4,833,2.82,165,Madrid,66.73
+4,French,french,1099.2,8.6,959,3.26,133,Paris,139.49
+5,German,german,904.6,7.1,450,6.32,64,Rhine-Ruhr,57.15
+6,Standard Arabic,standard-arabic,523.3,4.1,211,1.31,54,Dubai-Sharjah,45.63
+7,Italian,italian,456,3.6,120,6.61,43,Milan,63.17
+8,Portuguese,portuguese,386.7,3,278,1.57,38,Sao Paulo,57.24
+9,Japanese,japanese,359.2,2.8,59,3.05,7,Tokyo,127.39
+10,Russian,russian,350.7,2.8,553,1.66,84,Moscow,70.98
+11,Korean,korean,260.2,2,25,3.33,7,Seoul,111
+12,Dutch,dutch,256.3,2,76,7.74,20,Amsterdam,50.4
+13,Yue Chinese,yue-chinese,179.7,1.4,2,2.2,35,Hong Kong,61.74
+14,Turkish,turkish,163.6,1.3,93,1.94,21,Istanbul,61.01
+15,Hindi,hindi,160.2,1.3,91,0.27,44,Mumbai,22.47
+16,Polish,polish,152.9,1.2,71,3.77,32,Warsaw,29.95
+17,Swedish,swedish,125.6,1,110,9.4,11,Stockholm,41.33
+18,Urdu,urdu,107.2,0.8,14,0.35,39,Lahore,14.54
+19,Wu Chinese,wu-chinese,97.1,0.8,0,1.15,55,Beijing,6.85
+20,Eastern Panjabi,eastern-panjabi,89.8,0.7,14,0.42,43,Lahore,10.71
+21,Modern Greek,modern-greek,89.4,0.7,60,7.24,14,Athens,32.67
+22,Standard Malay,standard-malay,87,0.7,17,2.34,5,Kuala Lumpur,38.77
+23,Min Nan Chinese,min-nan-chinese,85.9,0.7,6,2.13,22,Taipei,23.54
+24,Standard Indonesian,standard-indonesian,81.5,0.6,36,0.44,11,Jakarta,31.3
+25,Vietnamese,vietnamese,78.5,0.6,20,0.87,18,Ho Chi Minh City,20.12
+26,Bengali,bengali,78.5,0.6,13,0.28,28,Dhaka,18.62
+27,Eastern Low German,eastern-low-german,70.3,0.6,116,5.86,19,Rhine-Ruhr,7.54
+28,Danish,danish,69.5,0.5,32,9.51,10,Copenhagen,30.97
+29,Norwegian,norwegian,68.2,0.5,30,12.1,6,Oslo,26.4
+30,Thai,thai,66.8,0.5,22,1.27,3,Bangkok,43.6
+31,Western Farsi,western-farsi,63.6,0.5,44,0.7,31,Tehran,19.35
+32,Modern Hebrew,modern-hebrew,61.8,0.5,16,5.88,3,Tel-Aviv,34.3
+33,Filipino,filipino,60,0.5,15,0.84,22,Manila,30
+34,Catalan,catalan,56.4,0.4,105,6.54,17,Madrid,11.46
+35,Tamil,tamil,56.3,0.4,9,0.61,75,London,5.78
+36,Czech,czech,54.5,0.4,59,4.12,10,Prague,27.93
+37,Swahili,swahili,50.4,0.4,56,0.26,12,Nairobi,14.85
+38,Egyptian Arabic,egyptian-arabic,50.2,0.4,28,0.72,5,Cairo,29.44
+39,Hakka Chinese,hakka-chinese,49.7,0.4,6,1.42,48,Taipei,4.54
+40,Xiang Chinese,xiang-chinese,46.9,0.4,0,1.15,55,Beijing,3.31
+41,Finnish,finnish,46.8,0.4,36,7.99,5,Helsinki,22.47
+42,Romanian,romanian,46.3,0.4,64,2.16,47,Bucharest,13.14
+43,Levantine Arabic,levantine-arabic,45.3,0.4,42,0.96,11,Beirut,9.7
+44,Javanese,javanese,42.7,0.3,36,0.43,9,Jakarta,16.63
+45,Hungarian,hungarian,42.1,0.3,53,3.46,10,Budapest,27.4
+46,Gujarati,gujarati,39.5,0.3,0,0.59,84,London,5.24
+47,North Azerbaijani,north-azerbaijani,35.5,0.3,47,1.12,8,Baku,17.53
+48,Ukrainian,ukrainian,31.6,0.2,69,1.52,34,Kyiv,10.14
+49,Serbian Standard,serbian-standard,31.3,0.2,65,3.91,12,Belgrade,15.05
+50,Moroccan Arabic,moroccan-arabic,29.9,0.2,17,0.93,5,Rabat,8.09
+51,Tagalog,tagalog,29.2,0.2,0,10.9,58,San Francisco-San Jose,2.59
+52,Telugu,telugu,29.2,0.2,0,0.28,50,Mumbai,3.95
+53,Croatian Standard,croatian-standard,28,0.2,59,4.28,18,Zagreb,7.72
+54,Gan Chinese,gan-chinese,27.5,0.2,0,1.15,55,Beijing,1.94
+55,Lombard,lombard,26.7,0.2,0,7.16,23,Milan,3.79
+56,Zulu,zulu,26.6,0.2,24,1.7,4,Johannesburg,10.75
+57,Western Panjabi,western-panjabi,24.5,0.2,14,0.25,7,Lahore,6.12
+58,Marathi,marathi,23.5,0.2,0,0.23,23,Mumbai,3.84
+59,Kazakh,kazakh,22.6,0.2,23,1.51,11,Astana,7.55
+60,Galician,galician,22.2,0.2,0,6.36,16,Madrid,4.72
+61,Albanian,albanian,22.1,0.2,72,3.4,30,Tirana,3.3
+62,Central Khmer,central-khmer,20.7,0.2,5,1.3,2,Phnom Penh,12.73
+63,Malayalam,malayalam,20.6,0.2,0,0.44,24,Dubai-Sharjah,4.09
+64,Xhosa,xhosa,19.8,0.2,22,1.74,3,Johannesburg,8.06
+65,Northeastern Thai,northeastern-thai,19.7,0.2,22,1.25,3,Bangkok,13.08
+66,Kurdish,kurdish,17.5,0.1,10,1.37,38,Istanbul,3.61
+67,Sinhala,sinhala,17.2,0.1,8,1.15,4,Colombo,11.36
+68,Slovak,slovak,16.6,0.1,59,2.48,17,Prague,4.56
+69,Cebuano,cebuano,16.5,0.1,15,0.6,2,Manila,12
+70,Afrikaans,afrikaans,16.4,0.1,26,1.56,5,Johannesburg,5.82
+71,Pashto,pashto,16.4,0.1,23,0.28,11,Lahore,2.45
+72,Haitian,haitian,16.1,0.1,3,1.5,45,Port-au-Prince,2.02
+73,Uzbek,uzbek,16.1,0.1,16,0.45,9,Tashkent,7.65
+74,Bulgarian,bulgarian,15.4,0.1,25,2.07,13,Sofia,8.1
+75,Scots,scots,14.9,0.1,0,8.59,23,London,4.51
+76,Eastern Armenian,eastern-armenian,14.9,0.1,8,2.51,27,Yerevan,4.75
+77,Sundanese,sundanese,14.3,0.1,36,0.41,8,Jakarta,5.87
+78,Tunisian Arabic,tunisian-arabic,14.3,0.1,13,1.33,3,Tunis,8.55
+79,Georgian,georgian,13,0.1,20,3.62,3,Tbilisi,5.68
+80,Algerian Arabic,algerian-arabic,12.9,0.1,21,0.33,8,Algiers,7.3
+81,Quechua,quechua,12.9,0.1,46,1.09,8,Lima,3.1
+82,Occitan,occitan,12.9,0.1,0,6.22,24,Paris,4.31
+83,Kannada,kannada,12.4,0.1,0,0.23,23,Mumbai,2.03
+84,Lithuanian,lithuanian,11.8,0.1,15,4.46,6,Vilnius,4.21
+85,Western Flemish,western-flemish,11.5,0.1,31,9.61,5,Brussels,5.24
+86,Irish,irish,10.7,0.1,16,8.19,4,Dublin,7.04
+87,Odia,odia,10.7,0.1,0,0.23,22,Mumbai,1.75
+88,Tswana,tswana,10.6,0.1,4,1.59,5,Johannesburg,3.67
+89,Pedi,pedi,10.4,0.1,0,1.75,3,Johannesburg,4.21
+90,Bosnian Standard,bosnian-standard,10.2,0.1,26,2.81,8,Sarajevo,4.55
+91,Sindhi,sindhi,10.1,0.1,14,0.25,9,Lahore,2.29
+92,Slovenian,slovenian,10.1,0.1,17,5.03,6,Ljubljana,6.79
+93,Sichuan Yi,sichuan-yi,9.7,0.1,0,1.15,55,Beijing,0.68
+94,Uighur,uighur,9.5,0.1,0,1.17,59,Beijing,0.63
+95,Southern Sotho,southern-sotho,9.2,0.1,2,1.3,4,Johannesburg,3.54
+96,Nigerian Pidgin,nigerian-pidgin,9,0.1,32,0.19,11,Lagos,3.19
+97,Maltese,maltese,8.8,0.1,2,15.27,1,Valletta-Malta Island,8.8
+98,Bhojpuri,bhojpuri,8.8,0.1,0,0.25,26,Mumbai,1.26
+99,Limburgan,limburgan,8.3,0.1,0,8.3,7,Amsterdam,2.77
+100,Nepali,nepali,8.2,0.1,10,0.38,19,Kathmandu,1.63
+101,Burmese,burmese,7.9,0.1,9,0.24,4,Yangon,4.54
+102,Northern Thai,northern-thai,7.9,0.1,0,1.25,3,Bangkok,5.23
+103,Sudanese Arabic,sudanese-arabic,7.8,0.1,16,0.24,9,Khartoum,3.9
+104,Welsh,welsh,7.8,0.1,0,8.36,23,London,2.35
+105,Madurese,madurese,7.8,0.1,0,0.43,8,Jakarta,3.08
+106,Central Moroccan Berber,central-moroccan-berber,7.6,0.1,17,0.93,5,Rabat,2.05
+107,Moselle Franconian,moselle-franconian,7.4,0.1,4,16.06,1,Luxembourg City,7.04
+108,Saraiki,saraiki,7.4,0.1,14,0.25,7,Lahore,1.84
+109,Jamaican Creole English,jamaican-creole-english,7.3,0.1,4,2.78,1,Kingston,6.55
+110,Basque,basque,6.9,0.1,0,6.34,20,Madrid,1.35
+111,Iloko,iloko,6.8,0.1,0,0.62,3,Manila,4.8
+112,Walloon,walloon,6.7,0.1,0,9.61,5,Brussels,3.04
+113,Icelandic,icelandic,6.6,0.1,7,16.71,2,Reykjavík,5.1
+114,Southern Thai,southern-thai,6.6,0.1,0,1.25,3,Bangkok,4.36
+115,Somali,somali,6.5,0.1,3,0.28,14,Mogadishu,1.72
+116,Awadhi,awadhi,6.5,0.1,0,0.23,25,Mumbai,1.04
+117,Western Frisian,western-frisian,6.5,0.1,0,8.3,7,Amsterdam,2.17
+118,Hausa,hausa,6.4,0.1,37,0.15,16,Lagos,1.98
+119,Sardinian,sardinian,6.3,0,0,6.25,18,Milan,1.13
+120,Serbian-Croatian-Bosnian,serbian-croatian-bosnian,6.2,0,0,13.04,37,Zurich,0.87
+121,Mongolian,mongolian,6,0,1,0.86,40,Ulan Bator,1.77
+122,Paraguayan Guaraní,paraguayan-guarani,6,0,7,1.4,1,Asuncion,5.31
+123,Yoruba,yoruba,5.9,0,32,0.2,14,Lagos,1.98
+124,Hiligaynon,hiligaynon,5.8,0,0,0.6,2,Manila,4.2
+125,Venetian,venetian,5.7,0,0,4.27,29,Milan,0.86
+126,Amharic,amharic,5.7,0,21,0.15,10,Addis Ababa,2.87
+127,Macedonian,macedonian,5.7,0,17,3.63,17,Skopje,1.47
+128,Morisyen,morisyen,5.6,0,2,5.01,1,Port Louis,5.49
+129,Igbo,igbo,5.6,0,32,0.19,12,Lagos,1.98
+130,Balochi,balochi,5.6,0,0,0.65,11,Dubai-Sharjah,1.35
+131,Shona,shona,5.5,0,6,0.4,2,Harare,3.16
+132,Gronings,gronings,5.4,0,0,8.3,7,Amsterdam,1.81
+133,Tsonga,tsonga,5.3,0,0,0.96,5,Johannesburg,1.97
+134,Fula,fula,5.3,0,12,0.54,19,Dakar,1.2
+135,West Central Oromo,west-central-oromo,5.1,0,21,0.14,8,Addis Ababa,2.78
+136,Zhuang,zhuang,5,0,0,1.15,55,Beijing,0.35
+137,Wolof,wolof,5,0,6,0.37,2,Dakar,3.99
+138,Kikuyu,kikuyu,5,0,9,0.55,2,Nairobi,3.83
+139,Kinyarwanda,kinyarwanda,4.9,0,3,0.4,1,Kigali,4.39
+140,Maithili,maithili,4.9,0,9,0.24,25,Mumbai,0.66
+141,Tatar,tatar,4.9,0,0,1.4,22,Moscow,1.72
+142,Estonian,estonian,4.8,0,10,4.88,3,Talinn,3.34
+143,Picard,picard,4.7,0,0,6.22,24,Paris,1.58
+144,Coptic,coptic,4.7,0,0,0.72,5,Cairo,2.76
+145,Tajik,tajik,4.6,0,6,0.39,3,Dushanbe,3.3
+146,Latvian,latvian,4.6,0,7,4.1,2,Riga,3.6
+147,Akan,akan,4.6,0,10,0.34,3,Accra,2.73
+148,Belarusian,belarusian,4.4,0,19,1.54,15,Minsk,2.05
+149,Assamese,assamese,4.3,0,0,0.23,22,Mumbai,0.71
+150,Seselwa Creole French,seselwa-creole-french,4.2,0,3,34.93,1,Victoria (SEY),4.21
+151,Central-Eastern Kamta,central-eastern-kamta,4.1,0,0,0.24,16,Dhaka,1.24
+152,Asturian-Leonese-Cantabrian,asturian-leonese-cantabrian,4.1,0,0,6.35,16,Madrid,0.88
+153,Kelantan-Pattani Malay,kelantan-pattani-malay,4.1,0,0,1.25,3,Bangkok,2.73
+154,Piemontese,piemontese,4.1,0,0,6.25,18,Milan,0.73
+155,Haryanvi,haryanvi,4,0,0,0.23,22,Mumbai,0.66
+156,Magahi,magahi,4,0,0,0.23,22,Mumbai,0.66
+157,Marwari (India),marwari-india,4,0,0,0.23,22,Mumbai,0.66
+158,Central Aymara,central-aymara,3.8,0,9,1.34,5,La Paz,1.62
+159,Plateau Malagasy,plateau-malagasy,3.8,0,7,0.13,5,Antananarivo,1.98
+160,Eastern Yiddish,eastern-yiddish,3.7,0,0,4.29,50,Tel-Aviv,1.03
+161,Chhattisgarhi,chhattisgarhi,3.7,0,0,0.23,22,Mumbai,0.6
+162,Minangkabau,minangkabau,3.6,0,0,0.41,8,Jakarta,1.47
+163,Nyanja,nyanja,3.6,0,8,0.2,4,Blantyre,1.32
+164,Continental Southern Italian,continental-southern-italian,3.6,0,0,6.25,18,Milan,0.65
+165,Breton,breton,3.6,0,0,6.22,24,Paris,1.19
+166,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,tarifiyt-beni-iznasen-eastern-middle-atlas-berber,3.5,0,0,1.73,12,Amsterdam,0.6
+167,Tibetan,tibetan,3.3,0,0,1.1,61,Beijing,0.23
+168,Hmong,hmong,3.3,0,0,12.16,49,Minneapolis,0.49
+169,Deccani,dcc,3.3,0,0,0.23,22,Mumbai,0.54
+170,Hmong Daw,hmong-daw,3.3,0,0,1.5,86,Ho Chi Minh City,0.33
+171,Swati,swati,3.2,0,1,1.3,4,Johannesburg,1.21
+172,Bukusu,bukusu,3.2,0,9,0.55,2,Nairobi,2.48
+173,Ligurian,ligurian,3.2,0,0,6.25,18,Milan,0.57
+174,Najdi Arabic,najdi-arabic,3.2,0,0,2.99,4,Riyadh,1.11
+175,Turkmen,turkmen,3.2,0,5,0.39,9,Tehran,0.72
+176,Lao,lao,3.1,0,4,0.57,2,Luang Prabang,1.45
+177,Sicilian,sicilian,3,0,0,6.25,18,Milan,0.55
+178,Faroese,faroese,3,0,11,39.75,6,Torshavn,0.76
+179,Tachelhit,tachelhit,3,0,0,0.93,5,Rabat,0.81
+180,Latin,latin,3,0,1,4082.99,1,Vatican City,2.95
+181,Hassaniyya,hassaniyya,2.9,0,23,0.29,9,Algiers,0.97
+182,Fiji Hindi,fiji-hindi,2.9,0,3,7.76,2,Suva,1.89
+183,Luo (Kenya and Tanzania),luo-kenya-and-tanzania,2.9,0,0,0.55,2,Nairobi,2.21
+184,Central Okinawan,central-okinawan,2.8,0,0,3.01,7,Tokyo,1.03
+185,Mazanderani,mazanderani,2.8,0,0,0.64,7,Tehran,1.29
+186,Umbundu,umbundu,2.8,0,8,0.24,1,Luanda,2.2
+187,Fijian,fijian,2.7,0,3,7.76,2,Suva,1.79
+188,Chuvash,chuvash,2.7,0,0,1.4,22,Moscow,0.93
+189,Pontic,pontic,2.6,0,0,5.8,8,Athens,1.22
+190,Venda,venda,2.6,0,0,1.65,4,Johannesburg,1.03
+191,Gilaki,gilaki,2.6,0,0,0.64,7,Tehran,1.19
+192,Betawi,betawi,2.5,0,0,0.41,8,Jakarta,1.03
+193,Kimbundu,kimbundu,2.4,0,8,0.24,1,Luanda,1.9
+194,Samoan,samoan,2.4,0,3,7.66,3,Apia,1.5
+195,Navajo,navajo,2.3,0,0,13.64,37,Albuquerque,0.39
+196,Iban,iban,2.3,0,0,2.64,3,Kuala Lumpur,1.29
+197,Chechen,chechen,2.2,0,0,1.4,22,Moscow,0.79
+198,Hmong Njua,hmong-njua,2.2,0,0,2.94,90,Paris,0.27
+199,North-Central Talysh,north-central-talysh,2.2,0,0,2.21,1,Baku,1.93
+200,Kamba (Kenya),kamba-kenya,2.2,0,0,0.55,2,Nairobi,1.71
+201,Kipsigis,kipsigis,2.2,0,0,0.55,2,Nairobi,1.71
+202,Balinese,balinese,2.1,0,0,0.41,8,Jakarta,0.88
+203,Dimli,dimli,2.1,0,0,1.75,9,Istanbul,0.92
+204,Zeeuws,zeeuws,2.1,0,0,8.3,7,Amsterdam,0.71
+205,Sylheti,sylheti,2.1,0,0,0.24,7,Dhaka,0.95
+206,Coastal-Naga Bikol,coastal-naga-bikol,2.1,0,0,0.6,2,Manila,1.5
+207,Luba-Lulua,luba-lulua,2.1,0,0,0.18,8,Kinshasa,0.89
+208,Yucatec Maya,yucatec-maya,2,0,5,2.32,3,Cancun,0.97
+209,Waray (Philippines),waray-philippines,2,0,0,0.6,2,Manila,1.45
+210,Buginese,buginese,2,0,0,0.43,9,Jakarta,0.78
+211,Kirghiz,kirghiz,1.9,0,4,0.47,6,Bishkek,1.2
+212,Kanauji,kanauji,1.9,0,0,0.23,22,Mumbai,0.31
+213,Kabardian,kabardian,1.9,0,0,1.6,24,Istanbul,0.51
+214,Dzongkha,dzongkha,1.8,0,1,4.97,1,Thimphu,1.83
+215,Santali,santali,1.8,0,0,0.23,22,Mumbai,0.3
+216,Banjar,banjar,1.8,0,0,0.42,8,Jakarta,0.73
+217,South Ndebele,nr,1.8,0,0,1.75,3,Johannesburg,0.72
+218,Romansh,romansh,1.7,0,2,38.03,5,Davos,0.61
+219,Bambara,bambara,1.7,0,6,0.17,3,Bamako,1.15
+220,Ewe,ewe,1.7,0,11,0.33,3,Accra,0.77
+221,Krio,krio,1.7,0,4,0.2,1,Freetown,1.43
+222,Acehnese,acehnese,1.7,0,0,0.41,8,Jakarta,0.68
+223,Tigrinya,tigrinya,1.7,0,1,0.19,12,Addis Ababa,0.52
+224,Hunsrik,hunsrik,1.6,0,0,1.31,20,Sao Paulo,0.37
+225,Tok Pisin,tok-pisin,1.6,0,6,0.23,1,Port Moresby,1.42
+226,Bashkir,bashkir,1.6,0,0,1.4,22,Moscow,0.57
+227,Mingrelian,mingrelian,1.6,0,20,3.76,2,Tbilisi,0.73
+228,Pampanga,pampanga,1.6,0,0,0.61,3,Manila,1.15
+229,Silesian,silesian,1.6,0,0,3.27,13,Warsaw,0.41
+230,Sukuma,sukuma,1.6,0,0,0.26,4,Dar es Salaam,1
+231,Inland-Buhi-Daraga Bikol,inland-buhi-daraga-bikol,1.6,0,0,0.59,2,Manila,1.15
+232,Extremaduran,extremaduran,1.5,0,0,6.35,16,Madrid,0.33
+233,Kabyle,kabyle,1.5,0,0,0.41,13,Algiers,0.69
+234,Afar,afar,1.5,0,1,0.72,1,Djibouti,1.3
+235,Mewati,mewati,1.5,0,0,0.23,22,Mumbai,0.25
+236,Bemba (Zambia),bemba-zambia,1.5,0,5,0.22,3,Lusaka,0.78
+237,Maori,maori,1.5,0,0,9.7,3,Auckland,0.74
+238,Gusii,gusii,1.4,0,0,0.55,2,Nairobi,1.1
+239,Kashmiri,kashmiri,1.4,0,0,0.23,26,Mumbai,0.22
+240,Northern Khmer,northern-khmer,1.4,0,0,1.25,3,Bangkok,0.93
+241,Papiamento,papiamento,1.3,0,5,6.11,2,Willemstad,0.89
+242,Tahitian,tahitian,1.3,0,1,15.03,1,Papeete,1.3
+243,Northern Luri,northern-luri,1.3,0,0,0.61,10,Tehran,0.54
+244,Konkan Marathi,konkan-marathi,1.2,0,0,0.23,22,Mumbai,0.2
+245,Pennsylvania German,pennsylvania-german,1.2,0,0,8.25,69,New York,0.07
+246,Kru Pidgin English,kru-pidgin-english,1.2,0,1,0.3,1,Monrovia,1.18
+247,Meru,meru,1.2,0,0,0.55,2,Nairobi,0.9
+248,Mossi,mossi,1.2,0,4,0.12,3,Ouagadougou,0.6
+249,Sasak,sasak,1.2,0,0,0.41,8,Jakarta,0.47
+250,Batak Toba,batak-toba,1.1,0,0,0.41,8,Jakarta,0.45
+251,Goan Konkani,goan-konkani,1.1,0,0,0.24,26,Mumbai,0.18
+252,Negeri Sembilan Malay,negeri-sembilan-malay,1.1,0,0,2.64,3,Kuala Lumpur,0.62
+253,Domari,domari,1.1,0,0,0.64,7,Tehran,0.49
+254,Northern Hindko,northern-hindko,1,0,0,0.25,7,Lahore,0.26
+255,Corsican,corsican,1,0,0,6.22,24,Paris,0.35
+256,Ndau,ndau,1,0,0,0.23,6,Maputo,0.33
+257,Avar,avar,1,0,0,1.4,22,Moscow,0.34
+258,Pangasinan,pangasinan,1,0,0,0.61,2,Manila,0.7
+259,Bolivar-North Chimborazo Highland Quichua,bolivar-north-chimborazo-highland-quichua,1,0,0,0.94,4,Quito,0.43
+260,Shekhawati,shekhawati,0.9,0,0,0.23,22,Mumbai,0.15
+261,Dyula,dyula,0.9,0,4,0.12,3,Ouagadougou,0.48
+262,Kara-Kalpak,kara-kalpak,0.9,0,0,0.6,20,Tashkent,0.19
+263,Garhwali,garhwali,0.9,0,0,0.23,22,Mumbai,0.15
+264,Lambadi,lambadi,0.9,0,0,0.23,22,Mumbai,0.15
+265,West Circassian,west-circassian,0.9,0,0,1.56,17,Istanbul,0.26
+266,Makasar,makasar,0.9,0,0,0.41,8,Jakarta,0.36
+267,Shan,shan,0.9,0,0,0.26,5,Yangon,0.45
+268,Iron Ossetian,iron-ossetian,0.9,0,0,1.84,19,Moscow,0.19
+269,Kinshasa Lingala,kinshasa-lingala,0.8,0,0,0.21,12,Kinshasa,0.29
+270,Lampung Api,lampung-api,0.8,0,0,0.41,8,Jakarta,0.34
+271,Zimbabwean Ndebele,zimbabwean-ndebele,0.8,0,6,0.4,2,Harare,0.47
+272,Maguindanao,maguindanao,0.8,0,0,0.59,2,Manila,0.6
+273,Northern Gondi,northern-gondi,0.8,0,0,0.23,22,Mumbai,0.13
+274,Eastern Huasteca Nahuatl,eastern-huasteca-nahuatl,0.8,0,0,1.56,18,Mexico City,0.24
+275,Western Huasteca Nahuatl,western-huasteca-nahuatl,0.8,0,0,1.56,18,Mexico City,0.24
+276,Rundi,rundi,0.8,0,3,0.1,3,Bujumbura,0.5
+277,Makhuwa,makhuwa,0.8,0,10,0.17,5,Maputo,0.43
+278,Bakhtiari,bakhtiari,0.8,0,0,0.64,7,Tehran,0.36
+279,Sereer,sereer,0.8,0,6,0.37,1,Dakar,0.63
+280,Ladino,ladino,0.8,0,0,5.75,3,Tel-Aviv,0.45
+281,Tausug,tausug,0.7,0,0,0.59,2,Manila,0.55
+282,Masai,masai,0.7,0,0,0.39,4,Nairobi,0.36
+283,Brahui,brahui,0.7,0,0,0.25,7,Lahore,0.18
+284,Kumaoni,kumaoni,0.7,0,0,0.23,22,Mumbai,0.12
+285,Ganda,ganda,0.7,0,6,0.12,3,Kampala,0.48
+286,Baoulé,baoule,0.7,0,3,0.2,1,Abidjan,0.67
+287,Western Balochi,western-balochi,0.7,0,0,0.33,14,Tehran,0.14
+288,Central Mazahua,central-mazahua,0.7,0,0,1.56,18,Mexico City,0.21
+289,Rumelian Turkish,rumelian-turkish,0.7,0,0,1.75,9,Istanbul,0.3
+290,Beja,beja,0.7,0,0,0.24,9,Khartoum,0.35
+291,Tiv,tiv,0.7,0,0,0.19,11,Lagos,0.24
+292,Eastern Canadian Inuktitut,eastern-canadian-inuktitut,0.7,0,2,14.98,6,Iqaluit,0.16
+293,Mapudungun,mapudungun,0.7,0,0,2.23,4,Santiago,0.44
+294,Southern Luri,southern-luri,0.7,0,0,0.64,7,Tehran,0.31
+295,Latgalian,ltg,0.7,0,0,4.09,2,Riga,0.53
+296,Dogri,dogri,0.7,0,0,0.23,22,Mumbai,0.11
+297,Scottish Gaelic,scottish-gaelic,0.7,0,0,8.59,23,London,0.2
+298,Lisu,lisu,0.6,0,0,1.15,55,Beijing,0.05
+299,Kurukh,kurukh,0.6,0,0,0.23,22,Mumbai,0.1
+300,Erzya,erzya,0.6,0,0,1.4,22,Moscow,0.22
+301,Sassarese Sardinian,sassarese-sardinian,0.6,0,0,6.25,18,Milan,0.11
+302,Kumyk,kumyk,0.6,0,0,1.4,22,Moscow,0.22
+303,Sadri,sadri,0.6,0,0,0.23,22,Mumbai,0.1
+304,Waddar,waddar,0.6,0,0,0.23,22,Mumbai,0.1
+305,Efik,efik,0.6,0,0,0.19,11,Lagos,0.21
+306,Ibibio,ibibio,0.6,0,0,0.19,11,Lagos,0.21
+307,Kuanyama,kuanyama,0.6,0,4,0.56,1,Windhoek,0.49
+308,Nyamwezi,nyamwezi,0.6,0,0,0.26,4,Dar es Salaam,0.38
+309,Tshangla,tshangla,0.6,0,1,4.97,1,Thimphu,0.58
+310,Min Dong Chinese,min-dong-chinese,0.6,0,0,10.57,1,Singapore,0.58
+311,Sakha,sakha,0.6,0,0,1.4,22,Moscow,0.2
+312,Abron,abron,0.6,0,0,0.33,2,Accra,0.35
+313,Eastern Maninkakan,eastern-maninkakan,0.6,0,7,0.12,4,Conakry,0.23
+314,Meänkieli,meankieli,0.6,0,0,9.62,5,Stockholm,0.24
+315,Q'eqchi',q-eqchi,0.6,0,0,0.34,3,Guatemala City,0.35
+316,North Saami,north-saami,0.6,0,0,10.32,12,Stockholm,0.14
+317,North-Central Dargwa,north-central-dargwa,0.6,0,0,1.4,22,Moscow,0.19
+318,Rejang,rejang,0.5,0,0,0.41,8,Jakarta,0.22
+319,Kaqchikel,kaqchikel,0.5,0,0,0.33,2,Guatemala City,0.35
+320,Sidamo,sidamo,0.5,0,0,0.14,6,Addis Ababa,0.3
+321,Kangri,kangri,0.5,0,0,0.23,22,Mumbai,0.09
+322,K'iche',k-iche,0.5,0,0,0.33,2,Guatemala City,0.34
+323,Dari,dari,0.5,0,0,7.76,9,Toronto,0.14
+324,Mende (Sierra Leone),mende-sierra-leone,0.5,0,4,0.2,2,Freetown,0.41
+325,Ingush,ingush,0.5,0,0,1.4,22,Moscow,0.18
+326,Kadazan Dusun,kadazan-dusun,0.5,0,0,2.64,3,Kuala Lumpur,0.29

@@ -1,0 +1,33 @@
+rank,team,name,city,league,conference,division,elo,season,season_status,week,ratings_date,season_start_elo,season_peak_elo,record
+1,Buffalo Bills,Bills,Buffalo,NFL,AFC,AFC East,1707.7,2026,live,11,2026-11-19,1609.4,1707.7,8-1-0
+2,Jacksonville Jaguars,Jaguars,Jacksonville,NFL,AFC,AFC South,1653.7,2026,live,11,2026-11-19,1571.4,1653.7,7-2-0
+3,San Francisco 49ers,49ers,San Francisco,NFL,NFC,NFC West,1648.4,2026,live,11,2026-11-19,1563.1,1659.5,8-1-0
+4,Denver Broncos,Broncos,Denver,NFL,AFC,AFC West,1647.5,2026,live,11,2026-11-19,1607.9,1647.5,7-2-0
+5,Seattle Seahawks,Seahawks,Seattle,NFL,NFC,NFC West,1645.4,2026,live,11,2026-11-19,1676.3,1699.8,6-4-0
+6,Chicago Bears,Bears,Chicago,NFL,NFC,NFC North,1629.9,2026,live,11,2026-11-19,1531.6,1629.9,7-2-0
+7,Detroit Lions,Lions,Detroit,NFL,NFC,NFC North,1627.3,2026,live,11,2026-11-19,1558.7,1627.3,7-2-0
+8,Minnesota Vikings,Vikings,Minnesota,NFL,NFC,NFC North,1625.6,2026,live,11,2026-11-19,1552.2,1636,7-2-0
+9,Los Angeles Rams,Rams,Los Angeles,NFL,NFC,NFC West,1625.1,2026,live,11,2026-11-19,1612.5,1625.1,6-4-0
+10,Cincinnati  Bengals,Bengals,Cincinnati ,NFL,AFC,AFC North,1615.2,2026,live,11,2026-11-19,1483,1615.2,7-2-0
+11,Kansas City Chiefs,Chiefs,Kansas City,NFL,AFC,AFC West,1590.4,2026,live,11,2026-11-19,1491.7,1590.4,7-2-0
+12,Pittsburgh Steelers,Steelers,Pittsburgh,NFL,AFC,AFC North,1551.6,2026,live,11,2026-11-19,1512.1,1573.9,6-3-0
+13,Green Bay Packers,Packers,Green Bay,NFL,NFC,NFC North,1544.2,2026,live,11,2026-11-19,1529.3,1580.5,6-4-0
+14,Houston Texans,Texans,Houston,NFL,AFC,AFC South,1540.9,2026,live,11,2026-11-19,1610.3,1610.3,4-6-0
+15,New England Patriots,Patriots,New England,NFL,AFC,AFC East,1536.1,2026,live,11,2026-11-19,1598.8,1616.8,5-5-0
+16,Tampa Bay Buccaneers,Buccaneers,Tampa Bay,NFL,NFC,NFC South,1493.9,2026,live,11,2026-11-19,1482.8,1500.4,3-6-0
+17,New York Giants,Giants,New York,NFL,NFC,NFC East,1465.5,2026,live,11,2026-11-19,1426.9,1485.2,5-3-1
+18,Cleveland Browns,Browns,Cleveland,NFL,AFC,AFC North,1461.8,2026,live,11,2026-11-19,1426.7,1470,6-4-0
+19,Dallas Cowboys,Cowboys,Dallas,NFL,NFC,NFC East,1456.4,2026,live,11,2026-11-19,1461.5,1479.5,4-6-0
+20,Baltimore Ravens,Ravens,Baltimore,NFL,AFC,AFC North,1455.1,2026,live,11,2026-11-19,1546.6,1576.9,4-6-0
+21,Washington Commanders,Commanders,Washington,NFL,NFC,NFC East,1447.3,2026,live,11,2026-11-19,1464.9,1464.9,3-5-1
+22,Carolina Panthers,Panthers,Carolina,NFL,NFC,NFC South,1442.7,2026,live,11,2026-11-19,1433.3,1500.2,4-5-0
+23,Atlanta Falcons,Falcons,Atlanta,NFL,NFC,NFC South,1419.2,2026,live,11,2026-11-19,1475.3,1496.9,3-7-0
+24,New Orleans Saints,Saints,New Orleans,NFL,NFC,NFC South,1400.5,2026,live,11,2026-11-19,1440.8,1472.4,3-6-0
+25,Las Vegas Raiders,Raiders,Las Vegas,NFL,AFC,AFC West,1398.1,2026,live,11,2026-11-19,1351.1,1453.3,4-6-0
+26,Philadelphia Eagles,Eagles,Philadelphia,NFL,NFC,NFC East,1395.7,2026,live,11,2026-11-19,1559.6,1573.5,2-7-0
+27,Los Angeles Chargers,Chargers,Los Angeles,NFL,AFC,AFC West,1394.4,2026,live,11,2026-11-19,1530.5,1530.5,1-8-0
+28,Indianapolis Colts,Colts,Indianapolis,NFL,AFC,AFC South,1382.5,2026,live,11,2026-11-19,1470.7,1476.8,3-8-0
+29,Arizona Cardinals,Cardinals,Arizona,NFL,NFC,NFC West,1373.8,2026,live,11,2026-11-19,1395.3,1438.2,3-7-0
+30,Miami Dolphins,Dolphins,Miami,NFL,AFC,AFC East,1358.6,2026,live,11,2026-11-19,1461.5,1461.5,1-8-0
+31,New York Jets,Jets,New York,NFL,AFC,AFC East,1327.1,2026,live,11,2026-11-19,1364.3,1396.1,2-8-0
+32,Tennessee Titans,Titans,Tennessee,NFL,AFC,AFC South,1297.7,2026,live,11,2026-11-19,1359.6,1359.6,1-8-0
