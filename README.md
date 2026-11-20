@@ -1,6 +1,6 @@
 # Citizen of Nowhere open data: Elo ratings and rankings
 
-Free, daily-updated Elo ratings for the NFL, college football, NBA, NHL, MLB, WNBA, AFL, NRL, IPL and world football, plus the Global Metro Power Rankings and 12 other rankings, from Citizen of Nowhere (https://rankings.citizenofnowhere.org), every Elo series built on the site's own methodology (https://rankings.citizenofnowhere.org/methodology/elo): a free, maintained alternative to FiveThirtyEight's discontinued Elo ratings. Every file is a plain UTF-8 CSV with a header row, described in a Frictionless `datapackage.json`, and released under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Free, daily-updated Elo ratings for the NFL, college football, NBA, NHL, MLB, WNBA, AFL, NRL, IPL and world football, plus the Global Metro Power Rankings and 12 other rankings, from Citizen of Nowhere (https://rankings.citizenofnowhere.org), every Elo series on the method at https://rankings.citizenofnowhere.org/methodology/elo (the NFL, NBA, NHL and MLB historical series from Neil Paine's published game logs, the live seasons computed by the site): a free, maintained alternative to FiveThirtyEight's discontinued Elo ratings. Every file is a plain UTF-8 CSV with a header row, described in a Frictionless `datapackage.json`, and released under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 Last updated: 2026-11-20. 26 datasets, 38 CSV files. The repository is rewritten each morning and commits only when a dataset changed.
 
@@ -39,7 +39,7 @@ Released by Ashwin Desikan under Creative Commons Attribution-NonCommercial 4.0 
 
 ## NFL Elo ratings
 
-NFL Elo ratings is Citizen of Nowhere's own Elo rating of every NFL franchise since 1920, updated after each week's games (K 20, home advantage 65; method at https://rankings.citizenofnowhere.org/methodology/elo), a free, maintained alternative to FiveThirtyEight's discontinued NFL Elo. `data/nfl-elo.csv` holds 32 rows as of 2026-11-19, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
+NFL Elo ratings is Citizen of Nowhere Elo rating of every NFL franchise since 1920, updated after each week's games (K 20, home advantage 65; method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs), a free, maintained alternative to FiveThirtyEight's discontinued NFL Elo. `data/nfl-elo.csv` holds 32 rows as of 2026-11-19, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/nfl
 - Also: `data/nfl-elo-weekly.csv` (this season week by week), 384 rows
@@ -56,7 +56,7 @@ College football Elo ratings is the site's own Elo rating for every college foot
 
 ## NBA Elo ratings
 
-NBA Elo ratings is Citizen of Nowhere's own Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). `data/nba-elo.csv` holds 30 rows as of 2026-11-20, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
+NBA Elo ratings is Citizen of Nowhere Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs). `data/nba-elo.csv` holds 30 rows as of 2026-11-20, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/nba
 - Also: `data/nba-elo-weekly.csv` (this season week by week), 180 rows
@@ -65,7 +65,7 @@ NBA Elo ratings is Citizen of Nowhere's own Elo rating of every NBA (and ABA) te
 
 ## NHL Elo ratings
 
-NHL Elo ratings is Citizen of Nowhere's own Elo rating of every NHL (and WHA) team since 1917, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). `data/nhl-elo.csv` holds 32 rows as of 2026-11-20, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
+NHL Elo ratings is Citizen of Nowhere Elo rating of every NHL (and WHA) team since 1917, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs). `data/nhl-elo.csv` holds 32 rows as of 2026-11-20, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/nhl
 - Also: `data/nhl-elo-weekly.csv` (this season week by week), 288 rows
@@ -74,7 +74,7 @@ NHL Elo ratings is Citizen of Nowhere's own Elo rating of every NHL (and WHA) te
 
 ## MLB Elo ratings
 
-MLB Elo ratings is Citizen of Nowhere's own Elo rating of every Major League Baseball team since 1876, with the latest season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo). `data/mlb-elo.csv` holds 30 rows as of 2026-11-01, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
+MLB Elo ratings is Citizen of Nowhere Elo rating of every Major League Baseball team since 1876, with the latest season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs). `data/mlb-elo.csv` holds 30 rows as of 2026-11-01, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/mlb
 - Also: `data/mlb-elo-weekly.csv` (this season week by week), 990 rows
