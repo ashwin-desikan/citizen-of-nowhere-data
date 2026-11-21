@@ -14415,7 +14415,7 @@ season,rank,program,slug,elo,z,adj_z
 2026,5,Utah,utah-cfb,1918.6,1.98,1.99
 2026,6,Texas,texas-cfb,1910.4,1.94,1.95
 2026,7,Alabama,alabama-cfb,1890.4,1.84,1.86
-2026,8,Oregon,oregon-cfb,1864,1.72,1.73
+2026,8,Oregon,oregon-cfb,1876.8,1.78,1.79
 2026,9,Ohio State,ohio-state-cfb,1852.3,1.66,1.67
 2026,10,Iowa,iowa-cfb,1830.6,1.56,1.57
 2026,11,Tennessee,tennessee-cfb,1826.6,1.54,1.55
@@ -14429,75 +14429,75 @@ season,rank,program,slug,elo,z,adj_z
 2026,19,Oklahoma,oklahoma-cfb,1739.6,1.13,1.14
 2026,20,Louisville,louisville-cfb,1733.9,1.11,1.11
 2026,21,Arizona,arizona-cfb,1727.4,1.07,1.08
-2026,22,Duke,duke-cfb,1723.6,1.06,1.06
-2026,23,LSU,lsu-cfb,1722.9,1.05,1.06
-2026,24,Missouri,missouri-cfb,1696.6,0.93,0.93
-2026,25,Penn State,penn-state-cfb,1684,0.87,0.87
-2026,26,Washington,washington-cfb,1681.7,0.86,0.86
-2026,27,Memphis,memphis-cfb,1657.9,0.75,0.75
-2026,28,TX-San Antonio,tx-san-antonio-cfb,1651.4,0.72,0.72
+2026,22,LSU,lsu-cfb,1722.9,1.05,1.06
+2026,23,Missouri,missouri-cfb,1696.6,0.93,0.93
+2026,24,Penn State,penn-state-cfb,1684,0.87,0.87
+2026,25,Washington,washington-cfb,1681.7,0.86,0.86
+2026,26,Memphis,memphis-cfb,1657.9,0.75,0.75
+2026,27,TX-San Antonio,tx-san-antonio-cfb,1651.4,0.72,0.72
+2026,28,Duke,duke-cfb,1645.6,0.69,0.69
 2026,29,SMU,smu-cfb,1640.1,0.66,0.67
 2026,30,Illinois,illinois-cfb,1632.7,0.63,0.63
 2026,31,Auburn,auburn-cfb,1630.9,0.62,0.62
 2026,32,South Carolina,south-carolina-cfb,1630.3,0.62,0.62
 2026,33,Houston,houston-cfb,1630.2,0.62,0.62
 2026,34,Baylor,baylor-cfb,1619.5,0.56,0.57
-2026,35,Texas State,texas-state-cfb,1616.4,0.55,0.55
-2026,36,Kentucky,kentucky-cfb,1611.9,0.53,0.53
-2026,37,Arizona State,arizona-state-cfb,1606.7,0.5,0.51
-2026,38,Florida,florida-cfb,1606.5,0.5,0.51
-2026,39,North Texas,north-texas-cfb,1602.4,0.48,0.49
-2026,40,TCU,tcu-cfb,1600.6,0.48,0.48
-2026,41,Northwestern,northwestern-cfb,1598.8,0.47,0.47
-2026,42,Nebraska,nebraska-cfb,1598,0.46,0.47
-2026,43,Iowa State,iowa-state-cfb,1596.5,0.46,0.46
-2026,44,Michigan,michigan-cfb,1594,0.44,0.45
-2026,45,James Madison,james-madison-cfb,1593.7,0.44,0.45
-2026,46,Wisconsin,wisconsin-cfb,1592.2,0.44,0.44
-2026,47,Georgia Southern,georgia-southern-cfb,1583.4,0.39,0.4
-2026,48,Louisiana Tech,louisiana-tech-cfb,1582.6,0.39,0.39
-2026,49,New Mexico,new-mexico-cfb,1580.9,0.38,0.38
+2026,35,Clemson,clemson-cfb,1616.8,0.55,0.56
+2026,36,Texas State,texas-state-cfb,1616.4,0.55,0.55
+2026,37,Kentucky,kentucky-cfb,1611.9,0.53,0.53
+2026,38,New Mexico,new-mexico-cfb,1610.4,0.52,0.52
+2026,39,Arizona State,arizona-state-cfb,1606.7,0.5,0.51
+2026,40,Florida,florida-cfb,1606.5,0.5,0.51
+2026,41,North Texas,north-texas-cfb,1602.4,0.48,0.49
+2026,42,TCU,tcu-cfb,1600.6,0.48,0.48
+2026,43,Northwestern,northwestern-cfb,1598.8,0.47,0.47
+2026,44,Nebraska,nebraska-cfb,1598,0.46,0.47
+2026,45,Michigan,michigan-cfb,1594,0.44,0.45
+2026,46,James Madison,james-madison-cfb,1593.7,0.44,0.45
+2026,47,Wisconsin,wisconsin-cfb,1592.2,0.44,0.44
+2026,48,Georgia Southern,georgia-southern-cfb,1583.4,0.39,0.4
+2026,49,Louisiana Tech,louisiana-tech-cfb,1582.6,0.39,0.39
 2026,50,Arkansas,arkansas-cfb,1568.4,0.32,0.33
 2026,51,Western Michigan,western-michigan-cfb,1563.9,0.3,0.3
 2026,52,Texas A&M,texas-a-m-cfb,1561.6,0.29,0.29
-2026,53,Liberty,liberty-cfb,1551.8,0.24,0.25
-2026,54,Florida State,florida-state-cfb,1549.9,0.24,0.24
-2026,55,North Carolina,north-carolina-cfb,1547.4,0.22,0.23
-2026,56,Toledo,toledo-cfb,1546.7,0.22,0.22
+2026,53,Toledo,toledo-cfb,1556.2,0.27,0.27
+2026,54,Liberty,liberty-cfb,1551.8,0.24,0.25
+2026,55,Florida State,florida-state-cfb,1549.9,0.24,0.24
+2026,56,North Carolina,north-carolina-cfb,1547.4,0.22,0.23
 2026,57,Oklahoma State,oklahoma-state-cfb,1544.7,0.21,0.21
 2026,58,Vanderbilt,vanderbilt-cfb,1541.4,0.2,0.2
-2026,59,Clemson,clemson-cfb,1538.8,0.18,0.18
-2026,60,Stanford,stanford-cfb,1536.3,0.17,0.17
+2026,59,Stanford,stanford-cfb,1536.3,0.17,0.17
+2026,60,Air Force,air-force-cfb,1519.5,0.09,0.09
 2026,61,Tulsa,tulsa-cfb,1519.3,0.09,0.09
-2026,62,Air Force,air-force-cfb,1515.3,0.07,0.07
-2026,63,UNLV,unlv-cfb,1513.2,0.06,0.06
-2026,64,Virginia,virginia-cfb,1512.6,0.06,0.06
-2026,65,Cincinnati,cincinnati-cfb,1510.6,0.05,0.05
-2026,66,South Florida,south-florida-cfb,1509.9,0.05,0.05
-2026,67,Pittsburgh,pittsburgh-cfb,1508.7,0.04,0.04
-2026,68,Army,army-cfb,1508.6,0.04,0.04
-2026,69,East Carolina,east-carolina-cfb,1505,0.02,0.02
-2026,70,Buffalo,buffalo-cfb,1502.7,0.01,0.01
-2026,71,Minnesota,minnesota-cfb,1502.4,0.01,0.01
-2026,72,Fresno State,fresno-state-cfb,1499.4,0,0
-2026,73,Ohio,ohio-cfb,1498.5,-0.01,-0.01
-2026,74,Connecticut,connecticut-cfb,1497.6,-0.01,-0.01
-2026,75,Kansas,kansas-cfb,1495.3,-0.02,-0.02
-2026,76,LA-Lafayette,la-lafayette-cfb,1476,-0.11,-0.11
-2026,77,Miami (OH),miami-oh-cfb,1470.9,-0.14,-0.14
-2026,78,Virginia Tech,virginia-tech-cfb,1468.4,-0.15,-0.15
-2026,79,Florida Atlantic,florida-atlantic-cfb,1466.2,-0.16,-0.16
-2026,80,Navy,navy-cfb,1462,-0.18,-0.18
-2026,81,Wyoming,wyoming-cfb,1454.2,-0.22,-0.22
+2026,62,UNLV,unlv-cfb,1513.2,0.06,0.06
+2026,63,Virginia,virginia-cfb,1512.6,0.06,0.06
+2026,64,Cincinnati,cincinnati-cfb,1510.6,0.05,0.05
+2026,65,Central Florida,central-florida-cfb,1510.3,0.05,0.05
+2026,66,Iowa State,iowa-state-cfb,1510.2,0.05,0.05
+2026,67,South Florida,south-florida-cfb,1509.9,0.05,0.05
+2026,68,Pittsburgh,pittsburgh-cfb,1508.7,0.04,0.04
+2026,69,Army,army-cfb,1508.6,0.04,0.04
+2026,70,East Carolina,east-carolina-cfb,1505,0.02,0.02
+2026,71,Buffalo,buffalo-cfb,1502.7,0.01,0.01
+2026,72,Minnesota,minnesota-cfb,1502.4,0.01,0.01
+2026,73,Fresno State,fresno-state-cfb,1499.4,0,0
+2026,74,Ohio,ohio-cfb,1498.5,-0.01,-0.01
+2026,75,Connecticut,connecticut-cfb,1497.6,-0.01,-0.01
+2026,76,Kansas,kansas-cfb,1495.3,-0.02,-0.02
+2026,77,LA-Lafayette,la-lafayette-cfb,1476,-0.11,-0.11
+2026,78,Miami (OH),miami-oh-cfb,1470.9,-0.14,-0.14
+2026,79,Virginia Tech,virginia-tech-cfb,1468.4,-0.15,-0.15
+2026,80,Florida Atlantic,florida-atlantic-cfb,1466.2,-0.16,-0.16
+2026,81,Navy,navy-cfb,1462,-0.18,-0.18
 2026,82,Georgia Tech,georgia-tech-cfb,1453.4,-0.22,-0.22
 2026,83,North Carolina State,north-carolina-state-cfb,1453.2,-0.22,-0.22
-2026,84,Michigan State,michigan-state-cfb,1445.4,-0.26,-0.26
-2026,85,Mississippi State,mississippi-state-cfb,1442.7,-0.27,-0.27
-2026,86,UAB,uab-cfb,1440.3,-0.28,-0.28
-2026,87,Tulane,tulane-cfb,1434.8,-0.31,-0.31
-2026,88,Colorado,colorado-cfb,1434.5,-0.31,-0.31
+2026,84,Mississippi State,mississippi-state-cfb,1442.7,-0.27,-0.27
+2026,85,UAB,uab-cfb,1440.3,-0.28,-0.28
+2026,86,Tulane,tulane-cfb,1434.8,-0.31,-0.31
+2026,87,Colorado,colorado-cfb,1434.5,-0.31,-0.31
+2026,88,Michigan State,michigan-state-cfb,1432.6,-0.32,-0.32
 2026,89,San Diego State,san-diego-state-cfb,1426.8,-0.35,-0.35
-2026,90,Central Florida,central-florida-cfb,1424,-0.36,-0.36
+2026,90,Wyoming,wyoming-cfb,1424.7,-0.36,-0.36
 2026,91,North Dakota State,north-dakota-state-cfb,1422.5,-0.37,-0.37
 2026,92,Boston College,boston-college-cfb,1419.5,-0.38,-0.38
 2026,93,Syracuse,syracuse-cfb,1416.8,-0.39,-0.4
@@ -14531,7 +14531,7 @@ season,rank,program,slug,elo,z,adj_z
 2026,121,Missouri State,missouri-state-cfb,1244.2,-1.21,-1.22
 2026,122,Middle Tennessee State,middle-tennessee-state-cfb,1243.9,-1.21,-1.22
 2026,123,Eastern Michigan,eastern-michigan-cfb,1232.3,-1.26,-1.27
-2026,124,Bowling Green,bowling-green-cfb,1231.9,-1.27,-1.27
+2026,124,Bowling Green,bowling-green-cfb,1222.3,-1.31,-1.32
 2026,125,Rice,rice-cfb,1219.8,-1.32,-1.33
 2026,126,Colorado State,colorado-state-cfb,1191.2,-1.46,-1.47
 2026,127,New Mexico State,new-mexico-state-cfb,1178.2,-1.52,-1.53
@@ -14545,4 +14545,4 @@ season,rank,program,slug,elo,z,adj_z
 2026,135,Sacramento State,sacramento-state-cfb,1065.8,-2.05,-2.06
 2026,136,Sam Houston State,sam-houston-state-cfb,1034.8,-2.2,-2.21
 2026,137,Northern Illinois,northern-illinois-cfb,1024.8,-2.25,-2.26
-2026,138,UTEP,utep-cfb,1012.8,-2.3,-2.32
+2026,138,UTEP,utep-cfb,1008.6,-2.32,-2.34

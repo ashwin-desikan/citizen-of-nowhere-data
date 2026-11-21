@@ -2,26 +2,26 @@
 
 Free, daily-updated Elo ratings for the NFL, college football, NBA, NHL, MLB, WNBA, AFL, NRL, IPL and world football, plus the Global Metro Power Rankings and 12 other rankings, from Citizen of Nowhere (https://rankings.citizenofnowhere.org), every Elo series on the method at https://rankings.citizenofnowhere.org/methodology/elo (the NFL, NBA, NHL and MLB historical series from Neil Paine's published game logs, the live seasons computed by the site): a free, maintained alternative to FiveThirtyEight's discontinued Elo ratings. Every file is a plain UTF-8 CSV with a header row, described in a Frictionless `datapackage.json`, and released under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
-Last updated: 2026-11-20. 26 datasets, 38 CSV files. The repository is rewritten each morning and commits only when a dataset changed.
+Last updated: 2026-11-21. 26 datasets, 38 CSV files. The repository is rewritten each morning and commits only when a dataset changed.
 
 | Dataset | File | Rows | As of |
 |---|---|---:|---|
 | [NFL Elo ratings](#nfl-elo-ratings) | `data/nfl-elo.csv` | 32 | 2026-11-19 |
-| [College football Elo ratings](#college-football-elo-ratings) | `data/cfb-elo.csv` | 138 | 2026-11-19 |
-| [NBA Elo ratings](#nba-elo-ratings) | `data/nba-elo.csv` | 30 | 2026-11-20 |
+| [College football Elo ratings](#college-football-elo-ratings) | `data/cfb-elo.csv` | 138 | 2026-11-20 |
+| [NBA Elo ratings](#nba-elo-ratings) | `data/nba-elo.csv` | 30 | 2026-11-21 |
 | [NHL Elo ratings](#nhl-elo-ratings) | `data/nhl-elo.csv` | 32 | 2026-11-20 |
 | [MLB Elo ratings](#mlb-elo-ratings) | `data/mlb-elo.csv` | 30 | 2026-11-01 |
-| [WNBA Elo ratings](#wnba-elo-ratings) | `data/wnba-elo.csv` | 15 | 2026-11-20 |
+| [WNBA Elo ratings](#wnba-elo-ratings) | `data/wnba-elo.csv` | 15 | 2026-11-21 |
 | [AFL Elo ratings](#afl-elo-ratings) | `data/afl-elo.csv` | 18 | 2026-09-26 |
 | [NRL Elo ratings](#nrl-elo-ratings) | `data/nrl-elo.csv` | 17 | 2026-10-04 |
 | [IPL Elo ratings](#ipl-elo-ratings) | `data/ipl-elo.csv` | 15 | 2026-05-31 |
 | [World Club Elo](#world-club-elo) | `data/world-club-elo.csv` | 500 | 2026-11-15 |
-| [British and Irish club football Elo](#british-and-irish-club-football-elo) | `data/gbi-club-elo.csv` | 188 | 2026-11-20 |
+| [British and Irish club football Elo](#british-and-irish-club-football-elo) | `data/gbi-club-elo.csv` | 188 | 2026-11-21 |
 | [Football Elo ratings: men's national teams](#football-elo-ratings-mens-national-teams) | `data/football-elo-men.csv` | 256 | 2026-11-20 |
 | [Football Elo ratings: women's national teams](#football-elo-ratings-womens-national-teams) | `data/football-elo-women.csv` | 222 | 2026-11-20 |
-| [The Universal Index](#the-universal-index) | `data/universal-index.csv` | 431 | 2026-11-20 |
+| [The Universal Index](#the-universal-index) | `data/universal-index.csv` | 431 | 2026-11-21 |
 | [The Universal Index: Nations](#the-universal-index-nations) | `data/universal-nations.csv` | 1,489 | 2026-11-20 |
-| [The Women's Universal Index](#the-womens-universal-index) | `data/womens-universal-index.csv` | 103 | 2026-11-20 |
+| [The Women's Universal Index](#the-womens-universal-index) | `data/womens-universal-index.csv` | 103 | 2026-11-21 |
 | [Global Metro Power Rankings](#global-metro-power-rankings) | `data/global-metro-power-rankings.csv` | 4,319 | 2026-11-14 |
 | [Country composite ranking](#country-composite-ranking) | `data/country-composite.csv` | 247 | 2026-11-14 |
 | [Zone Zero Cup](#zone-zero-cup) | `data/zone-zero-cup.csv` | 227 | 2026-11-15 |
@@ -48,20 +48,20 @@ NFL Elo ratings is Citizen of Nowhere Elo rating of every NFL franchise since 19
 
 ## College football Elo ratings
 
-College football Elo ratings is the site's own Elo rating for every college football program, 1869 to today, with K 36, home advantage 60 and 15% regression to 1500 between seasons. `data/cfb-elo.csv` holds 138 rows as of 2026-11-19, with columns `rank`, `program`, `slug`, `elo`, `z`, `adj_z`, `season`.
+College football Elo ratings is the site's own Elo rating for every college football program, 1869 to today, with K 36, home advantage 60 and 15% regression to 1500 between seasons. `data/cfb-elo.csv` holds 138 rows as of 2026-11-20, with columns `rank`, `program`, `slug`, `elo`, `z`, `adj_z`, `season`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/cfb
 - Also: `data/cfb-elo-season-end.csv` (every program, every season), 14,547 rows
-- Cite: Desikan, A. (2026). College football Elo ratings (model v1.0, ratings updated 19 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/cfb
+- Cite: Desikan, A. (2026). College football Elo ratings (model v1.0, ratings updated 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/cfb
 
 ## NBA Elo ratings
 
-NBA Elo ratings is Citizen of Nowhere Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs). `data/nba-elo.csv` holds 30 rows as of 2026-11-20, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
+NBA Elo ratings is Citizen of Nowhere Elo rating of every NBA (and ABA) team since 1947, with this season updated week by week from results (method at https://rankings.citizenofnowhere.org/methodology/elo; historical series from Neil Paine's published game logs). `data/nba-elo.csv` holds 30 rows as of 2026-11-21, with columns `rank`, `team`, `name`, `city`, `league`, `conference`, `division`, `elo`, `season`, `season_status`, `week`, `ratings_date`, `season_start_elo`, `season_peak_elo`, `record`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/nba
 - Also: `data/nba-elo-weekly.csv` (this season week by week), 180 rows
 - Also: `data/nba-elo-season-end.csv` (every team, every season), 1,847 rows
-- Cite: Desikan, A. (2026). NBA Elo ratings (data as of 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/nba
+- Cite: Desikan, A. (2026). NBA Elo ratings (data as of 21 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/nba
 
 ## NHL Elo ratings
 
@@ -83,10 +83,10 @@ MLB Elo ratings is Citizen of Nowhere Elo rating of every Major League Baseball 
 
 ## WNBA Elo ratings
 
-WNBA Elo ratings is the site's own Elo rating of every WNBA team, as carried on the Women's Universal Index. `data/wnba-elo.csv` holds 15 rows as of 2026-11-20, with columns `rank`, `team`, `elo`, `season`, `in_season`, `days_idle`.
+WNBA Elo ratings is the site's own Elo rating of every WNBA team, as carried on the Women's Universal Index. `data/wnba-elo.csv` holds 15 rows as of 2026-11-21, with columns `rank`, `team`, `elo`, `season`, `in_season`, `days_idle`.
 
 - Page: https://rankings.citizenofnowhere.org/teams/wnba
-- Cite: Desikan, A. (2026). WNBA Elo ratings (data as of 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/wnba
+- Cite: Desikan, A. (2026). WNBA Elo ratings (data as of 21 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/teams/wnba
 
 ## AFL Elo ratings
 
@@ -120,10 +120,10 @@ World Club Elo is the site's own Elo rating of the world's top 500 men's footbal
 
 ## British and Irish club football Elo
 
-British and Irish club football Elo is the site's own Elo ranking of every men's league club in England, Scotland, Wales, Northern Ireland and Ireland on one list. `data/gbi-club-elo.csv` holds 188 rows as of 2026-11-20, with columns `rank`, `club`, `country`, `division`, `tier`, `rating`, `elo`.
+British and Irish club football Elo is the site's own Elo ranking of every men's league club in England, Scotland, Wales, Northern Ireland and Ireland on one list. `data/gbi-club-elo.csv` holds 188 rows as of 2026-11-21, with columns `rank`, `club`, `country`, `division`, `tier`, `rating`, `elo`.
 
 - Page: https://rankings.citizenofnowhere.org/sports/great-britain-ireland
-- Cite: Desikan, A. (2026). British and Irish club football Elo (data as of 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/great-britain-ireland
+- Cite: Desikan, A. (2026). British and Irish club football Elo (data as of 21 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/great-britain-ireland
 
 ## Football Elo ratings: men's national teams
 
@@ -141,10 +141,10 @@ Football Elo ratings: women's national teams is the site's own Elo rating of eve
 
 ## The Universal Index
 
-The Universal Index is a cross-sport, day-by-day leaderboard of the strongest teams in the NFL, college football, MLB, NBA, NHL, IPL and men's club football, each team's Elo placed on one common scale so a Bundesliga club and an NBA side can be compared. `data/universal-index.csv` holds 431 rows as of 2026-11-20, with columns `rank`, `team`, `league`, `team_id`, `season`, `elo`, `universal`, `z`, `rank_in_league`, `in_season`, `days_idle`.
+The Universal Index is a cross-sport, day-by-day leaderboard of the strongest teams in the NFL, college football, MLB, NBA, NHL, IPL and men's club football, each team's Elo placed on one common scale so a Bundesliga club and an NBA side can be compared. `data/universal-index.csv` holds 431 rows as of 2026-11-21, with columns `rank`, `team`, `league`, `team_id`, `season`, `elo`, `universal`, `z`, `rank_in_league`, `in_season`, `days_idle`.
 
 - Page: https://rankings.citizenofnowhere.org/sports/universal
-- Cite: Desikan, A. (2026). The Universal Index (data as of 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/universal
+- Cite: Desikan, A. (2026). The Universal Index (data as of 21 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/universal
 
 ## The Universal Index: Nations
 
@@ -155,11 +155,11 @@ The Universal Index: Nations is a cross-sport leaderboard of national teams that
 
 ## The Women's Universal Index
 
-The Women's Universal Index is a cross-sport leaderboard of the strongest women's teams (club football, the NWSL, WNBA, PWHL, LOVB, the Hundred and the WPL) with each team's Elo placed on one common scale. `data/womens-universal-index.csv` holds 103 rows as of 2026-11-20, with columns `rank`, `team`, `league`, `team_id`, `season`, `elo`, `universal`, `z`, `rank_in_league`, `in_season`, `days_idle`, `attribution`.
+The Women's Universal Index is a cross-sport leaderboard of the strongest women's teams (club football, the NWSL, WNBA, PWHL, LOVB, the Hundred and the WPL) with each team's Elo placed on one common scale. `data/womens-universal-index.csv` holds 103 rows as of 2026-11-21, with columns `rank`, `team`, `league`, `team_id`, `season`, `elo`, `universal`, `z`, `rank_in_league`, `in_season`, `days_idle`, `attribution`.
 
 - Page: https://rankings.citizenofnowhere.org/sports/women/universal
 - Credit: Rows carry their own attribution where an upstream licence asks for one: Match data: Cricsheet (cricsheet.org), ODC-BY 1.0.
-- Cite: Desikan, A. (2026). The Women's Universal Index (data as of 20 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/women/universal
+- Cite: Desikan, A. (2026). The Women's Universal Index (data as of 21 Nov 2026). Citizen of Nowhere. https://rankings.citizenofnowhere.org/sports/women/universal
 
 ## Global Metro Power Rankings
 
