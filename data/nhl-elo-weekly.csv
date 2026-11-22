@@ -255,35 +255,35 @@ season,week,date,team,elo,rank,change,record,seed
 2027,7,2026-11-15,San Jose Sharks,1450.3,30,8.1,10-11-0-2,false
 2027,7,2026-11-15,Chicago Blackhawks,1413.3,31,0.7,5-13-0-2,false
 2027,7,2026-11-15,Vancouver Canucks,1402.3,32,-0.3,4-17-0-1,false
-2027,8,2026-11-22,Carolina Hurricanes,1600.4,1,-3.5,16-3-0-3,false
-2027,8,2026-11-22,Minnesota Wild,1572.6,2,7.2,17-3-0-4,false
-2027,8,2026-11-22,Colorado Avalanche,1569.4,3,-1.3,13-7-0-3,false
+2027,8,2026-11-22,Carolina Hurricanes,1603.8,1,-0.1,17-3-0-3,false
+2027,8,2026-11-22,Colorado Avalanche,1569.4,2,-1.3,13-7-0-3,false
+2027,8,2026-11-22,Minnesota Wild,1569,3,3.6,17-3-0-5,false
 2027,8,2026-11-22,Tampa Bay Lightning,1566.9,4,6.8,15-5-0-2,false
-2027,8,2026-11-22,Edmonton Oilers,1547.8,5,1.4,17-4-0-3,false
-2027,8,2026-11-22,Dallas Stars,1544.7,6,5.2,14-6-0-2,false
-2027,8,2026-11-22,Montreal Canadiens,1541.9,7,2.2,14-5-0-4,false
-2027,8,2026-11-22,Ottawa Senators,1534,8,-0.8,14-6-0-3,false
-2027,8,2026-11-22,Vegas Golden Knights,1530.5,9,-5.2,13-6-0-5,false
-2027,8,2026-11-22,Boston Bruins,1529.7,10,-1.1,14-7-0-1,false
-2027,8,2026-11-22,New Jersey Devils,1526.8,11,-2.6,15-7-0-0,false
-2027,8,2026-11-22,Buffalo Sabres,1519.3,12,2.6,9-9-0-4,false
-2027,8,2026-11-22,Florida Panthers,1514.9,13,-4.7,12-8-0-3,false
-2027,8,2026-11-22,Washington Capitals,1510.8,14,-8.7,10-10-0-0,false
-2027,8,2026-11-22,St. Louis Blues,1509,15,8.1,11-9-0-2,false
+2027,8,2026-11-22,Dallas Stars,1544.7,5,5.2,14-6-0-2,false
+2027,8,2026-11-22,Edmonton Oilers,1544.4,6,-2,17-5-0-3,false
+2027,8,2026-11-22,Montreal Canadiens,1538.7,7,-0.9,14-6-0-4,false
+2027,8,2026-11-22,Ottawa Senators,1536.7,8,1.9,15-6-0-3,false
+2027,8,2026-11-22,Boston Bruins,1532.9,9,2.1,15-7-0-1,false
+2027,8,2026-11-22,Vegas Golden Knights,1532.8,10,-2.8,14-6-0-5,false
+2027,8,2026-11-22,New Jersey Devils,1522.4,11,-7,15-8-0-0,false
+2027,8,2026-11-22,Florida Panthers,1517.1,12,-2.5,13-8-0-3,false
+2027,8,2026-11-22,Buffalo Sabres,1517.1,13,0.4,9-10-0-4,false
+2027,8,2026-11-22,St. Louis Blues,1513.5,14,12.5,12-9-0-2,false
+2027,8,2026-11-22,Washington Capitals,1507.6,15,-11.9,10-11-0-0,false
 2027,8,2026-11-22,New York Rangers,1506.5,16,3.9,13-8-0-1,false
-2027,8,2026-11-22,Utah Mammoth,1502.6,17,1.5,11-9-0-3,false
-2027,8,2026-11-22,Nashville Predators,1498.6,18,-3.7,11-6-0-5,false
-2027,8,2026-11-22,Winnipeg Jets,1495.9,19,-0.1,11-9-0-3,false
-2027,8,2026-11-22,New York Islanders,1495,20,2.4,10-6-0-5,false
-2027,8,2026-11-22,Columbus Blue Jackets,1485.9,21,-1.2,8-12-0-0,false
-2027,8,2026-11-22,Pittsburgh Penguins,1484.8,22,-4.9,7-12-0-2,false
-2027,8,2026-11-22,Philadelphia Flyers,1483,23,5.6,8-11-0-6,false
-2027,8,2026-11-22,Anaheim Ducks,1479.8,24,-7.2,11-11-0-1,false
-2027,8,2026-11-22,Detroit Red Wings,1477.4,25,-5,8-11-0-3,false
-2027,8,2026-11-22,Seattle Kraken,1474.1,26,3.7,10-8-0-1,false
-2027,8,2026-11-22,Los Angeles Kings,1472.2,27,8.8,7-11-0-2,false
-2027,8,2026-11-22,Toronto Maple Leafs,1460.6,28,-7.6,8-13-0-3,false
-2027,8,2026-11-22,Calgary Flames,1459.1,29,1.5,10-12-0-1,false
-2027,8,2026-11-22,San Jose Sharks,1445.3,30,-5,10-12-0-2,false
-2027,8,2026-11-22,Chicago Blackhawks,1414.9,31,1.6,6-14-0-2,false
-2027,8,2026-11-22,Vancouver Canucks,1402.4,32,0.2,5-18-0-1,false
+2027,8,2026-11-22,Utah Mammoth,1504.6,17,3.5,12-9-0-3,false
+2027,8,2026-11-22,Nashville Predators,1500.7,18,-1.6,12-6-0-5,false
+2027,8,2026-11-22,New York Islanders,1497.5,19,4.9,11-6-0-5,false
+2027,8,2026-11-22,Winnipeg Jets,1493.5,20,-2.5,11-9-0-4,false
+2027,8,2026-11-22,Columbus Blue Jackets,1488.4,21,1.2,9-12-0-0,false
+2027,8,2026-11-22,Philadelphia Flyers,1486.2,22,8.8,9-11-0-6,false
+2027,8,2026-11-22,Pittsburgh Penguins,1482.7,23,-6.9,7-13-0-2,false
+2027,8,2026-11-22,Anaheim Ducks,1477.8,24,-9.2,11-12-0-1,false
+2027,8,2026-11-22,Detroit Red Wings,1474.9,25,-7.5,8-12-0-3,false
+2027,8,2026-11-22,Seattle Kraken,1471.7,26,1.2,10-9-0-1,false
+2027,8,2026-11-22,Los Angeles Kings,1469.5,27,6.1,7-12-0-2,false
+2027,8,2026-11-22,Toronto Maple Leafs,1458.1,28,-10.1,8-14-0-3,false
+2027,8,2026-11-22,Calgary Flames,1456,29,-1.5,10-12-0-2,false
+2027,8,2026-11-22,San Jose Sharks,1447.8,30,-2.6,11-12-0-2,false
+2027,8,2026-11-22,Chicago Blackhawks,1418,31,4.7,7-14-0-2,false
+2027,8,2026-11-22,Vancouver Canucks,1406,32,3.7,6-18-0-1,false

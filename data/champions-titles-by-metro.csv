@@ -1,5 +1,5 @@
 rank,metro,metro_slug,titles,international_titles,continental_titles,domestic_titles,competitions,sports,first_title_year,last_title_year
-1,Buenos Aires,buenos-aires,217,0,40,177,4,1,1891,2025
+1,Buenos Aires,buenos-aires,218,0,41,177,4,1,1891,2026
 2,Central Islip,new-york,190,0,0,190,12,7,1869,2026
 3,London,london,184,6,19,159,17,5,1872,2026
 4,Tokorozawa,tokyo,158,0,6,152,6,2,1937,2025
@@ -210,31 +210,31 @@ rank,metro,metro_slug,titles,international_titles,continental_titles,domestic_ti
 209,Athens,athens,12,0,12,0,2,2,1996,2026
 210,Changwon,busan-ulsan,12,0,3,9,3,2,1984,2021
 211,Calcutta,calcutta,12,0,0,12,2,2,1998,2024
-212,Fresno,fresno,12,0,0,12,4,1,1952,2015
-213,Gainesville,gainesville,12,0,0,12,4,3,1936,2025
-214,Gummersbach,gummersbach,12,0,0,12,1,1,1966,1991
-215,Gwangju,gwangju,12,0,0,12,1,1,1983,2024
-216,Hull,hull,12,0,0,12,1,1,1920,2025
-217,Jeddah,jeddah,12,0,4,8,2,1,1978,2026
-218,Johor Bahru,johor-bahru,12,0,0,12,1,1,2014,2026
-219,Lae,lae,12,0,0,12,1,1,2001,2022
-220,Nagoya,nagoya,12,0,0,12,3,2,1954,2011
-221,Newcastle,newcastle,12,1,0,11,4,2,1905,1998
-222,Nuremberg,nuremberg,12,0,0,12,1,1,1914,1968
-223,Omaha,omaha-lincoln,12,0,0,12,5,2,1970,2024
-224,Ponce,ponce,12,0,0,12,2,1,1941,2008
-225,Port Moresby,port-moresby,12,0,1,11,2,1,2006,2024
-226,Salzburg,salzburg,12,0,0,12,1,1,2007,2025
-227,Sheffield,sheffield,12,0,0,12,2,1,1896,1935
-228,Shenyang,shenyang,12,0,0,12,2,2,1978,2024
-229,Sousse,sousse,12,0,1,11,2,1,1950,2023
-230,St. Petersburg,st-petersburg,12,0,1,11,3,3,1922,2017
-231,Veracruz,veracruz,12,0,0,12,2,2,1937,2012
-232,Aba,aba,11,0,2,9,2,1,2001,2023
-233,Al Ain,al-ain,11,0,2,9,2,1,1977,2024
-234,Albuquerque,albuquerque,11,0,0,11,2,1,1965,1994
-235,Buriram,buriram,11,0,0,11,1,1,2011,2026
-236,Calgary,calgary,11,0,0,11,4,3,1926,2024
+212,Calgary,calgary,12,0,0,12,4,3,1926,2026
+213,Fresno,fresno,12,0,0,12,4,1,1952,2015
+214,Gainesville,gainesville,12,0,0,12,4,3,1936,2025
+215,Gummersbach,gummersbach,12,0,0,12,1,1,1966,1991
+216,Gwangju,gwangju,12,0,0,12,1,1,1983,2024
+217,Hull,hull,12,0,0,12,1,1,1920,2025
+218,Jeddah,jeddah,12,0,4,8,2,1,1978,2026
+219,Johor Bahru,johor-bahru,12,0,0,12,1,1,2014,2026
+220,Lae,lae,12,0,0,12,1,1,2001,2022
+221,Nagoya,nagoya,12,0,0,12,3,2,1954,2011
+222,Newcastle,newcastle,12,1,0,11,4,2,1905,1998
+223,Nuremberg,nuremberg,12,0,0,12,1,1,1914,1968
+224,Omaha,omaha-lincoln,12,0,0,12,5,2,1970,2024
+225,Ponce,ponce,12,0,0,12,2,1,1941,2008
+226,Port Moresby,port-moresby,12,0,1,11,2,1,2006,2024
+227,Salzburg,salzburg,12,0,0,12,1,1,2007,2025
+228,Sheffield,sheffield,12,0,0,12,2,1,1896,1935
+229,Shenyang,shenyang,12,0,0,12,2,2,1978,2024
+230,Sousse,sousse,12,0,1,11,2,1,1950,2023
+231,St. Petersburg,st-petersburg,12,0,1,11,3,3,1922,2017
+232,Veracruz,veracruz,12,0,0,12,2,2,1937,2012
+233,Aba,aba,11,0,2,9,2,1,2001,2023
+234,Al Ain,al-ain,11,0,2,9,2,1,1977,2024
+235,Albuquerque,albuquerque,11,0,0,11,2,1,1965,1994
+236,Buriram,buriram,11,0,0,11,1,1,2011,2026
 237,Genoa,genoa,11,1,0,10,2,1,1898,1991
 238,Gothenburg,gothenburg,11,0,7,4,3,2,1982,2026
 239,Libreville,libreville,11,0,0,11,1,1,1978,2011

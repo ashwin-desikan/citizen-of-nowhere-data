@@ -1,31 +1,31 @@
 rank,team,name,city,league,conference,division,elo,season,season_status,week,ratings_date,season_start_elo,season_peak_elo,record
-1,San Antonio Spurs,Spurs,San Antonio,NBA,Western,Southwest,1703.2,2027,live,5,2026-11-21,1693.9,1713.6,13-3
-2,New York Knicks,Knicks,New York,NBA,Eastern,Atlantic,1661.3,2027,live,5,2026-11-21,1673.2,1673.2,9-6
-3,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,Western,Northwest,1643.8,2027,live,5,2026-11-21,1662.9,1678.2,10-6
-4,Detroit Pistons,Pistons,Detroit,NBA,Eastern,Central,1637.9,2027,live,5,2026-11-21,1620.7,1639.8,10-5
-5,Boston Celtics,Celtics,Boston,NBA,Eastern,Atlantic,1621.8,2027,live,5,2026-11-21,1585.8,1636.8,11-4
-6,Houston Rockets,Rockets,Houston,NBA,Western,Southwest,1602.7,2027,live,5,2026-11-21,1573.8,1612,12-5
-7,Los Angeles Lakers,Lakers,Los Angeles,NBA,Western,Pacific,1585.6,2027,live,5,2026-11-21,1555.7,1600.7,14-3
-8,Denver Nuggets,Nuggets,Denver,NBA,Western,Northwest,1580.7,2027,live,5,2026-11-21,1589.2,1589.2,9-5
-9,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,Western,Northwest,1574.2,2027,live,5,2026-11-21,1534.4,1581.6,11-5
-10,Philadelphia 76ers,76ers,Philadelphia,NBA,Eastern,Atlantic,1564.1,2027,live,5,2026-11-21,1533.1,1564.1,13-3
-11,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,Eastern,Central,1560.5,2027,live,5,2026-11-21,1563.7,1569.6,9-8
-12,Portland Trail Blazers,Trail Blazers,Portland,NBA,Western,Northwest,1547.9,2027,live,5,2026-11-21,1504.6,1548.6,10-5
-13,Atlanta Hawks,Hawks,Atlanta,NBA,Eastern,Southeast,1547.6,2027,live,5,2026-11-21,1533.3,1561.1,10-6
-14,Miami Heat,Heat,Miami,NBA,Eastern,Southeast,1529.1,2027,live,5,2026-11-21,1517.6,1529.1,9-6
-15,Phoenix Suns,Suns,Phoenix,NBA,Western,Pacific,1522.8,2027,live,5,2026-11-21,1520.2,1522.8,8-7
-16,Orlando Magic,Magic,Orlando,NBA,Eastern,Southeast,1519,2027,live,5,2026-11-21,1537.3,1537.3,7-8
-17,Toronto Raptors,Raptors,Toronto,NBA,Eastern,Atlantic,1514.9,2027,live,5,2026-11-21,1543.8,1549.6,6-10
-18,Charlotte Hornets,Hornets,Charlotte,NBA,Eastern,Southeast,1486.5,2027,live,5,2026-11-21,1572.8,1572.8,4-11
-19,Golden State Warriors,Warriors,Golden State,NBA,Western,Pacific,1484.7,2027,live,5,2026-11-21,1477,1516.7,8-8
-20,Los Angeles Clippers,Clippers,Los Angeles,NBA,Western,Pacific,1471.5,2027,live,5,2026-11-21,1526.2,1526.2,4-10
-21,Memphis Grizzlies,Grizzlies,Memphis,NBA,Western,Southwest,1471.1,2027,live,5,2026-11-21,1379.7,1471.1,12-4
-22,Dallas Mavericks,Mavericks,Dallas,NBA,Western,Southwest,1442.8,2027,live,5,2026-11-21,1414.8,1448.6,8-7
-23,Chicago Bulls,Bulls,Chicago,NBA,Eastern,Central,1406.7,2027,live,5,2026-11-21,1402.9,1406.7,4-11
-24,New Orleans Pelicans,Pelicans,New Orleans,NBA,Western,Southwest,1381,2027,live,5,2026-11-21,1428.1,1429.4,5-12
-25,Indiana Pacers,Pacers,Indiana,NBA,Eastern,Central,1372.6,2027,live,5,2026-11-21,1385,1393.8,5-11
-26,Milwaukee Bucks,Bucks,Milwaukee,NBA,Eastern,Central,1350.7,2027,live,5,2026-11-21,1411.9,1411.9,1-15
-27,Utah Jazz,Jazz,Utah,NBA,Western,Northwest,1350.4,2027,live,5,2026-11-21,1353.3,1353.3,3-14
-28,Sacramento Kings,Kings,Sacramento,NBA,Western,Pacific,1333.9,2027,live,5,2026-11-21,1381.5,1381.5,1-14
-29,Washington Wizards,Wizards,Washington,NBA,Eastern,Southeast,1331,2027,live,5,2026-11-21,1310.7,1335.9,6-11
-30,Brooklyn Nets,Nets,Brooklyn,NBA,Eastern,Atlantic,1326.9,2027,live,5,2026-11-21,1339.8,1348,3-12
+1,San Antonio Spurs,Spurs,San Antonio,NBA,Western,Southwest,1704.6,2027,live,5,2026-11-22,1693.9,1713.6,14-3
+2,New York Knicks,Knicks,New York,NBA,Eastern,Atlantic,1662.3,2027,live,5,2026-11-22,1673.2,1673.2,10-6
+3,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,Western,Northwest,1643.8,2027,live,5,2026-11-22,1662.9,1678.2,10-6
+4,Detroit Pistons,Pistons,Detroit,NBA,Eastern,Central,1637.9,2027,live,5,2026-11-22,1620.7,1639.8,10-5
+5,Boston Celtics,Celtics,Boston,NBA,Eastern,Atlantic,1617.4,2027,live,5,2026-11-22,1585.8,1636.8,11-5
+6,Houston Rockets,Rockets,Houston,NBA,Western,Southwest,1602.7,2027,live,5,2026-11-22,1573.8,1612,12-5
+7,Los Angeles Lakers,Lakers,Los Angeles,NBA,Western,Pacific,1585.6,2027,live,5,2026-11-22,1555.7,1600.7,14-3
+8,Denver Nuggets,Nuggets,Denver,NBA,Western,Northwest,1580.7,2027,live,5,2026-11-22,1589.2,1589.2,9-5
+9,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,Western,Northwest,1576.7,2027,live,5,2026-11-22,1534.4,1581.6,12-5
+10,Philadelphia 76ers,76ers,Philadelphia,NBA,Eastern,Atlantic,1564.9,2027,live,5,2026-11-22,1533.1,1564.9,14-3
+11,Cleveland Cavaliers,Cavaliers,Cleveland,NBA,Eastern,Central,1560.5,2027,live,5,2026-11-22,1563.7,1569.6,9-8
+12,Atlanta Hawks,Hawks,Atlanta,NBA,Eastern,Southeast,1547.6,2027,live,5,2026-11-22,1533.3,1561.1,10-6
+13,Portland Trail Blazers,Trail Blazers,Portland,NBA,Western,Northwest,1546.9,2027,live,5,2026-11-22,1504.6,1548.6,10-6
+14,Miami Heat,Heat,Miami,NBA,Eastern,Southeast,1529.1,2027,live,5,2026-11-22,1517.6,1529.1,9-6
+15,Phoenix Suns,Suns,Phoenix,NBA,Western,Pacific,1522.8,2027,live,5,2026-11-22,1520.2,1522.8,8-7
+16,Orlando Magic,Magic,Orlando,NBA,Eastern,Southeast,1519,2027,live,5,2026-11-22,1537.3,1537.3,7-8
+17,Toronto Raptors,Raptors,Toronto,NBA,Eastern,Atlantic,1514.9,2027,live,5,2026-11-22,1543.8,1549.6,6-10
+18,Charlotte Hornets,Hornets,Charlotte,NBA,Eastern,Southeast,1486.5,2027,live,5,2026-11-22,1572.8,1572.8,4-11
+19,Golden State Warriors,Warriors,Golden State,NBA,Western,Pacific,1484.7,2027,live,5,2026-11-22,1477,1516.7,8-8
+20,Memphis Grizzlies,Grizzlies,Memphis,NBA,Western,Southwest,1468.6,2027,live,5,2026-11-22,1379.7,1468.6,12-5
+21,Los Angeles Clippers,Clippers,Los Angeles,NBA,Western,Pacific,1466.6,2027,live,5,2026-11-22,1526.2,1526.2,4-11
+22,Dallas Mavericks,Mavericks,Dallas,NBA,Western,Southwest,1447.7,2027,live,5,2026-11-22,1414.8,1448.6,9-7
+23,Chicago Bulls,Bulls,Chicago,NBA,Eastern,Central,1406.7,2027,live,5,2026-11-22,1402.9,1406.7,4-11
+24,New Orleans Pelicans,Pelicans,New Orleans,NBA,Western,Southwest,1379.6,2027,live,5,2026-11-22,1428.1,1429.4,5-13
+25,Indiana Pacers,Pacers,Indiana,NBA,Eastern,Central,1372.6,2027,live,5,2026-11-22,1385,1393.8,5-11
+26,Utah Jazz,Jazz,Utah,NBA,Western,Northwest,1350.4,2027,live,5,2026-11-22,1353.3,1353.3,3-14
+27,Milwaukee Bucks,Bucks,Milwaukee,NBA,Eastern,Central,1349.9,2027,live,5,2026-11-22,1411.9,1411.9,1-16
+28,Sacramento Kings,Kings,Sacramento,NBA,Western,Pacific,1338.3,2027,live,5,2026-11-22,1381.5,1381.5,2-14
+29,Washington Wizards,Wizards,Washington,NBA,Eastern,Southeast,1331,2027,live,5,2026-11-22,1310.7,1335.9,6-11
+30,Brooklyn Nets,Nets,Brooklyn,NBA,Eastern,Atlantic,1326.9,2027,live,5,2026-11-22,1339.8,1348,3-12

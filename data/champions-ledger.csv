@@ -18149,7 +18149,7 @@ year,season,sport,competition,comp_slug,era_name,champion,canonical,metro,metro_
 2025,2025,Football,CONCACAF Championship / Gold Cup,concacaf-championship-gold-cup,CONCACAF Gold Cup,Mexico,Mexico,,,2025-07-06,North America,International,3,true
 2025,2024-25,Football,Cambodian Premier League,cambodian-premier-league,Cambodian Premier League,Preah Khan Reach Svay Rieng,Preah Khan Reach Svay Rieng,,,2025-12-31,Cambodia,Domestic,4,false
 2025,2025,Football,Campeonato Nacional da Guiné-Bissau,campeonato-nacional-da-guine-bissau,Campeonato Nacional,Sport Bissau e Benfica,Sport Bissau e Benfica,,,2025-12-31,Guinea-Bissau,Domestic,4,true
-2025,2025,Football,Canadian Premier League,canadian-premier-league,Canadian Premier League,Atlético Ottawa,Atlético Ottawa,Ottawa,ottawa,2025-12-31,Canada,Domestic,4,true
+2025,2025,Football,Canadian Premier League,canadian-premier-league,Canadian Premier League,Atlético Ottawa,Atlético Ottawa,Ottawa,ottawa,2025-12-31,Canada,Domestic,4,false
 2025,2024-25,Football,Cape Verdean Football Championship,cape-verdean-football-championship,Campeonato Nacional,GD da Palmeira,GD da Palmeira,,,2025-12-31,Cape Verde,Domestic,4,true
 2025,2024-25,Football,Central African Republic League,central-african-republic-league,Ligue de Bangui,AS Tempête Mocaf,AS Tempête Mocaf,Bangui,bangui,2025-12-31,Central African Republic,Domestic,4,true
 2025,2024-25,Football,Champions League,champions-league,Champions League,Paris Saint-Germain,Paris Saint-Germain,Paris,paris,2025-05-31,Europe,Continental,0,false
@@ -18157,7 +18157,7 @@ year,season,sport,competition,comp_slug,era_name,champion,canonical,metro,metro_
 2025,2024-25,Football,Comoros Premier League,comoros-premier-league,Comoros Premier League,US Zilimadjou,US Zilimadjou,,,2025-12-31,Comoros,Domestic,4,true
 2025,2025,Football,Cook Islands Round Cup,cook-islands-round-cup,Cook Islands Round Cup (Rarotonga club championship),Tupapa Maraerenga FC,Tupapa Maraerenga,Avarua,avarua,2025-12-31,Cook Islands,Domestic,4,true
 2025,2024-25,Football,Copa Libertadores,copa-libertadores,Copa Libertadores,Flamengo,Flamengo,Rio de Janeiro,rio-de-janeiro,2025-11-29,South America,Continental,2,true
-2025,2024-25,Football,Copa Sudamericana,copa-sudamericana,Copa Sudamericana,Lanús,Lanús,Buenos Aires,buenos-aires,2025-11-22,South America,Continental,3,true
+2025,2024-25,Football,Copa Sudamericana,copa-sudamericana,Copa Sudamericana,Lanús,Lanús,Buenos Aires,buenos-aires,2025-11-22,South America,Continental,3,false
 2025,2024-25,Football,DPR Korea Premier Football League,dpr-korea-premier-football-league,DPR Korea Premier Football League,April 25 (Pyongyang),April 25 (Pyongyang),,,2025-12-31,North Korea,Domestic,4,true
 2025,2024-25,Football,Djibouti Premier League,djibouti-premier-league,Djibouti Premier League,AS Ali Sabieh Djibouti Telecom,AS Ali Sabieh Djibouti Telecom,,,2025-12-31,Djibouti,Domestic,4,true
 2025,2024-25,Football,Elite One,elite-one,Championnat National,Colombe Sportive du Dja et Lobo,Colombe FC,Sangmélima,sangmelima,2025-12-31,Cameroon,Domestic,4,false
@@ -18399,8 +18399,10 @@ year,season,sport,competition,comp_slug,era_name,champion,canonical,metro,metro_
 2026,2025-26,Football,CAF Champions League,caf-champions-league,CAF Champions League,Mamelodi Sundowns,Mamelodi Sundowns,Johannesburg,johannesburg,2026-05-24,Africa,Continental,4,true
 2026,2025-26,Football,CONCACAF Champions Cup,concacaf-champions-cup,CONCACAF Champions Cup,CD Toluca,CD Toluca,Mexico City,mexico-city,2026-05-30,North America,Continental,4,true
 2026,2025-26,Football,Cambodian Premier League,cambodian-premier-league,Cambodian Premier League,Preah Khan Reach Svay Rieng,Preah Khan Reach Svay Rieng,,,2026-05-17,Cambodia,Domestic,4,true
+2026,2026,Football,Canadian Premier League,canadian-premier-league,Canadian Premier League,Cavalry FC,Cavalry FC,Calgary,calgary,2026-11-21,Canada,Domestic,4,true
 2026,2025-26,Football,Chad Premier League,chad-premier-league,Linafoot,Aiglons FC,Aiglons FC,N'Djamena,ndjamena,2026-06-06,Chad,Domestic,4,true
 2026,2025-26,Football,Champions League,champions-league,Champions League,Paris Saint-Germain,Paris Saint-Germain,Paris,paris,2026-05-30,Europe,Continental,0,true
+2026,2025-26,Football,Copa Sudamericana,copa-sudamericana,Copa Sudamericana,Boca Juniors,Boca Juniors,Buenos Aires,buenos-aires,2026-11-21,South America,Continental,3,true
 2026,2025-26,Football,Dhivehi Premier League,dhivehi-premier-league,Dhivehi Premier League,Maziya,Maziya,,,2026-02-06,Maldives,Domestic,4,true
 2026,2025-26,Football,Elite One,elite-one,Championnat National,Colombe Sportive du Dja et Lobo,Colombe FC,Sangmélima,sangmelima,2026-06-28,Cameroon,Domestic,4,true
 2026,2025-26,Football,Eredivisie,eredivisie,Eredivisie,PSV Eindhoven,PSV Eindhoven,Eindhoven,eindhoven,2026-04-05,Netherlands,Domestic,4,true
