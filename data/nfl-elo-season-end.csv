@@ -2422,7 +2422,7 @@ season,team,name,city,league,start_elo,end_elo,peak_elo,low_elo,regular_season_r
 2026,Chicago Bears,Bears,Chicago,NFL,1531.6,1636,1636,1531.6,8-2-0,,,live
 2026,Jacksonville Jaguars,Jaguars,Jacksonville,NFL,1571.4,1628.2,1653.7,1567.6,7-3-0,,,live
 2026,Los Angeles Rams,Rams,Los Angeles,NFL,1612.5,1625.1,1625.1,1560.1,6-4-0,,,live
-2026,Cincinnati  Bengals,Bengals,Cincinnati ,NFL,1483,1615.2,1615.2,1483,7-2-0,,,live
+2026,Cincinnati  Bengals,Bengals,Cincinnati ,NFL,1483,1600.4,1615.2,1483,7-3-0,,,live
 2026,Kansas City Chiefs,Chiefs,Kansas City,NFL,1491.7,1600.1,1600.1,1491.7,8-2-0,,,live
 2026,Minnesota Vikings,Vikings,Minnesota,NFL,1552.2,1595.5,1636,1552.2,7-3-0,,,live
 2026,Green Bay Packers,Packers,Green Bay,NFL,1529.3,1544.2,1580.5,1471.1,6-4-0,,,live
@@ -2432,9 +2432,9 @@ season,team,name,city,league,start_elo,end_elo,peak_elo,low_elo,regular_season_r
 2026,New York Giants,Giants,New York,NFL,1426.9,1490.9,1490.9,1426.9,6-3-1,,,live
 2026,Tampa Bay Buccaneers,Buccaneers,Tampa Bay,NFL,1482.8,1483.3,1500.4,1414.7,3-7-0,,,live
 2026,Dallas Cowboys,Cowboys,Dallas,NFL,1461.5,1468.6,1479.5,1433.8,5-6-0,,,live
+2026,Washington Commanders,Commanders,Washington,NFL,1464.9,1462.2,1464.9,1417.7,4-5-1,,,live
 2026,Cleveland Browns,Browns,Cleveland,NFL,1426.7,1461.8,1470,1413.2,6-4-0,,,live
 2026,Carolina Panthers,Panthers,Carolina,NFL,1433.3,1451.8,1500.2,1405.4,5-5-0,,,live
-2026,Washington Commanders,Commanders,Washington,NFL,1464.9,1447.3,1464.9,1417.7,3-5-1,,,live
 2026,Baltimore Ravens,Ravens,Baltimore,NFL,1546.6,1446,1576.9,1446,4-7-0,,,live
 2026,Atlanta Falcons,Falcons,Atlanta,NFL,1475.3,1419.2,1496.9,1412.2,3-7-0,,,live
 2026,Philadelphia Eagles,Eagles,Philadelphia,NFL,1559.6,1413.9,1573.5,1395.7,3-7-0,,,live

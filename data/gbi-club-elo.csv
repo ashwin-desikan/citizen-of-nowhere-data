@@ -9,9 +9,9 @@ rank,club,country,division,tier,rating,elo
 8,Tottenham Hotspur,England,Premier League,1,1575.5,1559.7
 9,Manchester United,England,Premier League,1,1560.8,1651.5
 10,Newcastle United,England,Premier League,1,1541.4,1697.4
-11,Everton,England,Premier League,1,1525.3,1631.8
-12,Leeds United,England,Premier League,1,1513.9,1602.9
-13,Brentford,England,Premier League,1,1513.1,1672.5
+11,Brentford,England,Premier League,1,1521.6,1672.5
+12,Everton,England,Premier League,1,1518.5,1631.8
+13,Leeds United,England,Premier League,1,1513.5,1602.9
 14,Celtic,Scotland,Scottish Premiership,1,1506.9,1439.2
 15,Rangers,Scotland,Scottish Premiership,1,1501.3,1468.6
 16,Sunderland,England,Premier League,1,1493.2,1583.4
@@ -24,166 +24,166 @@ rank,club,country,division,tier,rating,elo
 23,Norwich City,England,Championship,2,1465.7,1502.1
 24,Wolverhampton Wanderers,England,Championship,2,1465,1500.5
 25,Sheffield United,England,Championship,2,1464.8,1500
-26,Millwall,England,Championship,2,1461.6,1492.7
-27,West Bromwich Albion,England,Championship,2,1459.8,1488.6
-28,Wrexham,England,Championship,2,1457.9,1484.2
+26,Millwall,England,Championship,2,1461.5,1492.7
+27,West Bromwich Albion,England,Championship,2,1459.7,1488.6
+28,Wrexham,England,Championship,2,1457.8,1484.2
 29,Nottingham Forest,England,Premier League,1,1457.6,1626
-30,Swansea City,England,Championship,2,1456.3,1480.7
-31,Lincoln City,England,Championship,2,1456.1,1480.2
-32,Stoke City,England,Championship,2,1450.7,1468
-33,Queens Park Rangers,England,Championship,2,1449.3,1464.8
-34,Cardiff City,England,Championship,2,1447.9,1461.7
-35,Portsmouth,England,Championship,2,1447.9,1461.6
-36,Burnley,England,Championship,2,1445.4,1455.9
-37,Blackburn Rovers,England,Championship,2,1443.4,1451.5
+30,Swansea City,England,Championship,2,1456.2,1480.7
+31,Lincoln City,England,Championship,2,1456,1480.2
+32,Stoke City,England,Championship,2,1450.6,1468
+33,Queens Park Rangers,England,Championship,2,1449.2,1464.8
+34,Cardiff City,England,Championship,2,1447.8,1461.7
+35,Portsmouth,England,Championship,2,1447.8,1461.6
+36,Burnley,England,Championship,2,1445.3,1455.9
+37,Blackburn Rovers,England,Championship,2,1443.3,1451.5
 38,Hull City,England,Premier League,1,1442.3,1542.2
-39,Stockport County,England,League One,3,1441.2,1451.9
-40,Bristol City,England,Championship,2,1440.7,1445.2
-41,Derby County,England,Championship,2,1435.5,1433.5
-42,Bolton Wanderers,England,Championship,2,1435.1,1432.5
-43,Charlton Athletic,England,Championship,2,1431.2,1423.8
-44,Luton Town,England,League One,3,1430.6,1427.7
-45,Oxford United,England,League One,3,1425,1415.1
-46,Watford,England,Championship,2,1424.3,1408.1
-47,Shamrock Rovers,Ireland,League of Ireland Premier,1,1424.2,1162
-48,Huddersfield Town,England,League One,3,1424.1,1413.1
-49,Leicester City,England,League One,3,1423.6,1411.8
-50,Preston North End,England,Championship,2,1421.5,1401.6
-51,Bradford City,England,League One,3,1419.1,1401.5
-52,Heart of Midlothian,Scotland,Scottish Premiership,1,1416.9,1370.8
-53,Plymouth Argyle,England,League One,3,1416.6,1395.9
-54,Reading,England,League One,3,1416.2,1395
-55,Stevenage,England,League One,3,1411,1383.2
-56,Wycombe Wanderers,England,League One,3,1409.8,1380.5
-57,Mansfield Town,England,League One,3,1409.7,1380.2
-58,Barnet,England,League Two,4,1407.1,1379.9
+39,Stockport County,England,League One,3,1441,1451.9
+40,Bristol City,England,Championship,2,1440.5,1445.2
+41,Derby County,England,Championship,2,1435.4,1433.5
+42,Bolton Wanderers,England,Championship,2,1434.9,1432.5
+43,Charlton Athletic,England,Championship,2,1431.1,1423.8
+44,Luton Town,England,League One,3,1430.4,1427.7
+45,Oxford United,England,League One,3,1424.8,1415.1
+46,Shamrock Rovers,Ireland,League of Ireland Premier,1,1424.2,1162
+47,Watford,England,Championship,2,1424.1,1408.1
+48,Huddersfield Town,England,League One,3,1423.9,1413.1
+49,Leicester City,England,League One,3,1423.3,1411.8
+50,Preston North End,England,Championship,2,1421.3,1401.6
+51,Bradford City,England,League One,3,1418.8,1401.5
+52,Heart of Midlothian,Scotland,Scottish Premiership,1,1416.4,1370.8
+53,Plymouth Argyle,England,League One,3,1416.3,1395.9
+54,Reading,England,League One,3,1415.9,1395
+55,Stevenage,England,League One,3,1410.7,1383.2
+56,Wycombe Wanderers,England,League One,3,1409.5,1380.5
+57,Mansfield Town,England,League One,3,1409.4,1380.2
+58,Barnet,England,League Two,4,1406.7,1379.9
 59,Coventry City,England,Premier League,1,1406.6,1523.8
-60,Leyton Orient,England,League One,3,1406.3,1372.6
-61,Milton Keynes Dons,England,League One,3,1406.3,1372.5
-62,Ipswich Town,England,Premier League,1,1404.7,1477.9
-63,Sheffield Wednesday,England,League One,3,1399.6,1357.3
-64,Cambridge United,England,League One,3,1399.4,1356.8
-65,Blackpool,England,League One,3,1398.3,1354.4
+60,Leyton Orient,England,League One,3,1406,1372.6
+61,Milton Keynes Dons,England,League One,3,1405.9,1372.5
+62,Ipswich Town,England,Premier League,1,1403.2,1477.9
+63,Sheffield Wednesday,England,League One,3,1399.2,1357.3
+64,Cambridge United,England,League One,3,1399,1356.8
+65,Blackpool,England,League One,3,1398,1354.4
 66,Shelbourne FC,Ireland,League of Ireland Premier,1,1397,1140.4
-67,Salford City,England,League Two,4,1396.7,1356.3
-68,Notts County,England,League One,3,1395.4,1347.9
-69,York City,England,League Two,4,1393.9,1349.9
-70,Wigan Athletic,England,League One,3,1392.3,1340.7
-71,Dundee United,Scotland,Scottish Premiership,1,1390.5,1228.5
-72,Peterborough United,England,League One,3,1388.3,1331.7
-73,Chesterfield,England,League Two,4,1387.7,1336
-74,Barnsley,England,League One,3,1387,1328.7
-75,Doncaster Rovers,England,League One,3,1386.9,1328.6
-76,Bromley,England,League One,3,1386.2,1326.9
-77,Aberdeen,Scotland,Scottish Premiership,1,1385.6,1229
-78,Burton Albion,England,League One,3,1383.4,1320.6
-79,Linfield FC,Northern Ireland,NIFL Premiership,1,1380.5,999.6
-80,Grimsby Town,England,League Two,4,1380.4,1319.4
+67,Salford City,England,League Two,4,1396.3,1356.3
+68,Notts County,England,League One,3,1395.1,1347.9
+69,York City,England,League Two,4,1393.4,1349.9
+70,Wigan Athletic,England,League One,3,1391.9,1340.7
+71,Dundee United,Scotland,Scottish Premiership,1,1389.6,1228.5
+72,Peterborough United,England,League One,3,1387.9,1331.7
+73,Chesterfield,England,League Two,4,1387.3,1336
+74,Barnsley,England,League One,3,1386.6,1328.7
+75,Doncaster Rovers,England,League One,3,1386.5,1328.6
+76,Bromley,England,League One,3,1385.8,1326.9
+77,Aberdeen,Scotland,Scottish Premiership,1,1384.6,1229
+78,Burton Albion,England,League One,3,1383,1320.6
+79,Grimsby Town,England,League Two,4,1380,1319.4
+80,Linfield FC,Northern Ireland,NIFL Premiership,1,1379.6,999.6
 81,Larne FC,Northern Ireland,NIFL Premiership,1,1379.4,1052.9
-82,Walsall,England,League Two,4,1376.4,1310.3
-83,Boreham Wood,England,National League,5,1375.8,1312.7
+82,Walsall,England,League Two,4,1375.9,1310.3
+83,Boreham Wood,England,National League,5,1375.2,1312.7
 84,Falkirk,Scotland,Scottish Premiership,1,1374.5,1211.9
-85,AFC Wimbledon,England,League One,3,1373.7,1298.7
+85,AFC Wimbledon,England,League One,3,1373.3,1298.7
 86,Hibernian,Scotland,Scottish Premiership,1,1373.3,1323.6
 87,Bohemians FC,Ireland,League of Ireland Premier,1,1373.3,1150.8
-88,Exeter City,England,League Two,4,1369.9,1295.6
+88,Exeter City,England,League Two,4,1369.4,1295.6
 89,Dundee FC,Scotland,Scottish Premiership,1,1364.3,1228.8
 90,St. Johnstone,Scotland,Scottish Premiership,1,1361.1,1171.9
-91,Crewe Alexandra,England,League Two,4,1360.4,1273.9
-92,Carlisle United,England,National League,5,1359.2,1275.1
-93,Fleetwood Town,England,League Two,4,1358.8,1270.3
-94,Southend United,England,National League,5,1355.9,1267.4
-95,Port Vale,England,League Two,4,1354.6,1260.8
-96,Rochdale,England,League Two,4,1352,1254.8
-97,Swindon Town,England,League Two,4,1351.9,1254.8
-98,Accrington Stanley,England,League Two,4,1350.8,1252.1
-99,Partick Thistle,Scotland,Scottish Championship,2,1348.3,1252.6
-100,Oldham Athletic,England,League Two,4,1348,1245.7
+91,Crewe Alexandra,England,League Two,4,1359.8,1273.9
+92,Carlisle United,England,National League,5,1358.6,1275.1
+93,Fleetwood Town,England,League Two,4,1358.3,1270.3
+94,Southend United,England,National League,5,1355.3,1267.4
+95,Port Vale,England,League Two,4,1354,1260.8
+96,Rochdale,England,League Two,4,1351.4,1254.8
+97,Swindon Town,England,League Two,4,1351.4,1254.8
+98,Accrington Stanley,England,League Two,4,1350.2,1252.1
+99,Partick Thistle,Scotland,Scottish Championship,2,1347.7,1252.6
+100,Oldham Athletic,England,League Two,4,1347.4,1245.7
 101,Derry City FC,Ireland,League of Ireland Premier,1,1346.3,1028.9
 102,Motherwell,Scotland,Scottish Premiership,1,1345.4,1279.2
-103,Colchester United,England,League Two,4,1344.3,1237.5
-104,Northampton Town,England,League Two,4,1344.3,1237.4
-105,Bristol Rovers,England,League Two,4,1343.4,1235.3
+103,Colchester United,England,League Two,4,1343.7,1237.5
+104,Northampton Town,England,League Two,4,1343.7,1237.4
+105,Bristol Rovers,England,League Two,4,1342.8,1235.3
 106,Coleraine FC,Northern Ireland,NIFL Premiership,1,1342.3,965.8
-107,FC Halifax Town,England,National League,5,1341.1,1233.9
-108,Forest Green Rovers,England,National League,5,1339.8,1230.9
-109,Newport County,England,League Two,4,1339.7,1227.1
-110,Worthing FC,England,National League,5,1338.7,1228.4
-111,Gillingham,England,League Two,4,1338.5,1224.2
-112,Dunfermline Athletic,Scotland,Scottish Championship,2,1338.3,1229.9
-113,Ross County,Scotland,Scottish League One,3,1336.6,1230.3
-114,Raith Rovers,Scotland,Scottish Championship,2,1336.3,1225.3
-115,St. Mirren,Scotland,Scottish Premiership,1,1336.3,1186.6
-116,Tranmere Rovers,England,League Two,4,1335.5,1217.4
-117,Rotherham United,England,League Two,4,1335.1,1216.5
-118,Cheltenham Town,England,League Two,4,1333.4,1212.8
-119,Harrogate Town,England,National League,5,1330.2,1209.3
-120,Hornchurch,England,National League,5,1327.9,1203.9
-121,Shrewsbury Town,England,League Two,4,1327.4,1199.1
+107,FC Halifax Town,England,National League,5,1340.4,1233.9
+108,Newport County,England,League Two,4,1339.1,1227.1
+109,Forest Green Rovers,England,National League,5,1339.1,1230.9
+110,Worthing FC,England,National League,5,1338,1228.4
+111,Gillingham,England,League Two,4,1337.9,1224.2
+112,Dunfermline Athletic,Scotland,Scottish Championship,2,1337.6,1229.9
+113,St. Mirren,Scotland,Scottish Premiership,1,1336.3,1186.6
+114,Ross County,Scotland,Scottish League One,3,1335.8,1230.3
+115,Raith Rovers,Scotland,Scottish Championship,2,1335.6,1225.3
+116,Tranmere Rovers,England,League Two,4,1334.9,1217.4
+117,Rotherham United,England,League Two,4,1334.5,1216.5
+118,Cheltenham Town,England,League Two,4,1332.8,1212.8
+119,Harrogate Town,England,National League,5,1329.5,1209.3
+120,Hornchurch,England,National League,5,1327.2,1203.9
+121,Shrewsbury Town,England,League Two,4,1326.8,1199.1
 122,Kilmarnock,Scotland,Scottish Premiership,1,1326.5,1205.1
 123,Glentoran FC,Northern Ireland,NIFL Premiership,1,1326.5,963.4
-124,Crawley Town,England,League Two,4,1324.7,1193
-125,Inverness Caledonian Thistle,Scotland,Scottish Championship,2,1324.7,1198.9
-126,Woking,England,National League,5,1324.5,1196.3
-127,Barrow,England,National League,5,1321.4,1189.1
-128,Altrincham,England,National League,5,1320.8,1187.8
-129,Yeovil Town,England,National League,5,1320.3,1186.6
-130,AFC Flyde,England,National League,5,1319,1183.8
-131,Livingston,Scotland,Scottish Championship,2,1316.6,1180.6
-132,Hamilton Academicals,Scotland,Scottish League One,3,1316.4,1184.5
-133,Kidderminster Harriers,England,National League,5,1316,1177.1
-134,St. Patrick's Athletic,Ireland,League of Ireland Premier,1,1312.6,1173.1
-135,Wealdstone,England,National League,5,1312.4,1168.7
-136,Hartlepool United,England,National League,5,1312.2,1168.4
-137,Sutton United,England,National League,5,1311.9,1167.6
-138,Boston United,England,National League,5,1311.3,1166.2
-139,Scunthorpe United,England,National League,5,1310.6,1164.8
-140,Tamworth,England,National League,5,1309.6,1162.4
-141,Aldershot Town,England,National League,5,1306.9,1156.4
-142,Eastleigh,England,National League,5,1304.6,1151.1
-143,Solihull Moors,England,National League,5,1304.5,1150.9
-144,Greenock Morton,Scotland,Scottish Championship,2,1293.4,1127.8
-145,Sligo Rovers,Ireland,League of Ireland Premier,1,1291.3,1124.7
-146,Drogheda United,Ireland,League of Ireland Premier,1,1285.2,1110.9
-147,Stenhousemuir,Scotland,Scottish Championship,2,1285.2,1109.2
-148,Galway United,Ireland,League of Ireland Premier,1,1283.5,1107
-149,Ayr United,Scotland,Scottish Championship,2,1282.3,1102.7
-150,Gateshead,England,National League,5,1279.8,1094.8
-151,Dundalk FC,Ireland,League of Ireland Premier,1,1276.9,1092
-152,The New Saints FC,Wales,Cymru Premier,1,1272.6,1089.8
-153,Queen of the South,Scotland,Scottish League One,3,1266.8,1072
-154,Arbroath,Scotland,Scottish Championship,2,1265.8,1065.2
-155,East Kilbride FC,Scotland,Scottish League One,3,1263,1063.3
-156,Dungannon Swifts FC,Northern Ireland,NIFL Premiership,1,1257.7,1054.5
-157,GAP Connah's Quay,Wales,Cymru Premier,1,1251.4,1041.7
-158,Montrose,Scotland,Scottish League One,3,1250,1033.9
-159,Airdrieonians FC,Scotland,Scottish League One,3,1249.5,1032.7
-160,East Fife,Scotland,Scottish League One,3,1247.9,1029
-161,Cliftonville FC,Northern Ireland,NIFL Premiership,1,1247.5,1031.3
-162,Queen's Park,Scotland,Scottish Championship,2,1243.9,1015.5
-163,Cove Rangers,Scotland,Scottish League One,3,1240.7,1012.8
-164,Clyde,Scotland,Scottish League Two,4,1240.6,1016.2
-165,Alloa Athletic,Scotland,Scottish League One,3,1239,1008.8
-166,Caernarfon Town,Wales,Cymru Premier,1,1237.7,1010.5
-167,Peterhead,Scotland,Scottish League One,3,1237.6,1005.6
-168,Stranraer,Scotland,Scottish League Two,4,1236.5,1006.7
-169,Spartans FC,Scotland,Scottish League Two,4,1235.9,1005.4
-170,Stirling Albion,Scotland,Scottish League Two,4,1235.6,1004.8
-171,Edinburgh City,Scotland,Scottish League Two,4,1235.6,1004.8
-172,Portadown FC,Northern Ireland,NIFL Premiership,1,1234.6,1002.1
-173,Carrick Rangers,Northern Ireland,NIFL Premiership,1,1234.3,1001.5
-174,Bangor FC,Northern Ireland,NIFL Premiership,1,1234.2,1001.2
-175,Kelty Hearts,Scotland,Scottish League Two,4,1233.7,1000.3
-176,Ballymena United,Northern Ireland,NIFL Premiership,1,1232.5,997.3
-177,Crusaders FC,Northern Ireland,NIFL Premiership,1,1232.1,996.4
-178,Airbus UK Broughton,Wales,Cymru Premier,1,1231.7,996.8
-179,Cardiff Metropolitan University FC,Wales,Cymru Premier,1,1231.2,995.8
-180,Llandudno FC,Wales,Cymru Premier,1,1229.4,991.7
-181,Dumbarton,Scotland,Scottish League Two,4,1229.1,989.9
-182,Annan Athletic,Scotland,Scottish League Two,4,1227.4,986.2
-183,Elgin City,Scotland,Scottish League Two,4,1227.3,986
-184,Forfar Athletic,Scotland,Scottish League Two,4,1226.8,984.7
-185,Haverfordwest County,Wales,Cymru Premier,1,1224.5,980.5
-186,Barry Town,Wales,Cymru Premier,1,1222.5,976
-187,Pen-y-Bont FC,Wales,Cymru Premier,1,1216.2,961.6
-188,Colwyn Bay,Wales,Cymru Premier,1,1122.6,749.2
+124,Crawley Town,England,League Two,4,1324.1,1193
+125,Inverness Caledonian Thistle,Scotland,Scottish Championship,2,1323.9,1198.9
+126,Woking,England,National League,5,1323.8,1196.3
+127,Barrow,England,National League,5,1320.7,1189.1
+128,Altrincham,England,National League,5,1320.1,1187.8
+129,Yeovil Town,England,National League,5,1319.6,1186.6
+130,AFC Flyde,England,National League,5,1318.3,1183.8
+131,Livingston,Scotland,Scottish Championship,2,1315.8,1180.6
+132,Hamilton Academicals,Scotland,Scottish League One,3,1315.6,1184.5
+133,Kidderminster Harriers,England,National League,5,1315.3,1177.1
+134,St. Patrick's Athletic,Ireland,League of Ireland Premier,1,1311.8,1173.1
+135,Wealdstone,England,National League,5,1311.6,1168.7
+136,Hartlepool United,England,National League,5,1311.5,1168.4
+137,Sutton United,England,National League,5,1311.1,1167.6
+138,Boston United,England,National League,5,1310.5,1166.2
+139,Scunthorpe United,England,National League,5,1309.9,1164.8
+140,Tamworth,England,National League,5,1308.9,1162.4
+141,Aldershot Town,England,National League,5,1306.2,1156.4
+142,Eastleigh,England,National League,5,1303.8,1151.1
+143,Solihull Moors,England,National League,5,1303.8,1150.9
+144,Greenock Morton,Scotland,Scottish Championship,2,1292.5,1127.8
+145,Sligo Rovers,Ireland,League of Ireland Premier,1,1290.5,1124.7
+146,Drogheda United,Ireland,League of Ireland Premier,1,1284.4,1110.9
+147,Stenhousemuir,Scotland,Scottish Championship,2,1284.3,1109.2
+148,Galway United,Ireland,League of Ireland Premier,1,1282.6,1107
+149,Ayr United,Scotland,Scottish Championship,2,1281.4,1102.7
+150,Gateshead,England,National League,5,1279,1094.8
+151,Dundalk FC,Ireland,League of Ireland Premier,1,1276,1092
+152,The New Saints FC,Wales,Cymru Premier,1,1271.6,1089.8
+153,Queen of the South,Scotland,Scottish League One,3,1265.9,1072
+154,Arbroath,Scotland,Scottish Championship,2,1264.9,1065.2
+155,East Kilbride FC,Scotland,Scottish League One,3,1262,1063.3
+156,Dungannon Swifts FC,Northern Ireland,NIFL Premiership,1,1256.7,1054.5
+157,GAP Connah's Quay,Wales,Cymru Premier,1,1250.4,1041.7
+158,Montrose,Scotland,Scottish League One,3,1249,1033.9
+159,Airdrieonians FC,Scotland,Scottish League One,3,1248.5,1032.7
+160,East Fife,Scotland,Scottish League One,3,1246.9,1029
+161,Cliftonville FC,Northern Ireland,NIFL Premiership,1,1246.4,1031.3
+162,Queen's Park,Scotland,Scottish Championship,2,1242.9,1015.5
+163,Cove Rangers,Scotland,Scottish League One,3,1239.7,1012.8
+164,Clyde,Scotland,Scottish League Two,4,1239.5,1016.2
+165,Alloa Athletic,Scotland,Scottish League One,3,1238,1008.8
+166,Caernarfon Town,Wales,Cymru Premier,1,1236.6,1010.5
+167,Peterhead,Scotland,Scottish League One,3,1236.5,1005.6
+168,Stranraer,Scotland,Scottish League Two,4,1235.4,1006.7
+169,Spartans FC,Scotland,Scottish League Two,4,1234.8,1005.4
+170,Stirling Albion,Scotland,Scottish League Two,4,1234.5,1004.8
+171,Edinburgh City,Scotland,Scottish League Two,4,1234.5,1004.8
+172,Portadown FC,Northern Ireland,NIFL Premiership,1,1233.5,1002.1
+173,Carrick Rangers,Northern Ireland,NIFL Premiership,1,1233.2,1001.5
+174,Bangor FC,Northern Ireland,NIFL Premiership,1,1233.1,1001.2
+175,Kelty Hearts,Scotland,Scottish League Two,4,1232.5,1000.3
+176,Ballymena United,Northern Ireland,NIFL Premiership,1,1231.4,997.3
+177,Crusaders FC,Northern Ireland,NIFL Premiership,1,1231,996.4
+178,Airbus UK Broughton,Wales,Cymru Premier,1,1230.5,996.8
+179,Cardiff Metropolitan University FC,Wales,Cymru Premier,1,1230.1,995.8
+180,Llandudno FC,Wales,Cymru Premier,1,1228.3,991.7
+181,Dumbarton,Scotland,Scottish League Two,4,1227.9,989.9
+182,Annan Athletic,Scotland,Scottish League Two,4,1226.3,986.2
+183,Elgin City,Scotland,Scottish League Two,4,1226.2,986
+184,Forfar Athletic,Scotland,Scottish League Two,4,1225.6,984.7
+185,Haverfordwest County,Wales,Cymru Premier,1,1223.3,980.5
+186,Barry Town,Wales,Cymru Premier,1,1221.3,976
+187,Pen-y-Bont FC,Wales,Cymru Premier,1,1215,961.6
+188,Colwyn Bay,Wales,Cymru Premier,1,1121.1,749.2
