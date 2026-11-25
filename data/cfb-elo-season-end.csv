@@ -14459,35 +14459,35 @@ season,rank,program,slug,elo,z,adj_z
 2026,49,Northwestern,northwestern-cfb,1570.7,0.33,0.33
 2026,50,Liberty,liberty-cfb,1568.3,0.32,0.32
 2026,51,Stanford,stanford-cfb,1564.1,0.3,0.3
-2026,52,Western Michigan,western-michigan-cfb,1563.8,0.3,0.3
-2026,53,North Texas,north-texas-cfb,1562.8,0.29,0.29
-2026,54,Virginia,virginia-cfb,1560.3,0.28,0.28
-2026,55,Arkansas,arkansas-cfb,1558,0.27,0.27
-2026,56,Toledo,toledo-cfb,1556.1,0.26,0.26
-2026,57,Texas A&M,texas-a-m-cfb,1541.2,0.19,0.19
-2026,58,East Carolina,east-carolina-cfb,1540.2,0.19,0.19
-2026,59,North Carolina State,north-carolina-state-cfb,1534.3,0.16,0.16
-2026,60,Cincinnati,cincinnati-cfb,1532.7,0.15,0.15
-2026,61,Minnesota,minnesota-cfb,1530.3,0.14,0.14
-2026,62,Tulsa,tulsa-cfb,1527.1,0.13,0.13
-2026,63,UNLV,unlv-cfb,1521.6,0.1,0.1
+2026,52,North Texas,north-texas-cfb,1562.8,0.29,0.29
+2026,53,Virginia,virginia-cfb,1560.3,0.28,0.28
+2026,54,Arkansas,arkansas-cfb,1558,0.27,0.27
+2026,55,Toledo,toledo-cfb,1556.1,0.26,0.26
+2026,56,Texas A&M,texas-a-m-cfb,1541.2,0.19,0.19
+2026,57,East Carolina,east-carolina-cfb,1540.2,0.19,0.19
+2026,58,North Carolina State,north-carolina-state-cfb,1534.3,0.16,0.16
+2026,59,Cincinnati,cincinnati-cfb,1532.7,0.15,0.15
+2026,60,Minnesota,minnesota-cfb,1530.3,0.14,0.14
+2026,61,Tulsa,tulsa-cfb,1527.1,0.13,0.13
+2026,62,UNLV,unlv-cfb,1521.6,0.1,0.1
+2026,63,Western Michigan,western-michigan-cfb,1519.8,0.09,0.09
 2026,64,Air Force,air-force-cfb,1519.4,0.09,0.09
 2026,65,Florida Atlantic,florida-atlantic-cfb,1518.8,0.09,0.09
 2026,66,Vanderbilt,vanderbilt-cfb,1518.2,0.08,0.09
 2026,67,Connecticut,connecticut-cfb,1516.3,0.08,0.08
-2026,68,Central Florida,central-florida-cfb,1510.2,0.05,0.05
-2026,69,Iowa State,iowa-state-cfb,1510.1,0.05,0.05
-2026,70,Fresno State,fresno-state-cfb,1506.2,0.03,0.03
-2026,71,Navy,navy-cfb,1504.3,0.02,0.02
-2026,72,Buffalo,buffalo-cfb,1502.6,0.01,0.01
-2026,73,North Carolina,north-carolina-cfb,1499.7,0,0
-2026,74,Ohio,ohio-cfb,1498.4,-0.01,-0.01
-2026,75,LA-Lafayette,la-lafayette-cfb,1496.6,-0.02,-0.02
-2026,76,Pittsburgh,pittsburgh-cfb,1490.6,-0.04,-0.04
-2026,77,Kansas,kansas-cfb,1487.8,-0.06,-0.06
-2026,78,Tulane,tulane-cfb,1474.4,-0.12,-0.12
-2026,79,Army,army-cfb,1473.3,-0.12,-0.13
-2026,80,Miami (OH),miami-oh-cfb,1470.8,-0.14,-0.14
+2026,68,Miami (OH),miami-oh-cfb,1514.8,0.07,0.07
+2026,69,Central Florida,central-florida-cfb,1510.2,0.05,0.05
+2026,70,Iowa State,iowa-state-cfb,1510.1,0.05,0.05
+2026,71,Fresno State,fresno-state-cfb,1506.2,0.03,0.03
+2026,72,Navy,navy-cfb,1504.3,0.02,0.02
+2026,73,Buffalo,buffalo-cfb,1502.6,0.01,0.01
+2026,74,North Carolina,north-carolina-cfb,1499.7,0,0
+2026,75,Ohio,ohio-cfb,1498.4,-0.01,-0.01
+2026,76,LA-Lafayette,la-lafayette-cfb,1496.6,-0.02,-0.02
+2026,77,Pittsburgh,pittsburgh-cfb,1490.6,-0.04,-0.04
+2026,78,Kansas,kansas-cfb,1487.8,-0.06,-0.06
+2026,79,Tulane,tulane-cfb,1474.4,-0.12,-0.12
+2026,80,Army,army-cfb,1473.3,-0.12,-0.13
 2026,81,San Diego State,san-diego-state-cfb,1470,-0.14,-0.14
 2026,82,Florida State,florida-state-cfb,1468.7,-0.15,-0.15
 2026,83,Virginia Tech,virginia-tech-cfb,1465.3,-0.16,-0.16
@@ -14527,11 +14527,11 @@ season,rank,program,slug,elo,z,adj_z
 2026,117,Hawaii,hawaii-cfb,1260.8,-1.12,-1.12
 2026,118,Troy,troy-cfb,1259.5,-1.12,-1.13
 2026,119,Middle Tennessee State,middle-tennessee-state-cfb,1257.7,-1.13,-1.14
-2026,120,Southern Mississippi,southern-mississippi-cfb,1242,-1.2,-1.21
-2026,121,San Jose State,san-jose-state-cfb,1240.1,-1.21,-1.22
-2026,122,Eastern Michigan,eastern-michigan-cfb,1232.2,-1.25,-1.26
+2026,120,Eastern Michigan,eastern-michigan-cfb,1249.7,-1.17,-1.17
+2026,121,Southern Mississippi,southern-mississippi-cfb,1242,-1.2,-1.21
+2026,122,San Jose State,san-jose-state-cfb,1240.1,-1.21,-1.22
 2026,123,Missouri State,missouri-state-cfb,1231.3,-1.25,-1.26
-2026,124,Bowling Green,bowling-green-cfb,1222.2,-1.29,-1.3
+2026,124,Bowling Green,bowling-green-cfb,1222.2,-1.3,-1.3
 2026,125,Rice,rice-cfb,1219.7,-1.31,-1.31
 2026,126,Colorado State,colorado-state-cfb,1184.3,-1.47,-1.48
 2026,127,Temple,temple-cfb,1158.7,-1.59,-1.6
@@ -14540,8 +14540,8 @@ season,rank,program,slug,elo,z,adj_z
 2026,130,Akron,akron-cfb,1146.2,-1.65,-1.66
 2026,131,Massachusetts,massachusetts-cfb,1143.6,-1.66,-1.67
 2026,132,Charlotte,charlotte-cfb,1140.7,-1.68,-1.69
-2026,133,Kent State,kent-state-cfb,1137,-1.69,-1.7
-2026,134,LA-Monroe,la-monroe-cfb,1131,-1.72,-1.73
+2026,133,LA-Monroe,la-monroe-cfb,1131,-1.72,-1.73
+2026,134,Kent State,kent-state-cfb,1119.5,-1.77,-1.79
 2026,135,Sacramento State,sacramento-state-cfb,1065.7,-2.02,-2.04
 2026,136,Northern Illinois,northern-illinois-cfb,1020.8,-2.23,-2.25
 2026,137,Sam Houston State,sam-houston-state-cfb,1020.8,-2.23,-2.25

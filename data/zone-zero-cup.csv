@@ -37,24 +37,24 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 36,Turkey,turkey,Europe,C,28.3,28.3,34,0.6,43,0.329,139,0,9,Basketball,Basketball,10.4,false,false
 37,Greece,greece,Europe,C,28.1,28.1,35,,,2.712,64,0,13,Basketball,Basketball,7.2,false,false
 38,Ukraine,ukraine,Europe,C,27.8,26.3,40,5.6,26,0.97,97,0,15,Volleyball,Athletics,7,false,false
-39,Kenya,kenya,Africa,C,27.2,27.2,37,,,0.511,126,0,23,Cricket,Athletics,21.5,false,false
+39,Kenya,kenya,Africa,C,27.2,27.2,37,,,0.51,126,0,23,Cricket,Athletics,21.5,false,false
 40,Venezuela,venezuela,South America,C,27,27,38,,,0.946,100,1,2,Baseball,Baseball,15.6,false,false
 41,Austria,austria,Europe,C,26.6,19.9,48,22.3,7,2.884,62,0,12,Ice Hockey,Ice Hockey,4.9,false,false
 42,Taiwan,taiwan,Asia,C,26.3,26.3,39,0.7,41,1.131,91,0,5,Baseball,Baseball,7.6,false,false
 43,Russia,russia,Europe,C,25.3,20.7,47,9.1,19,0.173,158,40,27,Football,Athletics,11.7,true,false
-44,Dominican Republic,dominican-republic,North America,D,24.4,24.4,41,,,2.264,68,1,4,Baseball,Baseball,9.2,false,false
+44,Dominican Republic,dominican-republic,North America,D,24.4,24.4,41,,,2.266,68,1,4,Baseball,Baseball,9.2,false,false
 45,Romania,romania,Europe,D,24.1,23.1,43,2.6,34,1.263,86,4,20,Volleyball,Rowing,3.4,false,false
 46,Puerto Rico,puerto-rico,North America,D,23.3,23.3,42,,,7.309,31,0,10,Baseball,Baseball,9.1,false,false
 47,Uruguay,uruguay,South America,D,22.3,22.3,44,,,6.393,37,1,18,Rugby Union,Football,14.5,false,false
 48,Kazakhstan,kazakhstan,Europe,D,22.2,18.5,50,7.2,23,1.079,93,0,13,Ice Hockey,Ice Hockey,4.2,false,false
 49,Morocco,morocco,Africa,D,21.9,21.9,45,,,0.596,120,0,14,Football,Football,10,false,false
-50,Iran,iran,Asia,D,21.9,21.9,46,,,0.251,146,0,12,Volleyball,Football,4.6,false,false
+50,Iran,iran,Asia,D,21.9,21.9,46,,,0.251,147,0,12,Volleyball,Football,4.6,false,false
 51,Latvia,latvia,Europe,D,20.6,15.2,60,8.9,20,11.204,24,0,10,Ice Hockey,Basketball,7.2,false,false
 52,Lithuania,lithuania,Europe,D,20.2,17.8,54,3.2,31,7.007,34,0,10,Basketball,Basketball,7.2,false,false
 53,Sri Lanka,sri-lanka,Asia,D,19.6,19.6,49,,,0.898,102,2,6,Cricket,Cricket,13,false,false
 54,Slovakia,slovakia,Europe,D,18.9,12.4,73,10.3,18,3.504,55,1,7,Ice Hockey,Ice Hockey,6.5,false,false
 55,Thailand,thailand,Asia,D,18.3,18.3,51,0.3,51,0.278,145,0,50,Women's Football,Badminton,4.5,false,false
-56,Pakistan,pakistan,Asia,D,18,18,52,,,0.075,186,2,3,Cricket,Cricket,9.9,false,false
+56,Pakistan,pakistan,Asia,D,18.1,18.1,52,,,0.075,186,2,3,Cricket,Cricket,9.9,false,false
 57,Egypt,egypt,Africa,D,18,18,53,,,0.166,160,0,5,Handball,Football,4.6,false,false
 58,Georgia,georgia,Europe,D,17.7,17.4,55,0.8,40,4.497,47,0,13,Rugby Union,Rugby Union,4.8,false,false
 59,Nigeria,nigeria,Africa,D,16.6,16.6,56,,,0.074,187,0,28,Football,Athletics,3.7,false,false
@@ -77,21 +77,21 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 76,Tunisia,tunisia,Africa,D,11.3,11.3,75,,,0.948,99,0,19,Volleyball,Volleyball,2.1,false,false
 77,Bangladesh,bangladesh,Asia,D,11.2,8.7,83,,,0.066,189,0,8,Cricket,Cricket,4.4,false,false
 78,Côte d'Ivoire,cote-divoire,Africa,D,11,11,76,,,0.34,138,0,35,Basketball,Football,4.1,false,false
-79,Cameroon,cameroon,Africa,D,11,11,77,,,0.373,134,0,26,Volleyball,Football,2.7,false,false
+79,Cameroon,cameroon,Africa,D,11,11,77,,,0.372,134,0,26,Volleyball,Football,2.7,false,false
 80,Zimbabwe,zimbabwe,Africa,D,10.2,10.2,78,,,0.595,121,0,11,Cricket,Cricket,3.3,false,false
 81,Azerbaijan,azerbaijan,Europe,D,10.1,10.1,79,,,0.982,95,0,61,Handball,Wrestling,2.7,false,false
 82,Philippines,philippines,Asia,E,9.8,9.8,80,,,0.085,182,0,39,Women's Football,Gymnastics,1.9,false,false
 83,Panama,panama,North America,E,9.7,9.7,81,,,2.379,66,0,14,Baseball,Football,3.4,false,false
 84,Fiji,fiji,Oceania,E,9,9,82,,,9.924,26,0,10,Rugby Union,Rugby Union,6.4,false,false
 85,East Germany,east-germany,,E,8.7,8.5,86,2.9,33,,,1,,,Athletics,3.2,false,true
-86,Malaysia,malaysia,Asia,E,8.6,8.6,84,,,0.251,147,0,101,Women's Football,Badminton,5.3,false,false
+86,Malaysia,malaysia,Asia,E,8.6,8.6,84,,,0.252,146,0,101,Women's Football,Badminton,5.3,false,false
 87,Barbados,barbados,North America,E,8.6,8.6,85,,,32.954,8,0,102,Basketball,Cricket,5.2,false,false
 88,Peru,peru,South America,E,7.9,7.9,87,,,0.23,150,0,46,Football,Football,3.1,false,false
 89,Iceland,iceland,Europe,E,7.7,7,92,0.7,42,19.456,14,0,8,Handball,Handball,3,false,false
-90,Paraguay,paraguay,South America,E,7.5,7.5,88,,,1.228,87,0,24,Football,Football,6,false,false
+90,Paraguay,paraguay,South America,E,7.5,7.5,88,,,1.228,88,0,24,Football,Football,6,false,false
 91,Montenegro,montenegro,Europe,E,7.4,7.4,89,,,11.874,22,0,18,Basketball,Water Polo,1.9,false,false
 92,Belarus,belarus,Europe,E,7.3,6.8,93,1.3,37,0.801,108,0,46,Women's Football,Tennis,5,true,false
-93,Bahamas,bahamas,North America,E,7.2,7.2,91,,,18.077,16,0,49,Basketball,Athletics,5.9,false,false
+93,Bahamas,bahamas,North America,E,7.2,7.2,91,,,18.106,16,0,49,Basketball,Athletics,5.9,false,false
 94,Namibia,namibia,Africa,E,6.8,6.8,94,,,2.252,69,0,16,Cricket,Rugby Union,2.6,false,false
 95,Grenada,grenada,North America,E,6.6,6.6,95,,,60.737,5,0,114,Basketball,Athletics,4,false,false
 96,Papua New Guinea,papua-new-guinea,Oceania,E,6.3,3.8,120,,,0.621,119,0,21,Cricket,Rugby League,1.5,false,false
@@ -103,54 +103,54 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 102,Saint Lucia,saint-lucia,North America,E,5.6,5.6,101,,,30.163,9,0,164,Women's Football,Athletics,2.9,false,false
 103,Saudi Arabia,saudi-arabia,Asia,E,5.5,5.5,102,,,0.156,162,0,31,Handball,Football,2,false,false
 104,Bosnia-Herzegovina,bosnia-herzegovina,Europe,E,5.3,5,106,0.3,50,1.563,83,0,31,Basketball,Basketball,1.7,false,false
-105,Botswana,botswana,Africa,E,5.3,5.3,103,,,2.247,70,0,148,Football,Athletics,4.8,false,false
-106,Jordan,jordan,Asia,E,5.2,5.2,104,,,0.432,131,0,41,Basketball,Football,2,false,false
+105,Botswana,botswana,Africa,E,5.3,5.3,103,,,2.251,70,0,148,Football,Athletics,4.8,false,false
+106,Jordan,jordan,Asia,E,5.2,5.2,104,,,0.436,131,0,41,Basketball,Football,2.1,false,false
 107,Mali,mali,Africa,E,5.1,5.1,105,,,0.229,152,0,61,Basketball,Women's Basketball,2.5,false,false
 108,Angola,angola,Africa,E,4.8,4.8,107,,,0.125,170,0,27,Basketball,Basketball,2.9,false,false
-109,Ghana,ghana,Africa,E,4.8,4.8,108,,,0.141,167,0,51,Volleyball,Football,1.5,false,false
-110,Armenia,armenia,Europe,E,4.8,4.8,109,,,1.558,84,0,93,Basketball,Wrestling,1.7,false,false
+109,Armenia,armenia,Europe,E,4.8,4.8,108,,,1.558,84,0,93,Basketball,Wrestling,1.7,false,false
+110,Ghana,ghana,Africa,E,4.8,4.8,109,,,0.14,167,0,51,Volleyball,Football,1.5,false,false
 111,Dominica,dominica,North America,E,4.7,4.7,110,,,72.209,2,0,152,Basketball,Athletics,2.4,false,false
 112,Zambia,zambia,Africa,E,4.5,4.5,111,,,0.23,151,0,70,Women's Football,Football,1.2,false,false
 113,Mongolia,mongolia,Asia,E,4.4,4.4,112,,,1.223,89,0,105,Basketball,Judo,1.6,false,false
-114,Afghanistan,afghanistan,Asia,E,4.3,4.3,113,,,0.098,175,0,7,Cricket,Cricket,3.9,false,false
+114,Afghanistan,afghanistan,Asia,E,4.3,4.3,113,,,0.098,174,0,7,Cricket,Cricket,3.9,false,false
 115,Individual Neutral Athletes,individual-neutral-athletes,,E,4.3,3.9,117,0.5,44,,,0,,,Gymnastics,1.6,false,true
 116,Lebanon,lebanon,Asia,E,4.2,4.2,114,,,0.719,111,0,33,Basketball,Basketball,2.5,false,false
 117,Vietnam,vietnam,Asia,E,4.2,4.2,115,,,0.041,199,0,37,Women's Football,Badminton,1.3,false,false
 118,Antigua & Barbuda,antigua-barbuda,North America,E,4.1,4.1,116,,,39.433,6,0,107,Basketball,Cricket,3,false,false
-119,Costa Rica,costa-rica,North America,F,3.9,3.9,118,,,0.758,110,0,41,Women's Football,Football,1.3,false,false
+119,Costa Rica,costa-rica,North America,F,3.9,3.9,118,,,0.759,110,0,41,Women's Football,Football,1.3,false,false
 120,Bermuda,bermuda,North America,F,3.9,3.9,119,,,61.298,4,0,18,Cricket,Cricket,2.1,false,false
 121,North Macedonia,north-macedonia,Europe,F,3.8,3.8,121,,,2.062,73,0,19,Handball,Handball,1.7,false,false
-122,Burkina Faso,burkina-faso,Africa,F,3.7,3.7,122,,,0.154,163,0,78,Football,Athletics,2.1,false,false
+122,Burkina Faso,burkina-faso,Africa,F,3.7,3.7,122,,,0.155,163,0,78,Football,Athletics,2.1,false,false
 123,Tanzania,tanzania,Africa,F,3.6,3.6,123,,,0.052,196,0,80,Volleyball,Athletics,1.7,false,false
 124,Congo DR,congo-dr,Africa,F,3.6,3.6,124,,,0.031,205,0,45,Football,Football,2.1,false,false
 125,Tajikistan,tajikistan,Asia,F,3.4,3.4,125,,,0.32,140,0,143,Football,Athletics,1.7,false,false
 126,Guatemala,guatemala,North America,F,3.4,3.4,126,,,0.186,157,0,82,Football,Shooting,1.2,false,false
 127,Kuwait,kuwait,Asia,F,3.4,3.4,127,,,0.689,116,0,27,Handball,Cricket,1.5,false,false
-128,Mozambique,mozambique,Africa,F,3.3,3.3,128,,,0.096,176,0,122,Football,Women's Basketball,1.6,false,false
+128,Mozambique,mozambique,Africa,F,3.3,3.3,128,,,0.096,175,0,122,Football,Women's Basketball,1.6,false,false
 129,South Sudan,south-sudan,Africa,F,3.2,3.2,129,,,0.206,155,0,24,Basketball,Basketball,2.7,false,false
 130,Kosovo,kosovo,Europe,F,3.2,3.2,130,,,2.001,76,0,57,Handball,Judo,1.9,false,false
-131,Nepal,nepal,Asia,F,3.1,3.1,131,,,0.102,173,0,12,Cricket,Cricket,2.6,false,false
-132,Kyrgyzstan,kyrgyzstan,Asia,F,2.9,2.9,132,,,0.395,133,0,136,Football,Wrestling,1.9,false,false
-133,Moldova,moldova,Europe,F,2.9,2.9,133,,,1.225,88,0,122,Women's Football,Wrestling,0.7,false,false
+131,Kyrgyzstan,kyrgyzstan,Asia,F,2.9,2.9,131,,,0.395,133,0,136,Football,Wrestling,1.9,false,false
+132,Moldova,moldova,Europe,F,2.9,2.9,132,,,1.23,87,0,122,Women's Football,Wrestling,0.7,false,false
+133,Nepal,nepal,Asia,F,2.8,2.8,133,,,0.092,176,0,12,Cricket,Cricket,2.6,false,false
 134,Malawi,malawi,Africa,F,2.6,2.6,134,,,0.125,171,0,104,Women's Football,Netball,1.8,false,false
 135,Nicaragua,nicaragua,North America,F,2.5,2.5,135,,,0.364,135,0,21,Baseball,Baseball,1.9,false,false
-136,Cape Verde,cape-verde,Africa,F,2.4,2.4,136,,,4.893,43,0,30,Handball,Handball,0.9,false,false
+136,Cape Verde,cape-verde,Africa,F,2.4,2.4,136,,,4.893,42,0,30,Handball,Handball,0.9,false,false
 137,Haudenosaunee,haudenosaunee,,F,2.4,2.4,137,,,,,0,,,Lacrosse,2.4,false,false
-138,Luxembourg,luxembourg,Europe,F,2.2,2.1,139,0.1,54,3.21,58,0,67,Handball,Cycling Road,0.8,false,false
-139,Cyprus,cyprus,Europe,F,2.2,2.2,138,,,2.235,72,0,56,Volleyball,Sailing,0.8,false,false
+138,Luxembourg,luxembourg,Europe,F,2.2,2.2,139,0.1,54,3.221,58,0,67,Handball,Cycling Road,0.8,false,false
+139,Cyprus,cyprus,Europe,F,2.2,2.2,138,,,2.235,71,0,56,Volleyball,Sailing,0.8,false,false
 140,Haiti,haiti,North America,F,2,2,140,,,0.172,159,0,48,Women's Football,Women's Football,1.3,false,false
 141,Albania,albania,Europe,F,2,2,141,,,0.872,104,0,60,Football,Football,0.9,false,false
 142,Burundi,burundi,Africa,F,1.8,1.8,142,,,0.15,166,0,74,Volleyball,Athletics,1.4,false,false
 143,Syria,syria,Asia,F,1.8,1.8,143,,,0.069,188,0,73,Basketball,Athletics,0.8,false,false
 144,Rwanda,rwanda,Africa,F,1.8,1.8,144,,,0.124,172,0,48,Volleyball,Volleyball,0.5,false,false
-145,Cook Islands,cook-islands,Oceania,F,1.7,1.7,145,,,114.692,1,0,132,Women's Football,Rugby League,0.8,false,false
-146,Bolivia,bolivia,South America,F,1.7,1.7,146,,,0.152,164,0,58,Football,Football,1.4,false,false
+145,Bolivia,bolivia,South America,F,1.7,1.7,145,,,0.153,164,0,58,Football,Football,1.4,false,false
+146,Cook Islands,cook-islands,Oceania,F,1.7,1.7,146,,,114.692,1,0,132,Women's Football,Rugby League,0.8,false,false
 147,Cayman Islands,cayman-islands,North America,F,1.6,1.6,147,,,18.548,15,0,151,Basketball,Rugby Union,1,false,false
 148,Jersey,jersey,Europe,F,1.6,1.6,148,,,15.791,17,0,,,Cricket,1.6,false,false
 149,Iraq,iraq,Asia,F,1.5,1.5,149,,,0.033,203,0,63,Handball,Football,1.1,false,false
 150,Honduras,honduras,North America,F,1.5,1.5,150,,,0.151,165,0,52,Volleyball,Football,0.7,false,false
 151,Faroe Islands,faroe-islands,Europe,F,1.4,1.4,151,,,24.944,12,0,32,Handball,Handball,0.9,false,false
-152,Suriname,suriname,North America,F,1.4,1.4,152,,,2.237,71,0,59,Volleyball,Football,0.4,false,false
+152,Suriname,suriname,North America,F,1.4,1.4,152,,,2.212,72,0,59,Volleyball,Football,0.4,false,false
 153,San Marino,san-marino,Europe,F,1.3,1.3,153,,,38.754,7,0,112,Basketball,Shooting,0.7,false,false
 154,Tahiti,tahiti,Oceania,F,1.3,1.3,154,,,4.705,46,0,124,Women's Football,Football,1,false,false
 155,El Salvador,el-salvador,North America,F,1.3,1.3,155,,,0.216,153,0,78,Women's Football,Women's Football,0.4,false,false
@@ -163,11 +163,11 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 162,Madagascar,madagascar,Africa,F,1,1,161,,,0.031,204,0,90,Basketball,Rugby Union,0.8,false,false
 163,Sudan,sudan,Africa,F,1,1,162,,,0.019,210,0,119,Football,Athletics,0.8,false,false
 164,Vanuatu,vanuatu,Oceania,F,1,1,163,,,2.989,61,0,100,Women's Football,Football,0.7,false,false
-165,Guinea,guinea,Africa,F,1,1,164,,,0.055,193,0,65,Handball,Basketball,0.4,false,false
+165,Guinea,guinea,Africa,F,1,1,164,,,0.055,192,0,65,Handball,Basketball,0.4,false,false
 166,British Virgin Islands,british-virgin-islands,North America,G,0.9,0.9,165,,,22.84,13,0,213,Football,Athletics,0.9,false,false
 167,Independent Olympic Athletes,independent-olympic-athletes,,G,0.8,0.8,166,,,,,0,,,Shooting,0.8,false,true
 168,Guernsey,guernsey,Europe,G,0.8,0.8,167,,,12.681,21,0,,,Cricket,0.8,false,false
-169,Curaçao,curacao,North America,G,0.8,0.8,168,,,5.013,42,0,68,Volleyball,Football,0.5,false,false
+169,Curaçao,curacao,North America,G,0.8,0.8,168,,,4.855,43,0,68,Volleyball,Football,0.5,false,false
 170,St. Kitts & Nevis,st-kitts-nevis,North America,G,0.7,0.7,169,,,13.885,19,0,151,Women's Football,Athletics,0.7,false,false
 171,Turkmenistan,turkmenistan,Asia,G,0.6,0.6,170,,,0.091,177,0,142,Women's Football,Weightlifting,0.6,false,false
 172,New Caledonia,new-caledonia,Oceania,G,0.6,0.6,171,,,2.36,67,0,108,Women's Football,Football,0.6,false,false
@@ -197,14 +197,14 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 196,Belize,belize,North America,G,0.2,0.2,194,,,0.513,125,0,128,Basketball,Cricket,0.2,false,false
 197,American Samoa,american-samoa,Oceania,G,0.2,0.2,195,,,3.502,56,0,123,Women's Football,Athletics,0.2,false,false
 198,Seychelles,seychelles,Africa,G,0.1,0.1,196,,,1.1,92,0,178,Women's Football,Cricket,0.1,false,false
-199,Eswatini,eswatini,Africa,G,0.1,0.1,197,,,0.101,174,0,163,Football,Cricket,0.1,false,false
+199,Eswatini,eswatini,Africa,G,0.1,0.1,197,,,0.101,173,0,163,Football,Cricket,0.1,false,false
 200,Guam,guam,Oceania,G,0.1,0.1,198,,,0.799,109,0,78,Basketball,Basketball,0.1,false,false
 201,Guadeloupe,guadeloupe,North America,G,0.1,0.1,199,,,0.304,143,0,124,Football,Women's Volleyball,0.1,false,false
 202,Cambodia,cambodia,Asia,G,0.1,0.1,200,,,0.006,217,0,118,Women's Football,Cricket,0.1,false,false
 203,Guinea-Bissau,guinea-bissau,Africa,G,0.1,0.1,201,,,0.053,194,0,150,Football,Football,0.1,false,false
 204,Sierra Leone,sierra-leone,Africa,G,0.1,0.1,202,,,0.01,214,0,123,Football,Cricket,0,false,false
 205,Comoros,comoros,Africa,G,0.1,0.1,203,,,0.089,179,0,112,Football,Football,0.1,false,false
-206,East Timor,east-timor,Asia,G,0.1,0.1,204,,,0.055,192,0,158,Women's Football,Cricket,0.1,false,false
+206,East Timor,east-timor,Asia,G,0.1,0.1,204,,,0.055,191,0,158,Women's Football,Cricket,0.1,false,false
 207,Chad,chad,Africa,G,0.1,0.1,205,,,0.004,218,0,88,Volleyball,Volleyball,0.1,false,false
 208,Bhutan,bhutan,Asia,G,0.1,0.1,206,,,0.086,181,0,161,Women's Football,Cricket,0.1,false,false
 209,West Indies Federation,west-indies-federation,,,0,0,207,,,,,0,,,Athletics,0,false,true
@@ -214,8 +214,8 @@ rank,nation,slug,continent,tier,merit,merit_summer,rank_summer,merit_winter,rank
 213,Laos,laos,Asia,,0,0,211,,,0.002,219,0,120,Women's Football,Badminton,0,false,false
 214,Aruba,aruba,North America,,0,0,212,,,0.159,161,0,183,Women's Football,Women's Football,0,false,false
 215,Mixed team,mixed-team,,,0,0,213,,,,,0,,,Tennis,0,false,true
-216,São Tomé and Príncipe,sao-tome-and-principe,Africa,,0,0,214,,,0.056,191,0,181,Football,Women's Football,0,false,false
-217,Palau,palau,Oceania,,0,0,215,,,0.699,115,0,159,Basketball,Women's Volleyball,0,false,false
+216,Palau,palau,Oceania,,0,0,214,,,0.699,115,0,159,Basketball,Women's Volleyball,0,false,false
+217,São Tomé and Príncipe,sao-tome-and-principe,Africa,,0,0,215,,,0.053,193,0,181,Football,Women's Football,0,false,false
 218,Réunion,reunion,Africa,,0,0,216,,,0.012,213,0,120,Football,Badminton,0,false,false
 219,Yemen,yemen,Asia,,0,0,217,,,0,220,0,160,Football,Football,0,false,false
 220,Brunei,brunei,Asia,,0,0,219,,,0.018,211,0,234,Football,Badminton,0,false,false

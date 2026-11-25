@@ -1818,13 +1818,13 @@ season,team,name,city,league,start_elo,end_elo,peak_elo,low_elo,regular_season_r
 2026,Washington Wizards,Wizards,Washington,NBA,1331.9,1245.9,1331.9,1245.9,17-65,,false,final
 2027,San Antonio Spurs,Spurs,San Antonio,NBA,1693.9,1706.9,1713.6,1680.9,15-3,,,live
 2027,New York Knicks,Knicks,New York,NBA,1673.2,1663,1673.2,1649.1,11-6,,,live
-2027,Detroit Pistons,Pistons,Detroit,NBA,1620.7,1631.7,1639.8,1620.7,10-6,,,live
+2027,Detroit Pistons,Pistons,Detroit,NBA,1620.7,1639.6,1639.8,1620.7,11-6,,,live
 2027,Oklahoma City Thunder,Thunder,Oklahoma City,NBA,1662.9,1629.8,1678.2,1629.8,10-8,,,live
-2027,Boston Celtics,Celtics,Boston,NBA,1585.8,1614.6,1636.8,1585.8,11-6,,,live
+2027,Boston Celtics,Celtics,Boston,NBA,1585.8,1618.3,1636.8,1585.8,12-6,,,live
 2027,Houston Rockets,Rockets,Houston,NBA,1573.8,1605.2,1612,1573.8,13-5,,,live
 2027,Los Angeles Lakers,Lakers,Los Angeles,NBA,1555.7,1587.3,1600.7,1555.7,15-3,,,live
-2027,Denver Nuggets,Nuggets,Denver,NBA,1589.2,1584.1,1589.2,1580.3,10-5,,,live
 2027,Minnesota Timberwolves,Timberwolves,Minnesota,NBA,1534.4,1579,1581.6,1534.4,13-5,,,live
+2027,Denver Nuggets,Nuggets,Denver,NBA,1589.2,1566,1589.2,1566,10-6,,,live
 2027,Portland Trail Blazers,Trail Blazers,Portland,NBA,1504.6,1559.4,1559.4,1504.6,11-6,,,live
 2027,Atlanta Hawks,Hawks,Atlanta,NBA,1533.3,1553.8,1561.1,1533.3,11-6,,,live
 2027,Philadelphia 76ers,76ers,Philadelphia,NBA,1533.1,1552.4,1564.9,1533.1,14-4,,,live
@@ -1832,17 +1832,17 @@ season,team,name,city,league,start_elo,end_elo,peak_elo,low_elo,regular_season_r
 2027,Miami Heat,Heat,Miami,NBA,1517.6,1535.9,1535.9,1492.7,10-6,,,live
 2027,Phoenix Suns,Suns,Phoenix,NBA,1520.2,1525.9,1525.9,1498.8,9-7,,,live
 2027,Toronto Raptors,Raptors,Toronto,NBA,1543.8,1506.3,1549.6,1506.3,6-11,,,live
-2027,Orlando Magic,Magic,Orlando,NBA,1537.3,1505.4,1537.3,1498.9,7-9,,,live
+2027,Orlando Magic,Magic,Orlando,NBA,1537.3,1497.4,1537.3,1497.4,7-10,,,live
 2027,Golden State Warriors,Warriors,Golden State,NBA,1477,1487.5,1516.7,1462.8,9-8,,,live
 2027,Charlotte Hornets,Hornets,Charlotte,NBA,1572.8,1479.9,1572.8,1479.9,4-12,,,live
 2027,Memphis Grizzlies,Grizzlies,Memphis,NBA,1379.7,1475.2,1475.2,1379.7,13-5,,,live
+2027,Dallas Mavericks,Mavericks,Dallas,NBA,1414.8,1468.6,1468.6,1414.8,11-7,,,live
 2027,Los Angeles Clippers,Clippers,Los Angeles,NBA,1526.2,1464.1,1526.2,1464.1,4-12,,,live
-2027,Dallas Mavericks,Mavericks,Dallas,NBA,1414.8,1450.5,1450.5,1414.8,10-7,,,live
 2027,Chicago Bulls,Bulls,Chicago,NBA,1402.9,1413.1,1413.1,1380.5,5-12,,,live
 2027,Indiana Pacers,Pacers,Indiana,NBA,1385,1379,1393.8,1371.8,6-12,,,live
 2027,New Orleans Pelicans,Pelicans,New Orleans,NBA,1428.1,1376.5,1429.4,1373.2,5-14,,,live
 2027,Milwaukee Bucks,Bucks,Milwaukee,NBA,1411.9,1358.5,1411.9,1349.9,2-16,,,live
 2027,Utah Jazz,Jazz,Utah,NBA,1353.3,1345.9,1353.3,1313.4,3-16,,,live
-2027,Washington Wizards,Wizards,Washington,NBA,1310.7,1344.6,1344.6,1310.7,7-11,,,live
+2027,Washington Wizards,Wizards,Washington,NBA,1310.7,1340.9,1344.6,1310.7,7-12,,,live
 2027,Sacramento Kings,Kings,Sacramento,NBA,1381.5,1336,1381.5,1336,2-15,,,live
 2027,Brooklyn Nets,Nets,Brooklyn,NBA,1339.8,1324.6,1348,1321.9,3-13,,,live

@@ -292,11 +292,11 @@ season,week,date,team,elo,rank,change,record,seed
 2027,9,2026-11-29,Colorado Avalanche,1569.4,3,0,13-7-0-3,false
 2027,9,2026-11-29,Tampa Bay Lightning,1559.5,4,0,15-6-0-2,false
 2027,9,2026-11-29,Dallas Stars,1546.2,5,0,15-6-0-2,false
-2027,9,2026-11-29,Edmonton Oilers,1541.9,6,0,17-5-0-4,false
-2027,9,2026-11-29,Ottawa Senators,1538.3,7,1.6,16-6-0-3,false
-2027,9,2026-11-29,Montreal Canadiens,1535.5,8,-3.2,14-7-0-4,false
-2027,9,2026-11-29,Boston Bruins,1532.9,9,0,15-7-0-1,false
-2027,9,2026-11-29,Vegas Golden Knights,1532.8,10,0,14-6-0-5,false
+2027,9,2026-11-29,Ottawa Senators,1538.3,6,1.6,16-6-0-3,false
+2027,9,2026-11-29,Edmonton Oilers,1537.6,7,-4.3,17-6-0-4,false
+2027,9,2026-11-29,Vegas Golden Knights,1537.2,8,4.3,15-6-0-5,false
+2027,9,2026-11-29,Montreal Canadiens,1535.5,9,-3.2,14-7-0-4,false
+2027,9,2026-11-29,Boston Bruins,1532.9,10,0,15-7-0-1,false
 2027,9,2026-11-29,Buffalo Sabres,1524.4,11,0,10-10-0-4,false
 2027,9,2026-11-29,New Jersey Devils,1524.3,12,1.9,16-8-0-0,false
 2027,9,2026-11-29,Florida Panthers,1517.1,13,0,13-8-0-3,false
