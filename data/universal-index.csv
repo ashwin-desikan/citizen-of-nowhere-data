@@ -1,432 +1,432 @@
 rank,team,league,team_id,season,elo,universal,z,rank_in_league,in_season,days_idle
-1,Arsenal,club,Arsenal,2027,1886.72,1800.2,3.002,1,true,1
-2,Milwaukee Brewers,mlb,mlb:Brewers,2026,1607.1,1761.35,2.614,1,false,28
-3,Real Madrid,club,Real Madrid,2027,1903.61,1734.33,2.343,2,true,1
-4,San Antonio Spurs,nba,nba:Spurs,2027,1706.9,1718.54,2.185,1,true,0
-5,Carolina Hurricanes,nhl,nhl:Hurricanes,2027,1608,1718.11,2.181,1,true,3
-6,Paris Saint-Germain,club,Paris Saint-Germain,2027,1880.38,1711.63,2.116,3,true,4
-7,Buffalo Bills,nfl,nfl:Bills,2026,1711.8,1706.53,2.065,1,true,3
-8,FC Barcelona,club,FC Barcelona,2027,1866.62,1705.02,2.05,4,true,3
-9,Bayern Munich,club,Bayern Munich,2027,1889.32,1687.56,1.876,5,true,5
-10,Liverpool,club,Liverpool,2027,1765.66,1674.61,1.746,6,true,3
-11,Manchester City,club,Manchester City,2027,1805.35,1672.08,1.721,7,true,1
-12,San Francisco 49ers,nfl,nfl:49ers,2026,1678.5,1667.93,1.679,2,true,3
-13,Internazionale,club,Internazionale,2027,1800.74,1667.16,1.672,8,true,3
-14,Borussia Dortmund,club,Borussia Dortmund,2027,1788.25,1666.57,1.666,9,true,1
-15,New York Knicks,nba,nba:Knicks,2027,1663,1662.04,1.62,2,true,3
-16,Los Angeles Dodgers,mlb,mlb:Dodgers,2026,1565.4,1649.67,1.497,2,false,41
-17,Denver Broncos,nfl,nfl:Broncos,2026,1654.2,1640.06,1.401,3,true,3
-18,Atlético de Madrid,club,Atlético de Madrid,2027,1767.66,1638.11,1.381,10,true,3
+1,Arsenal,club,Arsenal,2027,1886.72,1800.17,3.002,1,true,2
+2,Milwaukee Brewers,mlb,mlb:Brewers,2026,1607.1,1760.57,2.606,1,false,29
+3,Real Madrid,club,Real Madrid,2027,1903.61,1734.33,2.343,2,true,2
+4,Carolina Hurricanes,nhl,nhl:Hurricanes,2027,1611.6,1727.84,2.278,1,true,0
+5,San Antonio Spurs,nba,nba:Spurs,2027,1701.8,1712.8,2.128,1,true,0
+6,Paris Saint-Germain,club,Paris Saint-Germain,2027,1873.72,1711.63,2.116,3,true,1
+7,FC Barcelona,club,FC Barcelona,2027,1875,1709.91,2.099,4,true,1
+8,Buffalo Bills,nfl,nfl:Bills,2026,1711.8,1706.53,2.065,1,true,4
+9,Liverpool,club,Liverpool,2027,1790.78,1685.76,1.858,5,true,1
+10,Bayern Munich,club,Bayern Munich,2027,1862.22,1683.7,1.837,6,true,1
+11,Internazionale,club,Internazionale,2027,1818.16,1672.11,1.721,7,true,1
+12,Manchester City,club,Manchester City,2027,1805.35,1668.4,1.684,8,true,2
+13,San Francisco 49ers,nfl,nfl:49ers,2026,1678.5,1667.91,1.679,2,true,4
+14,New York Knicks,nba,nba:Knicks,2027,1666.9,1666.94,1.669,2,true,0
+15,Borussia Dortmund,club,Borussia Dortmund,2027,1788.25,1662.81,1.628,9,true,2
+16,Los Angeles Dodgers,mlb,mlb:Dodgers,2026,1565.4,1649.22,1.492,2,false,42
+17,Denver Broncos,nfl,nfl:Broncos,2026,1654.2,1640.06,1.401,3,true,4
+18,Atlético de Madrid,club,Atlético de Madrid,2027,1776.18,1639.75,1.398,10,true,1
 19,Detroit Pistons,nba,nba:Pistons,2027,1639.6,1634.15,1.342,3,true,0
-20,Real Betis,club,Real Betis,2027,1688.55,1632,1.32,11,true,1
-21,Seattle Seahawks,nfl,nfl:Seahawks,2026,1645.4,1630.34,1.303,4,true,10
-22,AS Roma,club,AS Roma,2027,1739.22,1628.88,1.289,12,true,4
-23,Minnesota Wild,nhl,nhl:Wild,2027,1572.3,1625.91,1.259,2,true,0
-24,Oklahoma City Thunder,nba,nba:Thunder,2027,1629.8,1623.32,1.233,4,true,0
-25,Detroit Lions,nfl,nfl:Lions,2026,1638,1622.55,1.226,5,true,3
-26,FC Porto,club,FC Porto,2027,1694.24,1622.31,1.223,13,true,1
-27,Chicago Bears,nfl,nfl:Bears,2026,1636,1620.37,1.204,6,true,3
-28,Lazio,club,Lazio,2027,1654.51,1619.99,1.2,14,true,4
-29,Colorado Avalanche,nhl,nhl:Avalanche,2027,1569.4,1619.17,1.192,3,true,3
-30,Bayer Leverkusen,club,Bayer Leverkusen,2027,1739.04,1617.09,1.171,15,true,4
-31,Aston Villa,club,Aston Villa,2027,1648.16,1615.94,1.159,16,true,1
-32,Jacksonville Jaguars,nfl,nfl:Jaguars,2026,1628.2,1612.86,1.129,7,true,3
-33,Benfica,club,Benfica,2027,1772.96,1611.95,1.12,17,true,3
-34,New York Yankees,mlb,mlb:Yankees,2026,1551.3,1611.22,1.112,3,false,49
-35,Boston Celtics,nba,nba:Celtics,2027,1618.3,1610.22,1.102,5,true,0
-36,Los Angeles Rams,nfl,nfl:Rams,2026,1625.1,1609.88,1.099,8,true,10
-37,Juventus,club,Juventus,2027,1692.92,1608.86,1.089,18,true,3
-38,Tampa Bay Rays,mlb,mlb:Rays,2026,1546.5,1604.84,1.048,4,false,28
-39,Sporting Clube de Portugal,club,Sporting Clube de Portugal,2027,1693.73,1604.46,1.045,19,true,18
-40,San Diego Padres,mlb,mlb:Padres,2026,1548.4,1603.32,1.033,5,false,49
-41,Club Brugge,club,Club Brugge,2027,1646.55,1597.86,0.979,20,true,21
-42,Tampa Bay Lightning,nhl,nhl:Lightning,2027,1559.5,1596.98,0.97,4,true,3
-43,AC Milan,club,AC Milan,2027,1639.55,1596.53,0.965,21,true,3
-44,Houston Rockets,nba,nba:Rockets,2027,1605.2,1595.33,0.953,6,true,0
-45,PSV Eindhoven,club,PSV Eindhoven,2027,1624.8,1594.51,0.945,22,true,1
-46,Chelsea,club,Chelsea,2027,1694.47,1593.26,0.933,23,true,4
-47,Cincinnati  Bengals,nfl,nfl:Bengals,2026,1600.4,1585.16,0.852,9,true,3
-48,Kansas City Chiefs,nfl,nfl:Chiefs,2026,1600.1,1584.91,0.849,10,true,3
-49,Como,club,Como,2027,1739.18,1584.75,0.848,24,true,1
-50,SSC Napoli,club,SSC Napoli,2027,1627.57,1583.77,0.838,25,true,1
-51,RB Leipzig,club,RB Leipzig,2027,1666.3,1582.69,0.827,26,true,1
-52,Chicago Cubs,mlb,mlb:Cubs,2026,1541,1582.54,0.825,6,false,56
-53,Brighton & Hove Albion,club,Brighton & Hove Albion,2027,1711.9,1580.33,0.803,27,true,3
-54,Minnesota Vikings,nfl,nfl:Vikings,2026,1595.5,1580.25,0.802,11,true,3
-55,AFC Bournemouth,club,AFC Bournemouth,2027,1754.27,1579.57,0.796,28,true,4
-56,Galatasaray SK,club,Galatasaray SK,2027,1668.1,1577.02,0.77,29,true,1
+20,Real Betis,club,Real Betis,2027,1688.55,1632,1.32,11,true,2
+21,Colorado Avalanche,nhl,nhl:Avalanche,2027,1574.2,1630.47,1.305,2,true,0
+22,AS Roma,club,AS Roma,2027,1746.8,1630.34,1.303,12,true,1
+23,Seattle Seahawks,nfl,nfl:Seahawks,2026,1645.4,1630.34,1.303,4,true,11
+24,Los Angeles Rams,nfl,nfl:Rams,2026,1640,1624.54,1.245,5,true,0
+25,Detroit Lions,nfl,nfl:Lions,2026,1638,1622.52,1.225,6,true,4
+26,FC Porto,club,FC Porto,2027,1694.24,1622.31,1.223,13,true,2
+27,Chicago Bears,nfl,nfl:Bears,2026,1636,1620.36,1.204,7,true,4
+28,Lazio,club,Lazio,2027,1654.51,1619.99,1.2,14,true,5
+29,Minnesota Wild,nhl,nhl:Wild,2027,1569,1617.99,1.18,3,true,4
+30,Bayer Leverkusen,club,Bayer Leverkusen,2027,1739.04,1617.09,1.171,15,true,5
+31,Aston Villa,club,Aston Villa,2027,1648.16,1615.93,1.159,16,true,2
+32,Oklahoma City Thunder,nba,nba:Thunder,2027,1621.9,1614.31,1.143,4,true,0
+33,Jacksonville Jaguars,nfl,nfl:Jaguars,2026,1628.2,1612.84,1.128,8,true,4
+34,Benfica,club,Benfica,2027,1772.96,1611.95,1.12,17,true,4
+35,New York Yankees,mlb,mlb:Yankees,2026,1551.3,1610.89,1.109,3,false,50
+36,Boston Celtics,nba,nba:Celtics,2027,1618.3,1610.22,1.102,5,true,0
+37,Sporting Clube de Portugal,club,Sporting Clube de Portugal,2027,1689.54,1609.45,1.094,18,true,1
+38,Juventus,club,Juventus,2027,1692.92,1608.23,1.082,19,true,4
+39,Tampa Bay Rays,mlb,mlb:Rays,2026,1546.5,1604.53,1.045,4,false,29
+40,San Diego Padres,mlb,mlb:Padres,2026,1548.4,1603.01,1.03,5,false,50
+41,Houston Rockets,nba,nba:Rockets,2027,1608.6,1599.08,0.991,6,true,0
+42,AC Milan,club,AC Milan,2027,1639.55,1597.18,0.972,20,true,4
+43,PSV Eindhoven,club,PSV Eindhoven,2027,1624.8,1595.03,0.95,21,true,2
+44,Chelsea,club,Chelsea,2027,1694.47,1594.01,0.94,22,true,5
+45,Club Brugge,club,Club Brugge,2027,1622.26,1590.79,0.908,23,true,1
+46,Tampa Bay Lightning,nhl,nhl:Lightning,2027,1556,1590.11,0.901,4,true,0
+47,Cincinnati  Bengals,nfl,nfl:Bengals,2026,1600.4,1585.15,0.852,9,true,4
+48,Kansas City Chiefs,nfl,nfl:Chiefs,2026,1600.1,1584.88,0.849,10,true,4
+49,Como,club,Como,2027,1739.18,1584.75,0.848,24,true,2
+50,SSC Napoli,club,SSC Napoli,2027,1627.57,1583.77,0.838,25,true,2
+51,RB Leipzig,club,RB Leipzig,2027,1666.3,1582.69,0.827,26,true,2
+52,Chicago Cubs,mlb,mlb:Cubs,2026,1541,1582.29,0.823,6,false,57
+53,Brighton & Hove Albion,club,Brighton & Hove Albion,2027,1711.9,1580.33,0.803,27,true,4
+54,Minnesota Vikings,nfl,nfl:Vikings,2026,1595.5,1580.25,0.802,11,true,4
+55,Galatasaray SK,club,Galatasaray SK,2027,1668.1,1580.02,0.8,28,true,2
+56,AFC Bournemouth,club,AFC Bournemouth,2027,1754.27,1579.57,0.796,29,true,5
 57,Los Angeles Lakers,nba,nba:Lakers,2027,1587.3,1575.91,0.759,7,true,0
-58,Tottenham Hotspur,club,Tottenham Hotspur,2027,1593.94,1575.48,0.755,30,true,4
-59,Union St. Gilloise,club,Union St. Gilloise,2027,1573.95,1572.73,0.727,31,true,20
-60,Atalanta,club,Atalanta,2027,1592.45,1572.25,0.722,32,true,3
-61,Dallas Stars,nhl,nhl:Stars,2027,1546.2,1570.87,0.709,5,true,3
-62,SC Freiburg,club,SC Freiburg,2027,1598.87,1569.09,0.691,33,true,4
-63,AS Monaco,club,AS Monaco,2027,1637.94,1568.71,0.687,34,true,4
-64,FK Bodø/Glimt,club,FK Bodø/Glimt,2027,1676.84,1568.13,0.681,35,true,1
-65,Minnesota Timberwolves,nba,nba:Timberwolves,2027,1579,1566.74,0.667,8,true,0
-66,Real Sociedad,club,Real Sociedad,2027,1601.34,1562.21,0.622,36,true,3
-67,Lille OSC,club,Lille OSC,2027,1558.88,1559.87,0.599,37,true,4
-68,Atlanta Braves,mlb,mlb:Braves,2026,1531.4,1559.55,0.596,7,false,49
-69,VfB Stuttgart,club,VfB Stuttgart,2027,1682.81,1557.99,0.58,38,true,4
-70,Eintracht Frankfurt,club,Eintracht Frankfurt,2027,1549.85,1557.44,0.574,39,true,4
-71,Manchester United,club,Manchester United,2027,1619.75,1556.94,0.569,40,true,3
-72,Ajax,club,Ajax,2027,1622.28,1556.19,0.562,41,true,3
-73,Olympiakos CFP,club,Olympiakos CFP,2027,1542.16,1556.19,0.562,41,true,21
-74,Ottawa Senators,nhl,nhl:Senators,2027,1538.3,1554.51,0.545,6,true,0
-75,Olympique Lyonnais,club,Olympique Lyonnais,2027,1612.9,1554.11,0.541,43,true,4
-76,Boston Red Sox,mlb,mlb:Red Sox,2026,1529.3,1553.11,0.531,8,false,56
-77,Edmonton Oilers,nhl,nhl:Oilers,2027,1537.6,1553.01,0.53,7,true,0
-78,Denver Nuggets,nba,nba:Nuggets,2027,1566,1552.49,0.525,9,true,0
-79,Vegas Golden Knights,nhl,nhl:Golden Knights,2027,1537.2,1552.21,0.522,8,true,0
-80,Feyenoord,club,Feyenoord,2027,1496.29,1552.04,0.52,44,true,1
-81,Montreal Canadiens,nhl,nhl:Canadiens,2027,1535.5,1548.82,0.488,9,true,0
-82,Bologna,club,Bologna,2027,1601.97,1545.99,0.46,45,true,3
-83,Portland Trail Blazers,nba,nba:Trail Blazers,2027,1559.4,1545.29,0.453,10,true,0
-84,AZ Alkmaar,club,AZ Alkmaar,2027,1422.15,1545.26,0.453,46,true,3
-85,Philadelphia Phillies,mlb,mlb:Phillies,2026,1525.7,1544.03,0.44,9,false,55
-86,Boston Bruins,nhl,nhl:Bruins,2027,1532.9,1543.63,0.436,10,true,3
-87,Newcastle United,club,Newcastle United,2027,1681.88,1540.01,0.4,47,true,4
-88,Athletic Bilbao,club,Athletic Bilbao,2027,1576.19,1539.64,0.396,48,true,5
-89,Atlanta Hawks,nba,nba:Hawks,2027,1553.8,1539.34,0.393,11,true,3
-90,Philadelphia 76ers,nba,nba:76ers,2027,1552.4,1537.95,0.38,12,true,0
-91,Sporting Braga,club,Sporting Braga,2027,1522.47,1537.47,0.375,49,true,4
-92,Royal Challengers Bengaluru,ipl,ipl:rcb,2026,1560.7,1537.31,0.373,1,false,178
-93,Cleveland Cavaliers,nba,nba:Cavaliers,2027,1550.8,1536.19,0.362,13,true,0
-94,Villarreal,club,Villarreal,2027,1594.33,1533.66,0.337,50,true,3
-95,Green Bay Packers,nfl,nfl:Packers,2026,1544.2,1532.05,0.32,12,true,10
-96,Olympique Marseille,club,Olympique Marseille,2027,1534.8,1530.98,0.31,51,true,3
-97,Houston Texans,nfl,nfl:Texans,2026,1540.9,1529.02,0.29,13,true,3
-98,Panathinaikos,club,Panathinaikos,2027,1586.46,1528.51,0.285,52,true,20
-99,Stade Rennais FC,club,Stade Rennais FC,2027,1554.55,1527.3,0.273,53,true,3
-100,Buffalo Sabres,nhl,nhl:Sabres,2027,1524.4,1527.04,0.27,11,true,3
-101,New Jersey Devils,nhl,nhl:Devils,2027,1524.3,1526.74,0.267,12,true,0
-102,FC Shakhtar Donetsk,club,FC Shakhtar Donetsk,2027,1512.64,1524.85,0.248,54,true,22
-103,FC Twente,club,FC Twente,2027,1565.8,1524.85,0.248,54,true,3
-104,New England Patriots,nfl,nfl:Patriots,2026,1536.1,1524.68,0.247,14,true,10
-105,Fiorentina,club,Fiorentina,2027,1495.5,1522.74,0.227,56,true,2
-106,Cleveland Guardians,mlb,mlb:Guardians,2026,1516.5,1522.19,0.222,10,false,37
-107,Pittsburgh Steelers,nfl,nfl:Steelers,2026,1533.4,1522.02,0.22,15,true,3
-108,Arizona Diamondbacks,mlb,mlb:Diamondbacks,2026,1517,1521.98,0.22,11,false,59
-109,Brentford,club,Brentford,2027,1669.6,1521.09,0.211,57,true,2
-110,Miami Heat,nba,nba:Heat,2027,1535.9,1521.07,0.211,14,true,3
-111,Ferencvárosi TC,club,Ferencvárosi TC,2027,1601.55,1520.34,0.203,58,true,20
-112,Everton,club,Everton,2027,1633.93,1516.52,0.165,59,true,2
-113,Sevilla FC,club,Sevilla FC,2027,1553.15,1515.21,0.152,60,true,4
-114,AC Lugano,club,AC Lugano,2027,1485.1,1514.61,0.146,61,true,20
-115,FC København,club,FC København,2027,1480.57,1513.47,0.135,62,true,20
-116,Florida Panthers,nhl,nhl:Panthers,2027,1517.1,1513.24,0.132,13,true,3
-117,Gujarat Titans,ipl,ipl:gujarat-titans,2026,1528.7,1513.04,0.13,2,false,178
-118,Leeds United,club,Leeds United,2027,1619.92,1512.77,0.128,63,true,4
-119,Pittsburgh Pirates,mlb,mlb:Pirates,2026,1512.6,1511.29,0.113,12,false,59
-120,FC Midtjylland,club,FC Midtjylland,2027,1485.88,1511.05,0.11,64,true,20
-121,St. Louis Blues,nhl,nhl:Blues,2027,1515.9,1511.03,0.11,14,true,3
-122,Phoenix Suns,nba,nba:Suns,2027,1525.9,1510.38,0.104,15,true,0
-123,Sunrisers Hyderabad,ipl,ipl:sunrisers-hyderabad,2026,1521.5,1509.6,0.096,3,false,182
-124,Detroit Tigers,mlb,mlb:Tigers,2026,1511.5,1508.77,0.088,13,false,59
-125,RSC Anderlecht,club,RSC Anderlecht,2027,1601.95,1507.84,0.078,65,true,20
-126,Chicago White Sox,mlb,mlb:White Sox,2026,1510.7,1507.33,0.073,14,false,46
-127,Celtic,club,Celtic,2027,1447.91,1506.13,0.061,66,true,4
-128,Stade Brestois,club,Stade Brestois,2027,1522.61,1504.8,0.048,67,true,4
-129,Lech Poznan,club,Lech Poznan,2027,1395.25,1502.03,0.02,68,true,20
-130,OGC Nice,club,OGC Nice,2027,1438.84,1502.03,0.02,68,true,4
-131,Rangers,club,Rangers,2027,1479.21,1502.03,0.02,68,true,1
-132,Punjab Kings,ipl,ipl:punjab-kings,2026,1505.8,1501.77,0.018,4,false,186
-133,Delhi Capitals,ipl,ipl:delhi-capitals,2026,1504.3,1501.14,0.011,5,false,185
-134,Dinamo Zagreb,club,Dinamo Zagreb,2027,1472.56,1499.97,0,71,true,20
-135,Baltimore Orioles,mlb,mlb:Orioles,2026,1507.3,1499.56,-0.004,15,false,61
-136,Rajasthan Royals,ipl,ipl:rajasthan-royals,2026,1499.8,1499.15,-0.008,6,false,180
-137,RC Lens,club,RC Lens,2027,1516.57,1497.83,-0.022,72,true,1
-138,Fenerbahçe SK,club,Fenerbahçe SK,2027,1539.23,1497.67,-0.023,73,true,21
-139,Kolkata Knight Riders,ipl,ipl:kolkata-knight-riders,2026,1496.4,1497.65,-0.024,7,false,185
-140,New York Mets,mlb,mlb:Mets,2026,1505.9,1496.48,-0.035,16,false,59
-141,Toronto Blue Jays,mlb,mlb:Blue Jays,2026,1505.8,1496.23,-0.038,17,false,59
-142,Viking FK,club,Viking FK,2027,1404.97,1495.76,-0.042,74,true,21
-143,Washington Capitals,nhl,nhl:Capitals,2027,1507.6,1495.09,-0.049,15,true,3
-144,Red Star Belgrade,club,Red Star Belgrade,2027,1437.01,1494.7,-0.053,75,true,20
-145,AEK Athens,club,AEK Athens,2027,1452.35,1493.97,-0.06,76,true,1
-146,Werder Bremen,club,Werder Bremen,2027,1535.83,1492.55,-0.074,77,true,3
-147,KAA Gent,club,KAA Gent,2027,1422.2,1491.3,-0.087,78,true,20
-148,Miami Marlins,mlb,mlb:Marlins,2026,1503,1489.92,-0.101,18,false,59
-149,Toronto Raptors,nba,nba:Raptors,2027,1506.3,1489.46,-0.105,16,true,0
-150,Sunderland,club,Sunderland,2027,1544.64,1487.91,-0.121,79,true,4
-151,PAOK Thessaloniki,club,PAOK Thessaloniki,2027,1420.26,1487.22,-0.128,80,true,90
-152,Chennai Super Kings,ipl,ipl:chennai-super-kings,2026,1471.4,1486.31,-0.137,8,false,188
-153,New York Rangers,nhl,nhl:Rangers,2027,1502.4,1484.94,-0.151,16,true,3
-154,New York Giants,nfl,nfl:Giants,2026,1490.9,1482.61,-0.174,16,true,3
-155,Paris FC,club,Paris FC,2027,1533.1,1482.55,-0.174,81,true,3
-156,Utah Mammoth,nhl,nhl:Mammoth,2027,1501,1482.1,-0.179,17,true,0
-157,Fulham,club,Fulham,2027,1604.38,1481.79,-0.182,82,true,4
-158,Nashville Predators,nhl,nhl:Predators,2027,1500.7,1481.48,-0.185,18,true,3
-159,Crystal Palace,club,Crystal Palace,2027,1556.68,1480.14,-0.199,83,true,4
-160,Orlando Magic,nba,nba:Magic,2027,1497.4,1480.13,-0.199,17,true,0
-161,Mumbai Indians,ipl,ipl:mumbai-indians,2026,1459.3,1480.12,-0.199,9,false,185
-162,SK Rapid Wien,club,SK Rapid Wien,2027,1342.16,1479.6,-0.204,84,true,91
-163,Celta de Vigo,club,Celta de Vigo,2027,1536.23,1477.55,-0.224,85,true,4
-164,Lucknow Super Giants,ipl,ipl:lucknow-super-giants,2026,1452.3,1476.84,-0.232,10,false,186
-165,Toulouse FC,club,Toulouse FC,2027,1498.46,1475.58,-0.244,86,true,4
-166,Tampa Bay Buccaneers,nfl,nfl:Buccaneers,2026,1483.3,1475.45,-0.246,17,true,3
-167,Hajduk Split,club,Hajduk Split,2027,1472.63,1475.2,-0.248,87,true,20
-168,Rayo Vallecano,club,Rayo Vallecano,2027,1577.41,1475.2,-0.248,87,true,4
-169,Winnipeg Jets,nhl,nhl:Jets,2027,1497,1474.45,-0.256,19,true,0
-170,Frosinone,club,Frosinone,2027,1506.92,1473.84,-0.262,89,true,3
-171,TSG Hoffenheim,club,TSG Hoffenheim,2027,1566.26,1473.05,-0.27,90,true,4
-172,AEK Larnaca,club,AEK Larnaca,2027,1496.37,1472.62,-0.274,91,true,118
-173,Houston Astros,mlb,mlb:Astros,2026,1494.2,1471.28,-0.287,19,false,56
-174,Golden State Warriors,nba,nba:Warriors,2027,1487.5,1470.41,-0.296,18,true,3
-175,FC Red Bull Salzburg,club,FC Red Bull Salzburg,2027,1454.58,1469.28,-0.307,92,true,20
-176,Deportivo Alavés,club,Deportivo Alavés,2027,1540.99,1468.81,-0.312,93,true,4
-177,New York Islanders,nhl,nhl:Islanders,2027,1492.8,1466.87,-0.331,20,true,0
-178,Genoa,club,Genoa,2027,1513.51,1466.69,-0.333,94,true,3
-179,LASK Linz,club,LASK Linz,2027,1448.2,1466.25,-0.338,95,true,1
-180,CA Osasuna,club,CA Osasuna,2027,1531.47,1465.75,-0.342,96,true,3
-181,SC Heerenveen,club,SC Heerenveen,2027,1424.65,1465.75,-0.342,96,true,4
-182,CD Santa Clara,club,CD Santa Clara,2027,1383.54,1463.6,-0.364,98,true,17
-183,Charlotte Hornets,nba,nba:Hornets,2027,1479.9,1463.15,-0.368,19,true,0
-184,Texas Rangers,mlb,mlb:Rangers,2026,1490,1462.44,-0.376,20,false,59
-185,Besiktas JK,club,Besiktas JK,2027,1512.5,1462.42,-0.376,99,true,20
-186,Dallas Cowboys,nfl,nfl:Cowboys,2026,1468.6,1461.78,-0.382,18,true,3
-187,AC Omonia,club,AC Omonia,2027,1378.85,1460.3,-0.397,100,true,20
-188,FC Augsburg,club,FC Augsburg,2027,1544.98,1460.3,-0.397,100,true,3
-189,Fortuna Sittard,club,Fortuna Sittard,2027,1338.46,1460.3,-0.397,100,true,3
-190,Memphis Grizzlies,nba,nba:Grizzlies,2027,1475.2,1459.17,-0.408,20,true,0
-191,NEC Nijmegen,club,NEC Nijmegen,2027,1442.85,1458.43,-0.416,103,true,4
-192,FC Lorient,club,FC Lorient,2027,1472.88,1458.18,-0.418,104,true,3
-193,Racing Genk,club,Racing Genk,2027,1627.62,1458.18,-0.418,104,true,258
-194,Samsunspor,club,Samsunspor,2027,1358.64,1456.79,-0.432,106,false,258
-195,FC Arouca,club,FC Arouca,2027,1418.29,1456.69,-0.433,107,true,4
-196,Nottingham Forest,club,Nottingham Forest,2027,1619.64,1456.69,-0.433,107,true,4
-197,Maccabi Tel-Aviv,club,Maccabi Tel-Aviv,2027,1337.89,1456.39,-0.436,109,true,90
-198,Washington Commanders,nfl,nfl:Commanders,2026,1462.2,1455.86,-0.441,19,true,3
-199,Cleveland Browns,nfl,nfl:Browns,2026,1461.8,1455.51,-0.445,20,true,10
-200,Columbus Blue Jackets,nhl,nhl:Blue Jackets,2027,1486.5,1454.72,-0.453,21,true,0
-201,Philadelphia Flyers,nhl,nhl:Flyers,2027,1486.2,1454.09,-0.459,22,true,3
-202,St. Louis Cardinals,mlb,mlb:Cardinals,2026,1485.8,1453.46,-0.465,21,false,59
-203,1. FC Köln,club,1. FC Köln,2027,1493.14,1453.28,-0.467,110,true,5
-204,Dallas Mavericks,nba,nba:Mavericks,2027,1468.6,1453.21,-0.468,21,true,0
-205,Washington Nationals,mlb,mlb:Nationals,2026,1485.4,1452.63,-0.474,22,false,59
-206,SK Brann,club,SK Brann,2027,1475.93,1451.83,-0.482,111,true,20
-207,DAC Dunajska Streda,club,DAC Dunajska Streda,2027,1333.43,1450.93,-0.491,112,false,104
-208,Los Angeles Clippers,nba,nba:Clippers,2027,1464.1,1449.23,-0.508,22,true,0
-209,Universitatea Craiova,club,Universitatea Craiova,2027,1353.84,1449.15,-0.508,113,true,20
-210,Seattle Mariners,mlb,mlb:Mariners,2026,1483.8,1449.07,-0.509,23,false,59
-211,Torino FC,club,Torino FC,2027,1498.84,1447.8,-0.522,114,true,4
-212,ŠK Slovan Bratislava,club,ŠK Slovan Bratislava,2027,1278.39,1446.39,-0.536,115,true,1
-213,Carolina Panthers,nfl,nfl:Panthers,2026,1451.8,1446.2,-0.538,21,true,3
-214,Cagliari,club,Cagliari,2027,1463.42,1445.98,-0.54,116,true,4
-215,Go Ahead Eagles,club,Go Ahead Eagles,2027,1336.73,1445.98,-0.54,116,true,3
-216,FK Karabakh,club,FK Karabakh,2027,1381.14,1444.88,-0.551,118,true,90
-217,Pittsburgh Penguins,nhl,nhl:Penguins,2027,1481.2,1443.81,-0.562,23,true,3
-218,Gil Vicente FC,club,Gil Vicente FC,2027,1433.45,1443.02,-0.57,119,true,3
-219,Hammarby IF,club,Hammarby IF,2027,1349.63,1443.02,-0.57,119,true,104
-220,PFC Levski Sofia,club,PFC Levski Sofia,2027,1433.94,1442.71,-0.573,121,true,20
-221,SK Sturm Graz,club,SK Sturm Graz,2027,1385.07,1442.28,-0.577,122,true,20
-222,Baltimore Ravens,nfl,nfl:Ravens,2026,1446,1440.92,-0.591,22,true,3
-223,Jagiellonia Białystok,club,Jagiellonia Białystok,2027,1392.5,1440.29,-0.597,123,true,20
-224,Hull City,club,Hull City,2027,1548.19,1439.79,-0.602,124,true,3
-225,Racing Santander,club,Racing Santander,2027,1537.14,1439.27,-0.607,125,true,3
-226,SK Sigma Olomouc,club,SK Sigma Olomouc,2027,1414.18,1438.93,-0.611,126,false,258
-227,FC Nordsjælland,club,FC Nordsjælland,2027,1428.79,1438.66,-0.613,127,true,20
-228,Mainz 05,club,Mainz 05,2027,1530.88,1438.66,-0.613,127,true,3
-229,Minnesota Twins,mlb,mlb:Twins,2026,1478.1,1436.77,-0.632,24,false,59
-230,PFC Ludogorets Razgrad,club,PFC Ludogorets Razgrad,2027,1347.41,1436.69,-0.633,129,true,118
-231,Pafos FC,club,Pafos FC,2027,1369.11,1436.69,-0.633,129,true,20
-232,FC Koper,club,FC Koper,2027,1219.53,1435.44,-0.646,131,false,118
-233,FC Polissya Zhytomyr,club,FC Polissya Zhytomyr,2027,1378.49,1433.92,-0.661,132,false,119
-234,NK Zrinjski Mostar,club,NK Zrinjski Mostar,2027,1254.1,1433.92,-0.661,132,false,118
-235,Hapoel Tel-Aviv,club,Hapoel Tel-Aviv,2027,1407.19,1433.82,-0.662,134,true,90
-236,Anaheim Ducks,nhl,nhl:Ducks,2027,1475.5,1433.41,-0.666,24,true,0
-237,Hapoel Beer Sheva,club,Hapoel Beer Sheva,2027,1371,1433.24,-0.668,135,true,20
-238,Detroit Red Wings,nhl,nhl:Red Wings,2027,1474.9,1432.37,-0.676,25,true,3
-239,Tromsø IL,club,Tromsø IL,2027,1385.74,1431.16,-0.688,136,true,90
-240,Seattle Kraken,nhl,nhl:Kraken,2027,1473.9,1430.46,-0.695,26,true,0
-241,Valencia,club,Valencia,2027,1557.75,1430.14,-0.699,137,true,4
-242,OFI Crete,club,OFI Crete,2027,1514.73,1429.8,-0.702,138,true,20
-243,RCD Espanyol,club,RCD Espanyol,2027,1525.72,1429.8,-0.702,138,true,5
-244,Los Angeles Kings,nhl,nhl:Kings,2027,1472.8,1428.56,-0.714,27,true,0
-245,RC Strasbourg,club,RC Strasbourg,2027,1489.1,1428.56,-0.714,140,true,4
-246,CSKA Sofia,club,CSKA Sofia,2027,1323.97,1426.98,-0.73,141,true,20
-247,Dynamo Kyiv,club,Dynamo Kyiv,2027,1273.12,1426.98,-0.73,141,true,104
-248,Górnik Zabrze,club,Górnik Zabrze,2027,1325.82,1426.4,-0.736,143,true,90
-249,Deportivo de La Coruña,club,Deportivo de La Coruña,2027,1534.56,1425.79,-0.742,144,true,4
-250,Sint-Truidense VV,club,Sint-Truidense VV,2027,1507.81,1425.79,-0.742,144,true,20
-251,FC Famalicão,club,FC Famalicão,2027,1447.12,1424.64,-0.754,146,true,19
-252,FC St. Gallen,club,FC St. Gallen,2027,1379.66,1424.64,-0.754,146,true,90
-253,NK Celje,club,NK Celje,2027,1284.2,1424.64,-0.754,146,true,20
-254,Académico de Viseu,club,Académico de Viseu,2027,1391.81,1423.67,-0.763,149,true,17
-255,Sabah FK,club,Sabah FK,2027,1378.16,1423.67,-0.763,149,true,21
-256,Shamrock Rovers,club,Shamrock Rovers,2027,1162.14,1423.67,-0.763,149,true,90
-257,Apollon Limassol FC,club,Apollon Limassol FC,2027,1405.38,1423.17,-0.768,152,true,106
-258,FC Union Berlin,club,FC Union Berlin,2027,1473.48,1423.17,-0.768,152,true,4
-259,Cincinnati Reds,mlb,mlb:Reds,2026,1470.6,1420.43,-0.796,25,false,59
-260,Levante UD,club,Levante UD,2027,1536.17,1420.33,-0.797,154,true,2
-261,NK Rijeka,club,NK Rijeka,2027,1382.32,1418.27,-0.817,155,true,90
-262,FC CSKA 1948 Sofia,club,FC CSKA 1948 Sofia,2027,1377.21,1416.99,-0.83,156,false,106
-263,Kansas City Royals,mlb,mlb:Royals,2026,1468.8,1416.55,-0.834,26,false,59
-264,Atlanta Falcons,nfl,nfl:Falcons,2026,1419.2,1415.29,-0.847,23,true,10
-265,Getafe,club,Getafe,2027,1466.16,1415.12,-0.849,157,true,3
-266,San Francisco Giants,mlb,mlb:Giants,2026,1468,1414.59,-0.854,27,false,59
-267,Heart of Midlothian,club,Heart of Midlothian,2027,1318.06,1413.4,-0.866,158,true,4
-268,LNZ Cherkasy,club,LNZ Cherkasy,2027,1427.76,1412.99,-0.87,159,false,118
-269,FK Železničar Pančevo,club,FK Železničar Pančevo,2027,1358.86,1412.38,-0.876,160,false,118
-270,GAIS Gothenburg,club,GAIS Gothenburg,2027,1336.27,1412.38,-0.876,160,false,118
-271,FC Sheriff Tiraspol,club,FC Sheriff Tiraspol,2027,1234.93,1411.94,-0.881,162,true,104
-272,Vikingur,club,Vikingur,2027,1185.55,1411.94,-0.881,162,true,90
-273,Cambuur Leeuwarden,club,Cambuur Leeuwarden,2027,1305.99,1411.4,-0.886,164,true,4
-274,FC Sion,club,FC Sion,2027,1365.28,1411.4,-0.886,164,true,90
-275,FK Partizan,club,FK Partizan,2027,1376.61,1410.95,-0.89,166,true,90
-276,Moreirense FC,club,Moreirense FC,2027,1379.84,1410.41,-0.896,167,true,18
-277,NK Varaždin,club,NK Varaždin,2027,1440.98,1410.35,-0.896,168,false,118
+58,Lille OSC,club,Lille OSC,2027,1585.77,1575.48,0.755,30,true,1
+59,Minnesota Timberwolves,nba,nba:Timberwolves,2027,1586.9,1575.42,0.754,8,true,0
+60,Tottenham Hotspur,club,Tottenham Hotspur,2027,1593.94,1574.69,0.747,31,true,5
+61,Union St. Gilloise,club,Union St. Gilloise,2027,1573.95,1572.25,0.722,32,true,21
+62,Atalanta,club,Atalanta,2027,1592.45,1571.73,0.717,33,true,4
+63,SC Freiburg,club,SC Freiburg,2027,1598.87,1568.72,0.687,34,true,5
+64,AS Monaco,club,AS Monaco,2027,1637.94,1568.13,0.681,35,true,5
+65,FK Bodø/Glimt,club,FK Bodø/Glimt,2027,1676.84,1567.09,0.671,36,true,2
+66,Real Sociedad,club,Real Sociedad,2027,1601.34,1561.75,0.618,37,true,4
+67,Manchester United,club,Manchester United,2027,1624.24,1561.18,0.612,38,true,1
+68,Dallas Stars,nhl,nhl:Stars,2027,1541.4,1561.08,0.611,5,true,0
+69,Atlanta Braves,mlb,mlb:Braves,2026,1531.4,1559.37,0.594,7,false,50
+70,Eintracht Frankfurt,club,Eintracht Frankfurt,2027,1549.85,1557.44,0.574,39,true,5
+71,Ajax,club,Ajax,2027,1622.28,1556.45,0.564,40,true,4
+72,Olympiakos CFP,club,Olympiakos CFP,2027,1542.16,1556.45,0.564,40,true,22
+73,Olympique Lyonnais,club,Olympique Lyonnais,2027,1612.9,1554.57,0.546,42,true,5
+74,Edmonton Oilers,nhl,nhl:Oilers,2027,1537.6,1553.01,0.53,6,true,0
+75,Boston Red Sox,mlb,mlb:Red Sox,2026,1529.3,1552.96,0.53,8,false,57
+76,VfB Stuttgart,club,VfB Stuttgart,2027,1666.33,1552.85,0.528,43,true,1
+77,Denver Nuggets,nba,nba:Nuggets,2027,1566,1552.49,0.525,9,true,0
+78,Vegas Golden Knights,nhl,nhl:Golden Knights,2027,1537.2,1552.22,0.522,7,true,0
+79,Feyenoord,club,Feyenoord,2027,1496.29,1552.04,0.52,44,true,2
+80,Portland Trail Blazers,nba,nba:Trail Blazers,2027,1564.6,1550.94,0.509,10,true,0
+81,Ottawa Senators,nhl,nhl:Senators,2027,1534.6,1546.92,0.469,8,true,0
+82,Bologna,club,Bologna,2027,1601.97,1545.99,0.46,45,true,4
+83,AZ Alkmaar,club,AZ Alkmaar,2027,1422.15,1545.26,0.453,46,true,4
+84,Philadelphia Phillies,mlb,mlb:Phillies,2026,1525.7,1543.9,0.439,9,false,56
+85,Villarreal,club,Villarreal,2027,1605.09,1541.39,0.414,47,true,1
+86,Philadelphia 76ers,nba,nba:76ers,2027,1555.7,1541.28,0.413,11,true,0
+87,Newcastle United,club,Newcastle United,2027,1681.88,1539.65,0.396,48,true,5
+88,Atlanta Hawks,nba,nba:Hawks,2027,1553.8,1539.33,0.393,12,true,4
+89,Athletic Bilbao,club,Athletic Bilbao,2027,1576.19,1539.1,0.391,49,true,6
+90,Montreal Canadiens,nhl,nhl:Canadiens,2027,1530.7,1539.06,0.391,9,true,0
+91,Royal Challengers Bengaluru,ipl,ipl:rcb,2026,1560.7,1537.22,0.372,1,false,179
+92,Sporting Braga,club,Sporting Braga,2027,1522.47,1536.95,0.37,50,true,5
+93,Buffalo Sabres,nhl,nhl:Sabres,2027,1528.7,1535.11,0.351,10,true,0
+94,Boston Bruins,nhl,nhl:Bruins,2027,1528.2,1534.17,0.342,11,true,0
+95,Cleveland Cavaliers,nba,nba:Cavaliers,2027,1546.9,1531.87,0.319,13,true,0
+96,New Jersey Devils,nhl,nhl:Devils,2027,1526.6,1531.26,0.313,12,true,0
+97,Olympique Marseille,club,Olympique Marseille,2027,1534.8,1530.98,0.31,51,true,4
+98,Houston Texans,nfl,nfl:Texans,2026,1540.9,1529.03,0.29,12,true,4
+99,Panathinaikos,club,Panathinaikos,2027,1586.46,1528.51,0.285,52,true,21
+100,Stade Rennais FC,club,Stade Rennais FC,2027,1554.55,1527.3,0.273,53,true,4
+101,FC Twente,club,FC Twente,2027,1565.8,1525.32,0.253,54,true,4
+102,New England Patriots,nfl,nfl:Patriots,2026,1536.1,1524.69,0.247,13,true,11
+103,Fiorentina,club,Fiorentina,2027,1495.5,1523.16,0.232,55,true,3
+104,Cleveland Guardians,mlb,mlb:Guardians,2026,1516.5,1522.13,0.221,10,false,38
+105,Pittsburgh Steelers,nfl,nfl:Steelers,2026,1533.4,1522.02,0.22,14,true,4
+106,Arizona Diamondbacks,mlb,mlb:Diamondbacks,2026,1517,1521.92,0.219,11,false,60
+107,FC Shakhtar Donetsk,club,FC Shakhtar Donetsk,2027,1494.35,1521.61,0.216,56,true,1
+108,Brentford,club,Brentford,2027,1669.6,1521.09,0.211,57,true,3
+109,Ferencvárosi TC,club,Ferencvárosi TC,2027,1601.55,1520.34,0.203,58,true,21
+110,Florida Panthers,nhl,nhl:Panthers,2027,1520.8,1520.29,0.203,13,true,0
+111,Green Bay Packers,nfl,nfl:Packers,2026,1529.3,1518.26,0.183,15,true,0
+112,Miami Heat,nba,nba:Heat,2027,1532.6,1517.48,0.175,14,true,0
+113,Everton,club,Everton,2027,1633.93,1516.52,0.165,59,true,3
+114,Sevilla FC,club,Sevilla FC,2027,1553.15,1515.21,0.152,60,true,5
+115,AC Lugano,club,AC Lugano,2027,1485.1,1514.61,0.146,61,true,21
+116,FC København,club,FC København,2027,1480.57,1513.47,0.135,62,true,21
+117,Fenerbahçe SK,club,Fenerbahçe SK,2027,1556.63,1513.06,0.131,63,true,1
+118,Gujarat Titans,ipl,ipl:gujarat-titans,2026,1528.7,1513.01,0.13,2,false,179
+119,Leeds United,club,Leeds United,2027,1619.92,1512.77,0.128,64,true,5
+120,Pittsburgh Pirates,mlb,mlb:Pirates,2026,1512.6,1511.26,0.113,12,false,60
+121,FC Midtjylland,club,FC Midtjylland,2027,1485.88,1511.05,0.11,65,true,21
+122,Sunrisers Hyderabad,ipl,ipl:sunrisers-hyderabad,2026,1521.5,1509.57,0.096,3,false,183
+123,Detroit Tigers,mlb,mlb:Tigers,2026,1511.5,1508.74,0.087,13,false,60
+124,RSC Anderlecht,club,RSC Anderlecht,2027,1601.95,1507.84,0.078,66,true,21
+125,Chicago White Sox,mlb,mlb:White Sox,2026,1510.7,1507.31,0.073,14,false,47
+126,Phoenix Suns,nba,nba:Suns,2027,1522.5,1506.69,0.067,15,true,0
+127,St. Louis Blues,nhl,nhl:Blues,2027,1513.5,1506.55,0.066,14,true,0
+128,Celtic,club,Celtic,2027,1447.91,1506.13,0.061,67,true,5
+129,Stade Brestois,club,Stade Brestois,2027,1522.61,1504.8,0.048,68,true,5
+130,Washington Capitals,nhl,nhl:Capitals,2027,1512,1503.7,0.037,15,true,0
+131,Lech Poznan,club,Lech Poznan,2027,1395.25,1502.03,0.02,69,true,21
+132,OGC Nice,club,OGC Nice,2027,1438.84,1502.03,0.02,69,true,5
+133,Rangers,club,Rangers,2027,1479.21,1502.03,0.02,69,true,2
+134,Punjab Kings,ipl,ipl:punjab-kings,2026,1505.8,1501.77,0.018,4,false,187
+135,Delhi Capitals,ipl,ipl:delhi-capitals,2026,1504.3,1501.14,0.011,5,false,186
+136,Dinamo Zagreb,club,Dinamo Zagreb,2027,1472.56,1499.97,0,72,true,21
+137,Baltimore Orioles,mlb,mlb:Orioles,2026,1507.3,1499.56,-0.004,15,false,62
+138,Rajasthan Royals,ipl,ipl:rajasthan-royals,2026,1499.8,1499.15,-0.008,6,false,181
+139,RC Lens,club,RC Lens,2027,1516.57,1497.83,-0.022,73,true,2
+140,Kolkata Knight Riders,ipl,ipl:kolkata-knight-riders,2026,1496.4,1497.65,-0.024,7,false,186
+141,New York Mets,mlb,mlb:Mets,2026,1505.9,1496.49,-0.035,16,false,60
+142,Toronto Blue Jays,mlb,mlb:Blue Jays,2026,1505.8,1496.24,-0.038,17,false,60
+143,Red Star Belgrade,club,Red Star Belgrade,2027,1437.01,1495,-0.05,74,true,21
+144,AEK Athens,club,AEK Athens,2027,1452.35,1494.69,-0.053,75,true,2
+145,Viking FK,club,Viking FK,2027,1397.11,1493.97,-0.06,76,true,1
+146,Werder Bremen,club,Werder Bremen,2027,1535.83,1492.55,-0.074,77,true,4
+147,KAA Gent,club,KAA Gent,2027,1422.2,1491.3,-0.087,78,true,21
+148,Nashville Predators,nhl,nhl:Predators,2027,1505.5,1491.09,-0.089,16,true,0
+149,Miami Marlins,mlb,mlb:Marlins,2026,1503,1489.95,-0.1,18,false,60
+150,Toronto Raptors,nba,nba:Raptors,2027,1506.3,1489.46,-0.105,16,true,0
+151,Utah Mammoth,nhl,nhl:Mammoth,2027,1504.3,1488.71,-0.113,17,true,0
+152,Sunderland,club,Sunderland,2027,1544.64,1487.91,-0.121,79,true,5
+153,PAOK Thessaloniki,club,PAOK Thessaloniki,2027,1420.26,1487.22,-0.128,80,true,91
+154,Chennai Super Kings,ipl,ipl:chennai-super-kings,2026,1471.4,1486.34,-0.137,8,false,189
+155,Winnipeg Jets,nhl,nhl:Jets,2027,1501.7,1483.68,-0.163,18,true,0
+156,New York Giants,nfl,nfl:Giants,2026,1490.9,1482.61,-0.174,16,true,4
+157,Paris FC,club,Paris FC,2027,1533.1,1482.55,-0.174,81,true,4
+158,Fulham,club,Fulham,2027,1604.38,1481.79,-0.182,82,true,5
+159,Mumbai Indians,ipl,ipl:mumbai-indians,2026,1459.3,1480.17,-0.198,9,false,186
+160,Crystal Palace,club,Crystal Palace,2027,1556.68,1480.14,-0.199,83,true,5
+161,Orlando Magic,nba,nba:Magic,2027,1497.4,1480.13,-0.199,17,true,0
+162,SK Rapid Wien,club,SK Rapid Wien,2027,1342.16,1479.6,-0.204,84,true,92
+163,Celta de Vigo,club,Celta de Vigo,2027,1536.23,1477.55,-0.224,85,true,5
+164,Lucknow Super Giants,ipl,ipl:lucknow-super-giants,2026,1452.3,1476.89,-0.231,10,false,187
+165,New York Rangers,nhl,nhl:Rangers,2027,1498.1,1476.51,-0.235,19,true,0
+166,Toulouse FC,club,Toulouse FC,2027,1498.46,1475.58,-0.244,86,true,5
+167,Tampa Bay Buccaneers,nfl,nfl:Buccaneers,2026,1483.3,1475.46,-0.245,17,true,4
+168,Hajduk Split,club,Hajduk Split,2027,1472.63,1475.2,-0.248,87,true,21
+169,Rayo Vallecano,club,Rayo Vallecano,2027,1577.41,1475.2,-0.248,87,true,5
+170,Frosinone,club,Frosinone,2027,1506.92,1473.84,-0.262,89,true,4
+171,Golden State Warriors,nba,nba:Warriors,2027,1490.7,1473.62,-0.264,18,true,0
+172,TSG Hoffenheim,club,TSG Hoffenheim,2027,1566.26,1473.05,-0.27,90,true,5
+173,AEK Larnaca,club,AEK Larnaca,2027,1496.37,1472.62,-0.274,91,true,119
+174,Houston Astros,mlb,mlb:Astros,2026,1494.2,1471.37,-0.286,19,false,57
+175,New York Islanders,nhl,nhl:Islanders,2027,1495.2,1471.26,-0.287,20,true,0
+176,FC Red Bull Salzburg,club,FC Red Bull Salzburg,2027,1454.58,1469.28,-0.307,92,true,21
+177,Deportivo Alavés,club,Deportivo Alavés,2027,1540.99,1468.81,-0.312,93,true,5
+178,Genoa,club,Genoa,2027,1513.51,1466.69,-0.333,94,true,4
+179,CA Osasuna,club,CA Osasuna,2027,1531.47,1466.25,-0.338,95,true,4
+180,SC Heerenveen,club,SC Heerenveen,2027,1424.65,1466.25,-0.338,95,true,5
+181,LASK Linz,club,LASK Linz,2027,1448.2,1465.27,-0.347,97,true,2
+182,Besiktas JK,club,Besiktas JK,2027,1512.5,1464.58,-0.354,98,true,21
+183,Memphis Grizzlies,nba,nba:Grizzlies,2027,1481.3,1464.47,-0.355,19,true,0
+184,CD Santa Clara,club,CD Santa Clara,2027,1383.54,1463.6,-0.364,99,true,18
+185,Texas Rangers,mlb,mlb:Rangers,2026,1490,1462.55,-0.374,20,false,60
+186,Dallas Cowboys,nfl,nfl:Cowboys,2026,1468.6,1461.78,-0.382,18,true,4
+187,AC Omonia,club,AC Omonia,2027,1378.85,1460.3,-0.397,100,true,21
+188,FC Augsburg,club,FC Augsburg,2027,1544.98,1460.3,-0.397,100,true,4
+189,Fortuna Sittard,club,Fortuna Sittard,2027,1338.46,1460.3,-0.397,100,true,4
+190,Charlotte Hornets,nba,nba:Hornets,2027,1475.1,1459.09,-0.409,20,true,0
+191,NEC Nijmegen,club,NEC Nijmegen,2027,1442.85,1458.43,-0.416,103,true,5
+192,FC Lorient,club,FC Lorient,2027,1472.88,1458.18,-0.418,104,true,4
+193,Racing Genk,club,Racing Genk,2027,1627.62,1458.18,-0.418,104,true,259
+194,Samsunspor,club,Samsunspor,2027,1358.64,1456.79,-0.432,106,false,259
+195,FC Arouca,club,FC Arouca,2027,1418.29,1456.69,-0.433,107,true,5
+196,Nottingham Forest,club,Nottingham Forest,2027,1619.64,1456.69,-0.433,107,true,5
+197,Maccabi Tel-Aviv,club,Maccabi Tel-Aviv,2027,1337.89,1456.39,-0.436,109,true,91
+198,Washington Commanders,nfl,nfl:Commanders,2026,1462.2,1455.86,-0.441,19,true,4
+199,Cleveland Browns,nfl,nfl:Browns,2026,1461.8,1455.51,-0.445,20,true,11
+200,St. Louis Cardinals,mlb,mlb:Cardinals,2026,1485.8,1453.6,-0.464,21,false,60
+201,1. FC Köln,club,1. FC Köln,2027,1493.14,1453.28,-0.467,110,true,6
+202,Dallas Mavericks,nba,nba:Mavericks,2027,1468.6,1453.21,-0.468,21,true,0
+203,Washington Nationals,mlb,mlb:Nationals,2026,1485.4,1452.77,-0.472,22,false,60
+204,SK Brann,club,SK Brann,2027,1475.93,1451.83,-0.482,111,true,21
+205,DAC Dunajska Streda,club,DAC Dunajska Streda,2027,1333.43,1450.93,-0.491,112,false,105
+206,Columbus Blue Jackets,nhl,nhl:Blue Jackets,2027,1484.1,1449.63,-0.504,21,true,0
+207,Seattle Mariners,mlb,mlb:Mariners,2026,1483.8,1449.23,-0.508,23,false,60
+208,Universitatea Craiova,club,Universitatea Craiova,2027,1353.84,1449.15,-0.508,113,true,21
+209,Torino FC,club,Torino FC,2027,1498.84,1447.8,-0.522,114,true,5
+210,ŠK Slovan Bratislava,club,ŠK Slovan Bratislava,2027,1278.39,1446.39,-0.536,115,true,2
+211,Carolina Panthers,nfl,nfl:Panthers,2026,1451.8,1446.21,-0.538,21,true,4
+212,Cagliari,club,Cagliari,2027,1463.42,1445.98,-0.54,116,true,5
+213,Go Ahead Eagles,club,Go Ahead Eagles,2027,1336.73,1445.98,-0.54,116,true,4
+214,Philadelphia Flyers,nhl,nhl:Flyers,2027,1481.8,1444.98,-0.55,22,true,0
+215,FK Karabakh,club,FK Karabakh,2027,1381.14,1444.88,-0.551,118,true,91
+216,Los Angeles Clippers,nba,nba:Clippers,2027,1458,1443.84,-0.562,22,true,0
+217,Gil Vicente FC,club,Gil Vicente FC,2027,1433.45,1443.02,-0.57,119,true,4
+218,Hammarby IF,club,Hammarby IF,2027,1349.63,1443.02,-0.57,119,true,105
+219,PFC Levski Sofia,club,PFC Levski Sofia,2027,1433.94,1442.71,-0.573,121,true,21
+220,Anaheim Ducks,nhl,nhl:Ducks,2027,1480.6,1442.69,-0.573,23,true,0
+221,SK Sturm Graz,club,SK Sturm Graz,2027,1385.07,1442.28,-0.577,122,true,21
+222,Baltimore Ravens,nfl,nfl:Ravens,2026,1446,1440.92,-0.591,22,true,4
+223,Jagiellonia Białystok,club,Jagiellonia Białystok,2027,1392.5,1440.29,-0.597,123,true,21
+224,Hull City,club,Hull City,2027,1548.19,1439.79,-0.602,124,true,4
+225,Racing Santander,club,Racing Santander,2027,1537.14,1439.27,-0.607,125,true,4
+226,SK Sigma Olomouc,club,SK Sigma Olomouc,2027,1414.18,1438.93,-0.611,126,false,259
+227,Detroit Red Wings,nhl,nhl:Red Wings,2027,1478.4,1438.7,-0.613,24,true,0
+228,FC Nordsjælland,club,FC Nordsjælland,2027,1428.79,1438.66,-0.613,127,true,21
+229,Mainz 05,club,Mainz 05,2027,1530.88,1438.66,-0.613,127,true,4
+230,Minnesota Twins,mlb,mlb:Twins,2026,1478.1,1436.95,-0.63,24,false,60
+231,PFC Ludogorets Razgrad,club,PFC Ludogorets Razgrad,2027,1347.41,1436.69,-0.633,129,true,119
+232,Pafos FC,club,Pafos FC,2027,1369.11,1436.69,-0.633,129,true,21
+233,FC Koper,club,FC Koper,2027,1219.53,1435.44,-0.646,131,false,119
+234,FC Polissya Zhytomyr,club,FC Polissya Zhytomyr,2027,1378.49,1433.92,-0.661,132,false,120
+235,NK Zrinjski Mostar,club,NK Zrinjski Mostar,2027,1254.1,1433.92,-0.661,132,false,119
+236,Hapoel Tel-Aviv,club,Hapoel Tel-Aviv,2027,1407.19,1433.82,-0.662,134,true,91
+237,Pittsburgh Penguins,nhl,nhl:Penguins,2027,1475.7,1433.69,-0.663,25,true,0
+238,Hapoel Beer Sheva,club,Hapoel Beer Sheva,2027,1371,1433.24,-0.668,135,true,21
+239,Tromsø IL,club,Tromsø IL,2027,1385.74,1431.16,-0.688,136,true,91
+240,Valencia,club,Valencia,2027,1557.75,1430.14,-0.699,137,true,5
+241,OFI Crete,club,OFI Crete,2027,1514.73,1429.8,-0.702,138,true,21
+242,RCD Espanyol,club,RCD Espanyol,2027,1525.72,1429.8,-0.702,138,true,6
+243,Los Angeles Kings,nhl,nhl:Kings,2027,1472.8,1428.57,-0.714,26,true,0
+244,RC Strasbourg,club,RC Strasbourg,2027,1489.1,1428.56,-0.714,140,true,5
+245,CSKA Sofia,club,CSKA Sofia,2027,1323.97,1426.98,-0.73,141,true,21
+246,Dynamo Kyiv,club,Dynamo Kyiv,2027,1273.12,1426.98,-0.73,141,true,105
+247,Górnik Zabrze,club,Górnik Zabrze,2027,1325.82,1426.4,-0.736,143,true,91
+248,Deportivo de La Coruña,club,Deportivo de La Coruña,2027,1534.56,1425.79,-0.742,144,true,5
+249,Sint-Truidense VV,club,Sint-Truidense VV,2027,1507.81,1425.79,-0.742,144,true,21
+250,FC Famalicão,club,FC Famalicão,2027,1447.12,1424.64,-0.754,146,true,20
+251,FC St. Gallen,club,FC St. Gallen,2027,1379.66,1424.64,-0.754,146,true,91
+252,NK Celje,club,NK Celje,2027,1284.2,1424.64,-0.754,146,true,21
+253,Académico de Viseu,club,Académico de Viseu,2027,1391.81,1424.19,-0.758,149,true,18
+254,Shamrock Rovers,club,Shamrock Rovers,2027,1162.14,1424.19,-0.758,149,true,91
+255,Apollon Limassol FC,club,Apollon Limassol FC,2027,1405.38,1423.66,-0.763,151,true,107
+256,FC Union Berlin,club,FC Union Berlin,2027,1473.48,1423.66,-0.763,151,true,5
+257,Seattle Kraken,nhl,nhl:Kraken,2027,1469.1,1421.78,-0.782,27,true,0
+258,Levante UD,club,Levante UD,2027,1536.17,1421.16,-0.788,153,true,3
+259,Cincinnati Reds,mlb,mlb:Reds,2026,1470.6,1420.66,-0.793,25,false,60
+260,Sabah FK,club,Sabah FK,2027,1370.35,1420.33,-0.797,154,true,1
+261,NK Rijeka,club,NK Rijeka,2027,1382.32,1418.27,-0.817,155,true,91
+262,FC CSKA 1948 Sofia,club,FC CSKA 1948 Sofia,2027,1377.21,1416.99,-0.83,156,false,107
+263,FK Železničar Pančevo,club,FK Železničar Pančevo,2027,1358.86,1416.99,-0.83,156,false,119
+264,Kansas City Royals,mlb,mlb:Royals,2026,1468.8,1416.8,-0.832,26,false,60
+265,Atlanta Falcons,nfl,nfl:Falcons,2026,1419.2,1415.3,-0.847,23,true,11
+266,Getafe,club,Getafe,2027,1466.16,1415.12,-0.849,158,true,4
+267,San Francisco Giants,mlb,mlb:Giants,2026,1468,1414.84,-0.852,27,false,60
+268,Heart of Midlothian,club,Heart of Midlothian,2027,1318.06,1413.4,-0.866,159,true,5
+269,LNZ Cherkasy,club,LNZ Cherkasy,2027,1427.76,1412.99,-0.87,160,false,119
+270,GAIS Gothenburg,club,GAIS Gothenburg,2027,1336.27,1412.38,-0.876,161,false,119
+271,FC Sheriff Tiraspol,club,FC Sheriff Tiraspol,2027,1234.93,1411.94,-0.881,162,true,105
+272,Vikingur,club,Vikingur,2027,1185.55,1411.94,-0.881,162,true,91
+273,Cambuur Leeuwarden,club,Cambuur Leeuwarden,2027,1305.99,1411.4,-0.886,164,true,5
+274,FC Sion,club,FC Sion,2027,1365.28,1411.4,-0.886,164,true,91
+275,FK Partizan,club,FK Partizan,2027,1376.61,1410.95,-0.89,166,true,91
+276,Moreirense FC,club,Moreirense FC,2027,1379.84,1410.41,-0.896,167,true,19
+277,NK Varaždin,club,NK Varaždin,2027,1440.98,1410.35,-0.896,168,false,119
 278,Toronto Maple Leafs,nhl,nhl:Maple Leafs,2027,1462.8,1410.01,-0.9,28,true,0
-279,Philadelphia Eagles,nfl,nfl:Eagles,2026,1413.9,1409.91,-0.901,24,true,3
-280,Lillestrøm SK,club,Lillestrøm SK,2027,1315.37,1409.75,-0.902,169,true,20
-281,FC Utrecht,club,FC Utrecht,2027,1356.56,1408.72,-0.913,170,true,4
-282,Hamburger SV,club,Hamburger SV,2027,1486.51,1407.97,-0.92,171,true,3
-283,SV Elversberg,club,SV Elversberg,2027,1503.54,1407.26,-0.927,172,true,4
-284,VSC Vitória Guimarães,club,VSC Vitória Guimarães,2027,1402.91,1407.26,-0.927,172,true,4
-285,Győri ETO FC,club,Győri ETO FC,2027,1254.48,1406.55,-0.934,174,true,104
-286,Coventry City,club,Coventry City,2027,1520.51,1405.93,-0.941,175,true,4
-287,Beitar Jerusalem,club,Beitar Jerusalem,2027,1321.6,1405.42,-0.946,176,true,104
-288,FK Vojvodina,club,FK Vojvodina,2027,1298.63,1404.73,-0.953,177,true,118
-289,Monza,club,Monza,2027,1432.88,1404.73,-0.953,177,true,2
-290,Rakow Czestochowa,club,Rakow Czestochowa,2027,1435.3,1404.73,-0.953,177,true,90
-291,Chicago Bulls,nba,nba:Bulls,2027,1413.1,1404.24,-0.958,23,true,0
-292,Elche CF,club,Elche CF,2027,1519.32,1403.95,-0.96,180,true,2
-293,NK Bravo,club,NK Bravo,2027,1243.19,1403.65,-0.964,181,false,118
-294,FC Inter Turku,club,FC Inter Turku,2027,1233.75,1402.43,-0.976,182,false,90
-295,FC Spartak Trnava,club,FC Spartak Trnava,2027,1229.9,1400.46,-0.995,183,true,120
-296,FK Borac Banja Luka,club,FK Borac Banja Luka,2027,1254.42,1400.46,-0.995,183,true,20
-297,Ipswich Town,club,Ipswich Town,2027,1468.97,1400.46,-0.995,183,true,4
-298,MŠK Žilina,club,MŠK Žilina,2027,1322.31,1400.46,-0.995,183,true,118
-299,Paksi SE,club,Paksi SE,2027,1338.6,1398.63,-1.014,187,false,118
-300,SC Paderborn 07,club,SC Paderborn 07,2027,1493.08,1396.97,-1.03,188,true,4
-301,Kairat Almaty,club,Kairat Almaty,2027,1200.15,1395.64,-1.044,189,true,20
-302,Shelbourne FC,club,Shelbourne FC,2027,1143.58,1394.92,-1.051,190,false,104
-303,Calgary Flames,nhl,nhl:Flames,2027,1454.5,1394.51,-1.055,29,true,0
-304,Hradec Králové FC,club,Hradec Králové FC,2027,1427.35,1393.89,-1.061,191,false,90
-305,Steaua Bucureşti,club,Steaua Bucureşti,2027,1259.6,1393.31,-1.067,192,true,118
-306,Debreceni VSC,club,Debreceni VSC,2027,1297.44,1391.9,-1.081,193,true,105
-307,Universitatea Cluj,club,Universitatea Cluj,2027,1348,1391.9,-1.081,193,true,118
-308,AJ Auxerre,club,AJ Auxerre,2027,1426.87,1391.24,-1.088,195,true,4
-309,CFR 1907 Cluj-Napoca,club,CFR 1907 Cluj-Napoca,2027,1273.66,1391.24,-1.088,195,true,104
-310,Udinese,club,Udinese,2027,1476.94,1390.47,-1.095,197,true,3
-311,New Orleans Saints,nfl,nfl:Saints,2026,1394.4,1389.96,-1.1,25,true,3
-312,GKS Katowice,club,GKS Katowice,2027,1374.26,1389.61,-1.104,198,true,105
-313,PEC Zwolle,club,PEC Zwolle,2027,1301.08,1389.61,-1.104,198,true,4
-314,FC Groningen,club,FC Groningen,2027,1332.83,1388.76,-1.112,200,true,4
-315,FK Egnatia,club,FK Egnatia,2027,1233.26,1388.76,-1.112,200,true,20
-316,CF Estrela Amadora,club,CF Estrela Amadora,2027,1307.3,1387.94,-1.121,202,true,3
-317,Dundee United,club,Dundee United,2027,1252.25,1387.94,-1.121,202,true,4
-318,Excelsior Rotterdam,club,Excelsior Rotterdam,2027,1303.78,1387.94,-1.121,202,true,4
-319,Hibernian,club,Hibernian,2027,1311.4,1387.94,-1.121,202,true,1
-320,AGF Århus,club,AGF Århus,2027,1305.86,1387.3,-1.127,206,true,20
-321,Las Vegas Raiders,nfl,nfl:Raiders,2026,1391.5,1387.18,-1.128,26,true,3
-322,HJK Helsinki,club,HJK Helsinki,2027,1173.43,1383.12,-1.169,207,true,104
-323,Sparta Rotterdam,club,Sparta Rotterdam,2027,1306.77,1383.12,-1.169,207,true,3
-324,IFK Göteborg,club,IFK Göteborg,2027,1334.69,1381.25,-1.188,209,true,104
-325,KuPS,club,KuPS,2027,1202.54,1381.25,-1.188,209,true,20
-326,Sassuolo,club,Sassuolo,2027,1460.41,1379.57,-1.204,211,true,3
-327,Larne FC,club,Larne FC,2027,1052.48,1379.35,-1.206,212,false,90
-328,Georgia,cfb,cfb:Georgia,2026,1381.01,1378.86,-1.211,1,true,4
-329,Indianapolis Colts,nfl,nfl:Colts,2026,1382.5,1378.17,-1.218,27,true,3
-330,Linfield FC,club,Linfield FC,2027,1007.23,1378.04,-1.22,213,true,132
-331,Aberdeen,club,Aberdeen,2027,1213.21,1377.17,-1.228,214,true,1
-332,San Jose Sharks,nhl,nhl:Sharks,2027,1444.5,1375.06,-1.249,30,true,0
-333,FC Dinamo City,club,FC Dinamo City,2027,1191.65,1373.87,-1.261,215,false,90
-334,Bohemians FC,club,Bohemians FC,2027,1153.03,1373.28,-1.267,216,true,104
-335,Falkirk,club,Falkirk,2027,1272.31,1373.28,-1.267,216,true,4
-336,Trabzonspor,club,Trabzonspor,2027,1433.27,1372.51,-1.275,218,true,20
-337,Los Angeles Angels,mlb,mlb:Angels,2026,1449.7,1371.61,-1.284,28,false,59
-338,Indiana Pacers,nba,nba:Pacers,2027,1379,1369.74,-1.303,24,true,0
-339,Los Angeles Chargers,nfl,nfl:Chargers,2026,1374.3,1369.48,-1.305,28,true,3
-340,Stjarnan FC,club,Stjarnan FC,2027,1191.88,1369.01,-1.31,219,false,118
-341,New Orleans Pelicans,nba,nba:Pelicans,2027,1376.5,1366.67,-1.333,25,true,0
-342,US Lecce,club,US Lecce,2027,1413.23,1363.11,-1.369,220,true,4
-343,Marsaxlokk FC,club,Marsaxlokk FC,2027,1018.38,1362.98,-1.37,221,false,132
-344,Troyes AC,club,Troyes AC,2027,1377.69,1361.99,-1.38,222,true,5
-345,FK Jablonec 97,club,FK Jablonec 97,2027,1425.37,1361.36,-1.386,223,true,20
-346,Dundee FC,club,Dundee FC,2027,1202.79,1361.07,-1.389,224,true,1
-347,Le Mans FC,club,Le Mans FC,2027,1434.15,1361.07,-1.389,224,true,3
-348,St. Johnstone,club,St. Johnstone,2027,1168.66,1361.07,-1.389,224,true,4
-349,Mjällby AIF,club,Mjällby AIF,2027,1312.1,1359.44,-1.406,227,true,20
-350,AF Elbasani,club,AF Elbasani,2027,1123.13,1358.78,-1.412,228,false,132
-351,Dinamo Minsk,club,Dinamo Minsk,2027,1215.3,1358.4,-1.416,229,true,104
-352,Arizona Cardinals,nfl,nfl:Cardinals,2026,1364,1358.24,-1.418,29,true,3
-353,FC Alverca,club,FC Alverca,2027,1369.14,1356.56,-1.434,230,true,18
-354,FC Ilves,club,FC Ilves,2027,1281.12,1352.5,-1.475,231,true,104
-355,Parma,club,Parma,2027,1446.58,1352.5,-1.475,231,true,4
-356,FC Vaduz,club,FC Vaduz,2027,1268.83,1351.82,-1.482,233,false,104
-357,Žalgiris Vilnius,club,Žalgiris Vilnius,2027,1255.39,1351.76,-1.482,234,true,104
-358,FK Sarajevo,club,FK Sarajevo,2027,1308.65,1349.18,-1.508,235,true,132
-359,AC Sparta Praha,club,AC Sparta Praha,2027,1402.84,1349,-1.51,236,true,20
-360,Miami Dolphins,nfl,nfl:Dolphins,2026,1354.5,1348.29,-1.517,30,true,3
-361,FC Schalke 04,club,FC Schalke 04,2027,1479.75,1347.11,-1.529,237,true,4
-362,Borussia Mönchengladbach,club,Borussia Mönchengladbach,2027,1493.77,1346.28,-1.537,238,true,4
-363,FK Austria Wien,club,FK Austria Wien,2027,1348.28,1346.28,-1.537,238,true,90
-364,Milwaukee Bucks,nba,nba:Bucks,2027,1358.5,1346.09,-1.539,26,true,0
-365,Derry City FC,club,Derry City FC,2027,1032.02,1344.3,-1.557,240,true,118
-366,Coleraine FC,club,Coleraine FC,2027,966.17,1342.34,-1.577,241,true,118
-367,Dinamo Tbilisi,club,Dinamo Tbilisi,2027,1154.77,1342.34,-1.577,241,true,118
-368,Floriana FC,club,Floriana FC,2027,1060.73,1342.34,-1.577,241,true,120
-369,Hamrun Spartans,club,Hamrun Spartans,2027,1095.43,1342.34,-1.577,241,true,132
-370,Motherwell,club,Motherwell,2027,1258.28,1342.34,-1.577,241,true,4
-371,NK Aluminij,club,NK Aluminij,2027,1200.9,1341.78,-1.582,246,false,118
-372,FC Viktoria Plzeň,club,FC Viktoria Plzeň,2027,1396.75,1341.47,-1.585,247,true,20
-373,New York Jets,nfl,nfl:Jets,2026,1347.2,1340.43,-1.596,31,true,3
-374,Angers SCO,club,Angers SCO,2027,1354.68,1339.12,-1.609,248,true,3
-375,Istanbul Basaksehir FK,club,Istanbul Basaksehir FK,2027,1347.7,1336.26,-1.637,249,false,118
-376,Casa Pia AC,club,Casa Pia AC,2027,1304.74,1336.26,-1.637,250,true,4
-377,Chicago Blackhawks,nhl,nhl:Blackhawks,2027,1422.9,1334.72,-1.653,31,true,3
-378,St. Mirren,club,St. Mirren,2027,1170.94,1333.64,-1.664,251,true,4
+279,Philadelphia Eagles,nfl,nfl:Eagles,2026,1413.9,1409.91,-0.901,24,true,4
+280,Lillestrøm SK,club,Lillestrøm SK,2027,1315.37,1409.75,-0.902,169,true,21
+281,FC Utrecht,club,FC Utrecht,2027,1356.56,1408.72,-0.913,170,true,5
+282,Chicago Bulls,nba,nba:Bulls,2027,1417.8,1408.01,-0.92,23,true,0
+283,Hamburger SV,club,Hamburger SV,2027,1486.51,1407.97,-0.92,171,true,4
+284,SV Elversberg,club,SV Elversberg,2027,1503.54,1407.26,-0.927,172,true,5
+285,VSC Vitória Guimarães,club,VSC Vitória Guimarães,2027,1402.91,1407.26,-0.927,172,true,5
+286,Győri ETO FC,club,Győri ETO FC,2027,1254.48,1406.55,-0.934,174,true,105
+287,Coventry City,club,Coventry City,2027,1520.51,1405.93,-0.941,175,true,5
+288,Beitar Jerusalem,club,Beitar Jerusalem,2027,1321.6,1405.42,-0.946,176,true,105
+289,FK Vojvodina,club,FK Vojvodina,2027,1298.63,1404.73,-0.953,177,true,119
+290,Monza,club,Monza,2027,1432.88,1404.73,-0.953,177,true,3
+291,Rakow Czestochowa,club,Rakow Czestochowa,2027,1435.3,1404.73,-0.953,177,true,91
+292,Calgary Flames,nhl,nhl:Flames,2027,1460,1404.72,-0.953,29,true,0
+293,Elche CF,club,Elche CF,2027,1519.32,1403.95,-0.96,180,true,3
+294,NK Bravo,club,NK Bravo,2027,1243.19,1403.65,-0.964,181,false,119
+295,FC Inter Turku,club,FC Inter Turku,2027,1233.75,1402.43,-0.976,182,false,91
+296,FC Spartak Trnava,club,FC Spartak Trnava,2027,1229.9,1400.46,-0.995,183,true,121
+297,FK Borac Banja Luka,club,FK Borac Banja Luka,2027,1254.42,1400.46,-0.995,183,true,21
+298,Ipswich Town,club,Ipswich Town,2027,1468.97,1400.46,-0.995,183,true,5
+299,MŠK Žilina,club,MŠK Žilina,2027,1322.31,1400.46,-0.995,183,true,119
+300,Paksi SE,club,Paksi SE,2027,1338.6,1398.63,-1.014,187,false,119
+301,SC Paderborn 07,club,SC Paderborn 07,2027,1493.08,1396.97,-1.03,188,true,5
+302,Kairat Almaty,club,Kairat Almaty,2027,1200.15,1395.64,-1.044,189,true,21
+303,Shelbourne FC,club,Shelbourne FC,2027,1143.58,1394.92,-1.051,190,false,105
+304,Hradec Králové FC,club,Hradec Králové FC,2027,1427.35,1393.89,-1.061,191,false,91
+305,Steaua Bucureşti,club,Steaua Bucureşti,2027,1259.6,1393.31,-1.067,192,true,119
+306,Debreceni VSC,club,Debreceni VSC,2027,1297.44,1391.9,-1.081,193,true,106
+307,Universitatea Cluj,club,Universitatea Cluj,2027,1348,1391.9,-1.081,193,true,119
+308,AJ Auxerre,club,AJ Auxerre,2027,1426.87,1391.24,-1.088,195,true,5
+309,CFR 1907 Cluj-Napoca,club,CFR 1907 Cluj-Napoca,2027,1273.66,1391.24,-1.088,195,true,105
+310,Udinese,club,Udinese,2027,1476.94,1390.47,-1.095,197,true,4
+311,New Orleans Saints,nfl,nfl:Saints,2026,1394.4,1389.98,-1.1,25,true,4
+312,GKS Katowice,club,GKS Katowice,2027,1374.26,1389.61,-1.104,198,true,106
+313,PEC Zwolle,club,PEC Zwolle,2027,1301.08,1389.61,-1.104,198,true,5
+314,FC Groningen,club,FC Groningen,2027,1332.83,1388.76,-1.112,200,true,5
+315,FK Egnatia,club,FK Egnatia,2027,1233.26,1388.76,-1.112,200,true,21
+316,CF Estrela Amadora,club,CF Estrela Amadora,2027,1307.3,1387.94,-1.121,202,true,4
+317,Dundee United,club,Dundee United,2027,1252.25,1387.94,-1.121,202,true,5
+318,Excelsior Rotterdam,club,Excelsior Rotterdam,2027,1303.78,1387.94,-1.121,202,true,5
+319,Hibernian,club,Hibernian,2027,1311.4,1387.94,-1.121,202,true,2
+320,AGF Århus,club,AGF Århus,2027,1305.86,1387.3,-1.127,206,true,21
+321,Las Vegas Raiders,nfl,nfl:Raiders,2026,1391.5,1387.18,-1.128,26,true,4
+322,HJK Helsinki,club,HJK Helsinki,2027,1173.43,1383.12,-1.169,207,true,105
+323,Sparta Rotterdam,club,Sparta Rotterdam,2027,1306.77,1383.12,-1.169,207,true,4
+324,IFK Göteborg,club,IFK Göteborg,2027,1334.69,1381.25,-1.188,209,true,105
+325,KuPS,club,KuPS,2027,1202.54,1381.25,-1.188,209,true,21
+326,Georgia,cfb,cfb:Georgia,2026,1382.88,1381.08,-1.189,1,true,5
+327,Sassuolo,club,Sassuolo,2027,1460.41,1379.57,-1.204,211,true,4
+328,Larne FC,club,Larne FC,2027,1052.48,1379.35,-1.206,212,false,91
+329,Indianapolis Colts,nfl,nfl:Colts,2026,1382.5,1378.18,-1.218,27,true,4
+330,Linfield FC,club,Linfield FC,2027,1007.23,1378.04,-1.22,213,true,133
+331,Aberdeen,club,Aberdeen,2027,1213.21,1377.17,-1.228,214,true,2
+332,FC Dinamo City,club,FC Dinamo City,2027,1191.65,1373.87,-1.261,215,false,91
+333,Bohemians FC,club,Bohemians FC,2027,1153.03,1373.28,-1.267,216,true,105
+334,Falkirk,club,Falkirk,2027,1272.31,1373.28,-1.267,216,true,5
+335,Trabzonspor,club,Trabzonspor,2027,1433.27,1372.51,-1.275,218,true,21
+336,Los Angeles Angels,mlb,mlb:Angels,2026,1449.7,1371.99,-1.28,28,false,60
+337,Indiana Pacers,nba,nba:Pacers,2027,1379,1369.74,-1.303,24,true,0
+338,Los Angeles Chargers,nfl,nfl:Chargers,2026,1374.3,1369.48,-1.305,28,true,4
+339,Stjarnan FC,club,Stjarnan FC,2027,1191.88,1369.01,-1.31,219,false,119
+340,New Orleans Pelicans,nba,nba:Pelicans,2027,1376.5,1366.67,-1.333,25,true,0
+341,San Jose Sharks,nhl,nhl:Sharks,2027,1439.4,1365.82,-1.342,30,true,0
+342,US Lecce,club,US Lecce,2027,1413.23,1363.11,-1.369,220,true,5
+343,Marsaxlokk FC,club,Marsaxlokk FC,2027,1018.38,1362.98,-1.37,221,false,133
+344,Troyes AC,club,Troyes AC,2027,1377.69,1361.99,-1.38,222,true,6
+345,FK Jablonec 97,club,FK Jablonec 97,2027,1425.37,1361.36,-1.386,223,true,21
+346,Dundee FC,club,Dundee FC,2027,1202.79,1361.07,-1.389,224,true,2
+347,Le Mans FC,club,Le Mans FC,2027,1434.15,1361.07,-1.389,224,true,4
+348,St. Johnstone,club,St. Johnstone,2027,1168.66,1361.07,-1.389,224,true,5
+349,Mjällby AIF,club,Mjällby AIF,2027,1312.1,1359.44,-1.406,227,true,21
+350,AF Elbasani,club,AF Elbasani,2027,1123.13,1358.78,-1.412,228,false,133
+351,Dinamo Minsk,club,Dinamo Minsk,2027,1215.3,1358.4,-1.416,229,true,105
+352,Arizona Cardinals,nfl,nfl:Cardinals,2026,1364,1358.29,-1.417,29,true,4
+353,FC Alverca,club,FC Alverca,2027,1369.14,1356.56,-1.434,230,true,19
+354,AC Sparta Praha,club,AC Sparta Praha,2027,1402.84,1355.59,-1.444,231,true,21
+355,FC Ilves,club,FC Ilves,2027,1281.12,1352.5,-1.475,232,true,105
+356,Parma,club,Parma,2027,1446.58,1352.5,-1.475,232,true,5
+357,FC Vaduz,club,FC Vaduz,2027,1268.83,1351.82,-1.482,234,false,105
+358,Žalgiris Vilnius,club,Žalgiris Vilnius,2027,1255.39,1351.76,-1.482,235,true,105
+359,FK Sarajevo,club,FK Sarajevo,2027,1308.65,1349.18,-1.508,236,true,133
+360,Miami Dolphins,nfl,nfl:Dolphins,2026,1354.5,1348.29,-1.517,30,true,4
+361,FC Schalke 04,club,FC Schalke 04,2027,1479.75,1347.11,-1.529,237,true,5
+362,Borussia Mönchengladbach,club,Borussia Mönchengladbach,2027,1493.77,1346.28,-1.537,238,true,5
+363,FK Austria Wien,club,FK Austria Wien,2027,1348.28,1346.28,-1.537,238,true,91
+364,Derry City FC,club,Derry City FC,2027,1032.02,1344.3,-1.557,240,true,119
+365,Chicago Blackhawks,nhl,nhl:Blackhawks,2027,1427.7,1344.04,-1.56,31,true,0
+366,Coleraine FC,club,Coleraine FC,2027,966.17,1342.34,-1.577,241,true,119
+367,Dinamo Tbilisi,club,Dinamo Tbilisi,2027,1154.77,1342.34,-1.577,241,true,119
+368,Floriana FC,club,Floriana FC,2027,1060.73,1342.34,-1.577,241,true,121
+369,Hamrun Spartans,club,Hamrun Spartans,2027,1095.43,1342.34,-1.577,241,true,133
+370,Motherwell,club,Motherwell,2027,1258.28,1342.34,-1.577,241,true,5
+371,NK Aluminij,club,NK Aluminij,2027,1200.9,1341.78,-1.582,246,false,119
+372,FC Viktoria Plzeň,club,FC Viktoria Plzeň,2027,1396.75,1341.47,-1.585,247,true,21
+373,New York Jets,nfl,nfl:Jets,2026,1347.2,1340.43,-1.596,31,true,4
+374,Angers SCO,club,Angers SCO,2027,1354.68,1339.12,-1.609,248,true,4
+375,Milwaukee Bucks,nba,nba:Bucks,2027,1351,1338.51,-1.615,26,true,0
+376,Istanbul Basaksehir FK,club,Istanbul Basaksehir FK,2027,1347.7,1336.26,-1.637,249,false,119
+377,Casa Pia AC,club,Casa Pia AC,2027,1304.74,1336.26,-1.637,250,true,5
+378,St. Mirren,club,St. Mirren,2027,1170.94,1333.64,-1.664,251,true,5
 379,Utah Jazz,nba,nba:Jazz,2027,1345.9,1332.79,-1.672,27,true,0
-380,Valur Reykjavík,club,Valur Reykjavík,2027,1133.49,1331.55,-1.684,252,true,104
-381,FK Vardar,club,FK Vardar,2027,1196.11,1327.68,-1.723,253,true,120
+380,Valur Reykjavík,club,Valur Reykjavík,2027,1133.49,1331.55,-1.684,252,true,105
+381,FK Vardar,club,FK Vardar,2027,1196.11,1327.68,-1.723,253,true,121
 382,Washington Wizards,nba,nba:Wizards,2027,1340.9,1326.9,-1.731,28,true,0
-383,CS Maritimo,club,CS Maritimo,2027,1321.64,1326.45,-1.736,254,true,4
-384,FC Thun,club,FC Thun,2027,1338.62,1326.45,-1.736,254,true,20
-385,Glentoran FC,club,Glentoran FC,2027,971.04,1326.45,-1.736,254,true,132
-386,Kilmarnock,club,Kilmarnock,2027,1174.94,1326.45,-1.736,254,true,4
-387,Valletta FC,club,Valletta FC,2027,1014.32,1326.45,-1.736,254,true,118
-388,Sacramento Kings,nba,nba:Kings,2027,1336,1320.72,-1.793,29,true,0
-389,KS Vllaznia,club,KS Vllaznia,2027,1114.92,1319.53,-1.805,259,true,133
-390,Rio Ave FC,club,Rio Ave FC,2027,1310.37,1317.94,-1.821,260,true,3
-391,SC Telstar,club,SC Telstar,2027,1290.38,1314.78,-1.852,261,true,4
-392,Athletics,mlb,mlb:Athletics,2026,1425.4,1314.36,-1.856,29,false,59
-393,ADO Den Haag,club,ADO Den Haag,2027,1271.49,1312.65,-1.874,262,true,3
-394,Brooklyn Nets,nba,nba:Nets,2027,1324.6,1306.36,-1.936,30,true,0
-395,FK Velež Mostar,club,FK Velež Mostar,2027,1226.45,1302.22,-1.978,263,true,118
-396,Venezia,club,Venezia,2027,1398.6,1302.22,-1.978,263,true,3
-397,CD Nacional Madeira,club,CD Nacional Madeira,2027,1310.44,1300.7,-1.993,265,true,17
-398,Málaga CF,club,Málaga CF,2027,1482.32,1298.12,-2.019,266,true,3
-399,Vancouver Canucks,nhl,nhl:Canucks,2027,1401.1,1295.67,-2.043,32,true,3
-400,Lausanne-Sports,club,Lausanne-Sports,2027,1340.64,1290.76,-2.092,267,true,276
-401,Colorado Rockies,mlb,mlb:Rockies,2026,1414,1287.59,-2.124,30,false,59
-402,FC BATE Borisov,club,FC BATE Borisov,2027,1180.62,1285.31,-2.147,268,true,118
-403,GD Estoril-Praia,club,GD Estoril-Praia,2027,1319.15,1283.07,-2.169,269,true,4
-404,SK Slavia Praha,club,SK Slavia Praha,2027,1343.15,1280.64,-2.194,270,true,21
-405,Notre Dame,cfb,cfb:Notre Dame,2026,1284.74,1275.35,-2.246,2,true,4
-406,Le Havre AC,club,Le Havre AC,2027,1359.79,1275.3,-2.247,271,true,5
-407,Willem II Tilburg,club,Willem II Tilburg,2027,1209.04,1275.3,-2.247,271,true,3
-408,Tennessee Titans,nfl,nfl:Titans,2026,1285.6,1266.61,-2.334,32,true,3
-409,Indiana,cfb,cfb:Indiana,2026,1262.88,1247.32,-2.527,3,true,4
-410,Utah,cfb,cfb:Utah,2026,1238.97,1201.8,-2.982,4,true,4
-411,Texas,cfb,cfb:Texas,2026,1228.61,1193.16,-3.068,5,true,4
-412,Alabama,cfb,cfb:Alabama,2026,1217.05,1175.53,-3.245,6,true,11
-413,Miami (FL),cfb,cfb:Miami (FL),2026,1220.36,1174.07,-3.259,7,true,4
-414,Oregon,cfb,cfb:Oregon,2026,1167.82,1069.15,-4.308,8,true,5
-415,Iowa,cfb,cfb:Iowa,2026,1150.78,1042.93,-4.571,9,true,4
-416,Tennessee,cfb,cfb:Tennessee,2026,1148.44,1035.92,-4.641,10,true,4
-417,Texas Tech,cfb,cfb:Texas Tech,2026,1114.9,1010.28,-4.897,11,true,4
-418,Ohio State,cfb,cfb:Ohio State,2026,1094.73,1007.08,-4.929,12,true,4
-419,Wake Forest,cfb,cfb:Wake Forest,2026,1105.81,988.716,-5.113,13,true,4
-420,BYU,cfb,cfb:BYU,2026,1054.11,952.962,-5.47,14,true,4
-421,Oklahoma,cfb,cfb:Oklahoma,2026,1027.97,932.393,-5.676,15,true,4
-422,USC,cfb,cfb:USC,2026,1029.75,930.751,-5.692,16,true,4
-423,Mississippi,cfb,cfb:Mississippi,2026,1007.05,918.281,-5.817,17,true,4
-424,Louisville,cfb,cfb:Louisville,2026,1002.96,903.916,-5.961,18,true,4
-425,UCLA,cfb,cfb:UCLA,2026,1002.63,893.578,-6.064,19,true,4
-426,Washington,cfb,cfb:Washington,2026,984.913,891.084,-6.089,20,true,4
-427,Missouri,cfb,cfb:Missouri,2026,979.186,882.021,-6.18,21,true,4
-428,Arizona,cfb,cfb:Arizona,2026,975.786,877.492,-6.225,22,true,4
-429,LSU,cfb,cfb:LSU,2026,959.886,865.666,-6.343,23,true,4
-430,Boise State,cfb,cfb:Boise State,2026,956.476,857.337,-6.427,24,true,4
-431,Penn State,cfb,cfb:Penn State,2026,889.934,808.14,-6.919,25,true,4
+383,CS Maritimo,club,CS Maritimo,2027,1321.64,1326.45,-1.736,254,true,5
+384,FC Thun,club,FC Thun,2027,1338.62,1326.45,-1.736,254,true,21
+385,Glentoran FC,club,Glentoran FC,2027,971.04,1326.45,-1.736,254,true,133
+386,Kilmarnock,club,Kilmarnock,2027,1174.94,1326.45,-1.736,254,true,5
+387,Valletta FC,club,Valletta FC,2027,1014.32,1326.45,-1.736,254,true,119
+388,KS Vllaznia,club,KS Vllaznia,2027,1114.92,1319.53,-1.805,259,true,134
+389,Rio Ave FC,club,Rio Ave FC,2027,1310.37,1317.94,-1.821,260,true,4
+390,Sacramento Kings,nba,nba:Kings,2027,1332.8,1316.89,-1.831,29,true,0
+391,Brooklyn Nets,nba,nba:Nets,2027,1332.1,1316.17,-1.838,30,true,0
+392,Athletics,mlb,mlb:Athletics,2026,1425.4,1314.91,-1.851,29,false,60
+393,SC Telstar,club,SC Telstar,2027,1290.38,1314.78,-1.852,261,true,5
+394,ADO Den Haag,club,ADO Den Haag,2027,1271.49,1312.65,-1.874,262,true,4
+395,FK Velež Mostar,club,FK Velež Mostar,2027,1226.45,1302.22,-1.978,263,true,119
+396,Venezia,club,Venezia,2027,1398.6,1302.22,-1.978,263,true,4
+397,CD Nacional Madeira,club,CD Nacional Madeira,2027,1310.44,1300.7,-1.993,265,true,18
+398,Málaga CF,club,Málaga CF,2027,1482.32,1298.12,-2.019,266,true,4
+399,Lausanne-Sports,club,Lausanne-Sports,2027,1340.64,1290.76,-2.092,267,true,277
+400,Vancouver Canucks,nhl,nhl:Canucks,2027,1397.6,1289.71,-2.103,32,true,0
+401,Colorado Rockies,mlb,mlb:Rockies,2026,1414,1288.23,-2.118,30,false,60
+402,FC BATE Borisov,club,FC BATE Borisov,2027,1180.62,1285.31,-2.147,268,true,119
+403,GD Estoril-Praia,club,GD Estoril-Praia,2027,1319.15,1283.07,-2.169,269,true,5
+404,SK Slavia Praha,club,SK Slavia Praha,2027,1333.45,1280.64,-2.194,270,true,1
+405,Notre Dame,cfb,cfb:Notre Dame,2026,1286.6,1278.09,-2.219,2,true,5
+406,Le Havre AC,club,Le Havre AC,2027,1359.79,1275.3,-2.247,271,true,6
+407,Willem II Tilburg,club,Willem II Tilburg,2027,1209.04,1275.3,-2.247,271,true,4
+408,Tennessee Titans,nfl,nfl:Titans,2026,1285.6,1266.61,-2.334,32,true,4
+409,Indiana,cfb,cfb:Indiana,2026,1264.74,1248.86,-2.511,3,true,5
+410,Utah,cfb,cfb:Utah,2026,1240.83,1202.86,-2.971,4,true,5
+411,Texas,cfb,cfb:Texas,2026,1230.48,1195.61,-3.044,5,true,5
+412,Miami (FL),cfb,cfb:Miami (FL),2026,1222.22,1178.35,-3.216,6,true,5
+413,Alabama,cfb,cfb:Alabama,2026,1218.91,1177.11,-3.229,7,true,12
+414,Oregon,cfb,cfb:Oregon,2026,1169.68,1070.84,-4.292,8,true,6
+415,Iowa,cfb,cfb:Iowa,2026,1152.65,1044.62,-4.554,9,true,5
+416,Tennessee,cfb,cfb:Tennessee,2026,1150.31,1037.62,-4.624,10,true,5
+417,Texas Tech,cfb,cfb:Texas Tech,2026,1116.76,1011.97,-4.88,11,true,5
+418,Ohio State,cfb,cfb:Ohio State,2026,1096.6,1008.78,-4.912,12,true,5
+419,Wake Forest,cfb,cfb:Wake Forest,2026,1107.68,990.412,-5.096,13,true,5
+420,BYU,cfb,cfb:BYU,2026,1055.97,954.659,-5.453,14,true,5
+421,Oklahoma,cfb,cfb:Oklahoma,2026,1029.84,934.091,-5.659,15,true,5
+422,USC,cfb,cfb:USC,2026,1031.61,932.449,-5.676,16,true,5
+423,Mississippi,cfb,cfb:Mississippi,2026,1008.92,919.98,-5.8,17,true,5
+424,Louisville,cfb,cfb:Louisville,2026,1004.82,905.614,-5.944,18,true,5
+425,UCLA,cfb,cfb:UCLA,2026,1004.49,895.276,-6.047,19,true,5
+426,Washington,cfb,cfb:Washington,2026,986.775,892.783,-6.072,20,true,5
+427,Missouri,cfb,cfb:Missouri,2026,981.048,883.72,-6.163,21,true,5
+428,Arizona,cfb,cfb:Arizona,2026,977.649,879.192,-6.208,22,true,5
+429,LSU,cfb,cfb:LSU,2026,961.749,867.366,-6.326,23,true,5
+430,Boise State,cfb,cfb:Boise State,2026,958.339,859.038,-6.41,24,true,5
+431,Penn State,cfb,cfb:Penn State,2026,891.797,809.843,-6.902,25,true,5

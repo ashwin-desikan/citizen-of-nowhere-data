@@ -1,35 +1,35 @@
 scoreRank,slug,name,parent,continent,scoreTotal,metroAreas,teams,pop,metroPop,metroPct,areaSqKm,popRank,capital,biggestMetro,mostImportantMetro
-1,united-states,United States,,North America,2615.520837,597,1460,341784857,322710003,0.944014,9372610,3,Washington-Baltimore,New York,New York
-2,china,China,,Asia,1616.35992,172,80,1404890000,1030510978,0.728777,9706961,2,Beijing,Guangzhou,Beijing
+1,united-states,United States,,North America,2606.246221,597,1459,341784857,322710003,0.944014,9372610,3,Washington-Baltimore,New York,New York
+2,china,China,,Asia,1615.105191,172,80,1404890000,1030510978,0.728777,9706961,2,Beijing,Guangzhou,Beijing
 3,united-kingdom,United Kingdom,,Europe,545.702061,179,534,69281482,55899944,0.806853,242553,21,London,London,London
 4,england,England,United Kingdom,Europe,476.30488,115,448,58619682,51613539,0.832004,130279,26,London,London,London
 5,germany,Germany,,Europe,446.148063,73,163,83467117,69534453,0.835216,357114,19,Berlin,Rhine-Ruhr,Rhine-Ruhr
 6,france,France,,Europe,425.294502,116,181,69081996,52493421,0.756677,551695,22,Paris,Paris,Paris
 7,italy,Italy,,Europe,368.972047,84,168,58940756,55972739,0.950492,301336,25,Rome,Milan,Milan
 8,japan,Japan,,Asia,368.354814,59,156,122930000,112981283,0.9185,377930,11,Tokyo,Tokyo,Tokyo
-9,india,India,,Asia,329.290559,88,63,1429404000,342428453,0.237934,3287590,1,Delhi,Delhi,Mumbai
-10,spain,Spain,,Europe,316.170434,104,201,49687120,41216917,0.8312,505992,32,Madrid,Madrid,Madrid
+9,india,India,,Asia,330.10459,88,63,1429404000,342436482,0.237934,3287590,1,Delhi,Delhi,Mumbai
+10,spain,Spain,,Europe,317.802965,104,201,49687120,41216917,0.8312,505992,32,Madrid,Madrid,Madrid
 11,canada,Canada,,North America,291.927312,91,122,41417056,36661420,0.889683,9984670,38,Ottawa,Toronto,Toronto
 12,brazil,Brazil,,South America,278.973959,221,205,213421037,137436462,0.642543,8515767,7,Brasilia,Sao Paulo,Sao Paulo
 13,australia,Australia,,Asia,259.841253,34,109,27801023,22854656,0.823139,7692024,55,Canberra,Sydney,Sydney
-14,south-korea,South Korea,,Asia,229.454872,18,36,51097986,50041542,0.979073,100210,31,Daejeon,Seoul,Seoul
+14,south-korea,South Korea,,Asia,227.971438,18,36,51097986,50041542,0.979073,100210,31,Daejeon,Seoul,Seoul
 15,russia,Russia,,Europe,206.652162,271,110,146028325,97355804,0.66845,17098242,9,Moscow,Moscow,Moscow
-16,mexico,Mexico,,North America,204.637537,93,90,131150866,87686489,0.673542,1964375,10,Mexico City,Mexico City,Mexico City
-17,netherlands,Netherlands,,Europe,151.090332,43,98,18151406,15365438,0.844963,41850,72,Rotterdam-The Hague,Rotterdam-The Hague,Amsterdam
-18,turkey,Turkey,,Europe,150.896948,57,84,86092168,68814845,0.797247,783562,18,Ankara,Istanbul,Istanbul
-19,switzerland,Switzerland,,Europe,138.996486,32,40,9139676,6509052,0.713376,41284,100,Bern,Zurich,Zurich
+16,mexico,Mexico,,North America,205.521373,93,91,131150866,87686489,0.673542,1964375,10,Mexico City,Mexico City,Mexico City
+17,turkey,Turkey,,Europe,150.896948,57,84,86092168,68814845,0.797247,783562,18,Ankara,Istanbul,Istanbul
+18,netherlands,Netherlands,,Europe,150.191843,43,98,18151406,15365438,0.844963,41850,72,Rotterdam-The Hague,Rotterdam-The Hague,Amsterdam
+19,switzerland,Switzerland,,Europe,139.705799,32,40,9139676,6509052,0.713376,41284,100,Bern,Zurich,Zurich
 20,poland,Poland,,Europe,121.291454,71,106,37256000,25540506,0.684806,312679,41,Warsaw,Warsaw,Warsaw
 21,indonesia,Indonesia,,Asia,119.353915,36,21,288315089,115816551,0.400683,1904569,4,Jakarta,Jakarta,Jakarta
-22,belgium,Belgium,,Europe,114.456126,31,64,11936546,11262704,0.944021,30528,83,Brussels,Brussels,Brussels
+22,belgium,Belgium,,Europe,115.098983,31,64,11936546,11262704,0.944021,30528,83,Brussels,Brussels,Brussels
 23,south-africa,South Africa,,Africa,110.545521,22,63,63100945,35049378,0.555449,1221037,24,Johannesburg,Johannesburg,Johannesburg
-24,united-arab-emirates,United Arab Emirates,,Asia,104.690846,11,32,11294243,10627938,0.941005,83600,87,Abu Dhabi,Dubai-Sharjah,Dubai-Sharjah
-25,saudi-arabia,Saudi Arabia,,Asia,104.429301,23,20,35300280,25793167,0.730679,2149690,43,Riyadh,Riyadh,Riyadh
+24,saudi-arabia,Saudi Arabia,,Asia,105.748446,23,20,35300280,25793167,0.730679,2149690,43,Riyadh,Riyadh,Riyadh
+25,united-arab-emirates,United Arab Emirates,,Asia,104.690846,11,32,11294243,10627938,0.941005,83600,87,Abu Dhabi,Dubai-Sharjah,Dubai-Sharjah
 26,sweden,Sweden,,Europe,101.660992,54,68,10608128,7795415,0.711816,450295,91,Stockholm,Stockholm,Stockholm
-27,portugal,Portugal,,Europe,92.691698,31,75,11424031,8851821,0.822079,92090,85,Lisbon,Lisbon,Lisbon
+27,portugal,Portugal,,Europe,91.68678,31,75,11424031,8851821,0.822079,92090,85,Lisbon,Lisbon,Lisbon
 28,argentina,Argentina,,South America,91.373574,41,76,46466688,31456905,0.667674,2780400,34,Buenos Aires,Buenos Aires,Buenos Aires
 29,austria,Austria,,Europe,91.367232,27,50,9220882,7451921,0.808312,83871,99,Vienna,Vienna,Vienna
 30,malaysia,Malaysia,,Asia,90.087295,15,14,34374300,21648313,0.630514,330803,46,Kuala Lumpur,Kuala Lumpur,Kuala Lumpur
-31,taiwan,Taiwan,,Asia,88.250263,6,12,23243565,19785735,0.850247,36193,60,Taipei,Taipei,Taipei
+31,taiwan,Taiwan,,Asia,86.593816,6,12,23243565,19785735,0.850247,36193,60,Taipei,Taipei,Taipei
 32,thailand,Thailand,,Asia,81.42266,22,18,65706765,39857614,0.564563,513120,23,Bangkok,Bangkok,Bangkok
 33,colombia,Colombia,,South America,80.105064,32,27,53399171,32703915,0.61639,1141748,27,Bogota,Bogota,Bogota
 34,scotland,Scotland,United Kingdom,Europe,78.458435,31,63,5546900,4037000,0.727794,77933,122,Edinburgh,Glasgow,Edinburgh
@@ -39,7 +39,7 @@ scoreRank,slug,name,parent,continent,scoreTotal,metroAreas,teams,pop,metroPop,me
 38,philippines,Philippines,,Asia,67.372066,15,14,114849400,58807861,0.5153,342353,13,Manila,Manila,Manila
 39,greece,Greece,,Europe,67.050916,49,49,10372335,8165610,0.787249,131990,92,Athens,Athens,Athens
 40,vietnam,Vietnam,,Asia,65.518915,20,13,102300000,32929236,0.319468,331212,16,Hanoi,Ho Chi Minh City,Ho Chi Minh City
-41,denmark,Denmark,,Europe,64.762357,31,41,6031992,5147576,0.853717,43094,116,Copenhagen,Copenhagen,Copenhagen
+41,denmark,Denmark,,Europe,65.416989,31,41,6031992,5147576,0.853717,43094,116,Copenhagen,Copenhagen,Copenhagen
 42,singapore,Singapore,,Asia,64.575132,1,10,6110200,6111190,0.929313,710,114,Singapore,Singapore,Singapore
 43,pakistan,Pakistan,,Asia,61.337448,14,12,241499431,102844936,0.349978,881912,5,Islamabad,Karachi,Lahore
 44,israel,Israel,,Europe,58.563062,16,43,10252800,7278600,0.710523,20770,94,Jerusalem,Tel-Aviv,Tel-Aviv
@@ -62,17 +62,17 @@ scoreRank,slug,name,parent,continent,scoreTotal,metroAreas,teams,pop,metroPop,me
 61,wales,Wales,United Kingdom,Europe,24.650322,24,32,3187000,1975133,0.599715,20779,139,Cardiff,Cardiff,Cardiff
 62,macau,Macau,China,Asia,23.908806,1,1,688100,681293,0.988958,33,173,Macau,Macau,Macau
 63,sri-lanka,Sri Lanka,,Asia,23.492415,8,9,21781800,13032000,0.598298,65610,62,Colombo,Colombo,Colombo
-64,venezuela,Venezuela,,South America,22.929079,18,23,28517000,18486951,0.648278,916445,54,Caracas,Caracas,Caracas
+64,venezuela,Venezuela,,South America,22.929079,18,22,28517000,18486951,0.648278,916445,54,Caracas,Caracas,Caracas
 65,azerbaijan,Azerbaijan,,Europe,22.606412,14,13,10266627,5719422,0.557465,86600,93,Baku,Baku,Baku
 66,congo-dr,Congo DR,,Africa,21.640705,25,26,116452162,35222114,0.312164,2344858,12,Kinshasa,Kinshasa,Kinshasa
 67,panama,Panama,,North America,20.211748,5,4,4064780,2693801,0.662718,75417,131,Panama City,Panama City,Panama City
 68,cambodia,Cambodia,,Asia,19.612307,5,0,17577760,3373592,0.191924,181035,74,Phnom Penh,Phnom Penh,Phnom Penh
 69,kuwait,Kuwait,,Asia,19.505301,1,0,4881254,4616262,0.945712,17818,130,Kuwait City,Kuwait City,Kuwait City
 70,serbia,Serbia,,Europe,18.541823,26,22,6532019,4351669,0.662578,88361,110,Belgrade,Belgrade,Belgrade
-71,iraq,Iraq,,Asia,18.11856,10,0,46118793,23755681,0.515098,438317,35,Baghdad,Baghdad,Baghdad
-72,bahrain,Bahrain,,Asia,17.977829,1,0,1603260,1501635,0.941668,765,157,Manama,Manama,Manama
-73,uzbekistan,Uzbekistan,,Asia,17.880082,16,16,39047321,10224147,0.267391,447400,39,Tashkent,Tashkent,Tashkent
-74,tanzania,Tanzania,,Africa,17.741135,16,16,70038850,14785588,0.216947,945087,20,Dodoma City,Dar es Salaam,Dar es Salaam
+71,tanzania,Tanzania,,Africa,18.491135,16,16,70038850,14785588,0.216947,945087,20,Dodoma City,Dar es Salaam,Dar es Salaam
+72,iraq,Iraq,,Asia,18.11856,10,0,46118793,23755681,0.515098,438317,35,Baghdad,Baghdad,Baghdad
+73,bahrain,Bahrain,,Asia,17.977829,1,0,1603260,1501635,0.941668,765,157,Manama,Manama,Manama
+74,uzbekistan,Uzbekistan,,Asia,17.880082,16,16,39047321,10224147,0.267391,447400,39,Tashkent,Tashkent,Tashkent
 75,ecuador,Ecuador,,South America,16.848263,15,16,18103660,10117230,0.55885,276841,73,Quito,Guayaquil,Quito
 76,bolivia,Bolivia,,South America,16.458341,9,17,11365333,8438983,0.74252,1098581,86,Sucre,La Paz,La Paz
 77,dominican-republic,Dominican Republic,,North America,16.071919,8,7,10771504,6828331,0.633925,48671,89,Santo Domingo,Santo Domingo,Santo Domingo
