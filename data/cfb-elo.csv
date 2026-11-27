@@ -1,5 +1,5 @@
 rank,program,slug,elo,z,adj_z,season
-1,Georgia,georgia-cfb,2027.8,2.46,2.48,2026
+1,Georgia,georgia-cfb,2027.8,2.46,2.47,2026
 2,Indiana,indiana-cfb,1979.7,2.24,2.25,2026
 3,Notre Dame,notre-dame-cfb,1954.2,2.12,2.13,2026
 4,Utah,utah-cfb,1937,2.04,2.05,2026
@@ -7,9 +7,9 @@ rank,program,slug,elo,z,adj_z,season
 6,Texas,texas-cfb,1920.6,1.96,1.97,2026
 7,Alabama,alabama-cfb,1890.3,1.82,1.83,2026
 8,Oregon,oregon-cfb,1876.7,1.76,1.77,2026
-9,Iowa,iowa-cfb,1861,1.68,1.69,2026
-10,Tennessee,tennessee-cfb,1852,1.64,1.65,2026
-11,Texas Tech,texas-tech-cfb,1849.3,1.63,1.64,2026
+9,Texas Tech,texas-tech-cfb,1862.1,1.69,1.7,2026
+10,Iowa,iowa-cfb,1861,1.68,1.69,2026
+11,Tennessee,tennessee-cfb,1852,1.64,1.65,2026
 12,Wake Forest,wake-forest-cfb,1829.2,1.53,1.54,2026
 13,Ohio State,ohio-state-cfb,1810.9,1.45,1.46,2026
 14,BYU,byu-cfb,1794.5,1.37,1.38,2026
@@ -20,11 +20,11 @@ rank,program,slug,elo,z,adj_z,season
 19,Arizona,arizona-cfb,1739.8,1.12,1.12,2026
 20,UCLA,ucla-cfb,1734.8,1.09,1.1,2026
 21,Washington,washington-cfb,1729.8,1.07,1.08,2026
-22,Missouri,missouri-cfb,1724.2,1.05,1.05,2026
+22,Missouri,missouri-cfb,1724.2,1.04,1.05,2026
 23,Boise State,boise-state-cfb,1710.5,0.98,0.99,2026
 24,LSU,lsu-cfb,1697.4,0.92,0.93,2026
 25,TX-San Antonio,tx-san-antonio-cfb,1662.2,0.76,0.76,2026
-26,Penn State,penn-state-cfb,1655.6,0.73,0.73,2026
+26,Penn State,penn-state-cfb,1655.6,0.72,0.73,2026
 27,Duke,duke-cfb,1645.5,0.68,0.68,2026
 28,Houston,houston-cfb,1643.5,0.67,0.67,2026
 29,Nebraska,nebraska-cfb,1639.1,0.65,0.65,2026
@@ -44,10 +44,10 @@ rank,program,slug,elo,z,adj_z,season
 43,Baylor,baylor-cfb,1595,0.44,0.45,2026
 44,James Madison,james-madison-cfb,1593.6,0.44,0.44,2026
 45,Kentucky,kentucky-cfb,1584.1,0.39,0.39,2026
-46,TCU,tcu-cfb,1582.2,0.38,0.39,2026
-47,Oklahoma State,oklahoma-state-cfb,1580,0.37,0.38,2026
-48,Arizona State,arizona-state-cfb,1571.3,0.33,0.33,2026
-49,Northwestern,northwestern-cfb,1570.7,0.33,0.33,2026
+46,Oklahoma State,oklahoma-state-cfb,1580,0.37,0.37,2026
+47,Arizona State,arizona-state-cfb,1571.3,0.33,0.33,2026
+48,Northwestern,northwestern-cfb,1570.7,0.33,0.33,2026
+49,TCU,tcu-cfb,1569.4,0.32,0.33,2026
 50,Liberty,liberty-cfb,1568.3,0.32,0.32,2026
 51,Stanford,stanford-cfb,1564.1,0.3,0.3,2026
 52,North Texas,north-texas-cfb,1562.8,0.29,0.29,2026
@@ -83,7 +83,7 @@ rank,program,slug,elo,z,adj_z,season
 82,Florida State,florida-state-cfb,1468.7,-0.15,-0.15,2026
 83,Virginia Tech,virginia-tech-cfb,1465.3,-0.16,-0.16,2026
 84,South Florida,south-florida-cfb,1457.2,-0.2,-0.2,2026
-85,Boston College,boston-college-cfb,1456.3,-0.2,-0.21,2026
+85,Boston College,boston-college-cfb,1456.3,-0.2,-0.2,2026
 86,Mississippi State,mississippi-state-cfb,1449.2,-0.24,-0.24,2026
 87,Georgia Tech,georgia-tech-cfb,1438.7,-0.29,-0.29,2026
 88,Michigan State,michigan-state-cfb,1432.5,-0.31,-0.32,2026
@@ -114,15 +114,15 @@ rank,program,slug,elo,z,adj_z,season
 113,Coastal Carolina,coastal-carolina-cfb,1307.6,-0.9,-0.9,2026
 114,Western Kentucky,western-kentucky-cfb,1295.7,-0.95,-0.96,2026
 115,California,california-cfb,1295.3,-0.95,-0.96,2026
-116,Florida International,florida-international-cfb,1266.5,-1.09,-1.1,2026
-117,Hawaii,hawaii-cfb,1260.8,-1.12,-1.12,2026
+116,Florida International,florida-international-cfb,1266.5,-1.09,-1.09,2026
+117,Hawaii,hawaii-cfb,1260.8,-1.11,-1.12,2026
 118,Troy,troy-cfb,1259.5,-1.12,-1.13,2026
 119,Middle Tennessee State,middle-tennessee-state-cfb,1257.7,-1.13,-1.14,2026
 120,Eastern Michigan,eastern-michigan-cfb,1249.7,-1.17,-1.17,2026
 121,Southern Mississippi,southern-mississippi-cfb,1242,-1.2,-1.21,2026
 122,San Jose State,san-jose-state-cfb,1240.1,-1.21,-1.22,2026
 123,Missouri State,missouri-state-cfb,1231.3,-1.25,-1.26,2026
-124,Bowling Green,bowling-green-cfb,1222.2,-1.3,-1.3,2026
+124,Bowling Green,bowling-green-cfb,1222.2,-1.29,-1.3,2026
 125,Rice,rice-cfb,1219.7,-1.31,-1.31,2026
 126,Colorado State,colorado-state-cfb,1184.3,-1.47,-1.48,2026
 127,Temple,temple-cfb,1158.7,-1.59,-1.6,2026
@@ -130,10 +130,10 @@ rank,program,slug,elo,z,adj_z,season
 129,Ball State,ball-state-cfb,1150.3,-1.63,-1.64,2026
 130,Akron,akron-cfb,1146.2,-1.65,-1.66,2026
 131,Massachusetts,massachusetts-cfb,1143.6,-1.66,-1.67,2026
-132,Charlotte,charlotte-cfb,1140.7,-1.68,-1.69,2026
+132,Charlotte,charlotte-cfb,1140.7,-1.67,-1.68,2026
 133,LA-Monroe,la-monroe-cfb,1131,-1.72,-1.73,2026
-134,Kent State,kent-state-cfb,1119.5,-1.77,-1.79,2026
+134,Kent State,kent-state-cfb,1119.5,-1.77,-1.78,2026
 135,Sacramento State,sacramento-state-cfb,1065.7,-2.02,-2.04,2026
 136,Northern Illinois,northern-illinois-cfb,1020.8,-2.23,-2.25,2026
 137,Sam Houston State,sam-houston-state-cfb,1020.8,-2.23,-2.25,2026
-138,UTEP,utep-cfb,1008.5,-2.29,-2.31,2026
+138,UTEP,utep-cfb,1008.5,-2.29,-2.3,2026

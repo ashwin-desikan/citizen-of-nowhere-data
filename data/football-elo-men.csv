@@ -1,257 +1,257 @@
 rank,nation,elo,last_game,days_idle,suspended
-1,Spain,2314.9,2026-11-15,10,false
-2,England,2246.82,2026-11-15,10,false
-3,Argentina,2220.53,2026-11-17,8,false
-4,France,2124.97,2026-11-15,10,false
-5,Brazil,2056.88,2026-11-17,8,false
-6,Colombia,2055.59,2026-11-17,8,false
-7,Portugal,2054.2,2026-11-17,8,false
-8,Belgium,2046.96,2026-11-15,10,false
-9,Switzerland,2026.4,2026-11-16,9,false
-10,Germany,2012.15,2026-11-16,9,false
-11,Morocco,2011.17,2026-11-17,8,false
-12,Netherlands,2010.04,2026-11-16,9,false
-13,Norway,1987.26,2026-11-17,8,false
-14,Italy,1968.38,2026-11-15,10,false
-15,Mexico,1953.79,2026-11-18,7,false
-16,Japan,1945.14,2026-11-17,8,false
-17,Denmark,1939.22,2026-11-17,8,false
-18,Ecuador,1939.14,2026-11-17,8,false
-19,Uruguay,1932.47,2026-11-17,8,false
-20,Croatia,1916.16,2026-11-15,10,false
-21,Paraguay,1907.14,2026-11-17,8,false
-22,United States,1897.9,2026-11-18,7,false
-23,Australia,1884.7,2026-11-17,8,false
-24,Austria,1879.63,2026-11-17,8,false
-25,Iran,1863.85,2026-11-17,8,false
-26,Senegal,1860.92,2026-11-16,9,false
-27,Canada,1854.52,2026-11-17,8,false
-28,Greece,1849.76,2026-11-16,9,false
-29,Russia,1837.71,2026-11-17,8,true
-30,South Korea,1829.29,2026-11-17,8,false
-31,Sweden,1825.98,2026-11-17,8,false
-32,Ivory Coast,1805.36,2026-11-17,8,false
-33,Egypt,1801.26,2026-11-17,8,false
-34,Turkey,1799.69,2026-11-15,10,false
-35,Nigeria,1797.41,2026-11-17,8,false
-36,Slovenia,1791.37,2026-11-16,9,false
-37,Panama,1789.74,2026-11-15,10,false
-38,Venezuela,1787.51,2026-11-17,8,false
-39,Hungary,1786.23,2026-11-17,8,false
-40,Scotland,1778.48,2026-11-16,9,false
-41,Chile,1778.39,2026-11-17,8,false
-42,DR Congo,1777.71,2026-11-17,8,false
-43,Republic of Ireland,1764.34,2026-11-17,8,false
-44,Peru,1762.94,2026-11-14,11,false
-45,Algeria,1754.31,2026-11-17,8,false
-46,Ukraine,1750.14,2026-11-17,8,false
-47,Mali,1736.47,2026-11-17,8,false
-48,Uzbekistan,1733.93,2026-11-17,8,false
-49,Saudi Arabia,1729.69,2026-11-17,8,false
-50,Bosnia and Herzegovina,1727.1,2026-11-17,8,false
-51,Northern Ireland,1726.8,2026-11-17,8,false
-52,Wales,1726.55,2026-11-17,8,false
-53,Cameroon,1722.39,2026-11-16,9,false
-54,Jordan,1722.22,2026-11-17,8,false
-55,Costa Rica,1720.98,2026-11-17,8,false
-56,Bolivia,1716.55,2026-11-17,8,false
-57,Serbia,1714.53,2026-11-16,9,false
-58,Poland,1709.56,2026-11-17,8,false
-59,Kosovo,1708.46,2026-11-17,8,false
-60,Albania,1705.32,2026-11-15,10,false
-61,Jamaica,1700.25,2026-11-18,7,false
-62,Czech Republic,1697.43,2026-11-15,10,false
-63,South Africa,1695.45,2026-11-17,8,false
-64,Slovakia,1692.82,2026-11-16,9,false
-65,New Zealand,1689.22,2026-11-15,10,false
-66,Basque Country,1683.34,2026-11-14,11,false
-67,United Arab Emirates,1674.7,2026-11-17,8,false
-68,Honduras,1669.51,2026-11-17,8,false
-69,Israel,1664.94,2026-11-17,8,false
-70,Iceland,1664.82,2026-11-16,9,false
-71,Haiti,1660.82,2026-11-18,7,false
-72,Iraq,1649.69,2026-11-17,8,false
-73,Curaçao,1648.26,2026-11-15,10,false
-74,Burkina Faso,1647.82,2026-11-17,8,false
-75,Guatemala,1644.36,2026-11-17,8,false
-76,Georgia,1621.56,2026-11-17,8,false
-77,Romania,1617.37,2026-11-17,8,false
-78,Ghana,1610.31,2026-11-16,9,false
-79,Suriname,1603.4,2026-11-12,13,false
-80,Palestine,1597.39,2026-11-14,11,false
-81,Angola,1594.55,2026-11-17,8,false
-82,Syria,1590.36,2026-11-17,8,false
-83,Cape Verde,1588.23,2026-11-17,8,false
-84,Qatar,1577.92,2026-11-17,8,false
-85,Benin,1575.08,2026-11-16,9,false
-86,Guinea,1567.56,2026-11-16,9,false
-87,Gambia,1567.06,2026-11-17,8,false
-88,Oman,1560.78,2026-11-17,8,false
-89,Tunisia,1557.99,2026-11-17,8,false
-90,Montenegro,1557.93,2026-11-15,10,false
-91,North Macedonia,1555.07,2026-11-16,9,false
-92,Finland,1542.98,2026-11-15,10,false
-93,Belarus,1535.15,2026-11-15,10,false
-94,Zambia,1534.74,2026-11-17,8,false
-95,Uganda,1527.98,2026-11-17,8,false
-96,Guyana,1520.4,2026-11-16,9,false
-97,Thailand,1515.16,2026-11-17,8,false
-98,Libya,1511.45,2026-11-17,8,false
-99,Gabon,1510.81,2026-11-17,8,false
-100,Dominican Republic,1510.57,2026-11-17,8,false
-101,Togo,1510.06,2026-11-17,8,false
-102,Mozambique,1507.92,2026-11-17,8,false
-103,China,1507.76,2026-11-17,8,false
-104,Vietnam,1505.26,2026-11-17,8,false
-105,El Salvador,1496.53,2026-11-18,7,false
-106,Zimbabwe,1494.33,2026-11-16,9,false
-107,Réunion,1492.55,2023-09-02,1180,false
-108,Trinidad and Tobago,1487.16,2026-11-17,8,false
-109,Guinea-Bissau,1486.69,2026-11-17,8,false
-110,North Korea,1479.84,2025-06-10,533,false
-111,Estonia,1478.77,2026-11-16,9,false
-112,Zanzibar,1475.2,2025-01-13,681,false
-113,French Guiana,1472.92,2026-11-18,7,false
-114,New Caledonia,1472.83,2026-09-30,56,false
-115,Niger,1471.54,2026-11-17,8,false
-116,Bahrain,1469.09,2026-11-17,8,false
-117,Comoros,1464.16,2026-11-17,8,false
-118,Malaysia,1462.04,2026-11-17,8,false
-119,Martinique,1460.77,2026-11-17,8,false
-120,Indonesia,1457.05,2026-10-05,51,false
-121,Kyrgyzstan,1456.69,2026-11-17,8,false
-122,Faroe Islands,1455.07,2026-11-16,9,false
-123,Tahiti,1453,2026-10-01,55,false
-124,Tajikistan,1452.2,2026-11-17,8,false
-125,Guadeloupe,1451.65,2026-11-16,9,false
-126,Nicaragua,1447.35,2026-11-18,7,false
-127,Rwanda,1440.87,2026-11-17,8,false
-128,Jersey,1438.52,2025-07-18,495,false
-129,Cuba,1437.57,2026-11-16,9,false
-130,Kuwait,1437.13,2026-11-17,8,false
-131,Sudan,1433.99,2026-11-16,9,false
-132,Fiji,1433.77,2026-10-03,53,false
-133,Sierra Leone,1431.4,2026-11-17,8,false
-134,Madagascar,1429.64,2026-11-17,8,false
-135,Bulgaria,1429.18,2026-11-16,9,false
-136,Kenya,1427.86,2026-11-17,8,false
-137,Kazakhstan,1426.96,2026-11-16,9,false
-138,Vanuatu,1426.09,2026-10-03,53,false
-139,Liberia,1425.55,2026-11-17,8,false
-140,Burundi,1424.7,2026-11-17,8,false
-141,Equatorial Guinea,1423.99,2026-11-16,9,false
-142,Malawi,1423.42,2026-11-17,8,false
-143,Lebanon,1421.03,2026-10-04,52,false
-144,Saint Vincent and the Grenadines,1411.73,2026-11-18,7,false
-145,Solomon Islands,1406.42,2026-09-30,56,false
-146,Botswana,1404.97,2026-11-17,8,false
-147,Northern Cyprus,1403.76,2026-06-06,172,false
-148,Papua New Guinea,1400.92,2026-09-30,56,false
-149,Tanzania,1397.84,2026-11-17,8,false
-150,Namibia,1393.52,2026-11-16,9,false
-151,Mauritania,1391.36,2026-11-17,8,false
-152,Armenia,1391.34,2026-11-15,10,false
-153,Azerbaijan,1385.09,2026-11-16,9,false
-154,Lesotho,1383.65,2026-11-17,8,false
-155,Guernsey,1383.56,2023-07-13,1231,false
-156,Ethiopia,1380.3,2026-11-17,8,false
-157,Puerto Rico,1357.76,2026-11-16,9,false
-158,Cyprus,1357.43,2026-11-15,10,false
-159,Turkmenistan,1355.96,2025-11-18,372,false
-160,Luxembourg,1348.95,2026-11-16,9,false
-161,Saint Lucia,1346.73,2026-11-17,8,false
-162,Isle of Man,1341.3,2025-07-18,495,false
-163,Moldova,1337.84,2026-11-16,9,false
-164,Mayotte,1321.18,2023-08-26,1187,false
-165,Yemen,1316.13,2026-11-17,8,false
-166,Congo,1310.06,2026-11-17,8,false
-167,Lithuania,1306.9,2026-11-16,9,false
-168,Malta,1302.7,2026-11-16,9,false
-169,Isle of Wight,1300.97,2023-07-13,1231,false
-170,Singapore,1295.71,2026-11-17,8,false
-171,Saint Kitts and Nevis,1292.33,2026-11-17,8,false
-172,Padania,1284.33,2026-06-06,172,false
-173,Central African Republic,1278.79,2026-11-16,9,false
-174,Hong Kong,1278.06,2026-10-03,53,false
-175,Ynys Môn,1277.94,2025-07-17,496,false
-176,Philippines,1271.26,2026-10-02,54,false
-177,Latvia,1266.34,2026-11-15,10,false
-178,India,1260.89,2026-11-17,8,false
-179,Saint Martin,1251.2,2026-11-18,7,false
-180,Montserrat,1245.52,2026-11-18,7,false
-181,Eritrea,1234.66,2026-11-16,9,false
-182,Eswatini,1224.9,2026-11-12,13,false
-183,Kernow,1221.31,2023-07-16,1228,false
-184,Grenada,1211.03,2026-11-16,9,false
-185,Sint Maarten,1206.14,2026-11-17,8,false
-186,Aruba,1203.17,2026-11-17,8,false
-187,South Sudan,1201.82,2026-11-17,8,false
-188,Barbados,1198.78,2026-11-17,8,false
-189,Tamil Eelam,1197.61,2025-07-04,509,false
-190,Menorca,1192.88,2023-07-13,1231,false
-191,Bermuda,1190.63,2026-11-16,9,false
-192,Chad,1179.82,2026-03-31,239,false
-193,Belize,1178.93,2026-11-17,8,false
-194,Afghanistan,1177.47,2026-06-10,168,false
-195,Greenland,1164.31,2026-06-06,172,false
-196,Samoa,1162.41,2024-11-18,737,false
-197,Galicia,1156.87,2024-05-21,918,false
-198,Chameria,1155.62,2023-07-01,1243,false
-199,Mauritius,1153.41,2026-10-05,51,false
-200,Myanmar,1149.35,2026-09-27,59,false
-201,São Tomé and Príncipe,1141.43,2026-09-23,63,false
-202,Shetland,1138.75,2025-07-17,496,false
-203,Pakistan,1131.37,2026-11-17,8,false
-204,Antigua and Barbuda,1127.64,2026-11-17,8,false
-205,Dominica,1125.66,2026-11-17,8,false
-206,Åland Islands,1119.9,2023-07-13,1231,false
-207,Andorra,1111.81,2026-11-16,9,false
-208,Bonaire,1109.05,2026-11-17,8,false
-209,Székely Land,1107.4,2023-07-02,1242,false
-210,Bangladesh,1098.78,2026-11-14,11,false
-211,Saint Barthélemy,1098.37,2023-03-10,1356,false
-212,Sápmi,1088.95,2023-07-16,1228,false
-213,Cook Islands,1077.32,2026-10-01,55,false
-214,Gibraltar,1077.05,2026-11-16,9,false
-215,Gozo,1075.43,2025-07-17,496,false
-216,Rouet-Provence,1069.01,2026-06-06,172,false
-217,Nepal,1066.51,2025-11-18,372,false
-218,Western Isles,1065.66,2025-07-17,496,false
-219,Hmong,1063.71,2023-08-08,1205,false
-220,Cambodia,1058.13,2026-10-03,53,false
-221,East Turkestan,1051.03,2025-07-04,509,false
-222,Djibouti,1050.96,2026-03-29,241,false
-223,Somalia,1049.37,2026-11-16,9,false
-224,Tuvalu,1041.76,2023-11-30,1091,false
-225,Marshall Islands,1035.51,2025-08-16,466,false
-226,Orkney,1026.41,2025-07-17,496,false
-227,Canton Ticino,1020.06,2026-06-06,172,false
-228,Taiwan,1018.7,2026-11-14,11,false
-229,Two Sicilies,1006.65,2023-07-02,1242,false
-230,Cayman Islands,1003.42,2026-11-17,8,false
-231,Raetia,1001.19,2026-06-06,172,false
-232,United States Virgin Islands,996.248,2026-10-04,52,false
-233,Tonga,989.554,2024-09-09,807,false
-234,Seychelles,973.061,2026-09-30,56,false
-235,Mongolia,971.974,2026-06-05,173,false
-236,Hitra,968.21,2025-07-17,496,false
-237,Sri Lanka,967.895,2026-11-11,14,false
-238,Saint Helena,963.901,2023-07-13,1231,false
-239,Turks and Caicos Islands,961.883,2026-10-06,50,false
-240,Maldives,950.347,2026-11-11,14,false
-241,Guam,940.907,2026-06-06,172,false
-242,Liechtenstein,935.822,2026-11-16,9,false
-243,Northern Mariana Islands,935.493,2024-04-07,962,false
-244,Bahamas,921.192,2026-10-06,50,false
-245,Laos,915.677,2026-09-27,59,false
-246,American Samoa,905.871,2026-03-28,242,false
-247,Tibet,890.124,2025-07-03,510,false
-248,San Marino,882.91,2026-11-15,10,false
-249,British Virgin Islands,878.121,2026-10-04,52,false
-250,Timor-Leste,874.306,2026-09-30,56,false
-251,Falkland Islands,849.828,2023-07-13,1231,false
-252,Bhutan,846.945,2026-11-14,11,false
-253,Brunei,843.553,2026-11-17,8,false
-254,Macau,838.969,2026-03-29,241,false
-255,Frøya,836.066,2025-07-17,496,false
-256,Anguilla,831.317,2026-11-11,14,false
+1,Spain,2314.9,2026-11-15,11,false
+2,England,2246.82,2026-11-15,11,false
+3,Argentina,2220.53,2026-11-17,9,false
+4,France,2124.97,2026-11-15,11,false
+5,Brazil,2056.88,2026-11-17,9,false
+6,Colombia,2055.59,2026-11-17,9,false
+7,Portugal,2054.2,2026-11-17,9,false
+8,Belgium,2046.96,2026-11-15,11,false
+9,Switzerland,2026.4,2026-11-16,10,false
+10,Germany,2012.15,2026-11-16,10,false
+11,Morocco,2011.17,2026-11-17,9,false
+12,Netherlands,2010.04,2026-11-16,10,false
+13,Norway,1987.26,2026-11-17,9,false
+14,Italy,1968.38,2026-11-15,11,false
+15,Mexico,1953.79,2026-11-18,8,false
+16,Japan,1945.14,2026-11-17,9,false
+17,Denmark,1939.22,2026-11-17,9,false
+18,Ecuador,1939.14,2026-11-17,9,false
+19,Uruguay,1932.47,2026-11-17,9,false
+20,Croatia,1916.16,2026-11-15,11,false
+21,Paraguay,1907.14,2026-11-17,9,false
+22,United States,1897.9,2026-11-18,8,false
+23,Australia,1884.7,2026-11-17,9,false
+24,Austria,1879.63,2026-11-17,9,false
+25,Iran,1863.85,2026-11-17,9,false
+26,Senegal,1860.92,2026-11-16,10,false
+27,Canada,1854.52,2026-11-17,9,false
+28,Greece,1849.76,2026-11-16,10,false
+29,Russia,1837.71,2026-11-17,9,true
+30,South Korea,1829.29,2026-11-17,9,false
+31,Sweden,1825.98,2026-11-17,9,false
+32,Ivory Coast,1805.36,2026-11-17,9,false
+33,Egypt,1801.26,2026-11-17,9,false
+34,Turkey,1799.69,2026-11-15,11,false
+35,Nigeria,1797.41,2026-11-17,9,false
+36,Slovenia,1791.37,2026-11-16,10,false
+37,Panama,1789.74,2026-11-15,11,false
+38,Venezuela,1787.51,2026-11-17,9,false
+39,Hungary,1786.23,2026-11-17,9,false
+40,Scotland,1778.48,2026-11-16,10,false
+41,Chile,1778.39,2026-11-17,9,false
+42,DR Congo,1777.71,2026-11-17,9,false
+43,Republic of Ireland,1764.34,2026-11-17,9,false
+44,Peru,1762.94,2026-11-14,12,false
+45,Algeria,1754.31,2026-11-17,9,false
+46,Ukraine,1750.14,2026-11-17,9,false
+47,Mali,1736.47,2026-11-17,9,false
+48,Uzbekistan,1733.93,2026-11-17,9,false
+49,Saudi Arabia,1729.69,2026-11-17,9,false
+50,Bosnia and Herzegovina,1727.1,2026-11-17,9,false
+51,Northern Ireland,1726.8,2026-11-17,9,false
+52,Wales,1726.55,2026-11-17,9,false
+53,Cameroon,1722.39,2026-11-16,10,false
+54,Jordan,1722.22,2026-11-17,9,false
+55,Costa Rica,1720.98,2026-11-17,9,false
+56,Bolivia,1716.55,2026-11-17,9,false
+57,Serbia,1714.53,2026-11-16,10,false
+58,Poland,1709.56,2026-11-17,9,false
+59,Kosovo,1708.46,2026-11-17,9,false
+60,Albania,1705.32,2026-11-15,11,false
+61,Jamaica,1700.25,2026-11-18,8,false
+62,Czech Republic,1697.43,2026-11-15,11,false
+63,South Africa,1695.45,2026-11-17,9,false
+64,Slovakia,1692.82,2026-11-16,10,false
+65,New Zealand,1689.22,2026-11-15,11,false
+66,Basque Country,1683.34,2026-11-14,12,false
+67,United Arab Emirates,1674.7,2026-11-17,9,false
+68,Honduras,1669.51,2026-11-17,9,false
+69,Israel,1664.94,2026-11-17,9,false
+70,Iceland,1664.82,2026-11-16,10,false
+71,Haiti,1660.82,2026-11-18,8,false
+72,Iraq,1649.69,2026-11-17,9,false
+73,Curaçao,1648.26,2026-11-15,11,false
+74,Burkina Faso,1647.82,2026-11-17,9,false
+75,Guatemala,1644.36,2026-11-17,9,false
+76,Georgia,1621.56,2026-11-17,9,false
+77,Romania,1617.37,2026-11-17,9,false
+78,Ghana,1610.31,2026-11-16,10,false
+79,Suriname,1603.4,2026-11-12,14,false
+80,Palestine,1597.39,2026-11-14,12,false
+81,Angola,1594.55,2026-11-17,9,false
+82,Syria,1590.36,2026-11-17,9,false
+83,Cape Verde,1588.23,2026-11-17,9,false
+84,Qatar,1577.92,2026-11-17,9,false
+85,Benin,1575.08,2026-11-16,10,false
+86,Guinea,1567.56,2026-11-16,10,false
+87,Gambia,1567.06,2026-11-17,9,false
+88,Oman,1560.78,2026-11-17,9,false
+89,Tunisia,1557.99,2026-11-17,9,false
+90,Montenegro,1557.93,2026-11-15,11,false
+91,North Macedonia,1555.07,2026-11-16,10,false
+92,Finland,1542.98,2026-11-15,11,false
+93,Belarus,1535.15,2026-11-15,11,false
+94,Zambia,1534.74,2026-11-17,9,false
+95,Uganda,1527.98,2026-11-17,9,false
+96,Guyana,1520.4,2026-11-16,10,false
+97,Thailand,1515.16,2026-11-17,9,false
+98,Libya,1511.45,2026-11-17,9,false
+99,Gabon,1510.81,2026-11-17,9,false
+100,Dominican Republic,1510.57,2026-11-17,9,false
+101,Togo,1510.06,2026-11-17,9,false
+102,Mozambique,1507.92,2026-11-17,9,false
+103,China,1507.76,2026-11-17,9,false
+104,Vietnam,1505.26,2026-11-17,9,false
+105,El Salvador,1496.53,2026-11-18,8,false
+106,Zimbabwe,1494.33,2026-11-16,10,false
+107,Réunion,1492.55,2023-09-02,1181,false
+108,Trinidad and Tobago,1487.16,2026-11-17,9,false
+109,Guinea-Bissau,1486.69,2026-11-17,9,false
+110,North Korea,1479.84,2025-06-10,534,false
+111,Estonia,1478.77,2026-11-16,10,false
+112,Zanzibar,1475.2,2025-01-13,682,false
+113,French Guiana,1472.92,2026-11-18,8,false
+114,New Caledonia,1472.83,2026-09-30,57,false
+115,Niger,1471.54,2026-11-17,9,false
+116,Bahrain,1469.09,2026-11-17,9,false
+117,Comoros,1464.16,2026-11-17,9,false
+118,Malaysia,1462.04,2026-11-17,9,false
+119,Martinique,1460.77,2026-11-17,9,false
+120,Indonesia,1457.05,2026-10-05,52,false
+121,Kyrgyzstan,1456.69,2026-11-17,9,false
+122,Faroe Islands,1455.07,2026-11-16,10,false
+123,Tahiti,1453,2026-10-01,56,false
+124,Tajikistan,1452.2,2026-11-17,9,false
+125,Guadeloupe,1451.65,2026-11-16,10,false
+126,Nicaragua,1447.35,2026-11-18,8,false
+127,Rwanda,1440.87,2026-11-17,9,false
+128,Jersey,1438.52,2025-07-18,496,false
+129,Cuba,1437.57,2026-11-16,10,false
+130,Kuwait,1437.13,2026-11-17,9,false
+131,Sudan,1433.99,2026-11-16,10,false
+132,Fiji,1433.77,2026-10-03,54,false
+133,Sierra Leone,1431.4,2026-11-17,9,false
+134,Madagascar,1429.64,2026-11-17,9,false
+135,Bulgaria,1429.18,2026-11-16,10,false
+136,Kenya,1427.86,2026-11-17,9,false
+137,Kazakhstan,1426.96,2026-11-16,10,false
+138,Vanuatu,1426.09,2026-10-03,54,false
+139,Liberia,1425.55,2026-11-17,9,false
+140,Burundi,1424.7,2026-11-17,9,false
+141,Equatorial Guinea,1423.99,2026-11-16,10,false
+142,Malawi,1423.42,2026-11-17,9,false
+143,Lebanon,1421.03,2026-10-04,53,false
+144,Saint Vincent and the Grenadines,1411.73,2026-11-18,8,false
+145,Solomon Islands,1406.42,2026-09-30,57,false
+146,Botswana,1404.97,2026-11-17,9,false
+147,Northern Cyprus,1403.76,2026-06-06,173,false
+148,Papua New Guinea,1400.92,2026-09-30,57,false
+149,Tanzania,1397.84,2026-11-17,9,false
+150,Namibia,1393.52,2026-11-16,10,false
+151,Mauritania,1391.36,2026-11-17,9,false
+152,Armenia,1391.34,2026-11-15,11,false
+153,Azerbaijan,1385.09,2026-11-16,10,false
+154,Lesotho,1383.65,2026-11-17,9,false
+155,Guernsey,1383.56,2023-07-13,1232,false
+156,Ethiopia,1380.3,2026-11-17,9,false
+157,Puerto Rico,1357.76,2026-11-16,10,false
+158,Cyprus,1357.43,2026-11-15,11,false
+159,Turkmenistan,1355.96,2025-11-18,373,false
+160,Luxembourg,1348.95,2026-11-16,10,false
+161,Saint Lucia,1346.73,2026-11-17,9,false
+162,Isle of Man,1341.3,2025-07-18,496,false
+163,Moldova,1337.84,2026-11-16,10,false
+164,Mayotte,1321.18,2023-08-26,1188,false
+165,Yemen,1316.13,2026-11-17,9,false
+166,Congo,1310.06,2026-11-17,9,false
+167,Lithuania,1306.9,2026-11-16,10,false
+168,Malta,1302.7,2026-11-16,10,false
+169,Isle of Wight,1300.97,2023-07-13,1232,false
+170,Singapore,1295.71,2026-11-17,9,false
+171,Saint Kitts and Nevis,1292.33,2026-11-17,9,false
+172,Padania,1284.33,2026-06-06,173,false
+173,Central African Republic,1278.79,2026-11-16,10,false
+174,Hong Kong,1278.06,2026-10-03,54,false
+175,Ynys Môn,1277.94,2025-07-17,497,false
+176,Philippines,1271.26,2026-10-02,55,false
+177,Latvia,1266.34,2026-11-15,11,false
+178,India,1260.89,2026-11-17,9,false
+179,Saint Martin,1251.2,2026-11-18,8,false
+180,Montserrat,1245.52,2026-11-18,8,false
+181,Eritrea,1234.66,2026-11-16,10,false
+182,Eswatini,1224.9,2026-11-12,14,false
+183,Kernow,1221.31,2023-07-16,1229,false
+184,Grenada,1211.03,2026-11-16,10,false
+185,Sint Maarten,1206.14,2026-11-17,9,false
+186,Aruba,1203.17,2026-11-17,9,false
+187,South Sudan,1201.82,2026-11-17,9,false
+188,Barbados,1198.78,2026-11-17,9,false
+189,Tamil Eelam,1197.61,2025-07-04,510,false
+190,Menorca,1192.88,2023-07-13,1232,false
+191,Bermuda,1190.63,2026-11-16,10,false
+192,Chad,1179.82,2026-03-31,240,false
+193,Belize,1178.93,2026-11-17,9,false
+194,Afghanistan,1177.47,2026-06-10,169,false
+195,Greenland,1164.31,2026-06-06,173,false
+196,Samoa,1162.41,2024-11-18,738,false
+197,Galicia,1156.87,2024-05-21,919,false
+198,Chameria,1155.62,2023-07-01,1244,false
+199,Mauritius,1153.41,2026-10-05,52,false
+200,Myanmar,1149.35,2026-09-27,60,false
+201,São Tomé and Príncipe,1141.43,2026-09-23,64,false
+202,Shetland,1138.75,2025-07-17,497,false
+203,Pakistan,1131.37,2026-11-17,9,false
+204,Antigua and Barbuda,1127.64,2026-11-17,9,false
+205,Dominica,1125.66,2026-11-17,9,false
+206,Åland Islands,1119.9,2023-07-13,1232,false
+207,Andorra,1111.81,2026-11-16,10,false
+208,Bonaire,1109.05,2026-11-17,9,false
+209,Székely Land,1107.4,2023-07-02,1243,false
+210,Bangladesh,1098.78,2026-11-14,12,false
+211,Saint Barthélemy,1098.37,2023-03-10,1357,false
+212,Sápmi,1088.95,2023-07-16,1229,false
+213,Cook Islands,1077.32,2026-10-01,56,false
+214,Gibraltar,1077.05,2026-11-16,10,false
+215,Gozo,1075.43,2025-07-17,497,false
+216,Rouet-Provence,1069.01,2026-06-06,173,false
+217,Nepal,1066.51,2025-11-18,373,false
+218,Western Isles,1065.66,2025-07-17,497,false
+219,Hmong,1063.71,2023-08-08,1206,false
+220,Cambodia,1058.13,2026-10-03,54,false
+221,East Turkestan,1051.03,2025-07-04,510,false
+222,Djibouti,1050.96,2026-03-29,242,false
+223,Somalia,1049.37,2026-11-16,10,false
+224,Tuvalu,1041.76,2023-11-30,1092,false
+225,Marshall Islands,1035.51,2025-08-16,467,false
+226,Orkney,1026.41,2025-07-17,497,false
+227,Canton Ticino,1020.06,2026-06-06,173,false
+228,Taiwan,1018.7,2026-11-14,12,false
+229,Two Sicilies,1006.65,2023-07-02,1243,false
+230,Cayman Islands,1003.42,2026-11-17,9,false
+231,Raetia,1001.19,2026-06-06,173,false
+232,United States Virgin Islands,996.248,2026-10-04,53,false
+233,Tonga,989.554,2024-09-09,808,false
+234,Seychelles,973.061,2026-09-30,57,false
+235,Mongolia,971.974,2026-06-05,174,false
+236,Hitra,968.21,2025-07-17,497,false
+237,Sri Lanka,967.895,2026-11-11,15,false
+238,Saint Helena,963.901,2023-07-13,1232,false
+239,Turks and Caicos Islands,961.883,2026-10-06,51,false
+240,Maldives,950.347,2026-11-11,15,false
+241,Guam,940.907,2026-06-06,173,false
+242,Liechtenstein,935.822,2026-11-16,10,false
+243,Northern Mariana Islands,935.493,2024-04-07,963,false
+244,Bahamas,921.192,2026-10-06,51,false
+245,Laos,915.677,2026-09-27,60,false
+246,American Samoa,905.871,2026-03-28,243,false
+247,Tibet,890.124,2025-07-03,511,false
+248,San Marino,882.91,2026-11-15,11,false
+249,British Virgin Islands,878.121,2026-10-04,53,false
+250,Timor-Leste,874.306,2026-09-30,57,false
+251,Falkland Islands,849.828,2023-07-13,1232,false
+252,Bhutan,846.945,2026-11-14,12,false
+253,Brunei,843.553,2026-11-17,9,false
+254,Macau,838.969,2026-03-29,242,false
+255,Frøya,836.066,2025-07-17,497,false
+256,Anguilla,831.317,2026-11-11,15,false
