@@ -16,7 +16,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 15,Brighton,England,UEFA,1721.8,366,0,false,2026-11-22
 16,Benfica,Portugal,UEFA,1719.9,523,1,false,2026-11-26
 17,Juventus,Italy,UEFA,1704.6,538,2,false,2026-11-26
-18,Chelsea,England,UEFA,1694.5,537,7,false,2026-11-21
+18,Chelsea,England,UEFA,1694.5,538,7,false,2026-11-27
 19,FC Porto,Portugal,UEFA,1694.2,497,3,false,2026-11-24
 20,Sporting CP,Portugal,UEFA,1689.5,490,0,false,2026-11-25
 21,Flamengo,Brazil,CONMEBOL,1688.6,589,11,false,2026-11-21
@@ -41,12 +41,12 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 40,Manchester United,England,UEFA,1624.2,548,0,false,2026-11-25
 41,Club Brugge KV,Belgium,UEFA,1622.3,551,0,false,2026-11-25
 42,Leeds,England,UEFA,1619.9,163,0,false,2026-11-21
-43,Nottingham Forest,England,UEFA,1619.6,179,0,false,2026-11-21
+43,Nottingham Forest,England,UEFA,1619.6,180,0,false,2026-11-27
 44,SC Freiburg,Germany,UEFA,1613.5,390,0,false,2026-11-21
 45,Villarreal,Spain,UEFA,1605.1,534,0,false,2026-11-25
 46,Fulham,England,UEFA,1604.4,239,0,false,2026-11-21
 47,Lyon,France,UEFA,1602.2,496,0,false,2026-11-26
-48,Bologna,Italy,UEFA,1602,452,0,false,2026-11-22
+48,Bologna,Italy,UEFA,1602,453,0,false,2026-11-27
 49,Atalanta,Italy,UEFA,1601.5,514,0,false,2026-11-22
 50,Tottenham,England,UEFA,1593.9,531,0,false,2026-11-21
 51,Ferencvarosi TC,Hungary,UEFA,1590,505,0,false,2026-11-26
@@ -62,7 +62,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 61,Panathinaikos,Greece,UEFA,1560.4,461,0,false,2026-11-08
 62,Valencia,Spain,UEFA,1557.8,465,0,false,2026-11-21
 63,Fenerbahçe,Turkey,UEFA,1556.6,524,0,false,2026-11-25
-64,Al-Hilal Saudi FC,Saudi Arabia,AFC,1554,445,13,false,2026-11-23
+64,Al-Hilal Saudi FC,Saudi Arabia,AFC,1553.9,445,13,false,2026-11-23
 65,Sevilla,Spain,UEFA,1553.2,536,0,false,2026-11-21
 66,Twente,Netherlands,UEFA,1552.7,382,0,false,2026-11-22
 67,Eintracht Frankfurt,Germany,UEFA,1549.8,466,0,false,2026-11-21
@@ -72,11 +72,11 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 71,Alaves,Spain,UEFA,1541,355,0,false,2026-11-21
 72,Spartak Moscow,Russia,UEFA,1538.7,346,0,false,2026-11-08
 73,Sunderland,England,UEFA,1538.2,130,0,false,2026-11-26
-74,Levante,Spain,UEFA,1536.2,279,0,false,2026-11-23
-75,Werder Bremen,Germany,UEFA,1535.8,352,0,false,2026-11-22
+74,Levante,Spain,UEFA,1536.2,280,0,false,2026-11-27
+75,Werder Bremen,Germany,UEFA,1535.8,353,0,false,2026-11-27
 76,Deportivo La Coruna,Spain,UEFA,1534.6,127,0,false,2026-11-21
 77,St. Truiden,Belgium,UEFA,1534.2,399,0,false,2026-11-08
-78,Paris FC,France,UEFA,1533.1,45,0,false,2026-11-22
+78,Paris FC,France,UEFA,1533.1,46,0,false,2026-11-27
 79,SC Braga,Portugal,UEFA,1531.6,512,0,false,2026-11-08
 80,Osasuna,Spain,UEFA,1531.5,319,0,false,2026-11-22
 81,FSV Mainz 05,Germany,UEFA,1530.9,402,0,false,2026-11-22
@@ -85,18 +85,18 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 84,Boca Juniors,Argentina,CONMEBOL,1525.3,473,2,false,2026-11-26
 85,Beşiktaş,Turkey,UEFA,1524.7,494,0,false,2026-11-26
 86,Rennes,France,UEFA,1524.7,460,0,false,2026-11-26
-87,Stade Brestois 29,France,UEFA,1522.6,265,0,false,2026-11-21
+87,Stade Brestois 29,France,UEFA,1522.6,266,0,false,2026-11-27
 88,Olympiakos Piraeus,Greece,UEFA,1520.4,518,0,false,2026-11-26
 89,Dynamo,Russia,UEFA,1520.1,285,0,false,2026-11-07
 90,Elche,Spain,UEFA,1519.3,165,0,false,2026-11-23
 91,CSKA Moscow,Russia,UEFA,1519.1,364,0,false,2026-11-07
 92,Lens,France,UEFA,1516.6,242,0,false,2026-11-24
-93,Al-Nassr,Saudi Arabia,AFC,1516,405,0,false,2026-11-24
+93,Al-Nassr,Saudi Arabia,AFC,1515.9,405,0,false,2026-11-24
 94,Toluca,Mexico,CONCACAF,1514,435,8,false,2026-11-21
 95,Genoa,Italy,UEFA,1513.5,392,0,false,2026-11-22
-96,FC Midtjylland,Denmark,UEFA,1509.8,504,0,false,2026-11-08
-97,Frosinone,Italy,UEFA,1506.9,126,0,false,2026-11-22
-98,Cruzeiro,Brazil,CONMEBOL,1504.1,395,0,false,2026-11-22
+96,Cruzeiro,Brazil,CONMEBOL,1512.4,396,0,false,2026-11-27
+97,FC Midtjylland,Denmark,UEFA,1509.8,504,0,false,2026-11-08
+98,Frosinone,Italy,UEFA,1506.9,126,0,false,2026-11-22
 99,Pyramids FC,Egypt,CAF,1502.1,396,2,false,2026-11-23
 100,Torino,Italy,UEFA,1498.8,436,0,false,2026-11-21
 101,Toulouse,France,UEFA,1498.5,341,0,false,2026-11-21
@@ -104,15 +104,15 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 103,Feyenoord,Netherlands,UEFA,1496.3,474,0,false,2026-11-24
 104,Fiorentina,Italy,UEFA,1495.5,506,0,false,2026-11-23
 105,Shakhtar Donetsk,Ukraine,UEFA,1494.3,459,0,false,2026-11-25
-106,Borussia Mönchengladbach,Germany,UEFA,1493.8,416,0,false,2026-11-21
+106,Borussia Mönchengladbach,Germany,UEFA,1493.8,417,0,false,2026-11-27
 107,1. FC Köln,Germany,UEFA,1493.1,332,0,false,2026-11-20
 108,SC Paderborn 07,Germany,UEFA,1493.1,46,0,false,2026-11-21
-109,Fluminense,Brazil,CONMEBOL,1489.1,557,8,false,2026-11-22
-110,Strasbourg,France,UEFA,1489.1,350,0,false,2026-11-21
-111,OFI,Greece,UEFA,1489,280,0,false,2026-11-26
-112,Hamburger SV,Germany,UEFA,1486.5,150,0,false,2026-11-22
-113,Independiente del Valle,Ecuador,CONMEBOL,1484.3,463,2,false,2026-11-26
-114,Malaga,Spain,UEFA,1482.3,127,0,false,2026-11-22
+109,Strasbourg,France,UEFA,1489.1,350,0,false,2026-11-21
+110,OFI,Greece,UEFA,1489,280,0,false,2026-11-26
+111,Hamburger SV,Germany,UEFA,1486.5,150,0,false,2026-11-22
+112,Independiente del Valle,Ecuador,CONMEBOL,1484.3,463,2,false,2026-11-26
+113,Malaga,Spain,UEFA,1482.3,127,0,false,2026-11-22
+114,Fluminense,Brazil,CONMEBOL,1480.8,558,8,false,2026-11-27
 115,FC Schalke 04,Germany,UEFA,1479.8,276,0,false,2026-11-21
 116,Rangers,Scotland,UEFA,1479.2,503,0,false,2026-11-07
 117,Udinese,Italy,UEFA,1476.9,430,0,false,2026-11-22
@@ -125,14 +125,14 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 124,Cagliari,Italy,UEFA,1463.4,354,0,false,2026-11-21
 125,River Plate,Argentina,CONMEBOL,1463.2,495,9,false,2026-11-22
 126,Celtic,Scotland,UEFA,1463,558,0,false,2026-11-26
-127,Red Bull Salzburg,Austria,UEFA,1461.9,504,2,false,2026-11-26
-128,Sassuolo,Italy,UEFA,1460.4,402,0,false,2026-11-22
-129,Al-Qadisiyah FC,Saudi Arabia,AFC,1458.7,197,0,false,2026-11-24
+127,Al-Qadisiyah FC,Saudi Arabia,AFC,1462.2,198,0,false,2026-11-27
+128,Red Bull Salzburg,Austria,UEFA,1461.9,504,2,false,2026-11-26
+129,Sassuolo,Italy,UEFA,1460.4,402,0,false,2026-11-22
 130,Dinamo Zagreb,Croatia,UEFA,1458.2,518,0,false,2026-11-26
 131,Rosario Central,Argentina,CONMEBOL,1457.5,397,0,false,2026-11-22
 132,FC Lugano,Switzerland,UEFA,1457.2,428,0,false,2026-11-08
 133,FK Jablonec,Czech Republic,UEFA,1456.2,325,0,false,2026-11-08
-134,Al-Ahli Jeddah,Saudi Arabia,AFC,1455.7,374,2,false,2026-11-23
+134,Al-Ahli Jeddah,Saudi Arabia,AFC,1455.6,374,2,false,2026-11-23
 135,AEK Athens FC,Greece,UEFA,1452.3,460,0,false,2026-11-24
 136,FC Nordsjaelland,Denmark,UEFA,1451.5,408,0,false,2026-11-08
 137,AZ Alkmaar,Netherlands,UEFA,1450.8,507,0,false,2026-11-26
@@ -156,11 +156,11 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 155,GIL Vicente,Portugal,UEFA,1433.5,253,0,false,2026-11-08
 156,Monza,Italy,UEFA,1432.9,126,0,false,2026-11-23
 157,Brann,Norway,UEFA,1431.6,336,0,false,2026-11-08
-158,Inter Miami,USA,CONCACAF,1429.7,278,4,false,2026-11-21
-159,LNZ Cherkasy,Ukraine,UEFA,1427.8,105,0,false,2026-11-08
-160,Hradec Králové,Czech Republic,UEFA,1427.3,193,0,false,2026-11-07
-161,Auxerre,France,UEFA,1426.9,119,0,false,2026-11-21
-162,Heerenveen,Netherlands,UEFA,1424.7,389,0,false,2026-11-21
+158,LNZ Cherkasy,Ukraine,UEFA,1427.8,105,0,false,2026-11-08
+159,Hradec Králové,Czech Republic,UEFA,1427.3,193,0,false,2026-11-07
+160,Auxerre,France,UEFA,1426.9,119,0,false,2026-11-21
+161,Heerenveen,Netherlands,UEFA,1424.7,389,0,false,2026-11-21
+162,Inter Miami,USA,CONCACAF,1423.7,279,4,false,2026-11-28
 163,Atletico Paranaense,Brazil,CONMEBOL,1422,508,0,false,2026-11-22
 164,Levski Sofia,Bulgaria,UEFA,1421.5,330,0,false,2026-11-26
 165,Gent,Belgium,UEFA,1421.3,558,0,false,2026-11-08
@@ -174,15 +174,15 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 173,Wisla Krakow,Poland,UEFA,1413.4,160,0,false,2026-11-06
 174,Lecce,Italy,UEFA,1413.2,202,0,false,2026-11-21
 175,Guadalajara Chivas,Mexico,CONCACAF,1412.6,416,0,false,2026-11-22
-176,Kashima,Japan,AFC,1407.6,471,3,false,2026-11-25
-177,Hapoel Tel Aviv,Israel,UEFA,1407.2,288,0,false,2026-11-08
-178,Al Ahly,Egypt,CAF,1407.1,496,17,false,2026-11-23
-179,Independ. Rivadavia,Argentina,CONMEBOL,1405.6,102,0,false,2026-11-26
-180,Apollon Limassol,Cyprus,UEFA,1405.4,338,0,false,2026-11-07
-181,Santos,Brazil,CONMEBOL,1404.4,489,0,false,2026-11-24
-182,Mirassol,Brazil,CONMEBOL,1404.1,82,0,false,2026-11-22
-183,Columbus Crew,USA,CONCACAF,1404,457,0,false,2026-11-21
-184,Sao Paulo,Brazil,CONMEBOL,1403.6,554,2,false,2026-11-26
+176,Columbus Crew,USA,CONCACAF,1410,458,0,false,2026-11-28
+177,Kashima,Japan,AFC,1407.5,471,3,false,2026-11-25
+178,Hapoel Tel Aviv,Israel,UEFA,1407.2,288,0,false,2026-11-08
+179,Al Ahly,Egypt,CAF,1407.1,496,17,false,2026-11-23
+180,Independ. Rivadavia,Argentina,CONMEBOL,1405.6,102,0,false,2026-11-26
+181,Apollon Limassol,Cyprus,UEFA,1405.4,338,0,false,2026-11-07
+182,Santos,Brazil,CONMEBOL,1404.4,489,0,false,2026-11-24
+183,Mirassol,Brazil,CONMEBOL,1404.1,82,0,false,2026-11-22
+184,Sao Paulo,Brazil,CONMEBOL,1403.5,554,2,false,2026-11-26
 185,Vasco DA Gama,Brazil,CONMEBOL,1403.5,380,0,false,2026-11-22
 186,Los Angeles FC,USA,CONCACAF,1403.3,362,3,false,2026-11-24
 187,Lech Poznan,Poland,UEFA,1403.3,372,0,false,2026-11-26
@@ -190,22 +190,22 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 189,Renaissance Berkane,Morocco,CAF,1400.8,408,0,false,2026-11-06
 190,Jagiellonia,Poland,UEFA,1399.8,340,0,false,2026-11-26
 191,Baltika,Russia,UEFA,1398.7,74,0,false,2026-11-08
-192,Venezia,Italy,UEFA,1398.6,88,0,false,2026-11-22
-193,Atletico Nacional,Colombia,CONMEBOL,1397.9,594,2,false,2026-11-14
-194,Viking,Norway,UEFA,1397.1,314,0,false,2026-11-25
-195,Rubin,Russia,UEFA,1393.3,296,0,false,2026-11-06
-196,Bahia,Brazil,CONMEBOL,1392.7,380,0,false,2026-11-21
-197,FC Rostov,Russia,UEFA,1392.3,329,0,false,2026-11-08
-198,Molde,Norway,UEFA,1392.1,419,0,false,2026-11-08
-199,Argentinos JRS,Argentina,CONMEBOL,1391.7,356,0,false,2026-11-21
-200,Vancouver Whitecaps,USA,CONCACAF,1391.3,418,0,false,2026-11-23
+192,Venezia,Italy,UEFA,1398.6,89,0,false,2026-11-27
+193,Vancouver Whitecaps,USA,CONCACAF,1398.2,419,0,false,2026-11-28
+194,Atletico Nacional,Colombia,CONMEBOL,1397.9,594,2,false,2026-11-14
+195,Viking,Norway,UEFA,1397.1,314,0,false,2026-11-25
+196,Rubin,Russia,UEFA,1393.3,296,0,false,2026-11-06
+197,Bahia,Brazil,CONMEBOL,1392.7,380,0,false,2026-11-21
+198,FC Rostov,Russia,UEFA,1392.3,329,0,false,2026-11-08
+199,Molde,Norway,UEFA,1392.1,419,0,false,2026-11-08
+200,Argentinos JRS,Argentina,CONMEBOL,1391.7,356,0,false,2026-11-21
 201,LDU de Quito,Ecuador,CONMEBOL,1390.9,465,2,false,2026-11-22
 202,Tromso,Norway,UEFA,1385.7,306,0,false,2026-11-08
 203,Atletico-MG,Brazil,CONMEBOL,1385.7,574,2,false,2026-11-25
-204,Al Ain,United Arab Emirates,AFC,1385.6,370,4,false,2026-11-23
+204,Al Ain,United Arab Emirates,AFC,1385.5,370,4,false,2026-11-23
 205,FAR Rabat,Morocco,CAF,1385.1,358,0,false,2026-11-08
-206,Machida Zelvia,Japan,AFC,1384.8,129,0,false,2026-11-26
-207,Simba,Tanzania,CAF,1384.4,404,0,false,2026-11-21
+206,Machida Zelvia,Japan,AFC,1384.7,129,0,false,2026-11-26
+207,Simba,Tanzania,CAF,1383.6,404,0,false,2026-11-21
 208,Santa Clara,Portugal,UEFA,1383.5,261,0,false,2026-11-08
 209,HNK Rijeka,Croatia,UEFA,1382.3,444,0,false,2026-11-07
 210,Djurgardens IF,Sweden,UEFA,1382.1,367,0,false,2026-11-08
@@ -226,16 +226,16 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 225,Estac Troyes,France,UEFA,1377.7,163,0,false,2026-11-20
 226,CSKA 1948,Bulgaria,UEFA,1377.2,232,0,false,2026-11-07
 227,FK Partizan,Serbia,UEFA,1376.6,480,0,false,2026-11-08
-228,Sanfrecce Hiroshima,Japan,AFC,1375.8,463,2,false,2026-11-25
+228,Sanfrecce Hiroshima,Japan,AFC,1375.7,463,2,false,2026-11-25
 229,Servette FC,Switzerland,UEFA,1375.5,299,0,false,2026-11-08
 230,KVC Westerlo,Belgium,UEFA,1374.9,241,0,false,2026-11-07
 231,GKS Katowice,Poland,UEFA,1374.3,86,0,false,2026-11-08
 232,Philadelphia Union,USA,CONCACAF,1374.2,455,0,false,2026-11-21
-233,FC Cincinnati,USA,CONCACAF,1373.9,302,0,false,2026-11-22
-234,LD Alajuelense,Costa Rica,CONCACAF,1373.5,574,0,false,2026-11-24
-235,Sturm Graz,Austria,UEFA,1371.1,445,0,false,2026-11-26
-236,Charlotte,USA,CONCACAF,1370.6,191,0,false,2026-11-22
-237,Olimpia,Paraguay,CONMEBOL,1370.4,552,2,false,2026-11-22
+233,Olimpia,Paraguay,CONMEBOL,1373.9,553,2,false,2026-11-27
+234,FC Cincinnati,USA,CONCACAF,1373.9,302,0,false,2026-11-22
+235,LD Alajuelense,Costa Rica,CONCACAF,1373.5,574,0,false,2026-11-24
+236,Sturm Graz,Austria,UEFA,1371.1,445,0,false,2026-11-26
+237,Charlotte,USA,CONCACAF,1370.6,191,0,false,2026-11-22
 238,Sabah FA,Azerbaijan,UEFA,1370.3,282,0,false,2026-11-25
 239,Aris Thessalonikis,Greece,UEFA,1369.6,301,0,false,2026-11-07
 240,Alverca,Portugal,UEFA,1369.1,45,0,false,2026-11-07
@@ -244,31 +244,31 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 243,Antwerp,Belgium,UEFA,1366.3,386,0,false,2026-11-07
 244,Omonia Nicosia,Cyprus,UEFA,1365.3,358,0,false,2026-11-26
 245,FC Sion,Switzerland,UEFA,1365.3,361,0,false,2026-11-07
-246,Young Africans,Tanzania,CAF,1365.1,405,0,false,2026-11-20
+246,Young Africans,Tanzania,CAF,1364.3,405,0,false,2026-11-20
 247,Al Hilal Omdurman,Sudan,CAF,1363.8,335,0,false,2026-10-25
-248,Vissel Kobe,Japan,AFC,1363.7,463,0,false,2026-11-24
+248,Vissel Kobe,Japan,AFC,1363.6,463,0,false,2026-11-24
 249,Tigres UANL,Mexico,CONCACAF,1363.5,531,15,false,2026-11-22
 250,Monterrey,Mexico,CONCACAF,1361.6,472,9,false,2026-11-22
 251,Apoel Nicosia,Cyprus,UEFA,1360.9,370,0,false,2026-11-08
 252,Racing Club,Argentina,CONMEBOL,1360.9,461,0,false,2026-11-06
-253,Hapoel Beer Sheva,Israel,UEFA,1360.5,463,0,false,2026-11-26
-254,Le Havre,France,UEFA,1359.8,113,0,false,2026-11-20
-255,Göztepe,Turkey,UEFA,1359.4,261,0,false,2026-11-07
-256,Železničar Pančevo,Serbia,UEFA,1358.9,131,0,false,2026-11-07
-257,Samsunspor,Turkey,UEFA,1358.6,131,0,false,2026-11-07
-258,Lanus,Argentina,CONMEBOL,1357.8,434,0,false,2026-11-22
-259,Utrecht,Netherlands,UEFA,1356.6,426,0,false,2026-11-21
-260,Al-Ittihad FC,Saudi Arabia,AFC,1356.5,359,1,false,2026-11-23
+253,Al-Ittihad FC,Saudi Arabia,AFC,1360.6,360,1,false,2026-11-27
+254,Hapoel Beer Sheva,Israel,UEFA,1360.5,463,0,false,2026-11-26
+255,Le Havre,France,UEFA,1359.8,113,0,false,2026-11-20
+256,Göztepe,Turkey,UEFA,1359.4,261,0,false,2026-11-07
+257,Železničar Pančevo,Serbia,UEFA,1358.9,131,0,false,2026-11-07
+258,Samsunspor,Turkey,UEFA,1358.6,131,0,false,2026-11-07
+259,Lanus,Argentina,CONMEBOL,1357.8,434,0,false,2026-11-22
+260,Utrecht,Netherlands,UEFA,1356.6,426,0,false,2026-11-21
 261,Angers,France,UEFA,1354.7,373,0,false,2026-11-22
 262,Independiente,Argentina,CONMEBOL,1354.3,425,0,false,2026-11-21
 263,Bolívar,Bolivia,CONMEBOL,1354.1,419,0,false,2026-11-22
-264,FC Dallas,USA,CONCACAF,1353.7,432,0,false,2026-11-21
+264,FC Dallas,USA,CONCACAF,1353.6,432,0,false,2026-11-21
 265,KV Mechelen,Belgium,UEFA,1353.5,370,0,false,2026-11-07
 266,Cercle Brugge,Belgium,UEFA,1353.3,316,0,false,2026-11-07
 267,Aris,Cyprus,UEFA,1352.6,203,0,false,2026-11-08
 268,Krylia Sovetov,Russia,UEFA,1352.5,254,0,false,2026-11-08
 269,Macara,Ecuador,CONMEBOL,1350.6,294,0,false,2026-11-20
-270,America de Cali,Colombia,CONMEBOL,1350.6,483,0,false,2026-11-14
+270,America de Cali,Colombia,CONMEBOL,1350.5,483,0,false,2026-11-14
 271,Hammarby FF,Sweden,UEFA,1349.6,346,0,false,2026-11-06
 272,Austria Vienna,Austria,UEFA,1348.3,437,0,false,2026-11-08
 273,Aarhus,Denmark,UEFA,1348.1,397,0,false,2026-11-08
@@ -276,7 +276,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 275,Başakşehir,Turkey,UEFA,1347.7,473,0,false,2026-11-07
 276,Ludogorets,Bulgaria,UEFA,1347.4,436,0,false,2026-11-07
 277,Pafos,Cyprus,UEFA,1347.1,319,0,false,2026-11-08
-278,FC Tokyo,Japan,AFC,1346.6,439,0,false,2026-11-25
+278,FC Tokyo,Japan,AFC,1346.5,439,0,false,2026-11-25
 279,Sirius,Sweden,UEFA,1345.9,298,0,false,2026-11-08
 280,Piast Gliwice,Poland,UEFA,1345.7,297,0,false,2026-11-07
 281,Dinamo Bucuresti,Romania,UEFA,1345.7,370,0,false,2026-11-06
@@ -287,7 +287,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 286,Raja Casablanca,Morocco,CAF,1342.9,389,0,false,2026-11-08
 287,Akhmat,Russia,UEFA,1342.5,316,0,false,2026-11-07
 288,Rapid Vienna,Austria,UEFA,1342.2,485,0,false,2026-11-06
-289,Gremio,Brazil,CONMEBOL,1341.5,512,4,false,2026-11-24
+289,Gremio,Brazil,CONMEBOL,1341.4,512,4,false,2026-11-24
 290,Leon,Mexico,CONCACAF,1341.1,420,1,false,2026-11-21
 291,Lausanne,Switzerland,UEFA,1340.6,285,0,false,2026-11-07
 292,Malmo FF,Sweden,UEFA,1340.5,436,0,false,2026-11-08
@@ -298,7 +298,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 297,Maccabi Haifa,Israel,UEFA,1338.4,427,0,false,2026-11-07
 298,Plaza Amador,Panama,CONCACAF,1338,348,0,false,2026-11-14
 299,Maccabi Tel Aviv,Israel,UEFA,1337.9,502,0,false,2026-11-06
-300,Gimnasia L.P.,Argentina,CONMEBOL,1337.8,360,0,false,2026-11-23
+300,Gimnasia L.P.,Argentina,CONMEBOL,1337.7,360,0,false,2026-11-23
 301,Kasımpaşa,Turkey,UEFA,1337.5,403,0,false,2026-11-06
 302,GO Ahead Eagles,Netherlands,UEFA,1336.7,231,0,false,2026-11-22
 303,Gais,Sweden,UEFA,1336.3,90,0,false,2026-11-07
@@ -306,42 +306,42 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 305,Chicago Fire,USA,CONCACAF,1336,412,0,false,2026-11-22
 306,Mlada Boleslav,Czech Republic,UEFA,1334.9,314,0,false,2026-11-08
 307,IFK Goteborg,Sweden,UEFA,1334.7,345,0,false,2026-11-08
-308,Santa Fe,Colombia,CONMEBOL,1334.1,565,2,false,2026-11-14
-309,Shabab Al Ahli Dubai,United Arab Emirates,AFC,1333.7,381,0,false,2026-11-24
-310,Slavia Praha,Czech Republic,UEFA,1333.5,410,0,false,2026-11-25
-311,Dunajska Streda,Slovakia,UEFA,1333.4,296,0,false,2026-11-07
-312,Zaglebie Lubin,Poland,UEFA,1333.1,294,0,false,2026-11-08
-313,Groningen,Netherlands,UEFA,1332.8,359,0,false,2026-11-21
-314,Instituto Cordoba,Argentina,CONMEBOL,1330.9,120,0,false,2026-11-23
-315,Rapid,Romania,UEFA,1330.9,214,0,false,2026-11-07
-316,Colo Colo,Chile,CONMEBOL,1328.3,337,2,false,2026-11-22
-317,CS Cartagines,Costa Rica,CONCACAF,1328.2,483,0,false,2026-11-24
-318,FC Thun,Switzerland,UEFA,1327,218,0,false,2026-11-08
-319,ES Tunis,Tunisia,CAF,1326.4,396,5,false,2026-11-22
-320,Johor Darul Takzim FC,Malaysia,AFC,1325.9,294,0,false,2026-11-24
+308,Al Ahli Tripoli,Libya,CAF,1334.2,228,0,false,2026-11-27
+309,Santa Fe,Colombia,CONMEBOL,1334.1,565,2,false,2026-11-14
+310,Shabab Al Ahli Dubai,United Arab Emirates,AFC,1333.6,381,0,false,2026-11-24
+311,Slavia Praha,Czech Republic,UEFA,1333.5,410,0,false,2026-11-25
+312,Dunajska Streda,Slovakia,UEFA,1333.4,296,0,false,2026-11-07
+313,Zaglebie Lubin,Poland,UEFA,1333.1,294,0,false,2026-11-08
+314,Groningen,Netherlands,UEFA,1332.8,360,0,false,2026-11-27
+315,Instituto Cordoba,Argentina,CONMEBOL,1330.9,120,0,false,2026-11-23
+316,Rapid,Romania,UEFA,1330.9,214,0,false,2026-11-07
+317,Colo Colo,Chile,CONMEBOL,1328.3,337,2,false,2026-11-22
+318,CS Cartagines,Costa Rica,CONCACAF,1328.1,483,0,false,2026-11-24
+319,FC Thun,Switzerland,UEFA,1327,218,0,false,2026-11-08
+320,ES Tunis,Tunisia,CAF,1326.4,396,5,false,2026-11-22
 321,Gornik Zabrze,Poland,UEFA,1325.8,298,0,false,2026-11-07
-322,Lillestrom,Norway,UEFA,1324.3,279,0,false,2026-11-26
-323,FC Orenburg,Russia,UEFA,1324.3,226,0,false,2026-11-08
-324,Zulte Waregem,Belgium,UEFA,1323.4,334,0,false,2026-11-08
-325,Žilina,Slovakia,UEFA,1322.3,299,0,false,2026-11-07
-326,Fredrikstad,Norway,UEFA,1322,90,0,false,2026-11-08
-327,Maritimo,Portugal,UEFA,1321.6,288,0,false,2026-11-01
-328,Beitar Jerusalem,Israel,UEFA,1321.6,384,0,false,2026-11-07
-329,Penarol,Uruguay,CONMEBOL,1321.3,505,0,false,2026-11-19
-330,IF Elfsborg,Sweden,UEFA,1320.3,358,0,false,2026-11-06
-331,Vitoria,Brazil,CONMEBOL,1319.9,232,0,false,2026-11-23
-332,Estoril,Portugal,UEFA,1319.2,282,0,false,2026-10-31
-333,OH Leuven,Belgium,UEFA,1318.8,263,0,false,2026-11-07
-334,Huracan,Argentina,CONMEBOL,1316.8,406,0,false,2026-11-23
-335,Millonarios,Colombia,CONMEBOL,1314.2,534,0,false,2026-11-14
-336,Al Ahli Tripoli,Libya,CAF,1314,227,0,false,2026-11-21
-337,Kashiwa Reysol,Japan,AFC,1314,410,0,false,2026-11-24
+322,Johor Darul Takzim FC,Malaysia,AFC,1325.8,294,0,false,2026-11-24
+323,Lillestrom,Norway,UEFA,1324.3,279,0,false,2026-11-26
+324,FC Orenburg,Russia,UEFA,1324.3,226,0,false,2026-11-08
+325,Zulte Waregem,Belgium,UEFA,1323.4,334,0,false,2026-11-08
+326,Žilina,Slovakia,UEFA,1322.3,299,0,false,2026-11-07
+327,Fredrikstad,Norway,UEFA,1322,90,0,false,2026-11-08
+328,Maritimo,Portugal,UEFA,1321.6,289,0,false,2026-11-27
+329,Beitar Jerusalem,Israel,UEFA,1321.6,384,0,false,2026-11-07
+330,Penarol,Uruguay,CONMEBOL,1321.3,505,0,false,2026-11-19
+331,IF Elfsborg,Sweden,UEFA,1320.3,358,0,false,2026-11-06
+332,Vitoria,Brazil,CONMEBOL,1319.9,232,0,false,2026-11-23
+333,Estoril,Portugal,UEFA,1319.2,282,0,false,2026-10-31
+334,OH Leuven,Belgium,UEFA,1318.8,263,0,false,2026-11-07
+335,Huracan,Argentina,CONMEBOL,1316.8,406,0,false,2026-11-23
+336,Millonarios,Colombia,CONMEBOL,1314.2,534,0,false,2026-11-14
+337,Kashiwa Reysol,Japan,AFC,1313.9,410,0,false,2026-11-24
 338,Cerro Porteno,Paraguay,CONMEBOL,1313.5,564,0,false,2026-11-23
 339,Minnesota United FC,USA,CONCACAF,1313.2,356,0,false,2026-11-08
 340,Universidad de Chile,Chile,CONMEBOL,1313.1,305,0,false,2026-11-21
 341,FC Kharkiv,Ukraine,UEFA,1312,120,0,false,2026-10-24
 342,Hibernian,Scotland,UEFA,1311.4,376,0,false,2026-11-07
-343,Nacional,Portugal,UEFA,1310.4,215,0,false,2026-11-08
+343,Nacional,Portugal,UEFA,1310.4,216,0,false,2026-11-27
 344,Rio Ave,Portugal,UEFA,1310.4,360,0,false,2026-11-08
 345,Legia Warszawa,Poland,UEFA,1310.1,396,0,false,2026-11-08
 346,Heart Of Midlothian,Scotland,UEFA,1310,417,0,false,2026-11-08
@@ -354,7 +354,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 353,Estrela,Portugal,UEFA,1307.3,115,0,false,2026-11-08
 354,FC Luzern,Switzerland,UEFA,1307.1,397,0,false,2026-11-07
 355,Sparta Rotterdam,Netherlands,UEFA,1306.8,317,0,false,2026-11-22
-356,Gamba Osaka,Japan,AFC,1306.4,474,0,false,2026-11-25
+356,Gamba Osaka,Japan,AFC,1306.3,474,0,false,2026-11-25
 357,Cambuur,Netherlands,UEFA,1306,117,0,false,2026-11-21
 358,St. Louis City,USA,CONCACAF,1305.8,147,0,false,2026-11-24
 359,Teplice,Czech Republic,UEFA,1305.1,289,0,false,2026-11-08
@@ -367,7 +367,7 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 366,Motor Lublin,Poland,UEFA,1302.1,82,0,false,2026-11-06
 367,BK Hacken,Sweden,UEFA,1301.8,372,0,false,2026-11-08
 368,Orlando City SC,USA,CONCACAF,1301.4,437,0,false,2026-11-20
-369,Home United,Singapore,AFC,1301.2,307,0,false,2026-11-26
+369,Home United,Singapore,AFC,1301.1,307,0,false,2026-11-26
 370,PEC Zwolle,Netherlands,UEFA,1301.1,347,0,false,2026-11-21
 371,Platense,Argentina,CONMEBOL,1300.3,211,0,false,2026-11-06
 372,Zira,Azerbaijan,UEFA,1300.2,368,0,false,2026-11-07
@@ -377,14 +377,14 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 376,Korona Kielce,Poland,UEFA,1299.3,224,0,false,2026-11-07
 377,Universidad Catolica,Ecuador,CONMEBOL,1298.8,397,0,false,2026-11-21
 378,Vojvodina,Serbia,UEFA,1298.6,412,0,false,2026-11-08
-379,Kawasaki Frontale,Japan,AFC,1298.4,479,0,false,2026-11-25
+379,Kawasaki Frontale,Japan,AFC,1298.3,479,0,false,2026-11-25
 380,Once Caldas,Colombia,CONMEBOL,1298.1,457,0,false,2026-11-14
-381,Persib Bandung,Indonesia,AFC,1297.9,310,0,false,2026-11-25
+381,Persib Bandung,Indonesia,AFC,1297.8,310,0,false,2026-11-25
 382,Bucaramanga,Colombia,CONMEBOL,1297.7,452,0,false,2026-11-14
 383,Debreceni VSC,Hungary,UEFA,1297.4,365,0,false,2026-11-08
 384,Tigre,Argentina,CONMEBOL,1297,304,0,false,2026-11-07
 385,U.N.A.M. - Pumas,Mexico,CONCACAF,1296.7,436,10,false,2026-11-22
-386,CR Belouizdad,Algeria,CAF,1296.5,419,0,false,2026-11-23
+386,CR Belouizdad,Algeria,CAF,1296.6,419,0,false,2026-11-23
 387,FC Noah,Armenia,UEFA,1296.2,297,0,false,2026-11-07
 388,Kocaelispor,Turkey,UEFA,1295.9,45,0,false,2026-11-07
 389,Celje,Slovenia,UEFA,1295.8,360,0,false,2026-11-26
@@ -409,14 +409,14 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 408,Erzurumspor FK,Turkey,UEFA,1289.7,85,0,false,2026-11-08
 409,Coritiba,Brazil,CONMEBOL,1288.1,264,0,false,2026-11-21
 410,Wisla Plock,Poland,UEFA,1287.7,219,0,false,2026-11-06
-411,Yokohama F. Marinos,Japan,AFC,1287.5,461,0,false,2026-11-25
-412,Real Salt Lake,USA,CONCACAF,1287.1,441,0,false,2026-11-23
-413,Sandefjord,Norway,UEFA,1285.3,268,0,false,2026-11-08
-414,Maccabi Netanya,Israel,UEFA,1284.6,324,0,false,2026-11-07
-415,Konyaspor,Turkey,UEFA,1283.2,419,0,false,2026-11-07
-416,Defensa Y Justicia,Argentina,CONMEBOL,1281.9,414,0,false,2026-11-21
-417,Ilves,Finland,UEFA,1281.1,365,0,false,2026-10-17
-418,Always Ready,Bolivia,CONMEBOL,1280.8,310,0,false,2026-11-22
+411,Yokohama F. Marinos,Japan,AFC,1287.4,461,0,false,2026-11-25
+412,Sandefjord,Norway,UEFA,1285.3,268,0,false,2026-11-08
+413,Maccabi Netanya,Israel,UEFA,1284.6,324,0,false,2026-11-07
+414,Konyaspor,Turkey,UEFA,1283.2,419,0,false,2026-11-07
+415,Defensa Y Justicia,Argentina,CONMEBOL,1281.9,414,0,false,2026-11-21
+416,Ilves,Finland,UEFA,1281.1,365,0,false,2026-10-17
+417,Always Ready,Bolivia,CONMEBOL,1280.8,310,0,false,2026-11-22
+418,Real Salt Lake,USA,CONCACAF,1280.2,442,0,false,2026-11-28
 419,Zorya Luhansk,Ukraine,UEFA,1279.9,380,0,false,2026-11-08
 420,Ballkani,Kosovo,UEFA,1279.6,304,0,false,2026-11-07
 421,Radomiak Radom,Poland,UEFA,1279.5,184,0,false,2026-11-07
@@ -428,8 +428,8 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 427,Wolfsberger AC,Austria,UEFA,1275.7,407,0,false,2026-11-06
 428,Petro de Luanda,Angola,CAF,1275.5,420,0,false,2026-11-25
 429,Club Nacional,Uruguay,CONMEBOL,1274.8,518,0,false,2026-11-20
-430,Jeonbuk Motors,South Korea,AFC,1274.7,461,2,false,2026-11-25
-431,Botev Plovdiv,Bulgaria,UEFA,1274.7,304,0,false,2026-11-06
+430,Botev Plovdiv,Bulgaria,UEFA,1274.7,304,0,false,2026-11-06
+431,Jeonbuk Motors,South Korea,AFC,1274.6,461,2,false,2026-11-25
 432,CD Marathon,Honduras,CONCACAF,1274.6,491,0,false,2026-11-22
 433,Puskas Academy,Hungary,UEFA,1274.3,358,0,false,2026-11-07
 434,FC Zurich,Switzerland,UEFA,1274.1,375,0,false,2026-11-08
@@ -444,14 +444,14 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 443,ADO Den Haag,Netherlands,UEFA,1271.5,223,0,false,2026-11-22
 444,Radnicki 1923,Serbia,UEFA,1271.1,206,0,false,2026-11-07
 445,AEL,Cyprus,UEFA,1270.8,287,0,false,2026-11-07
-446,Talleres Cordoba,Argentina,CONMEBOL,1270.4,350,0,false,2026-11-07
-447,Deportes Tolima,Colombia,CONMEBOL,1270.1,568,0,false,2026-11-14
-448,RAAL La Louvière,Belgium,UEFA,1269.9,47,0,false,2026-11-07
-449,Club Tijuana,Mexico,CONCACAF,1269.4,385,0,false,2026-11-21
-450,NK Osijek,Croatia,UEFA,1269.1,402,0,false,2026-11-08
-451,FC Vaduz,Switzerland,UEFA,1268.8,138,0,false,2026-11-07
-452,Daejeon Citizen,South Korea,AFC,1268.7,159,0,false,2026-11-24
-453,Al-Wasl FC,United Arab Emirates,AFC,1268.5,318,0,false,2026-11-23
+446,Nacional Asuncion,Paraguay,CONMEBOL,1270.5,508,0,false,2026-11-27
+447,Talleres Cordoba,Argentina,CONMEBOL,1270.4,350,0,false,2026-11-07
+448,Deportes Tolima,Colombia,CONMEBOL,1270.1,568,0,false,2026-11-14
+449,RAAL La Louvière,Belgium,UEFA,1269.9,47,0,false,2026-11-07
+450,Club Tijuana,Mexico,CONCACAF,1269.4,385,0,false,2026-11-21
+451,NK Osijek,Croatia,UEFA,1269.1,402,0,false,2026-11-08
+452,FC Vaduz,Switzerland,UEFA,1268.8,138,0,false,2026-11-07
+453,Al-Wasl FC,United Arab Emirates,AFC,1268.4,318,0,false,2026-11-23
 454,Silkeborg,Denmark,UEFA,1267.7,289,0,false,2026-11-06
 455,Barcelona SC,Ecuador,CONMEBOL,1267,445,0,false,2026-11-26
 456,SK Beveren,Belgium,UEFA,1266.5,212,0,false,2026-11-06
@@ -459,9 +459,9 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 458,Barracas Central,Argentina,CONMEBOL,1266.1,169,0,false,2026-11-21
 459,Arda Kardzhali,Bulgaria,UEFA,1265.8,262,0,false,2026-11-08
 460,Zbrojovka Brno,Czech Republic,UEFA,1265.8,83,0,false,2026-11-07
-461,San Jose Earthquakes,USA,CONCACAF,1265.8,409,0,false,2026-11-25
+461,San Jose Earthquakes,USA,CONCACAF,1265.7,409,0,false,2026-11-25
 462,Malisheva,Kosovo,UEFA,1265.2,202,0,false,2026-11-07
-463,Nacional Asuncion,Paraguay,CONMEBOL,1264.5,507,0,false,2026-11-23
+463,FC Seoul,South Korea,AFC,1264.5,415,0,false,2026-11-28
 464,Levadiakos,Greece,UEFA,1264.3,231,0,false,2026-11-08
 465,New York Red Bulls,USA,CONCACAF,1262.6,447,0,false,2026-11-07
 466,Slask Wroclaw,Poland,UEFA,1262.5,268,0,false,2026-11-07
@@ -474,28 +474,28 @@ rank,name,country,confederation,rating,games,xconf_games,provisional,last_match
 473,Gimnasia M.,Argentina,CONMEBOL,1258.9,33,0,true,2026-11-22
 474,Motherwell,Scotland,UEFA,1258.3,434,0,false,2026-11-07
 475,Anorthosis,Cyprus,UEFA,1258.2,285,0,false,2026-11-08
-476,Kryvbas KR,Ukraine,UEFA,1256.5,134,0,false,2026-11-07
-477,Turan,Azerbaijan,UEFA,1256.4,152,0,false,2026-11-06
-478,Wydad AC,Morocco,CAF,1256,397,6,false,2026-11-07
-479,Ham-Kam,Norway,UEFA,1255.9,146,0,false,2026-11-08
-480,Houston Dynamo,USA,CONCACAF,1255.5,429,0,false,2026-11-25
-481,FK Zalgiris Vilnius,Lithuania,UEFA,1255.4,462,0,false,2026-11-08
-482,Junior,Colombia,CONMEBOL,1255.1,608,0,false,2026-11-12
-483,Gyori ETO FC,Hungary,UEFA,1254.5,91,0,false,2026-11-08
-484,Zrinjski,Bosnia,UEFA,1254.1,400,0,false,2026-11-08
-485,FC Seoul,South Korea,AFC,1253.5,414,0,false,2026-11-25
-486,Alianza Lima,Peru,CONMEBOL,1253.1,469,0,false,2026-11-21
-487,Al Sadd,Qatar,AFC,1253,350,2,false,2026-11-24
-488,Al-Rayyan SC,Qatar,AFC,1252.6,308,0,false,2026-11-25
-489,Al Taawon,Saudi Arabia,AFC,1252.5,353,0,false,2026-11-25
-490,Dundee Utd,Scotland,UEFA,1252.2,246,0,false,2026-11-07
-491,AIK Stockholm,Sweden,UEFA,1251.7,368,0,false,2026-11-08
-492,Fakel,Russia,UEFA,1251.4,106,0,false,2026-11-07
-493,Atromitos,Greece,UEFA,1251.1,364,0,false,2026-11-08
-494,Mount Pleasant Academy,Jamaica,CONCACAF,1250.3,260,0,false,2026-11-08
-495,Neftchi Baku,Azerbaijan,UEFA,1249.6,382,0,false,2026-11-06
-496,Gençlerbirliği S.K.,Turkey,UEFA,1249.4,221,0,false,2026-11-08
-497,WSG Wattens,Austria,UEFA,1249.1,239,0,false,2026-11-08
-498,FK Košice,Slovakia,UEFA,1248.4,113,0,false,2026-11-07
-499,Esteghlal FC,Iran,AFC,1248.3,365,0,false,2026-11-23
-500,USM Alger,Algeria,CAF,1248.1,429,0,false,2026-11-23
+476,Daejeon Citizen,South Korea,AFC,1257.5,160,0,false,2026-11-28
+477,Kryvbas KR,Ukraine,UEFA,1256.5,134,0,false,2026-11-07
+478,Turan,Azerbaijan,UEFA,1256.4,152,0,false,2026-11-06
+479,Kyoto Sanga,Japan,AFC,1256.3,185,0,false,2026-11-28
+480,Wydad AC,Morocco,CAF,1256,397,6,false,2026-11-07
+481,Ham-Kam,Norway,UEFA,1255.9,146,0,false,2026-11-08
+482,Houston Dynamo,USA,CONCACAF,1255.5,429,0,false,2026-11-25
+483,FK Zalgiris Vilnius,Lithuania,UEFA,1255.4,462,0,false,2026-11-08
+484,Junior,Colombia,CONMEBOL,1255.1,608,0,false,2026-11-12
+485,Gyori ETO FC,Hungary,UEFA,1254.5,91,0,false,2026-11-08
+486,Zrinjski,Bosnia,UEFA,1254.1,400,0,false,2026-11-08
+487,Alianza Lima,Peru,CONMEBOL,1253.1,469,0,false,2026-11-21
+488,Al Sadd,Qatar,AFC,1252.9,350,2,false,2026-11-24
+489,Al-Rayyan SC,Qatar,AFC,1252.5,308,0,false,2026-11-25
+490,Al Taawon,Saudi Arabia,AFC,1252.4,353,0,false,2026-11-25
+491,Dundee Utd,Scotland,UEFA,1252.2,246,0,false,2026-11-07
+492,AIK Stockholm,Sweden,UEFA,1251.7,368,0,false,2026-11-08
+493,Fakel,Russia,UEFA,1251.4,106,0,false,2026-11-07
+494,Atromitos,Greece,UEFA,1251.1,364,0,false,2026-11-08
+495,Mount Pleasant Academy,Jamaica,CONCACAF,1250.3,260,0,false,2026-11-08
+496,Neftchi Baku,Azerbaijan,UEFA,1249.6,382,0,false,2026-11-06
+497,Gençlerbirliği S.K.,Turkey,UEFA,1249.4,221,0,false,2026-11-08
+498,WSG Wattens,Austria,UEFA,1249.1,239,0,false,2026-11-08
+499,FK Košice,Slovakia,UEFA,1248.4,113,0,false,2026-11-07
+500,Esteghlal FC,Iran,AFC,1248.2,365,0,false,2026-11-23
